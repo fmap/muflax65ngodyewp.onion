@@ -1,0 +1,37 @@
+Ceci n'est pas un lisez-moi.
+
+Just a few short notes how this stuff works so I don't forget it over time.
+
+Structure
+---------
+    layout -> templates
+    out -> result, upload this
+    src -> all content files
+    styles -> css files
+
+Each directory in src is a separate (sub-)category. It contains each content
+page as a separate text file (*.pdc) of the following form:
+    % title
+    [content in (pandoc-enhanced) Markdown markup]
+
+Each directory also contains a meta.yaml specifying the necessary metadata, like
+the category name, some layout data and so on. Note that each directory inherits
+all unset data from its parent.
+
+Any additional data, like images, reside in the same dir as their .pdc and are
+just copied with them. (Everything except *.pdc and meta.yaml is.)
+
+Additionally, changelog.pdc is used to build the rss.xml.
+
+Process
+-------
+webifier.py goes through all directories in src, reads meta.yaml, generates all
+necessary metadata out of it and then takes every *.pdc, pipes it through pandoc
+and tidy (adding data if necessary) and finally puts the result into out. 
+
+Also, an index.html is generated for every category.
+
+Finally, changelog.html is parsed, transformed into an RSS feed and put at
+out/rss.xml.
+
+Done!
