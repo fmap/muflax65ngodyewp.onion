@@ -9,6 +9,7 @@ import optparse
 import os
 import os.path as op
 import re
+import shutil
 import subprocess
 import sys
 
@@ -30,7 +31,6 @@ class Webifier(object):
         self.force = force
         self.out = out
         self.now = dt.datetime.now()
-    
     def webify(self):
         """wrapper for the whole process"""
             
@@ -39,6 +39,20 @@ class Webifier(object):
         self.tidy_up_html(self.out)
         self.make_rss_feed(op.join(self.out, "changelog.html"))
         self.tidy_up_xml(self.out)
+        self.copy_media_files(self.src, self.out)
+
+    def copy_media_files(self, src, out):
+        """copy all the other files, like images"""
+        # again, we manually walk this shit... *sigh*
+        for f in [f for f in os.listdir(src)
+                  if (op.isfile(op.join(src, f))
+                      and not re.search("\.(yaml|pdc)$", f))]:
+            shutil.copy2(op.join(src, f), op.join(out, f))
+            
+        for dir in [d for d in os.listdir(src) 
+                    if op.isdir(op.join(src, d))]:
+            self.copy_media_files(src=op.join(src, dir), 
+                                  out=op.join(out, dir))
 
     def _breadcrumbtagify(self, file, name=None, depth=0):
         """turn an address and name into a proper link"""
@@ -80,9 +94,6 @@ class Webifier(object):
         subprocess.call(pandoc)
         print("\t\tsaving as {}...".format(dest))
 
-    def make_index_file(self, src, out, meta):
-        """generate an index.html for the directory"""    
-
     def make_html_files(self, src, out, meta=None):
         """turn all *.pdc in src into html files in out"""
         
@@ -110,9 +121,6 @@ class Webifier(object):
             mtime = dt.datetime.fromtimestamp(os.stat(f).st_mtime)
             if self.force or mtime > self.now:
                 self.templatify(f, meta, out)
-
-        # generate an index files
-        self.make_index_file(src, out, meta)
         
         # do the same for all subdirectories 
         for dir in [d for d in os.listdir(src) 
@@ -214,6 +222,7 @@ def main():
     parser.add_option("-f", "--force", dest="force", action="store_true",
                       default=False, help="regenerate all files")
     opt, args = parser.parse_args()
+
     w = Webifier(src="src", out="out", styles="styles", layout="layout",
                  force=opt.force)
     w.webify()
