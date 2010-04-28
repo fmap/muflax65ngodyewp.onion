@@ -9,6 +9,7 @@ import os
 import os.path
 import re
 import subprocess
+import sys
 
 import PyRSS2Gen as RSS2
 import clevercss
@@ -22,8 +23,13 @@ def _breadcrumbtagify(file, name=None, depth=0):
     """turn an address and name into a proper link"""
     if not name:
         name = file
-    relpath = "../" * depth
-    r = "<a href='{}{}' class='crumb'>{}</a>".format(relpath, file, name)
+    
+    if depth > 1:
+        file = "../" * (depth - 1)
+    elif depth == 1:
+        file = "./"
+    
+    r = "<a href='{}' class='crumb'>{}</a>".format(file, name)
     return r
 
 def make_breadcrumb(file, meta):
@@ -51,7 +57,10 @@ def templatify(file, meta, out):
               file
              ]
     subprocess.call(pandoc)
-    print("\tsaving as {}...".format(dest))
+    print("\t\tsaving as {}...".format(dest))
+
+def make_index_file(src, out, meta):
+    """generate an index.html for the directory"""    
 
 def make_html_files(src, out, meta=None):
     """turn all *.pdc in src into html files in out"""
@@ -80,7 +89,7 @@ def make_html_files(src, out, meta=None):
         templatify(file, meta, out)
 
     # generate an index files
-    #TODO
+    make_index_file(src, out, meta)
     
     # do the same for all subdirectories 
     for dir in [d for d in os.listdir(src) 
@@ -133,6 +142,10 @@ def make_rss_feed(changelog):
             )
         )
     
+    if not items:
+        print("RSS broke... again...")
+        sys.exit(1)
+
     feed = RSS2.RSS2(
         title = "muflax.com",
         link = "http://www.muflax.com",
@@ -145,23 +158,28 @@ def make_rss_feed(changelog):
         print("writing RSS feed...")
         feed.write_xml(f, encoding="utf8")
 
-def tidy_up(dir):
-    """clean up all the (ht|x)ml we generated earlier..."""
+def tidy_up_html(dir):
+    """clean up all the html we generated earlier..."""
 
+    for root, dirs, files in os.walk(dir):
+        for f in files:
+            if re.match(".*\.html", f):
+                subprocess.call(["tidy", "-i", "--tidy-mark", "f", "-m", "-q",
+                                 "-utf8", os.path.join(root, f)])
+def tidy_up_xml(dir):
+    """clean up all the xml we generated earlier..."""
     for root, dirs, files in os.walk(dir):
         for f in files:
             if re.match(".*\.xml", f):
                 subprocess.call(["tidy", "-i", "-xml", "-m", "-q", "-utf8",
                                  os.path.join(root, f)])
-            elif re.match(".*\.html", f):
-                subprocess.call(["tidy", "-i", "--tidy-mark", "f", "-m", "-q", "-utf8",
-                                 os.path.join(root, f)])
-    
+
 def main():
     make_html_files("src", "out")
     make_css("styles", "out/styles")
+    tidy_up_html("out")
     make_rss_feed("out/changelog.html")
-    tidy_up("out")
+    tidy_up_xml("out")
 
 if __name__ == "__main__":
     main()
