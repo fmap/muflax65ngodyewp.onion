@@ -118,9 +118,7 @@ class Webifier(object):
         if not op.exists(out):
             os.mkdir(out)
         for f in glob.glob(src+"/*.pdc"):
-            mtime = dt.datetime.fromtimestamp(os.stat(f).st_mtime)
-            if self.force or mtime > self.now:
-                self.templatify(f, meta, out)
+            self.templatify(f, meta, out)
         
         # do the same for all subdirectories 
         for dir in [d for d in os.listdir(src) 
@@ -147,10 +145,6 @@ class Webifier(object):
 
     def make_rss_feed(self, changelog):
         """generate an RSS feed out of the Changelog"""
-
-        mtime = dt.datetime.fromtimestamp(os.stat(changelog).st_mtime)
-        if not (self.force or mtime > self.now):
-            return
             
         with open(changelog, "r") as f:
             print("parsing {}...".format(changelog))
@@ -204,7 +198,7 @@ class Webifier(object):
                       if re.match(".*\.html", f)]:
                 mtime = dt.datetime.fromtimestamp(os.stat(f).st_mtime)
                 if self.force or mtime > self.now:
-                    subprocess.call(["tidy", "-i", "--tidy-mark", "f", "-m", "-q",
+                    subprocess.call(["tidy", "--tidy-mark", "f", "-i", "-m", "-q",
                                      "-utf8", f])
 
     def tidy_up_xml(self, dir):
@@ -215,7 +209,7 @@ class Webifier(object):
                       if re.match(".*\.xml", f)]:
                 mtime = dt.datetime.fromtimestamp(os.stat(f).st_mtime)
                 if self.force or mtime > self.now:
-                    subprocess.call(["tidy", "-i", "-xml", "-m", "-q", "-utf8", f])
+                    subprocess.call(["tidy", "-xml", "-i", "-m", "-q", "-utf8", f])
 
 def main():
     parser = optparse.OptionParser()
