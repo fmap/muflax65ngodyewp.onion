@@ -2,9 +2,11 @@
 # Copyright muflax <mail@muflax.com>, 2010
 # License: GNU GPL 3 <http://www.gnu.org/copyleft/gpl.html>
 
+import copy
 import datetime as dt
 import glob
 import hashlib
+import http.server
 import optparse
 import os
 import os.path as op
@@ -35,18 +37,21 @@ class Webifier(object):
         """wrapper for the whole process"""
             
         self.make_html_files(self.src, self.out)
-        self.make_css(self.styles, op.join(self.out, self.styles))
+        #self.make_css(self.styles, op.join(self.out, self.styles))
         self.tidy_up_html(self.out)
         self.make_rss_feed(op.join(self.out, "changelog.html"))
         self.tidy_up_xml(self.out)
         self.copy_media_files(self.src, self.out)
+        self.copy_media_files(self.styles, op.join(self.out, self.styles))
 
     def copy_media_files(self, src, out):
         """copy all the other files, like images"""
         # again, we manually walk this shit... *sigh*
         for f in [f for f in os.listdir(src)
                   if (op.isfile(op.join(src, f))
-                      and not re.search("\.(yaml|pdc)$", f))]:
+                      and not re.search("\.(yaml|pdc|swp)$", f))]:
+            if not os.path.exists(out):
+                os.mkdir(out)
             shutil.copy2(op.join(src, f), op.join(out, f))
             
         for dir in [d for d in os.listdir(src) 
@@ -54,15 +59,10 @@ class Webifier(object):
             self.copy_media_files(src=op.join(src, dir), 
                                   out=op.join(out, dir))
 
-    def _breadcrumbtagify(self, file, name=None, depth=0):
+    def _breadcrumbtagify(self, file, name=None):
         """turn an address and name into a proper link"""
         if not name:
             name = file
-        
-        if depth > 1:
-            file = "../" * (depth - 1)
-        elif depth == 1:
-            file = "./"
         
         r = "<a href='{}' class='crumb'>{}</a>".format(file, name)
         return r
@@ -70,24 +70,26 @@ class Webifier(object):
     def make_breadcrumb(self, file, meta):
         """turn current path into breadcrumb navigation""" 
         crumbs = []
-        depth = len(meta["cats"])
-        for catfile, cat in meta["cats"]:
-            crumbs.append(self._breadcrumbtagify(catfile, cat, depth=depth))
-            depth -= 1
-        
-        crumbs.append(self._breadcrumbtagify(op.basename(file), "<>"))
+        for i in range(len(meta["cats"])):
+            catname = meta["cats"][i]["name"]
+            catfile = op.join(*[crumb["file"] for crumb in meta["cats"][:i+1]])
+            crumbs.append(self._breadcrumbtagify(catfile, catname))
+
+        crumbs.append("")
         return " &#187; ".join(crumbs)
 
     def templatify(self, file, meta, out):
         """templatify file using meta and save it at out"""
         print("\ttemplatifying {}...".format(file))
-        dest = op.join(out, op.basename(file).replace(".pdc", ".html"))
+        dest_file = op.basename(file).replace(".pdc", ".html") 
+        dest = op.join(out, dest_file )
         breadcrumb = self.make_breadcrumb(dest, meta)
         
         pandoc = ["pandoc",
-                  "--template", op.join("layout", meta["layout"]),
-                  "--css", op.join("style", meta["style"]),
+                  "--template", op.join(self.layout, meta["layout"]),
+                  "--css", op.join("/", self.styles, meta["style"]),
                   "--variable", "breadcrumb:{}".format(breadcrumb),
+                  "--variable", "filename:{}".format(dest_file),
                   "-o", dest,
                   file
                  ]
@@ -99,7 +101,7 @@ class Webifier(object):
         
         # we'll have to manually walk this shit...
         # read the metadata and update the old one   
-        meta = {} if meta == None else meta.copy() 
+        meta = {} if meta == None else copy.deepcopy(meta) 
         print("reading metadata in {}...".format(src))
         meta_file = op.join(src, "meta.yaml")
         with open(meta_file, "r") as f:
@@ -107,11 +109,11 @@ class Webifier(object):
             meta.update(data)
 
         # add breadcrumb information to metadata
+        crumb = {"file": op.basename(out), "name": meta["title"]}
         if "cats" in meta:
-            crumb = (op.basename(out), meta["title"])
             meta["cats"].append(crumb)
         else: # root path, needs to be renamed
-            crumb = ("", meta["title"])
+            crumb["file"] = "/"
             meta["cats"] = [crumb]
             
         # templatify all files here
@@ -200,6 +202,11 @@ class Webifier(object):
                 if self.force or mtime > self.now:
                     subprocess.call(["tidy", "--tidy-mark", "f", "-i", "-m", "-q",
                                      "-utf8", f])
+                    # What? You got a problem with me using Perl inside Python
+                    # to avoid patching Haskell?
+                    # Anyway, removes the last newline inside code blocks.
+                    subprocess.call(["perl", "-i", "-p", "-e", 
+                                     "s,<br /></code>,</code>,g", f])
 
     def tidy_up_xml(self, dir):
         """clean up all the xml we generated earlier..."""
@@ -211,15 +218,32 @@ class Webifier(object):
                 if self.force or mtime > self.now:
                     subprocess.call(["tidy", "-xml", "-i", "-m", "-q", "-utf8", f])
 
+    def start_server(self, dir=""):
+        """start a webserver"""
+        old = os.getcwd()
+        os.chdir(dir)
+        try:
+            http.server.test(HandlerClass=http.server.SimpleHTTPRequestHandler)
+        except KeyboardInterrupt:
+            pass
+        finally:
+            os.chdir(old)
+
 def main():
     parser = optparse.OptionParser()
     parser.add_option("-f", "--force", dest="force", action="store_true",
                       default=False, help="regenerate all files")
+    parser.add_option("-s", "--server", dest="server", action="store_true",
+                      default=False, help="start webserver afterwards")
     opt, args = parser.parse_args()
+    sys.argv[1:] = []
 
     w = Webifier(src="src", out="out", styles="styles", layout="layout",
                  force=opt.force)
     w.webify()
+
+    if opt.server:
+        w.start_server("out")
 
 if __name__ == "__main__":
     main()
