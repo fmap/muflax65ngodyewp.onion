@@ -33,14 +33,19 @@ class Webifier(object):
         self.force = force
         self.out = out
         self.now = dt.datetime.now()
+        self.relist = re.compile("""
+                                <li>
+                                (?P<y>\d+) / (?P<m>\d+) / (?P<d>\d+):\ 
+                                (?P<desc>.+?)
+                                </li>
+                                """, re.X|re.S)
+        self.recopy = re.compile("\.(yaml|pdc|swp)$")
+
     def webify(self):
         """wrapper for the whole process"""
             
         self.make_html_files(self.src, self.out)
-        #self.make_css(self.styles, op.join(self.out, self.styles))
-        self.tidy_up_html(self.out)
         self.make_rss_feed(op.join(self.out, "changelog.html"))
-        self.tidy_up_xml(self.out)
         self.copy_media_files(self.src, self.out)
         self.copy_media_files(self.styles, op.join(self.out, self.styles))
 
@@ -49,7 +54,7 @@ class Webifier(object):
         # again, we manually walk this shit... *sigh*
         for f in [f for f in os.listdir(src)
                   if (op.isfile(op.join(src, f))
-                      and not re.search("\.(yaml|pdc|swp)$", f))]:
+                      and not self.recopy.search(f))]:
             if not os.path.exists(out):
                 os.mkdir(out)
             shutil.copy2(op.join(src, f), op.join(out, f))
@@ -70,7 +75,8 @@ class Webifier(object):
     def make_breadcrumb(self, file, meta):
         """turn current path into breadcrumb navigation""" 
         crumbs = []
-        for i in range(len(meta["cats"])):
+        mod = -1 if op.basename(file) == "index.html" else 0
+        for i in range(len(meta["cats"]) + mod):
             catname = meta["cats"][i]["name"]
             catfile = op.join(*[crumb["file"] for crumb in meta["cats"][:i+1]])
             crumbs.append(self._breadcrumbtagify(catfile, catname))
@@ -95,6 +101,9 @@ class Webifier(object):
                  ]
         subprocess.call(pandoc)
         print("\t\tsaving as {}...".format(dest))
+        self.tidy_up_html(dest)
+        stat = os.stat(file)
+        os.utime(dest, (stat.st_mtime, stat.st_mtime))
 
     def make_html_files(self, src, out, meta=None):
         """turn all *.pdc in src into html files in out"""
@@ -120,7 +129,11 @@ class Webifier(object):
         if not op.exists(out):
             os.mkdir(out)
         for f in glob.glob(src+"/*.pdc"):
-            self.templatify(f, meta, out)
+            dest_file = op.basename(f).replace(".pdc", ".html") 
+            dest = op.join(out, dest_file )
+            mdst, msrc = os.stat(dest).st_mtime, os.stat(f).st_mtime 
+            if self.force or msrc - mdst >= 1:
+                self.templatify(f, meta, out)
         
         # do the same for all subdirectories 
         for dir in [d for d in os.listdir(src) 
@@ -148,18 +161,17 @@ class Webifier(object):
     def make_rss_feed(self, changelog):
         """generate an RSS feed out of the Changelog"""
             
+        dest = op.join(self.out, "rss.xml")
+        mdst, msrc = os.stat(dest).st_mtime, os.stat(changelog).st_mtime 
+        if not (self.force or msrc - mdst >= 1):
+            return
+
         with open(changelog, "r") as f:
             print("parsing {}...".format(changelog))
             txt = f.read()
-        relist = re.compile("""
-                            <li>
-                            (?P<y>\d+) / (?P<m>\d+) / (?P<d>\d+):\ 
-                            (?P<desc>.+?)
-                            </li>
-                            """, re.X|re.S)
             
         items = []
-        for entry in relist.finditer(txt):
+        for entry in self.relist.finditer(txt):
             items.append(
                 RSS2.RSSItem(
                     title = "omg new stuff!!w!",
@@ -188,35 +200,29 @@ class Webifier(object):
             items = items[:10]
         )
 
-        with open("out/rss.xml", "w") as f:
+        with open(dest, "w") as f:
             print("writing RSS feed...")
             feed.write_xml(f, encoding="utf8")
+            self.tidy_up_xml(dest)
+            os.utime(dest, (msrc, msrc))
 
-    def tidy_up_html(self, dir):
-        """clean up all the html we generated earlier..."""
+    def tidy_up_html(self, f):
+        """clean up the html we generated earlier..."""
+            
+        print("cleaning up {}...".format(f))
+        subprocess.call(["tidy", "--tidy-mark", "f", "-i", "-m", "-q",
+                         "-utf8", f])
+        # What? You got a problem with me using Perl inside Python
+        # to avoid patching Haskell?
+        # Anyway, removes the last newline inside code blocks.
+        subprocess.call(["perl", "-i", "-p", "-e", 
+                         "s,<br /></code>,</code>,g", f])
 
-        for root, dirs, files in os.walk(dir):
-            for f in [op.join(root, f) for f in files 
-                      if re.match(".*\.html", f)]:
-                mtime = dt.datetime.fromtimestamp(os.stat(f).st_mtime)
-                if self.force or mtime > self.now:
-                    subprocess.call(["tidy", "--tidy-mark", "f", "-i", "-m", "-q",
-                                     "-utf8", f])
-                    # What? You got a problem with me using Perl inside Python
-                    # to avoid patching Haskell?
-                    # Anyway, removes the last newline inside code blocks.
-                    subprocess.call(["perl", "-i", "-p", "-e", 
-                                     "s,<br /></code>,</code>,g", f])
-
-    def tidy_up_xml(self, dir):
+    def tidy_up_xml(self, f):
         """clean up all the xml we generated earlier..."""
         
-        for root, dirs, files in os.walk(dir):
-            for f in [op.join(root, f) for f in files 
-                      if re.match(".*\.xml", f)]:
-                mtime = dt.datetime.fromtimestamp(os.stat(f).st_mtime)
-                if self.force or mtime > self.now:
-                    subprocess.call(["tidy", "-xml", "-i", "-m", "-q", "-utf8", f])
+        print("cleaning up {}...".format(f))
+        subprocess.call(["tidy", "-xml", "-i", "-m", "-q", "-utf8", f])
 
     def start_server(self, dir=""):
         """start a webserver"""
