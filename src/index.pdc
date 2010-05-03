@@ -1,0 +1,89 @@
+% 嘘とワンダーランド
+
+Lies and Wonderland
+===================
+![logo](logo.jpg)   
+Yet another hypergraphic information whore's site.
+
+muflax is empty. My [LibraryThing] profile says more about me than I ever could.
+You may, of course, just read this site to find out more. You can
+get in [Contact] with me about anything, be it comments, criticisms or
+corrections.
+
+Articles are sorted by date, with newer ones at the top. You can see the
+[Changelog] for any recent changes or subscribe to the [RSS] feed.
+
+[Experiments]
+=============
+
+This is basically my public spoiler file for life. Why should I keep all the
+cool stuff I found out to myself? Information ought to be free, after all.
+
+- how to develop [Speed Reading] and read a book in an hour 
+- [Sleep] hacks
+    - some hacks for [Good Sleep]
+    - my experience and criticism of [Polyphasic Sleep]
+
+
+[Reflections]
+=============
+
+The unobserved life is not worth living.
+
+- thoughts on Daniel Dennett's book [Consciousness Explained]
+- [Letting Go of Music]
+- my review of [Find the Bug]
+- a bit about [Nicknames]
+- a meditation on [Xmonad]
+- [Why I love my SRS], or, How to hack your long-term memory
+
+[Software]
+==========
+
+Some of the stuff I wrote.
+
+- my [vim] config and complete feature list
+- [ashuku], a personal statistics tool
+- [saneo], my keyboard layout
+
+[Rants]
+=======
+
+The fuel of the internet.
+
+- [Python], I hate your creeping dementia
+- The [Singularity] is Very Far Away
+- [Perl], we are finished
+- [Game Design Sins], because the whole business is incompetent
+- why [Neo 2] is retarded
+
+[Changelog]: /changelog.html
+[RSS]: /rss.xml
+[Contact]: /about.html
+[LibraryThing]: http://www.librarything.com/profile/muflax
+
+[Experiments]: /experiments
+[Speed Reading]: /experiments/speedreading.html
+[Sleep]: /experiments/sleep
+[Good Sleep]: /experiments/sleep/good_sleep.html
+[Polyphasic Sleep]: /experiments/sleep/polyphasic_sleep.html
+
+[Rants]: /rants
+[Game Design Sins]: /rants/game_sins.html
+[Python]: /rants/python.html
+[Perl]: /rants/perl.html
+[Singularity]: /rants/singularity.html
+[Neo 2]: /rants/neo.html
+
+[Reflections]: /reflections
+[Letting Go of Music]: /reflections/letting_go_of_music.html
+[Consciousness Explained]: /reflections/con_exp.html
+[Why I love my SRS]: /reflections/srs.html
+[Xmonad]: /reflections/xmonad.html
+[Nicknames]: /reflections/nicknames.html
+[Find the Bug]: /reflections/find_the_bug.html
+
+[Software]: /software
+[ashuku]: /software/ashuku.html
+[saneo]: /software/saneo.html
+[vim]: /software/vim.html

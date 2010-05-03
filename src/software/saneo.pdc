@@ -1,0 +1,67 @@
+% saneo - putting the sane back into Neo
+
+As outlined in my [rant], [Neo 2] sucks. So I designed my own keyboard layout.
+
+Design Principles
+=================
+
+1) Hands should move as little as possible and never leave home row. This is a
+  pretty basic requirement, but it prevents me from moving some rarer
+  combinations to the outside of the keyboard.
+
+2) I must not give up any functionality. Specificially, I must still be able to
+  type in (among others) French, German and Japanese, be able to programm
+  efficiently and have enough keys left to handle Xmonad.
+
+3) The computer should do as much work for me as possible. If I can let it figure
+  out what I meant and safe a few keystrokes in the average case, I will do it.
+
+Solutions
+=========
+
+First, I use my IME more aggressively than before. I'm currently using scim
+(with anthy and tables) to input any normal text beyond ASCII. This is pretty
+normal for Japanese, were you type 黒い猫 (kuroi neko, black cat) by activating
+Japanese mode, then inputting "kuroineko[SPACE]" and the IME converts this first
+into syllables (くろいねこ, ku ro i ne ko) and then tries to guess the correct
+meaning. I have already started using this for German a while ago and now use it
+for all diacritics. For example, I switch to European mode and then input
+"Verschw"orung" to get "Verschwörung" (conspiracy). This works pretty well
+because all diacritics are rare anyway and justify the additional key stroke.
+Each language (family) has its own mode to keep them simple and because I almost
+never mix them anyway.
+
+Second, I redesigned the Mod3 level completely. I can't move the punctuation
+characters inside my IME, because I generally mix them with normal text (typing
+something like "\$editor =~ s/vi[m]/emacs/g") and the IME would slow this down a
+lot. Inputting something like "\\s" for "\$" isn't that cool and breaks many
+hotkeys.  
+
+If it were not for programming, I would actually switch to a pseudo-latin input
+where similar characters would be merged and the IME would tell them apart, e.g.
+I would put i, j and y on the same key "i" and let the IME decide which to use.
+This works all pretty well for normal text, but in virtually any programming
+language, most letters are used frequently and, as a group, more often than
+punctuation. Having different layouts for different contexts, however, only
+makes a big mess.
+
+Third, I improved the Mod4 level, making it easier to reach Tab and Escape, and
+arranged the cursor keys like in vim. I also replaced the duplicated keypad
+(seriously?!) with normal numbers and moved the 0 from Space to b.
+
+Finally, I moved the J, X and Y, and removed all those silly additional levels
+and German characters, though. If I had to start over, I'd choose something like
+Dvorak as a base. Nonetheless, the current arrangement is good enough. A few
+keys are redundant because they started out in a bad position, then moved to a
+better one and I saw no need to leave the old one empty. As you can see, the
+Mod3 level has still quite some open positions.
+
+![Mod3](saneo.png)
+
+You can grab it at [github]. *saneo* is my normal (xbd) layout, *neo.map* is a
+basic console version, *Euro.txt* is my user-table for scim to input any diacritic
+characters and the rest is mostly spam. ;)
+                    
+[github]: http://github.com/muflax/saneo
+[Neo 2]: http://neo-layout.org/
+[rant]: /rants/neo.html

@@ -1,0 +1,37 @@
+body{
+background-color:#000000;
+scrollbar-base-color:#000000;
+scrollbar-3dlight-color:#000000;
+scrollbar-arrow-color:#ffffff;
+scrollbar-darkshadow-color:#000000;
+scrollbar-face-color:#000000;
+scrollbar-highlight-color:#000000;
+scrollbar-shadow-color:#000000;
+scrollbar-track-color:#000000;
+}
+
+p{
+color:#FFFFFF;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:11px;
+}
+
+a:link,a:active {text-decoration:none; color:#ffFFFF;}
+a:visited {text-decoration:none; color:#ffffff;}
+a:hover {text-decoration:underline; color:#ffffff;}
+
+.zentrum{
+border:1 dashed white;
+}
+
+.innerzentrum{
+padding: 5 5 5 5;
+vertical-align:top;
+}
+
+.silencio{
+font-size: 38px;
+font-style: italic;
+font-weight: bold;
+color: #990000;
+}

@@ -16,7 +16,6 @@ import subprocess
 import sys
 
 import PyRSS2Gen as RSS2
-import clevercss
 import yaml
 try:
     from yaml import CLoader as Loader

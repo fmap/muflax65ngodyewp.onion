@@ -1,0 +1,275 @@
+% Speed Reading
+
+Wait, what? Speed reading? Isn't that pseudoscience? Partially, sure. However,
+not all of it, and that really surprised me. Yes, speed reading *is* real. This
+is my collection of useful hacks.
+
+Hacking your brain for fun and profit
+=====================================
+
+Binocular Rivalry
+-----------------
+
+While working through [Consciousness Explained] by Daniel Dennett, I encountered
+several experiments that I doubted. So I tried to replicate them. Specifically,
+binocular rivalry seemed weird to me. Binocular rivalry occurs when each of
+your eyes sees a different thing, typically achieved by just setting up a
+barrier between them, and showing different pictures to each, e.g. horizontal
+stripes on the left and vertical stripes on the right, or different letters or
+faces and so on. What happens is that occasionally one side will dominate over
+the other and you will only be conscious of it. Most commonly, at first you
+kinda see both sides, then they partially merge, in a very patchy way, and
+suddenly your vision _flips_, i.e. one side becomes clear and the other turns
+invisible. This process then alternates randomly, unless even a slight
+disruption is introduced to one side, like a moving dot, which causes this side
+to become dominant immediately.
+
+Allegedly, you may control which side is dominant most of the time, but you can
+not be conscious of both reliably. I didn't believe that and tested it by trying
+to read two texts simultaneously. In fact, I actually managed to do that! The
+main visual problem is focus. It is quite hard to have each eye focus a
+different thing, but using e.g. [DXM], you can actually pull that off. But even
+without it, you can try to focus a middle point and just make the letters big
+enough so that you can read them even out-of-focus. The real problem comes from
+assembling two sources of input into separate sentences; at first, they always
+mixed and I couldn't understand anything.
+
+Being Myselves
+--------------
+
+I then controlled for that by using series of numbers and suddenly I was able to
+read to things at the same time! For a while, rivalry happened a lot, but soon I
+got into mental soft focus and could read (but not parse sentences) just fine. I
+then speculated that I might be able to exploit both halves of my brain. In
+split-brain patients, who don't have a connection between their left and right
+hemisphere, you actually get two independent consciousnesses and I did read up
+on people that tried to induce this with normal brains. 
+
+Because the left side of vision (i.e. left in both eyes) is handled by the right
+hemisphere and vice versa, you can wear glasses that have either their left half
+on each glass blocked by tape or the right side, and only give visual input to
+one. This actually causes a significant effect if your two hemispheres are
+currently in disagreement. Some people with depression or anxiety were able to
+reduce it or turn it almost off temporarily while wearing such glasses! So for
+example, you feel very nervous with your therapist, block the left side,
+everything is the same, then instead block the right side, wosh!, your anxiety
+is gone. It comes right back when you take the glasses off, but still, way cool! 
+
+So by being able to make each hemisphere dominant at will, you can really fuck
+with your mood. Find where your language side is (typically the left hemisphere,
+thus the right side of vision) and block it - you become more empathetic and
+reading gets harder. Block the other, reading is normal, but relating to content
+is harder. The effect is typically not that large because both sides are still
+internally connected, but I found it quite noticeable.
+
+Anyway, I tried to improve on binocular reading by separating not only between
+eyes, but sides of vision. Let my left half of my left eye read one thing and
+the right half of my right eye another. Focus gets really tricky that way, but
+it is doable. And lo and behold, I could, albeit slowly, read two things at
+once! Parallel processing, bitches!
+
+What's that all got to do with speed reading?!
+----------------------------------------------
+
+Binocular reading isn't really practical (for one, you look ridiculous, two,
+it's very difficult and slow), but I got interested in *other* ways I could hack
+my reading process. If I can read in parallel, can I also read non-linearly?
+Start in the middle of a sentence, jump around and still get it? Read really
+really fast? Maybe subconsciously?
+
+Now we're getting there! First, let me clarify one thing: speed reading literature
+is a complete and total *mess*. Barely anything scientific, vague claims, lots
+of lies and false promises, no clear terms, nothing. To remedy this, I'm going
+to state *exactly* what I mean and what this is about:
+
+Speed reading involves any technique that makes you read a normal text faster
+**without sacrificing comprehension**. No, it's not **skimming**: that only
+tries to give you a basic overview of the text. The idea is to be able to
+understand the text just as if you had read it "normally", even though the
+process of getting there may be very different.
+
+But what can be achieved? First, measure your current reading speed. Say, pick a
+Wikipedia article, read it, time yourself and then count the words. Average
+among most people is about *200-250wpm* (words per minute). Good college
+students read at about *300-350wpm*. A fast conventional reader gets up to
+*500wpm*, maybe *600wpm* if they are really good. Speed reading, on the other
+hand, falls into a range of about *800 to 1400wpm*. Because a normal page in a
+book has about 350 to 450 words, depending on font size, people typically read
+about 30 pages per hour, college students about 50 to 60 and speed readers about
+150 to 250.  Those numbers are of course averaged over a lengthy text and don't
+have to be constant - a difficult paragraph may slow you down and a simple one 
+may just fly by.
+
+What about **comprehension**? There are two components to it: **understanding**
+the text and **remembering** it. Understanding means being able to follow it,
+being able to give a summary of it and so on. Remembering involves still knowing
+details, all characters or arguments involved and so on.
+
+I am only interested in techniques that *maintain* a high level of
+comprehension, typically a retention of 80-90% of the content. Sacrificing
+quantity for quality is right out. Nonetheless, it is still true that topics
+that are difficult to understand will always be read slowly, no matter the
+technique used. Reading about theoretical physics will be slow unless you have
+studied it. No speed reading technique will fix this problem. Most texts,
+however, fit nicely into your rough skill level and the limiting factor is, in
+fact, your reading, not your understanding.
+
+Related to that, a common objection to speed reading is that it kills the
+enjoyment, or that maybe you are just reading too easy texts. "Why hurry
+something good?" I don't agree with this sentiment *at all*. If you enjoy
+reading so much, why not read at 1 sentence per hour? Why not watch Star Trek at
+one scene per day? What, that would be mind-numbingly boring? Why yes it would!
+Also, if you increase your throughput, you become able to handle more complex
+structures. A series filling thousands of pages is suddenly just as manageable
+as a comic book was before. Reading up on moral philosophy by reading works
+by/about the 10 or 20 most influential thinkers over the course of a week or two
+is doable. Books become what Wikipedia articles were before. So if you don't
+like high bandwidth and all the benefits that come with it, this just isn't for
+you.
+
+Finally, a note on **subvocalization**. When reading, there are basically 4
+different ways with regards to sound:
+
+1. *Reading out loud*. This is what beginners may do, or what you do when
+   reading to someone. It was actually quite common in ancient times and the
+   idea that you could read silently was very weird to many Romans.
+2. *Reading to yourself internally*. You basically still do the same thing,
+   including moving your tongue, but you don't produce a sound. This is often a
+   transitional period for early readers (and make no mistake: for every
+   language I learned, I went through that phase again). It will disappear with
+   practice.
+3. *Subvocalization*. You still *hear* the sound, but you don't feel that you
+   produce it. Muscle movement doesn't exist (at least not any you would notice)
+   and speed is greatly improved. You often skip words, or only hint at the
+   sound. This is the normal mode for most people to be in, even many deaf (who
+   often are not 100% deaf), and this is the *inner voice* most of us use to
+   think.
+4. *Reading in silence*. Finally, reading without hearing any associated sound.
+   No inner voice, but direct meaning, just as you look at a map, for example.
+   Because visual processing is, for almost everyone, vastly superior to aural
+   processing you can read much faster that way.  Personally, I believe that the
+   problem is that understanding an inner or outer voice is necessarily
+   sequential, but the brain never *is* sequential, it is always parallel, so it
+   simulates it. This is quite slow. Visual processing, on the other hand, is
+   not - you can parse many parts of an image or scene at the same time and only
+   coordinate results at the very end. Also, your visual hardware is far more
+   optimized and greater in size.
+
+Techniques
+==========
+
+The Conventional Approach - How to read fast the normal way
+-----------------------------------------------------------
+
+The easiest hack is to just read faster - you do everything you'd normally do,
+just faster. As I mentioned, you can go up to about 600wpm that way. When I was
+starting out with speed reading, I was already reading at 450wpm. How did I get
+that fast?
+
+I could credit reading practice. I do read a lot, especially on the web, but
+that's not all that plausible. I know enough people who easily read just as much
+as I was reading at 14 years of age, and I was reading about 400wpm back then,
+too. Sure, you need to be fully fluent in a language to do that, but most people
+never seem to go beyond 300wpm, no matter how much practice they have reading
+texts.
+
+So what *do* I credit? Video games. I'm serious. I played a *lot* of shooters
+and racing games and this really improves your ability to react *fast* and react
+to inputs from *anywhere* in your field of vision. You are also forced to shift
+your attention around a lot and figure out threats as fast as you can. I also
+notice that in anyone I know that played a lot of fast games: Their attention
+jumps around a lot faster than normal, no matter what they are working on. 
+
+The typical example is taking a gaming teenager and having their teacher watch.
+Give the teen a computer menu to figure out, or a form to fill out or something
+like this, and watch how desperately the teacher tries to keep up, even though
+the teacher surely has plenty more reading practice. Still, no chance
+whatsoever, and the same goes for all non-gaming teens. But any gamer will have
+no problem, no matter the age.
+
+So if you read only 200 or 300wpm, you are not playing enough. Get Quake 3 or Halo or
+Starcraft, a big supply of caffeine and *train*. After a while, your reading
+speed will pick up, I'm certain of it. Some people, especially those with ADHD,
+may be better at this than others, but most gamers I know read fast, no matter
+what their attention span normally is.
+
+Turning off subvocalization
+---------------------------
+
+Chunking
+--------
+
+I highly recommend [Look, Ma; No Hands!], a book that teaches semantic chunking
+very well. (And it's short and precise. You get results very fast.)
+
+Once you read at a very high speed, it really makes a huge difference how large
+your chunks are. Here's a little demonstration:
+
+![chunk size 1](fast.gif)   
+![chunk size 4](slow.gif)
+
+Both animations run at the same reading speed of 1000wpm, but the first one
+shows every word on its own, while the second one uses groups of 4.
+
+Once you go beyond about 10 chunks / second, visual processing starts lagging
+behind more and more. After-images, too slow eye movement and so on start
+interfering with your reading. This means you can read maybe 600wpm if you read
+every word on its own, but increasing your chunk size from just 1 to 2
+immediately doubles your speed! The benefit is obvious, so pacing trade-offs
+when increasing chunk size are often worth it.
+
+The highest possible chunk size, according to all sources I read, seems to be
+about one paragraph, which is about 100 to 150 words long. I suspect that a main
+problem here is the size of the area you can keep in focus. Chunking a whole
+page at once is probably impossible because you could never get all words to be
+sharp and readable.
+
+Font Size
+---------
+
+You can only succesfully chunk if you can actually get enough words into focus.
+
+I was often reading texts at very high font sizes, like 30pt or so. Hey, I have
+bad eye sight and sit quite far away from my monitors. But I found that this
+makes it really hard to read fast, so I fixed my setup. I moved my monitors a
+lot closer and decreased my font size. *A lot*. 
+
+In my experience, a font size of 12pt (assuming normal DPI) is the *largest* you
+want to use. I currently read websites at 10pt, which seems to be the best
+compromise between readability and strain on the eyes. (I also find it hard to
+read Japanese below 10pt. There just aren't enough pixels left.) 
+
+At those sizes, the font used matters a lot. I've always been very fond of the
+Microsoft fonts, even though I haven't run any of their systems for years.
+Regardless, experiment and use something that is clean and very easy to read.
+
+Speaking of font size, column width matters just as much. It's no use if you see
+a lot of text, but the current paragraph fits into one huge line across your >20
+inch display. The maximum line length should be about 100 characters or 20
+words. 
+
+If you are a console hacker, then I'd also recommend checking out bitmap fonts.
+They really shine at such sizes. Remember that you can only fix bugs in code
+that you see. The more lines fit on your screen, the better you can debug. 
+
+Rapid Serial Visual Presentation
+--------------------------------
+
+Woah, that's a big word, when really, it just means "flashing words really
+fast". RSVP
+
+Late Binding
+------------
+
+Late Binding is a concept from computer science. Basically, instead of resolving
+what an expression means right away (like when the program is generated), the
+system waits until the latest possible moment. 
+
+Reading nonlinearly
+-------------------
+
+
+
+[Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
+[Consciousness Explained]: /reflections/con_exp.html
+[DXM]: http://en.wikipedia.org/wiki/DXM

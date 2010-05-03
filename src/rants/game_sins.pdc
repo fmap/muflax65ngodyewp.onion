@@ -1,0 +1,155 @@
+% Game Design Sins
+
+Recently, I've been reading a lot of stuff about game design and I even started
+playing a few of the games that have been lying around here for positively ages
+now (アウターワールド (originally Another World), SMB, Dig Dug 2, plenty of
+stuff on the NDS). I started noticing a small set of Deadly Sins. If a game
+commits one, it stinks. If the rest is done exceptionally well, it might still
+be enjoyable, but there already is a bad aftertaste. Commit two or more and
+it's hopeless. The game is shit. Interestingly, most of them apply to TV as
+well. 
+
+Shut up already! 
+=================
+
+Aka Navy syndrome aka All Players Are Retards. Never, ever tell me how to play
+your game or how all that stupid stuff works or what I'm seeing. "Hey, I bet
+you can JUMP up there!" "Hey Link, that's a VASE. You can TOUCH it and then
+THROW it on the ground to SMASH it." Will you shut up already! I can figure it
+out myself! If your game is so complicated that it needs half a college course
+to get used to, then your design stinks. If you think I might be to stupid to
+understand the simplest of concepts, then I don't anything to do with you. If
+you fear I might miss some part of your awesome game and you need to explain
+everything to me, then this might be because your game is shallow, stupid and
+*boring*! 
+
+This applies to more than just gameplay. Ever heard of "show, don't tell"?
+Doesn't look like it.  Never use text (or worse: speech), when you can show.
+Learn a thing or two from Half Life 2. Instead of telling me about oppression,
+show it. You *could* go on hours and hours about your angst and loneliness, or
+you *could* show me one woman desperately waiting at the train station for her
+husband that will never come. One of the two approaches works, the other is
+annoying. Can you tell which is which? Never explain and tell, when you can
+imply and show. 
+
+Now, this doesn't mean "don't talk". I'm a pretty big fan of Planescape:
+Torment and Arcanum and *boy* do these games talk. But what they have to say is
+interesting. PS:T never explains any game mechanic.  It never explains stuff to
+you, the player (though it does explain a few things to the main character).
+Many main plot points are never made explicit at all and lots of information
+can be missed.  If you are not actively looking for it, you might even miss 2
+of the 3 classes your character can be. So "Shut up already" and 'talky" are
+not opposites. But when you can do without words, do so. 
+
+Sure, take your time 
+=====================
+
+Yeah, you have this awesome feature. Say, in your game, you can reverse time at
+any point. Then it's a good idea to take it slow and don't give me this feature
+or anything. Let me do a dozen or so tutorial levels first. And talk to me.
+Maybe a nice, long intro. Or really long loading times.  Anything goes, as long
+as you can prevent the player from *actually enjoying your game*. I'm looking
+at you, Braid. A couple of minutes before the first enemy, really? 
+
+When I play a game for the first time, I give it about 30, maybe 60 seconds.
+During this time, something cool has to happen. If it doesn't, that's it. The
+game is over, it's boring and it can bugger off. Mario's main skill is jumping.
+How long does it take to jump? A couple of seconds, at most. You move a bit,
+start running to the right, press a button and there it is. You jump. Or take
+Another World. You get a short establishing shot of some research lab and the
+character, 10 seconds later, some weird shit happens and you are sucked into a
+parallel dimension. You don't know what the fuck is going on and without
+warning materialize in a pool of water. If you don't react immediately, and you
+won't because you will still try to figure out what is going on, a bunch of
+tentacles grabs you and you are dead.  Not even a minute in and already dead.
+You continue, this time swimming up. A strange world awaits you and you are
+attacked by a beast right away. From this moment on, you will be constantly on
+the run, trying to survive. You are never given a chance to get bored. If it
+weren't for the intro, I'd mention God of War, too.  You are thrown right into
+a battle and encounter your first boss within 2 minutes or so. That's how it
+should be. 
+
+You know what?  It's not enough for something cool to happen. I, the player,
+must do something cool. Which brings me to the next sin.
+
+
+Don't let me play the game 
+===========================
+
+Take control away from me at any time you feel like it. Throw in a cutscene! Let
+the character do something automatically that I could have done instead. Even
+better, let another character do it for me! In a cutscene! 
+
+I get it. You are way cooler than I could ever be. It's for my own best if you
+do all the awesome stuff and I just watch. Like in Oblivion, where the final
+battle is fought between two NPCs in a cutscene.  Don't get any of this hideous
+game stuff in your movie, Mister Game Designer. It could be, you know, *fun*. 
+
+Big Numbers
+===========
+
+It's really important for any self-respecting game to have as many Big Numbers
+as possible. You must have 16x anti-aliasing and anisotropic filtering, 50,000
+polygons per character, not just one, but several layers of shaders and at least
+10 different buttons and if you can count the number of axes on one hand, than
+it's not enough and you need to throw in another analog stick. NOT. 
+
+Pick one
+feature. Do this one feature well. SMB has 2 buttons and one D-pad.
+Portal can do with 3 buttons (blue / orange portal and grab). If
+you need much more than that, you are doing it wrong. If you think
+that a top-notch graphics engine matters at all, you are doing it
+wrong. Many designers seem to think that the less people can
+actually play their game, the better. Especially PC games are
+affected by this. Many modern games run on less than 1% of all
+machines. That's, like, really smart. And don't even get me started
+on DRM and digital distribution (read: renting games). But anyone
+who thinks that publishing games on the PC is a good thing in the
+first place must be insane. 
+
+I like buttons
+==============
+
+This is the one that I understand the least. Don't people *play* the games they
+make? Then how come many are so cumbersome and slow to use? Buttons after
+buttons, multiple seconds of blackout between each screen and a HUD that was
+seemingly designed on LSD. The one that really annoys me right now is
+Scribblenauts. If you want to change your avatar in the middle of the game, you
+have to go through *5* menus and then go all the way back again. Fail a puzzle
+and you have to not just watch the introduction again, but click away a pop-up,
+too.  Every. Single. Time. How do they test this? Didn't someone try to smash
+their NDS after a week or so of playtesting and trying a puzzle over and over
+again? 
+
+Rape the setting
+================
+
+To be fair, this sin is not as common as the other ones, but it's so horrible
+that it is a complete deal breaker for me. I'm not talking about "Don't dare to
+be different when working in an established franchise!" bullshit. What I mean is
+the sheer lack of respect for what you are creating. A good example would be
+Jade "make it Asian, but not *too* Asian" Empire. Or Fallout 3. Inconsistent
+worlds that don't have any kind of respect for themselves. Throw in whatever
+crap you can think of. Pile stereotype on stereotype. I don't want to drift into
+a violent rant about constant sexism, racism and just plain ignorance about
+anything, or offering "moral choices" that only a 3 year old could think of as
+intriguing ("Do you want to be a *NICE GUY* or a *BIG MEANIE*?"), or making
+characters expendable and "funny", or throwing in stuff because a market
+analysis indicates that the target demography might want it (and not because you
+like it or anything), or confusing violence with maturity, or..., so I'll stop
+here. 
+
+Just... don't. I've played enough games that even /b/ couldn't have made more
+stupid and offensive. Just stop it already, ok? 
+
+Bad Actors 
+===========
+
+Voice acting. Nuff said. Bad writing is one thing (and not necessarily a show
+stopper because games don't always need writing). But bad actors physically
+hurt. In my paradise, I'm allowed to club 3 line-readers to death with a metal
+reinforced Model M keyboard per day. I'm going to start with Bethesda, then work
+through the entire JRPG genre and finally take out however voices the people in
+FPS cutscenes. You guys make my ears bleed. Take some classes, seriously. You
+*suck*. And insist on getting your lines in context, please, so that you can at
+least pretend you could convey any emotion at all.
