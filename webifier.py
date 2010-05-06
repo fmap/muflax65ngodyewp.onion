@@ -104,6 +104,14 @@ class Webifier(object):
         stat = os.stat(file)
         os.utime(dest, (stat.st_mtime, stat.st_mtime))
 
+    def _is_newer(self, old, new):
+        """return if old is newer than new"""
+        try:
+            mnew, mold = os.stat(new).st_mtime, os.stat(old).st_mtime 
+        except OSError:
+            return True
+        return mold - mnew >= 1
+
     def make_html_files(self, src, out, meta=None):
         """turn all *.pdc in src into html files in out"""
         
@@ -130,8 +138,7 @@ class Webifier(object):
         for f in glob.glob(src+"/*.pdc"):
             dest_file = op.basename(f).replace(".pdc", ".html") 
             dest = op.join(out, dest_file )
-            mdst, msrc = os.stat(dest).st_mtime, os.stat(f).st_mtime 
-            if self.force or msrc - mdst >= 1:
+            if self.force or self._is_newer(f, dest):
                 self.templatify(f, meta, out)
         
         # do the same for all subdirectories 
@@ -141,28 +148,11 @@ class Webifier(object):
                                  out=op.join(out, dir),
                                  meta=meta)
 
-    def make_css(self, src, out):
-        """turn clevercss templates into proper css"""
-        if not op.exists(out):
-            os.mkdir(out)
-        for f in glob.glob(op.join(src, "*.clevercss")):
-            mtime = dt.datetime.fromtimestamp(os.stat(f).st_mtime)
-            if self.force or mtime > self.now:
-                print("cssifying {}...".format(f))
-                with open(f, "r") as clever_f:
-                    conv = clevercss.convert(clever_f.read())
-                dest = op.join(out, op.basename(f).replace(".clevercss",
-                                                           ".css"))
-                with open(dest, "w") as css_f:
-                    print("\tsaving as {}...".format(dest))
-                    css_f.write(conv)
-
     def make_rss_feed(self, changelog):
         """generate an RSS feed out of the Changelog"""
             
         dest = op.join(self.out, "rss.xml")
-        mdst, msrc = os.stat(dest).st_mtime, os.stat(changelog).st_mtime 
-        if not (self.force or msrc - mdst >= 1):
+        if not (self.force or self._is_newer(changelog, dest)):
             return
 
         with open(changelog, "r") as f:
