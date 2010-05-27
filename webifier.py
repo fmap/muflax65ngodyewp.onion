@@ -34,11 +34,12 @@ class Webifier(object):
         self.now = dt.datetime.now()
         self.relist = re.compile("""
                                 <li>
-                                (?P<y>\d+) / (?P<m>\d+) / (?P<d>\d+):\ 
                                 (?P<desc>.+?)
                                 </li>
                                 """, re.X|re.S)
         self.recopy = re.compile("\.(yaml|pdc|swp)$")
+        self.redate = re.compile("<p>(?P<y>\d+) / (?P<m>\d+) / (?P<d>\d+):",
+                                 re.X)
 
     def webify(self):
         """wrapper for the whole process"""
@@ -161,15 +162,17 @@ class Webifier(object):
             
         items = []
         for entry in self.relist.finditer(txt):
+            print(entry.group("desc"))
+            date = self.redate.search(entry.group("desc"))
             items.append(
                 RSS2.RSSItem(
                     title = "omg new stuff!!w!",
                     link = "http://www.muflax.com/changelog.html",
                     description = entry.group("desc"),
                     pubDate = dt.datetime(
-                        int(entry.group("y")),
-                        int(entry.group("m")),
-                        int(entry.group("d"))
+                        int(date.group("y")),
+                        int(date.group("m")),
+                        int(date.group("d"))
                     ),
                     guid = RSS2.Guid(
                         hashlib.md5(entry.group("desc").encode("utf8")).hexdigest()
