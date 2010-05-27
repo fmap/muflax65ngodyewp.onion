@@ -193,7 +193,6 @@ class Webifier(object):
             print("writing RSS feed...")
             feed.write_xml(f, encoding="utf8")
             self.tidy_up_xml(dest)
-            os.utime(dest, (msrc, msrc))
 
     def tidy_up_html(self, f):
         """clean up the html we generated earlier..."""
