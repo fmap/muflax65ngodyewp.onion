@@ -8,8 +8,7 @@ f.lux
 [f.lux] controls the level of blue your monitor shows and tones it down during
 the night to allow you to get tired naturally (and not stay up all night,
 playing ケロロＲＰＧ like _some_ people). There's quite a bit of research to back
-it up and I'm actually quite excited. Hey, maybe I won't screw up my schedule so
-much anymore!
+it up and I achieved some really good results with it. 
 
 (While [f.lux] has a Linux version, it's just an ugly binary. Use [Redshift]
 instead. All good distros have it in their repository (i.e., Gentoo).)
@@ -50,6 +49,15 @@ angry reflex. Using something that slowly fades into awareness, like slow music,
 works way better. I also got good results by using TV shows. Waking up to
 something engaging and interesting is always good.
 
+Unfortunately, I haven't yet tried a strong, gradual light sources, although I
+do have my 3 TFTs set up to turn on each morning, so I suspect that it would
+help as well. Regardless, all artificial light sources pale in comparison to the
+sun, even on a very cloudy day. You aren't able to consciously tell how bright
+something really is (because most of human vision is processed as relative to
+its surrounding, not in absolutes), so it's easy to get this wrong, but during
+my [polyphasic] experiment I found standing outside for even just 5 minutes to
+be a great help in waking up.
+
 Caffeine
 ========
 
@@ -73,8 +81,14 @@ be really sore and my heartbeat sounded very unhealthy.
 
 Nonetheless, getting enough caffeine, especially in the evening, each day
 greatly improves my sleep, my breathing and my ability to wake up.
+Unfortunately, it still blocks adenosine, so I find it harder to fall asleep.
+It's quite a paradox state to be in, when you can't fall asleep, but once you
+do, you sleep great. I had even considered taking *both* an upper and a downer,
+like caffeine and diphenhydramine, but found this too silly (and I dislike all
+available downers, including melatonin).
 
 [Why Did I Sleep So Well?]: 
     http://www.blog.sethroberts.net/2008/09/03/science-in-action-why-did-i-sleep-so-well-part-10-2/
 [f.lux]: http://www.stereopsis.com/flux/
 [Redshift]: http://jonls.dk/redshift/
+[polyphasic]: /experiments/sleep/polyphasic_sleep.html
