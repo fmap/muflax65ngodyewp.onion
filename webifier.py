@@ -162,7 +162,6 @@ class Webifier(object):
             
         items = []
         for entry in self.relist.finditer(txt):
-            print(entry.group("desc"))
             date = self.redate.search(entry.group("desc"))
             items.append(
                 RSS2.RSSItem(
