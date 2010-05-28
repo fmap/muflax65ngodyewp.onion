@@ -1,0 +1,36 @@
+% Square Circles Exist
+
+Please, for the love of gods, stop using this phrase. *Please*. Like in, "Can an
+omnipotent god create even logically impossible thinks, like a square circle?"
+or something like that. Because the metaphor is **wrong**. And I'm gonna show this
+by drawing you a square circle.
+
+![a square circle](square.png)
+
+"But wait, this is just a square? It's clearly not a circle." Are you sure? *In
+what world?*
+
+First, let's see the definition of what a square and a circle actually *are*. 
+
+A **circle** is a shape on a plane[^plane] consisting of all points which are of the
+same distance from a given point, called the center. A **square** is a shape on
+a plane with 4 equal sides and 4 equal angles.
+
+And now comes the crucial point: the world I drew this in is **[Nethack]**. Yes,
+Nethack. You see, Nethack's world behaves pretty much like any grid you would
+expect, but there is one tricky aspect - distance works different than you might
+think. The thing is, *all* 8 fields around any given field are defined as being
+at the distance of 1. All 16 fields surrounding *those* are at a distance of 2
+from the center and so on. In other words, a diagonal move is the same distance
+as a horizontal or vertical move. 
+
+So the shape I drew clearly has 4 sides, at equal angles. It's a square. And all
+it's 8 points are 1 field away from the center, thus forming a circle. It's a
+square circle. It doesn't require omnipotence to make one.
+
+[^plane]: 
+  Those definitions can be generalized to spaces beside planes, making a
+  3-dimensional sphere a circle as well. This is, however, irrelevant to my
+  point.
+
+[Nethack]: http://en.wikipedia.org/wiki/Nethack
