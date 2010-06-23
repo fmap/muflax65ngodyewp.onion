@@ -70,21 +70,21 @@ is also quite flexible and will adapt to new senses, like magnetism, as long as
 we can input it.  Some body hackers have achieved neat things in that regard.
 Even better, you can do this even after the person has experienced a "real"
 world, as long as you modify their memories as well. There are plenty of
-documented cases of people losing parts of their brain and not noting it. Losing
-a whole direction, like "left", is not that unusual for a stroke victim. They
-don't notice at all that they don't see anything to their left, the very concept
-is gone.  Ask them to get dressed and they only put on one sock. So if vision is
-too complex for you, just cut it all out. Once technology has improved, you can
-add it back in again. To lie convincingly, we really only need to be consistent.
-If movement and touch is only binary (I touch you or not; you push or not), then
-the brain will think of it as normal. 
+documented cases of people losing parts of their brain and not realizing it.
+Losing a whole direction, like "left", is not that unusual for a stroke victim.
+They don't notice at all that they don't see anything to their left, the very
+concept is gone.  Ask them to get dressed and they only put on one sock. So if
+vision is too complex for you, just cut it all out. Once technology has
+improved, you can add it back in again. To lie convincingly, we really only need
+to be consistent.  If movement and touch is only binary (I touch you or not; you
+push or not), then the brain will think of it as normal. 
 
 Furthermore, we already have brains in vats!  There are already complete
 simulations of neurons. Some primitive animal brains (worms, mostly) have
 already been simulated! As of 2010, the best we can do are small parts of a
-rat's brain, but in less than 30 years, we will be able to do human brain's as
-well. So his claim of this being "beyond human technology now and probably
-forever" is utterly ridiculous. 
+rat's brain, but not that foor of, maybe this century even, we will be able to
+do human brain's as well. So his claim of this being "beyond human technology
+now and probably forever" is utterly ridiculous. 
 
 Strong Hallucinations
 ---------------------
@@ -417,12 +417,12 @@ Turing machine.
 
 *How can that be?!* It completely surprises me. Such ideas go clearly against my
 own experiences, clash with all of my introspections, have been widely and
-thoroughly taking apart in all the traditions about consciousness  *I* seem to
+thoroughly taking apart in all the traditions about consciousness *I* seem to
 be aware of, like from Buddhism, Christian and Gnostic mysticism, the whole drug
 culture and so on. Really, most of the time the first things a mystic is gonna
 tell you is that reality is not fundamental, but can be taken apart, that your
 perceptions, emotions and thoughts are independent processes and not *you* and
-that most common sense of self, the ego, can entirely disappear[^ego]. In fact,
+that the sense of self, the ego, can entirely disappear[^ego]. In fact,
 the belief in the self is the very first thing on the way to nirvana a Buddhist
 has to overcome. It can take many forms, but the basic experience of selfless
 existence is one thing really *every* mystic or guru or saint has ever said or
@@ -505,7 +505,7 @@ Beyond Belief conference, on which I can really only quote Scott Atran[^atran]:
 Evasion
 =======
 
-But enough of praise. The last might have given you the impression that I was
+But enough praise. The last might have given you the impression that I was
 convinced by Dennett, that his approach seemed reasonable to me. And in fact,
 for a while, I was. Fortunately, along came another chapter, the one about
 "philosophical problems of consciousness", in which Dennett tries to answer some
@@ -514,13 +514,13 @@ part, but the part on *seeming*... oh, *seeming*...
 
 Dennett reviews his progress so far and pretends to address one obvious
 criticism: that he still hasn't explained qualia. And he is very much aware of
-it, but he just plain refuses to answer, just throwing a few smoke-bombs
+it, but he just plainly refuses to answer, just throwing a few smoke-bombs
 instead, hoping the reader forgets all about it! It's like, "Why are there still
 qualia?" -> "To understand qualia, we must understand phenomenology." -> "To
-understand phenomenology, we must understand selves." -> "Hey I got them really
-cool stories about them multiple selves! Let me show you them!" -> "Any
-questions?". Like, what?! I feel I just got mugged by that stupid... ALL GLORY
-TO THE HYPNOTOAD.
+understand phenomenology, we must understand selves." -> "Hey I got really cool
+stories about them multiple selves! Let me show you them!" -> "Any questions?".
+Like, what?! I feel I just got mugged by that stupid... ALL GLORY TO THE
+HYPNOTOAD.
 
 Dennett still completely depends on a big leap of faith. He can not explain the
 *particular* features of consciousness. His draft, or functionalism in general,
@@ -529,9 +529,9 @@ resulting subjective experience. Or in other words, functionalism may figure out
 what particular point in Design Space we inhibit and how we got there, but not
 *why* Design Space looks the way it does. To give an example, functionalism and
 evolution explains just fine why the difference between ripe and unripe apples
-is reflected in their different perceived color, but not why *red* looks like
-*red* and not like *green* instead. He can only explain the *differentiation*,
-but not the absolute position!
+is reflected in a different perceived color for each, but not why *red* looks
+like *red* and not like *green* instead. He can only explain the
+*differentiation*, but not the absolute position!
 
 I'm sure Dennett would answer that this is a meaningless question to ask and
 that's exactly what's infuriating me so much about the book. To me, that is a
@@ -546,7 +546,7 @@ right. Afterwards, it moves one field straight ahead and then repeats itself.
 
 There, I just gave you a *full description* of the universe of Langton's Ant. I
 left nothing out, all the rules are in there. If you want, you can build your
-own, genuine Ant from that, without anything missing. But then you observe the
+own genuine Ant from that, without anything missing. But then you observe the
 ant and the following happens:
 
 ![Langton's Ant builds a highway](LangtonsAnt.png)
