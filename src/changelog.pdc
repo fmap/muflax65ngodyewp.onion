@@ -3,6 +3,8 @@
 All major changes on the site
 =============================
 
+-   2010/08/24: Revised my view on UltiSnips, [vim] page updated accordingly.
+
 -   2010/07/13: Notes on how I fixed my [Concentration] issues. Also, I filled
     out PhilPapers excellect [Philosophical Survey].
 
@@ -30,6 +32,7 @@ All major changes on the site
     On-site comments are gone, but I'm still very much open to anything over mail.
     Sorry for the broken links. At least the RSS feed is still there. ;)
 
+[vim]: /software/vim.html
 [Philosophical Survey]: /reflections/survey.html
 [Concentration]: /experiments/concentration.html
 [Square Circles Exist]: /rants/square_circles.html

@@ -1,37 +1,179 @@
-body{
-background-color:#000000;
-scrollbar-base-color:#000000;
-scrollbar-3dlight-color:#000000;
-scrollbar-arrow-color:#ffffff;
-scrollbar-darkshadow-color:#000000;
-scrollbar-face-color:#000000;
-scrollbar-highlight-color:#000000;
-scrollbar-shadow-color:#000000;
-scrollbar-track-color:#000000;
+body { 
+    background: #000000;
+    color: #ffffff;
+    font-size: 1em;
+    font-weight: normal;
+    font-family: serif;
+    line-height: 1.3;
+    text-align: justify;
 }
 
-p{
-color:#FFFFFF;
-font-family:Georgia, "Times New Roman", Times, serif;
-font-size:11px;
+div.main {
+    margin: 3.5em auto auto;
+    max-width: 40em;
+    padding: 0;
 }
 
-a:link,a:active {text-decoration:none; color:#ffFFFF;}
-a:visited {text-decoration:none; color:#ffffff;}
-a:hover {text-decoration:underline; color:#ffffff;}
-
-.zentrum{
-border:1 dashed white;
+div.crumb {
+    background: #291535;
+    color: #a5a5a5;
+    left: 0;
+    line-height: 2em;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 100%;
 }
 
-.innerzentrum{
-padding: 5 5 5 5;
-vertical-align:top;
+a:link.crumb, a:hover.crumb, a:visited.crumb, a:active.crumb {
+    color: #Bbcbcb;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-decoration: underline;
+    border-bottom: none;
 }
 
-.silencio{
-font-size: 38px;
-font-style: italic;
-font-weight: bold;
-color: #990000;
+a:link, a:visited, a:active {
+    color: #227aff;
+    text-decoration: none;
+    border-bottom: 1px dotted;
 }
+
+a:hover {   
+    background: #024287;
+    color: #fff;
+}
+
+p { 
+    margin: 1em;
+}
+
+em {
+    color: #a255d2;
+    font-style: italic;
+}
+
+strong {
+    color: green;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+div.figure {
+    text-align: center;
+}
+
+h1 {
+    background: #7D9B3E;
+    color: #000000;
+    font-size: 2em;
+    line-height: 1.3;
+    text-align: center;
+}
+
+h1 a:link, h1 a:visited, h1 a:active {
+    color: #000;
+}
+
+h2 {
+    background: #AAd398;
+    color: #000000;
+    font-size: 1.3em;
+    font-weight:normal;
+    line-height: 1.3;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+    padding-left: 0.5em;
+}                
+
+blockquote {
+    border-left: 10px solid #A6A542;
+    border-right: 10px solid #A6A542;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding-left: 0;
+}
+
+ol {
+    margin-left: 1em;
+    padding-left: 1em;
+}
+
+ul {
+    margin-left: 0;
+    padding-left: 1em;
+}
+
+a.footnoteRef {
+    margin-left: 0.1em;
+    font-size: 1.3em;
+}
+
+pre { 
+    background: #FFF8D9;
+    border: 1px dashed green; 
+    font-family: monospace !important;
+    line-height: 1.3em;
+    overflow: auto;
+    padding: 0.5em 1em; 
+}
+
+pre.sourceCode span.Keyword { 
+    color: #007020; 
+    font-weight: bold; 
+} 
+
+pre.sourceCode span.DataType { 
+    color: #902000; 
+}
+
+pre.sourceCode span.DecVal { 
+    color: red; 
+}
+
+pre.sourceCode span.BaseN { 
+    color: red; 
+}
+
+pre.sourceCode span.Float { 
+    color: red; 
+}
+
+pre.sourceCode span.Char { 
+    color: #562D6F; 
+}
+
+pre.sourceCode span.String { 
+    color: #4070a0; 
+}
+
+pre.sourceCode span.Comment { 
+    color: #843563; 
+    font-style: italic; 
+}
+
+pre.sourceCode span.Others { 
+    color: #007020; 
+}
+
+pre.sourceCode span.Alert { 
+    color: red; 
+    font-weight: bold; 
+}
+
+pre.sourceCode span.Function { 
+    color: #06287e; 
+}
+
+pre.sourceCode span.Error { 
+    color: red; 
+    font-weight: bold; 
+}
+
+pre.sourceCode span.RegionMarker { }

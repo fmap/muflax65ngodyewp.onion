@@ -235,10 +235,12 @@ The List
     everything. It's pretty smart and works well with omnicomplete.
     Using my options, it works just like them cool IDEs.
 
-49.  **snipMate** plugin, steals the snippet function from TextMate,
-    to tab-complete code fragments into common structures. Great
-    speedup! (I also tried **XPtemplate**, which is too ugly and hard
-    to use, and **UltiSnips**, which was buggy.)
+49.  **UltiSnips** plugin, steals the snippet function from TextMate and greatly
+     enhances it, so you can tab-complete code fragments into common structures. Great
+     speedup! Use tab to expand snippets and Shift-Left / Shift-Right to jump to
+     the next part of the snippet. 
+     (I also tried **XPtemplate**, which is too ugly and hard to use, and
+     **snipMate**, which I used previously, but doesn't have recursive snippets.)
 
 [SRS]: srs.html
 [config]: http://github.com/muflax/config
