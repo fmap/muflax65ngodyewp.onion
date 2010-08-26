@@ -2,3 +2,4 @@ out/
 drafts/
 *.pyc
 *.swp
+push.sh
