@@ -50,18 +50,6 @@ Some of the stuff I wrote.
 - [ashuku], a personal statistics tool
 - [saneo], my keyboard layout
 
-[Rants]
-=======
-
-The fuel of the internet.
-
-- [Square Circles Exist], so stop using them as an argument!
-- [Python], I hate your creeping dementia
-- The [Singularity] is Very Far Away
-- [Perl], we are finished
-- [Game Design Sins], because the whole business is incompetent
-- why [Neo 2] is retarded
-
 [Changelog]: /changelog.html
 [RSS]: /rss.xml
 [Contact]: /about.html
@@ -73,14 +61,6 @@ The fuel of the internet.
 [Sleep]: /experiments/sleep
 [Good Sleep]: /experiments/sleep/good_sleep.html
 [Polyphasic Sleep]: /experiments/sleep/polyphasic_sleep.html
-
-[Rants]: /rants
-[Square Circles Exist]: /rants/square_circles.html
-[Game Design Sins]: /rants/game_sins.html
-[Python]: /rants/python.html
-[Perl]: /rants/perl.html
-[Singularity]: /rants/singularity.html
-[Neo 2]: /rants/neo.html
 
 [Reflections]: /reflections
 [Philosophical Survey]: /reflections/survey.html

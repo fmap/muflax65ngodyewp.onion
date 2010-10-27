@@ -1,6 +1,7 @@
 % saneo - putting the sane back into Neo
 
-As outlined in my [rant], [Neo 2] sucks. So I designed my own keyboard layout.
+I was kinda (read: a lot) unhappy with my old keyboard layout, [Neo 2]. So I
+designed my own keyboard layout.
 
 Design Principles
 =================
@@ -64,4 +65,3 @@ characters and the rest is mostly spam. ;)
                     
 [github]: http://github.com/muflax/saneo
 [Neo 2]: http://neo-layout.org/
-[rant]: /rants/neo.html

@@ -3,6 +3,9 @@
 All major changes on the site
 =============================
 
+-   2010/10/27: Removed rants. This is part of a personal change, which will
+    trickle down, slowly, into the site.
+
 -   2010/10/02: I wanted to condense all essential insights into one little
     list, so I wrote my [Gospel of Muflax].
 
@@ -21,7 +24,7 @@ All major changes on the site
 -   2010/07/13: Notes on how I fixed my [Concentration] issues. Also, I filled
     out PhilPapers' excellent [Philosophical Survey].
 
--   2010/05/28: New rant on why [Square Circles Exist]. 
+-   2010/05/28: New rant on why *Square Circles Exist* (removed). 
 
 -   2010/04/26: Reworked the whole site, turning it into a proper site instead
     of a rambling blog.      
@@ -32,8 +35,8 @@ All major changes on the site
     *Argument from Spirituality*, a *Safer Use* section and changed my position
     somewhat.
 
-    My [Rants] have now become an official part of the site (the internet wouldn't
-    work without unnecessarily strong opinions and emotions). 
+    My *Rants* (removed) have now become an official part of the site (the
+    internet wouldn't work without unnecessarily strong opinions and emotions). 
     
     I rewrote and greatly extended my thoughts on Dennett's [Consciousness
     Explained]. Yes, I'm finally done with the book.
@@ -48,11 +51,9 @@ All major changes on the site
 [vim]: /software/vim.html
 [Philosophical Survey]: /reflections/survey.html
 [Concentration]: /experiments/concentration.html
-[Square Circles Exist]: /rants/square_circles.html
 [Consciousness Explained]: /reflections/con_exp.html
 [Determinism]: /reflections/determinism.html
 [Poetry]: /poetry/      
-[Rants]: /rants/
 [Good Sleep]: /experiments/sleep/good_sleep.html
 [Speed Reading]: /experiments/speedreading.html
 [Letting Go of Music]: /reflections/letting_go_of_music.html
