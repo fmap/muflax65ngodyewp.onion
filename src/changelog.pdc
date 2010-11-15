@@ -3,6 +3,9 @@
 All major changes on the site
 =============================
 
+-   2010/11/15: Added [Kickstarting Motivation], cool technique I recently
+    implemented to start my days. Actually works, you know.
+
 -   2010/11/05: Updated a few positions in the survey, reflecting further
     insights. I'd predict, vaguely, that in a few months I either will be able
     to actively disprove anatta, anicca, dukkha and the unity of knowledge and
@@ -55,6 +58,7 @@ All major changes on the site
     On-site comments are gone, but I'm still very much open to anything over mail.
     Sorry for the broken links. At least the RSS feed is still there. ;)
 
+[Kickstarting Motivation]: /experiments/kickstart.html
 [vim]: /software/vim.html
 [Philosophical Survey]: /reflections/survey.html
 [Concentration]: /experiments/concentration.html
