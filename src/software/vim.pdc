@@ -1,6 +1,23 @@
 % vim
 
-    alias evil="for s in {1..3}; do echo -n 'VI! '; sleep .7; done; echo; vi"
+    alias evil="for s in {1..3}; do 
+        echo -n 'VI! '; 
+        sleep .666; 
+        done; echo; vi"
+
+A GNU Dawn
+==========
+
+Below, there's a little write-up of the vim features I used often enough to
+value them, but still rarely enough to constantly forget them. However, during
+the fall of 2010, I eventually overcame my hatred of Lisp and converted to
+emacs. Maybe I'll write a similar list for it one day. Or I'll just wait until
+emacs ships with "M-x write-article-based-on-todo-list".
+
+Enjoy the (untouched) article nonetheless.
+
+Ye Olde Vim confige
+===================
 
 Hello, my name is muflax, and I am a vim addict. My ~/.vim directory is about
 6MB large and contains 20,000 lines of code[^0]. I use so many features, that I
@@ -204,7 +221,7 @@ The List
     if any. (But I normally prefer to have a second terminal open for
     that.)
 
-43. **surround**plugin, mostly provides keys to change or remove
+43. **surround** plugin, mostly provides keys to change or remove
     surroundings (blocks, quotes or tags). Use like **ds"** to remove "
     quotes, **dst** to remove text block, **cs"(** to replace "" with
     () and **ys[motion]{** to wrap something in {}. Works in visual
