@@ -1,0 +1,119 @@
+* Website
+What I want is a complete revamp. Not so much style-wise, but content-wise.
+
+Technical improvements:
+- [ ] auto-generate categories
+- [ ] template for "being worked on"
+
+Here's what I want to express:
+** Reflections
+Needs a better name.
+
+*** Anatta, Anicca, Dukkha
+**** Anatta
+Main problem: phenomenology. What do you mean with "atman"?
+**** Anicca
+Time theory. Changing of sensations. Merely practical point?
+**** Dukkha
+Attitude. Wireheading.
+*** Causality
+What is causality? Does it exist? Does "epiphenomenal" make any sense?
+*** Christ Myth [0/3]
+Mapping all the major arguments.
+- [ ] arguments pro/con, with strength
+- [ ] collect sources
+- [ ] compare with similar figure - Socrates
+*** Crucifixion
+Not nearly detailed enough. Needs more research, I guess?
+*** Dennett's ConExp [0/2]
+- [ ] reread
+- [ ] more detailed criticism (probably only meaningful after a basic zombie
+      article is up)
+*** Free Will [0/3]
+- [ ] Determinism / Quantum Mechanics
+- [ ] Freedom Evolves
+- [ ] Why care at all? Dissolving the question.
+*** Great Filter [0/4]
+This is mostly a literature review. Only my likelihood estimates are by me.
+- [ ] Hanson
+- [ ] Katja
+- [ ] Past Filters
+- [ ] Future Filters
+*** Julian Jaynes
+That'll take some effort to clean up. :)
+*** Memes
+**** Letting Go of Music
+Needs a complete revamp. Totally broken, but interesting point, I think. Can be
+rescued.
+**** Memetic Hazards
+Also note depression.
+*** Logic and Math are Lies [0/3]
+Ok, polemical enough. :D
+
+- [ ] problems with Classical Logic
+- [ ] against infinites
+- [ ] against the axiom of choice
+*** Moral Theory
+Is there anything besides preferences?
+
+Unity of Knowledge and Action?
+
+**** Falsifications
+- [ ] there is instrinsic value
+- [ ] preferences don't exist
+- [ ] through some magic all beings have the same terminal preferences
+*** Occam's Razor
+Which Razor to use? What's "simpler"?
+Depends on prior. Complexity prior (code? data?). Kolmogorov. Pragmatic.
+*** On Purpose
+*** Phenomenology
+**** Justification
+Always being right.
+**** Unbroken Consciousness
+**** Indexing Problem
+*** Survey, Gospel
+Better organization, but always nice to have a short overview.
+*** Why Gnosticism?
+Dissolving the attraction from 1st/3rd person phenomenology.
+*** Zombies and Algorithms and Qualia, oh my!
+**** Only One Quale
+**** What about Physicalism?
+**** Zombie Argument by Chalmers
+** Experiments
+*** Concentration [0/7]
+- [ ] caffeine
+- [ ] fat, protein, sugar
+- [ ] exercise
+- [ ] st. john's wort
+- [ ] sunlight
+- [ ] tyrosine
+- [ ] meditation
+  metta, vipassana (all kinds), zazen
+*** Happiness [0/8]
+- [ ] medication
+- [ ] metta
+- [ ] gratitude
+- [ ] cbt / rationality
+- [ ] vipassana
+- [ ] sunlight
+- [ ] exercise
+- [ ] food (sugar, fat)
+*** Language Learning [0/4]
+- [ ] SRS (cloze deletion!)
+- [ ] immersion
+- [ ] bilingual vs. monolingual
+- [ ] material
+*** Sleep [0/3]
+- [ ] Polyphasic sleep, biphasic sleep
+- [ ] caffeine
+- [ ] random hacks
+*** Speed-Reading
+Essentially fine, just proofread it and put a stronger qualification on it.
+*** SRS [0/4]
+- [ ] usefulness
+- [ ] one deck / multiple decks
+- [ ] card design
+- [ ] random hacks
+** Software
+Main problem: content. I just don't program that much recently. Still, might
+demonstrate some minor stuff.

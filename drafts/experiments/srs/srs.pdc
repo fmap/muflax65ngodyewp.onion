@@ -1,0 +1,73 @@
+% SRS - So you can be a cyborg, too!
+
+Why I love my SRS
+=================
+
+Say, you want to learn something. Something big, like, Japanese or Chinese.
+Japanese uses 4 different writing system, but the one that stands out are the 漢
+字, i.e. the thousands of funny symbols. To be literate in Japanese, you need to
+now about 3000 of those. How would you learn something that huge? 
+
+Memory
+------
+
+To learn anything, you need three things. First, the information must be
+**sticky**. That means it must be represented in a form your brain can actually
+remember.  What that means is: Ever tried remembering a long number? Like, 20
+digits long? Impossible, unless you break it down. But ever remembered the whole
+plot, including all scenes, of a great movie?  Totally easy. Your brain can
+remember pictures and narratives (related things, both by time and cause)
+easily, but abstract information is very hard. So you need to transform the 漢字
+, or whatever your learning, into pictures and stories, aka mnemonics.
+Fortunately, they were designed with that in mind, [so that's very
+simple](http://en.wikipedia.org/wiki/Remembering_the_Kanji).
+
+Reviews
+-------
+
+Second, you need to **review regularly**. Your memory is leaky and needs
+constant reinforcement. Fortunately, every time the memory is refreshed, it will
+stick around a lot longer - roughly 2-3 times as long if you review just on the
+brink of forgetting. If you know some math, you'll recognise this as an
+exponential progression.  What does that mean? You only need to review about 7-8
+times and the memory will stay for decades! So, that's manageable.
+Unfortunately, the brain is a little faulty, so you will forget a few things
+anyway. The good thing is, though, that with very little effort, you can already
+reach a retention rate of 90-95%, so on average you only need around 10 reviews
+per fact to make sure you'll remember it for a very long time. 
+
+That sounds pretty nice already, but still, 3000 漢字? Isn't that a lot of work?
+No. That's 3000 facts, meaning about 30,000 reviews. A review takes 10 seconds,
+at most. On average, it will take only about 5, but let's assume 10. Worst case
+scenario, you know. In total, that's only about 3.5 days of work. If it were not
+spaced out so much, you could finish it *in a week*. Sweet! 
+
+Have a look at those graphs.
+
+![3000 facts, 20 new facts a day](graph1.png)
+![3000 facts, daily reviews](graph2.png)
+
+That's your work over 10 months. The first shows how much reviews you will be
+doing per month in total. Yellow is the amount of new (or unseen) facts, red are
+reviews (or reps) of old facts. Below that is the amount of reviews per day for
+each month. As you can see, the daily workload is at most 20 minutes and goes
+does down rapidly. After 5 months, you know all 漢字 and will only be
+refreshing. And that's only for a moderate amount of work with 20 new facts per
+day. You can easily do 50, or even 100 if you are determined. Pretty good,
+right? 
+
+Redundancy
+----------
+
+Unfortunately, that's quite enough. To remember something well, you need a third
+thing: **redundancy**. Your brain is associative. The more connection a
+particular memory has, the stronger it is, no matter where the connection comes
+from. Fortunately, we can fix this problem rather easily: just add redundant
+information. If you add a specific piece of information, say a new word, only
+once to your deck, you will have a hard time learning it. Add it in 3 to 5
+different sentences, and suddenly it will be trivial. 
+
+A nice side effect is that added redundancy makes the individual cards easier,
+making reviews faster. The additional workload is only about 2, maybe 3 times.
+Still, seeing how ridiculously low it already is, this doesn't really matter at
+all.
