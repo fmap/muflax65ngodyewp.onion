@@ -4,6 +4,7 @@ What I want is a complete revamp. Not so much style-wise, but content-wise.
 Technical improvements:
 - [ ] auto-generate categories
 - [ ] template for "being worked on"
+- [ ] better handling of footnotes
 
 Here's what I want to express:
 ** Reflections
@@ -79,16 +80,28 @@ Dissolving the attraction from 1st/3rd person phenomenology.
 **** Only One Quale
 **** What about Physicalism?
 **** Zombie Argument by Chalmers
+** Software
+Main problem: content. I just don't program that much recently. Still, might
+demonstrate some minor stuff.
 ** Experiments
-*** Concentration [0/7]
-- [ ] caffeine
-- [ ] fat, protein, sugar
-- [ ] exercise
+*** Concentration [2/10]
+Reorder.
+
+- [X] caffeine
+- [ ] fat
+- [ ] protein
+- [ ] sugar
+- [X] exercise
+  - [ ] citation needed
 - [ ] st. john's wort
 - [ ] sunlight
 - [ ] tyrosine
 - [ ] meditation
-  metta, vipassana (all kinds), zazen
+  - [ ] metta
+  - [ ] vipassana (all kinds)
+  - [ ] zazen
+- [ ] hydration
+- [ ] proper rest
 *** Happiness [0/8]
 - [ ] medication
 - [ ] metta
@@ -114,6 +127,3 @@ Essentially fine, just proofread it and put a stronger qualification on it.
 - [ ] one deck / multiple decks
 - [ ] card design
 - [ ] random hacks
-** Software
-Main problem: content. I just don't program that much recently. Still, might
-demonstrate some minor stuff.
