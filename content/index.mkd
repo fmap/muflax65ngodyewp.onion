@@ -1,0 +1,57 @@
+---
+title: Lies and Wonderland
+short_title: muflax
+---
+
+Lies and Wonderland
+===================
+![logo](logo.jpg)   
+Yet another hypergraphic information whore's site.
+
+muflax is empty. My [LibraryThing] profile says more about me than I ever could.
+You may, of course, just read this site to find out more. You can
+get in [Contact] with me about anything, be it comments, criticisms or
+corrections.
+
+Articles are sorted by date, with newer ones at the top. You can see the
+[Changelog] for any recent changes or subscribe to the [RSS] feed. You can also
+read the [Twitter] feed or my [Blog] for smaller, more cutting edge thoughts. 
+
+[Experiments]
+=============
+
+This is basically my public spoiler file for life. Why should I keep all the
+cool stuff I found out to myself? Information ought to be free, after all.
+
+- [Kickstarting Motivation], a technique I use to start my days
+- improving [Concentration] and motivation
+- how to develop [Speed Reading] and read a book in an hour 
+- [Sleep] hacks
+    - some hacks for [Good Sleep]
+    - my experience and criticism of [Polyphasic Sleep]
+
+[Reflections]
+=============
+
+The unobserved life is not worth living.
+
+- [On Purpose]
+- [On The Crucifixion]
+- [Gospel of Muflax]
+- [There Is Only Quale], a piece on dreams, memory and space ships
+- a [Philosophical Survey]
+- thoughts on Daniel Dennett's book [Consciousness Explained]
+- [Letting Go of Music]
+- my review of [Find the Bug]
+- a bit about [Nicknames]
+- a meditation on [Xmonad]
+
+[Software]
+==========
+
+Some of the stuff I wrote.
+
+- my [vim] config and complete feature list
+- [ashuku], a personal statistics tool
+- [saneo], my keyboard layout
+

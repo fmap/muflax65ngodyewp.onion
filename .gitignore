@@ -2,3 +2,4 @@ out/
 *.pyc
 *.swp
 push.sh
+tmp

@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title><%= @item[:title] %></title>
+    <link rel="stylesheet" type="text/css" href="/style.css">
+    <meta name="generator" content="nanoc">
+    <link rel="alternate" href="/rss.xml" type="application/rss+xml"
+          title="lies and wonderland" />
+  </head>
+  <body>
+    <div class="crumb">
+      <%= breadcrumbs_trail.map do |crumb|
+          target = crumb[:short_title] || crumb[:title] || crumb.name
+          "<a class='crumb' href='#{crumb.identifier}'>#{target}</a>"
+          end.join(" » ") %>
+    </div>
+
+    <div class="main">
+      <% if @item[:believed] %>
+      <p>This page was last believed on <%= @item[:believed] %>.</p>
+      <% end %>
+      
+      <%= yield %>
+    </div>
+  </body>
+</html>

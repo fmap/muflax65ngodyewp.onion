@@ -1,0 +1,20 @@
+---
+title: contact muflax
+---
+
+Contact
+=======
+
+To send me comments, angry rants, marriage proposals or anything else, message me
+at <<*mail at muflax dot com*>>, in Jabber at <<*muflax at tuxed dot
+org*>> or on [Google+]. I also use [Twitter].
+
+Feel free to contact me in English or German. You may also try Japanese or a
+Romance language, but I can't guarantee that I will understand you.
+
+You can also use my [GPG Key] (md5 hash: a499 2cbb 4a5d 48dd 4188 f7e4 9cfc 3a3d), if
+you want.
+
+All content is under a [Creative Commons] Attribution Noncommercial Share Alike
+3.0 license. You can do with it whatever the fuck you want, as long as you don't
+sell it or make it unfree. You can also get the [Source], if you want.
