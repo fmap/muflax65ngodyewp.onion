@@ -10,6 +10,8 @@ is_hidden: true
 [Pororo]: http://github.com/muflax/pororo
 [Source]: http://github.com/muflax/muflax.com
 [Twitter]: http://twitter.com/muflax
+[Config]: http://github.com/muflax/config
+
 
 <!-- external links -->
 [Creative Commons]: http://creativecommons.org/licenses/by-nc-sa/3.0/de
@@ -31,3 +33,5 @@ is_hidden: true
 *[LW]: LessWrong
 *[SIA]: Self-Indication Assumption
 *[SSA]: Self-Sampling Assumption
+*[SRS]: Spaced Repetition Software (e.g. Anki)
+

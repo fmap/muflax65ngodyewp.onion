@@ -35,7 +35,7 @@ def category name
   end
 
   # items in nice list
-  items.sort_by{|i| i[:title]}.each do |i|
+  items.sort_by{|i| i[:date]}.reverse.each do |i|
     output << "- [#{i[:title]}]"
   end
 

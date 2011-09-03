@@ -57,6 +57,7 @@ compile '*' do
     when "mkd" # normal pages
       filter :erb
       filter :kramdown
+      filter :colorize_syntax, :default_colorizer => :pygmentize
       layout 'default'
       filter :tidy
     end

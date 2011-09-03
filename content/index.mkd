@@ -14,10 +14,10 @@ You may, of course, just read this site to find out more. You can
 get in [Contact][] with me about anything, be it comments, criticisms or
 corrections.
 
-Articles are sorted by date, with newer ones at the top. You can see the
-[Changelog] for any recent changes or subscribe to the [RSS Feed][RSS]. You can
-also read the [Twitter][] feed or my [Blog][] for smaller, more cutting edge
-thoughts.
+Articles are sorted by latest major modification. You can see the [Changelog]
+for any recent changes or subscribe to the [RSS Feed][RSS]. You can also read
+the [Twitter][] feed or my [Blog][] for smaller, raw thought.
 
 <%= category :experiments %>
 <%= category :reflections %>
+<%= category :software %>

@@ -1,14 +1,21 @@
-% vim
+---
+title: vim
+date: 2010-11-17
+status: :done
+episteme: :discredited
+---
 
-    alias evil="for s in {1..3}; do 
-        echo -n 'VI! '; 
-        sleep .666; 
-        done; echo; vi"
+~~~
+alias evil="for s in {1..3}; do 
+  echo -n 'VI! '; 
+  sleep .666; 
+  done; echo; vi"
+~~~
 
 A GNU Dawn
 ==========
 
-Below, there's a little write-up of the vim features I used often enough to
+Below is a little write-up of the vim features I used often enough to
 value them, but still rarely enough to constantly forget them. However, during
 the fall of 2010, I eventually overcame my hatred of Lisp and converted to
 emacs. Maybe I'll write a similar list for it one day. Or I'll just wait until
@@ -25,8 +32,8 @@ often forget about some of them. Heck, I implemented tab completion for code 3
 times because I forgot that I already did it each time and only noticed it
 months later during a cleanup!
 
-[^0]: To be fair, I store every plugin there and never install any system-wide
-so that my setup is mostly independent from the current machine.
+[^0]: To be fair, I store every plugin there and never install anything
+    system-wide so that my setup is mostly independent from the current machine.
 
 It couldn't go on like this. My memory couldn't keep up with this. I probably
 only knew half the hotkeys I have mapped myself. I dream of vim; have terrible
@@ -54,14 +61,14 @@ emacs[^emacs] already, because I'm at least halfway there anyway.
     deal with people that like it. (But afaik there may be some ports to a sane
     language, so maybe this point is moot nowadays.)
 
-Luckily, I am not sane. So instead, I just made another [SRS] deck, and put in
+Luckily, I am not sane. So instead, I just made another SRS deck, and put in
 all those features, using a card each, and then just learned them like
 everything else. Hey, I have fully outsourced my long-term memory, I might as
 well use it for stuff that matters!
 
 And to cultivate this deck, I needed a complete list of all vim features I
 currently (should) know. All of them! So here it is, in no particular order,
-including all relevant plugins. You can just google them or check my [config] on
+including all relevant plugins. You can just google them or check my [Config][] on
 github. 
 
 I'm gonna leave out all the very elementary features everyone knows, like / or
@@ -259,5 +266,3 @@ The List
      (I also tried **XPtemplate**, which is too ugly and hard to use, and
      **snipMate**, which I used previously, but doesn't have recursive snippets.)
 
-[SRS]: srs.html
-[config]: http://github.com/muflax/config
