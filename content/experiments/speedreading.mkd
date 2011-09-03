@@ -1,4 +1,7 @@
-% Speed Reading
+---
+title: Speed Reading
+status: :rough
+---
 
 Wait, what? Speed reading? Isn't that pseudoscience? Partially, sure. However,
 not all of it, and that really surprised me. Yes, speed reading *is* real. This
@@ -10,7 +13,7 @@ Hacking your brain for fun and profit
 Binocular Rivalry
 -----------------
 
-While working through [Consciousness Explained] by Daniel Dennett, I encountered
+While working through [Consciousness Explained][] by Daniel Dennett, I encountered
 several experiments that I doubted. So I tried to replicate them. Specifically,
 binocular rivalry seemed weird to me. Binocular rivalry occurs when each of
 your eyes sees a different thing, typically achieved by just setting up a
@@ -28,7 +31,7 @@ Allegedly, you may control which side is dominant most of the time, but you can
 not be conscious of both reliably. I didn't believe that and tested it by trying
 to read two texts simultaneously. In fact, I actually managed to do that! The
 main visual problem is focus. It is quite hard to have each eye focus a
-different thing, but using e.g. [DXM], you can actually pull that off. But even
+different thing, but using e.g. [DXM][], you can actually pull that off. But even
 without it, you can try to focus a middle point and just make the letters big
 enough so that you can read them even out-of-focus. The real problem comes from
 assembling two sources of input into separate sentences; at first, they always
@@ -246,8 +249,8 @@ the whole meat of speed reading. It's the main trick to discover.
 Once you read at a very high speed, it really makes a huge difference how large
 your chunks are. Here's a little demonstration:
 
-![chunk size 1](fast.gif)   
-![chunk size 4](slow.gif)
+![chunk size 1](/experiments/fast.gif)   
+![chunk size 4](/experiments/slow.gif)
 
 Both animations run at the same reading speed of 1000wpm, but the first one
 shows every word on its own, while the second one uses groups of 4. If you watch
@@ -275,13 +278,14 @@ A very useful technique for training purposes is **Rapid Serial Visual
 Presentation**, or RSVP for short. That's quite a big word, when really, it just
 means "flashing words really fast", exactly like the two animations before.  
 
-The best RSVP I found is [Eyercize](http://www.eyercize.com), even though it has
+The best RSVP I found is [Eyercize][], even though it has
 the stupidest name *evar*. Nonetheless, it's the only speed reading tool I know
 with support for fixation points and complete customization. I usually set it to
 2-3 fixation points per line, about 5 lines of context and increasingly higher
 speeds. I occasionally ignore the marked line and read the upcoming context
-instead, though. [Spreeder](http://www.spreeder.com) is also nice and maybe
+instead, though. [Spreeder][] is also nice and maybe
 easier to use at first.       
+
 
 I would also recommend [Look, Ma; No Hands!], a book that teaches semantic
 chunking very well. It's quite short and precise. You get results very fast.
@@ -465,15 +469,9 @@ really slows me down. This also means that each book has its own speed, so
 measuring reading speeds in "words per minute" stops being useful. "Bits of
 information per minute" would be better, but how do you calculate that?
 
-[Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
-
-[Consciousness Explained]: /reflections/con_exp.html
-
-[DXM]: http://en.wikipedia.org/wiki/DXM
-
 [^pororo]:
-    I wrote my own timer for such purposes. You can check it out at
-    http://github.com/muflax/pororo. Basically, you set a timer for each level
+    I wrote my own timer for such purposes. You can check it out on
+    [Github][Pororo]. Basically, you set a timer for each level
     of the task, like a 23s timer for the page and a 200page timer for the book.
     Alternatively, I used the metronome function of my mp3 player, especially
     when reading on the train or when waiting for something. 

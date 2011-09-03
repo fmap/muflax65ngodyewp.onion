@@ -1,0 +1,6 @@
+---
+title: Experiments
+is_category: true
+---
+
+<%= category :experiments %>

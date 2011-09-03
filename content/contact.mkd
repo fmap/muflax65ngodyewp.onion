@@ -1,5 +1,6 @@
 ---
 title: contact muflax
+alt_titles: [Contact]
 ---
 
 Contact

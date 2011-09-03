@@ -1,0 +1,6 @@
+---
+title: Reflections
+is_category: true
+---
+
+<%= category :reflections %>

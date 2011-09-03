@@ -1,42 +1,29 @@
+<!-- personal links -->
 [Blog]: http://blog.muflax.com
 [GPG Key]: /muflax.asc          
 [Google+]: https://plus.google.com/105665518912548939532
 [LibraryThing]: http://www.librarything.com/profile/muflax
+[Pororo]: http://github.com/muflax/pororo
 [Source]: http://github.com/muflax/muflax.com
 [Twitter]: http://twitter.com/muflax
 
+<!-- external links -->
 [Creative Commons]: http://creativecommons.org/licenses/by-nc-sa/3.0/de
+[Eyercize]: http://www.eyercize.com
+[Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
+[Spreeder]: http://www.spreeder.com
 
-[Changelog]: /changelog/
+<!-- Wikipedia articles -->
+[DXM]: http://en.wikipedia.org/wiki/DXM
+
+<!-- internal links -->
 [RSS]: /rss.xml
-[Contact]: /contact/
 
+<!-- automatic content -->
+<%= page_references %>
 
-[Experiments]: /experiments
-[Kickstarting Motivation]: /experiments/kickstart.html
-[Concentration]: /experiments/concentration.html
-[Speed Reading]: /experiments/speedreading.html
-[Sleep]: /experiments/sleep
-[Good Sleep]: /experiments/sleep/good_sleep.html
-[Polyphasic Sleep]: /experiments/sleep/polyphasic_sleep.html
-
-[Reflections]: /reflections
-[On The Crucifixion]: /reflections/crucifixion.html
-[On Purpose]: /reflections/purpose.html
-[Philosophical Survey]: /reflections/survey.html
-[Letting Go of Music]: /reflections/letting_go_of_music.html
-[Consciousness Explained]: /reflections/con_exp.html
-[Why I love my SRS]: /reflections/srs.html
-[Xmonad]: /reflections/xmonad.html
-[Nicknames]: /reflections/nickname.html
-[Find the Bug]: /reflections/find_the_bug.html
-[There Is Only Quale]: /reflections/quale.html
-[Gospel of Muflax]: /reflections/gospel.html
-
-[Software]: /software
-[ashuku]: /software/ashuku.html
-[saneo]: /software/saneo.html
-[vim]: /software/vim.html
-
+<!-- abbreviations -->
 *[PCT]: Perceptual Control Theory
 *[LW]: LessWrong
+*[SIA]: Self-Indication Assumption
+*[SSA]: Self-Sampling Assumption

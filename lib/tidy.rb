@@ -12,7 +12,8 @@ class TidyFilter < Nanoc3::Filter
                       :wrap => 80,
                       :tidy_mark => false,
                       :indent => 1,
-                      :char_encoding => "utf8"
+                      :char_encoding => "utf8",
+                      :hide_comments => true,
                       ).clean
   end
 end 

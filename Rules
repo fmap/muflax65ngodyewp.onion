@@ -17,13 +17,12 @@
 preprocess do
   # find reference item
   reference = @items.find{|item| item.identifier == '/references/'}
+  ref_content = 
   
   unless reference.nil?
     # add references to every markdown item
-    @items.each do |item|
-      if item == reference
-        next
-      elsif item[:extension] == "mkd"
+    printed_items.each do |item|
+      if item[:extension] == "mkd"
         item.add_references reference.raw_content
       end
     end
@@ -31,19 +30,21 @@ preprocess do
 end
 
 compile '/style/' do
-  # don’t filter or layout
+  # don't filter or layout
+end
+
+compile '/references' do
+  # link references are only added to other files
 end
 
 compile '*' do
   if item.binary?
-    # don’t filter binary items
+    # don't filter binary items
   else
     case @item[:extension]
-    when "mkd"
-      filter :kramdown
-      layout 'default'
-    when "erb"
+    when "mkd" # normal pages
       filter :erb
+      filter :kramdown
       layout 'default'
     end
     filter :tidy
