@@ -9,6 +9,7 @@
           title="lies and wonderland" />
   </head>
   <body>
+    <!-- breadcrumb navigation -->
     <div class="crumb">
       <%= breadcrumbs_trail.map do |crumb|
           target = crumb[:short_title] || crumb[:title] || crumb.name
@@ -16,12 +17,10 @@
           end.join(" » ") %>
     </div>
 
+    <!-- actual content -->
     <div class="main">
-      <% if @item[:believed] %>
-      <p>This page was last believed on <%= @item[:believed] %>.</p>
-      <% end %>
-      
       <%= yield %>
     </div>
+
   </body>
 </html>

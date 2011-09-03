@@ -1,6 +1,8 @@
 ---
 title: Speed Reading
+date: 2011-09-03
 status: :rough
+episteme: :believed
 ---
 
 Wait, what? Speed reading? Isn't that pseudoscience? Partially, sure. However,
@@ -453,14 +455,14 @@ ability to jump in the middle of a paragraph, figure out what's going on and
 assemble meaning by moving into all directions, not just left-to-right.[^ltr]
 
 [^ltr]: 
-  It may help if you are used to multiple languages that have a different
-  word order or writing direction. German and Japanese, for example, build up
-  quite large word stacks and you may end up with a sentence that keeps on
-  piling up modifiers and objects without revealing the crucial verb or target
-  at the end, so maybe this practice makes it easier for me to adapt to
-  backwards reading than for others. Also, Japanese is read both left-to-right
-  and up-to-down (and then right-to-left), depending on context, so I'm already
-  used to changing directions. 
+    It may help if you are used to multiple languages that have a different
+    word order or writing direction. German and Japanese, for example, build up
+    quite large word stacks and you may end up with a sentence that keeps on
+    piling up modifiers and objects without revealing the crucial verb or target
+    at the end, so maybe this practice makes it easier for me to adapt to
+    backwards reading than for others. Also, Japanese is read both left-to-right
+    and up-to-down (and then right-to-left), depending on context, so I'm
+    already used to changing directions.
 
 Once you go beyond a certain speed, it stops being uniform. I noticed that I can
 read consistently at 300-400wpm using my previous techniques, but when speed

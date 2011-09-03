@@ -2,6 +2,9 @@
 title: 404
 ---
 
-...when candles turn to ashes, tears shall stop...
+*when candles turn to ashes...*
 
-Sorry. :<
+Page not found. You may have followed an old link. The content is probably still
+there, in some form. Have a look at [the homepage][Lies and Wonderland].
+
+*...tears shall stop*

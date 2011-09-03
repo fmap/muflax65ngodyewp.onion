@@ -15,22 +15,34 @@
 #   because “*” matches zero or more characters.
 
 preprocess do
-  # find reference item
-  reference = @items.find{|item| item.identifier == '/references/'}
-  ref_content = 
-  
-  unless reference.nil?
-    # add references to every markdown item
-    printed_items.each do |item|
-      if item[:extension] == "mkd"
-        item.add_references reference.raw_content
+  def reference_links
+    # find reference item
+    reference = @items.find{|item| item.identifier == '/references/'}
+      
+    unless reference.nil?
+      # add references to every markdown item
+      printed_items.each do |item|
+        if item[:extension] == "mkd"
+          item.add_references reference.raw_content
+        end
       end
     end
   end
+
+  def hide_pages
+    @items.each do |item|
+      if item.identifier.match %r{^/(js|style)/}
+        item[:is_hidden] = true
+      end
+    end
+  end
+  
+  reference_links
+  hide_pages
 end
 
 compile '/style/' do
-  # don't filter or layout
+  # pass
 end
 
 compile '/references' do
@@ -46,8 +58,8 @@ compile '*' do
       filter :erb
       filter :kramdown
       layout 'default'
+      filter :tidy
     end
-    filter :tidy
   end
 end
 
@@ -55,8 +67,12 @@ route '/style/' do
   '/style.css'
 end
 
-route '/404/' do
-  '/404.html'
+route '/js/*' do
+  "#{item.identifier[0..-2]}.#{item[:extension]}"
+end
+
+route '/references' do
+  # pass
 end
 
 route '*' do

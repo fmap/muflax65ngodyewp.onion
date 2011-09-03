@@ -25,6 +25,10 @@ div.crumb {
     width: 100%;
 }
 
+div.footnotes {
+    border-top: 10px solid #7D9B3E;
+}
+
 a:link.crumb, a:hover.crumb, a:visited.crumb, a:active.crumb {
     color: #d9d9d9;
     font-size: 1.3em;

@@ -22,21 +22,20 @@ def category name
   cat_match = %r{^/#{name}/}
   
   # find category index
-  cat_index = @items.find{|i| i.path.match(cat_match) and i[:is_category]}
+  cat_index = printed_items.find{|i| i.path.match(cat_match) and i[:is_category]}
 
   # header
   output << "# [#{cat_index[:title]}]"
 
   # find items in category
-  items = @items.select do |i|
-    ( not i.binary? and
-      not i[:is_category] and
+  items = printed_items.select do |i|
+    ( not i[:is_category] and
       i.path.match cat_match
       )
   end
 
   # items in nice list
-  items.each do |i|
+  items.sort_by{|i| i[:title]}.each do |i|
     output << "- [#{i[:title]}]"
   end
 
@@ -46,11 +45,7 @@ end
 
 # only articles that actually get printed
 def printed_items
-  @items.select do |i|
-    ( not i.identifier.match %r{/(references|style)/} and
-      not i.binary?
-      )
-  end
+  @items.select { |i| not i[:is_hidden] and not i.binary? }
 end
     
 #automatic links for all pages, used by reference file
