@@ -25,3 +25,7 @@ end
 def printed_items
   @items.select { |i| not i[:is_hidden] and not i.binary? }
 end
+
+def route_unchanged
+  "#{@item.identifier[0..-2]}.#{@item[:extension]}"
+end

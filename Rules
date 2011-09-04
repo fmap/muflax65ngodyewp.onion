@@ -72,6 +72,8 @@ compile '*' do
       filter :colorize_syntax, :default_colorizer => :pygmentize
       layout 'default'
       filter :tidy
+    else
+      # nothing to do
     end
   end
 end
@@ -85,7 +87,11 @@ route '/style/' do
 end
 
 route '/js/*' do
-  "#{item.identifier[0..-2]}.#{item[:extension]}"
+  route_unchanged
+end
+
+route '/kanji/*' do
+  route_unchanged
 end
 
 route '/references' do
