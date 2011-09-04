@@ -1,7 +1,7 @@
 ---
 title: Gospel of Muflax
 date: 2010-11-12
-status: :done
+techne: :done
 episteme: :believed
 ---
 

@@ -19,7 +19,11 @@
 
     <!-- actual content -->
     <div class="main">
-      <%= yield %>
+      <% if @item[:episteme] %>
+      <p>muflax' epistemic state: <%= @item[:episteme] %>.</p>
+      <% end %>
+      
+<%= yield %>
     </div>
 
   </body>

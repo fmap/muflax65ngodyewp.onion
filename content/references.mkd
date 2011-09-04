@@ -21,12 +21,21 @@ is_hidden: true
 
 <!-- Wikipedia articles -->
 [DXM]: http://en.wikipedia.org/wiki/DXM
+[Epistemology]: http://en.wikipedia.org/wiki/Epistemology
 
 <!-- internal links -->
 [RSS]: /rss.xml
 
 <!-- automatic content -->
-<%= page_references %>
+<% printed_items.each do |i| %>
+[<%= i[:title] %>]: <%= i.identifier %>
+   
+   <% unless i[:alt_titles].nil?
+     i[:alt_titles].each do |title| %>
+[<%= title %>]: <%= i.identifier %>
+     <% end %>
+   <% end %>
+<% end %>
 
 <!-- abbreviations -->
 *[PCT]: Perceptual Control Theory
@@ -34,4 +43,5 @@ is_hidden: true
 *[SIA]: Self-Indication Assumption
 *[SSA]: Self-Sampling Assumption
 *[SRS]: Spaced Repetition Software (e.g. Anki)
+*[RAW]: Robert Anton Wilson
 

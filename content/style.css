@@ -29,6 +29,11 @@ div.footnotes {
     border-top: 10px solid #7D9B3E;
 }
 
+sup {
+    margin-left: 0.2em;
+    /* font-size: 1em; */
+}
+
 a:link.crumb, a:hover.crumb, a:visited.crumb, a:active.crumb {
     color: #d9d9d9;
     font-size: 1.3em;
@@ -40,8 +45,73 @@ a:hover {
     color: #fff;
 }
 
+/* epistemic states should stand out from normal links */
+a.episteme {
+    color: #057dff;
+}
+
+a.episteme:hover {
+    background: #7D9B3E;
+    color: black;
+}
+
+/* move paragraphs a bit closer to the center, with list exceptions */
 p { 
-    margin: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+ul p {
+    margin-left: 0;
+}
+
+ol p {
+    margin-left: 0;
+}
+
+/* category items */
+.align_left {
+    text-align: left;
+}
+
+.align_right {
+    float: right;
+    text-align: right;
+    margin-right: 1em;
+}
+
+ul.table li {
+    margin-left: 0;
+}
+
+/* general lists */
+li {
+    margin-left: 1em;
+    padding-left: 0;
+}
+
+ol {
+    margin-left: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 1em;
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 1em;
+}
+
+/* colors for techne states */
+span.techne_done {
+    color: green;
+}
+
+span.techne_rough {
+    color: red;
 }
 
 em {
@@ -96,19 +166,10 @@ blockquote {
     padding-left: 0;
 }
 
-ol {
-    margin-left: 1em;
+/* fix indentation if blockquote is already indented */
+li blockquote {
     padding-left: 1em;
-}
-
-ul {
-    margin-left: 0;
-    padding-left: 1em;
-}
-
-a.footnoteRef {
-    margin-left: 0.1em;
-    font-size: 1.3em;
+    margin-right: 2em;
 }
 
 pre { 

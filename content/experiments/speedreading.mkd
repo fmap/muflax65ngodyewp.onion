@@ -1,7 +1,7 @@
 ---
 title: Speed Reading
 date: 2010-06-23
-status: :rough
+techne: :rough
 episteme: :believed
 ---
 
@@ -393,9 +393,9 @@ Reading nonlinearly
 -------------------
 
 Finally, it's time to fully exploit the parallel processing and to do more
-aggressive pattern prediction. It's time to throw away the chains of ~~oppression,
-comrade!~~ intended text flow that the author gave us and to read in any order
-and any direction that gets to the meaning faster.
+aggressive pattern prediction. It's time to throw away the chains of
+<del>oppression, comrade!</del> intended text flow that the author gave us and
+to read in any order and any direction that gets to the meaning faster.
 
 Reading nonlinearly just means you read text the same way you look around. You
 jump to the points that look most interesting, figure out the context around

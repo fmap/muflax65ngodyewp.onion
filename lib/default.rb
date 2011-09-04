@@ -1,6 +1,7 @@
 # Helper functions for site-building.
 
 include Nanoc3::Helpers::Breadcrumbs
+include Nanoc3::Helpers::Rendering
 
 class Nanoc3::Item
   def add_content content
@@ -16,51 +17,36 @@ class Nanoc3::Item
   end
 end
 
-# print all items in a category, nicely formatted
 def category name
-  output = []
-  cat_match = %r{^/#{name}/}
-  
-  # find category index
-  cat_index = printed_items.find{|i| i.path.match(cat_match) and i[:is_category]}
+  render "category", :category => name
+end
 
-  # header
-  output << "# [#{cat_index[:title]}]"
-
-  # find items in category
-  items = printed_items.select do |i|
-    ( not i[:is_category] and
-      i.path.match cat_match
-      )
+def techne status
+  case status
+  when :rough
+    "needs revisiting"
+  when :incomplete
+    "work in progress"
+  when :done
+    "finished"
+  else
+    status.to_s
   end
+end
 
-  # items in nice list
-  items.sort_by{|i| i[:date]}.reverse.each do |i|
-    output << "- [#{i[:title]}]"
-  end
-
-  # output
-  output.map{|i| "#{i}\n"}.join
+def episteme status
+  s = case status
+      when :broken
+        "partly believed"
+      when :discredited
+        "not believed anymore"
+      else
+        status.to_s
+      end
+  "[#{s}][Epistemic State]{:.episteme}"
 end
 
 # only articles that actually get printed
 def printed_items
   @items.select { |i| not i[:is_hidden] and not i.binary? }
-end
-    
-#automatic links for all pages, used by reference file
-def page_references
-  output = []
-  printed_items.each do |i|
-    output << "[#{i[:title]}]: #{i.identifier}"
-
-    unless i[:alt_titles].nil?
-      i[:alt_titles].each do |title|
-        output << "[#{title}]: #{i.identifier}"
-      end
-    end
-  end
-
-  # output
-  output.map{|i| "#{i}\n"}.join
 end

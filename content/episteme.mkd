@@ -1,0 +1,25 @@
+---
+title: Epistemic State
+date: 2011-09-03
+status: :done
+episteme: :believed
+---
+
+So, what's with these markers of [epistemic][Epistemology] states everywhere?
+
+They signal my attitude towards the content. I wanted a way to show whether I
+still believe something I have written or not. Or only partially, or never at
+all[^fiction]. I didn't want to throw away old texts just because I changed my mind, but I
+also couldn't let them sit around without an annotation or someone might think I
+still endorsed them.
+
+I'm not happy just going around like RAW, claiming I'm agnostic about
+everything. And taking care to notice when you change your mind is very
+valuable. Hence the markers.
+
+[^fiction]: It's complicated in the case of fiction. Generally speaking, *some*
+    aspects of it I do believe. Sometimes it represents a marginalized aspect of
+    me. Some days I just don't want to care about making my reasoning clear; I
+    just want to *write* something. Regardless, don't base your world-view on
+    fiction, please. Fiction is treason.
+

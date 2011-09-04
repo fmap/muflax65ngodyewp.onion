@@ -1,0 +1,34 @@
+<!-- print all items in a category, nicely formatted -->
+  
+<!-- find category index -->
+
+<% cat_match = %r{^/#{@category}/}
+cat_index = printed_items.find{|i| i.path.match(cat_match) and i[:is_category]} %>
+
+<!-- header -->
+
+# [<%= cat_index[:title] %>][]
+
+<!-- find items in category -->
+
+<% items = printed_items.select do |i|
+  not i[:is_category] and
+    i.path.match cat_match
+end %>
+
+<!-- print items in nice list -->
+
+<% items.sort_by{|i| i[:date]}.reverse.each do |i|
+  techne = "<span class='techne_#{i[:techne]}'>#{i[:date]}</span>"
+  status = "(#{episteme i[:episteme]}) (#{techne})"
+%>
+
+{:.table}
+- <span class='align_left'>[<%= i[:title]%>][]</span>
+  <span class='align_right'><%=status%></span>
+
+<div style='clear: both'></div>
+
+<% end %>
+
+<!-- <div class='category_item'> -->
