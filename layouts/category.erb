@@ -20,7 +20,7 @@ end %>
 
 <% items.sort_by{|i| i[:date]}.reverse.each do |i|
   techne = "<span class='techne_#{i[:techne]}'>#{i[:date]}</span>"
-  status = "(#{episteme i[:episteme]}) (#{techne})"
+  status = "(#{episteme_cat i[:episteme]}) (#{techne})"
 %>
 
 {:.table}

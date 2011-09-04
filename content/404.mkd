@@ -1,5 +1,6 @@
 ---
 title: 404
+non_cognitive: true
 ---
 
 *when candles turn to ashes...*

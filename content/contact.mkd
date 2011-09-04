@@ -1,6 +1,9 @@
 ---
 title: contact muflax
 alt_titles: [Contact]
+episteme: :believed
+techne: :done
+date: 2011-09-04
 ---
 
 Contact

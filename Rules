@@ -49,12 +49,24 @@ compile '/references' do
   # link references are only added to other files
 end
 
+compile '/feed/' do
+  filter :erb
+end
+
 compile '*' do
   if item.binary?
     # don't filter binary items
   else
     case @item[:extension]
     when "mkd" # normal pages
+      # little sanity check
+      unless @item[:is_category] or @item[:non_cognitive]
+        [:techne, :episteme, :date, :title].each do |header|
+          if @item[header].nil?
+            puts "#{@item.identifier} is missing #{header}."
+          end
+        end
+      end
       filter :erb
       filter :kramdown
       filter :colorize_syntax, :default_colorizer => :pygmentize
@@ -62,6 +74,10 @@ compile '*' do
       filter :tidy
     end
   end
+end
+
+route '/feed/' do
+  '/rss.xml'
 end
 
 route '/style/' do

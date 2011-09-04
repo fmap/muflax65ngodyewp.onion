@@ -18,6 +18,7 @@ is_hidden: true
 [Eyercize]: http://www.eyercize.com
 [Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
 [Spreeder]: http://www.spreeder.com
+[nanoc]: http://nanoc.stoneship.org
 
 <!-- Wikipedia articles -->
 [DXM]: http://en.wikipedia.org/wiki/DXM

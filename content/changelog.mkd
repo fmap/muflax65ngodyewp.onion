@@ -1,0 +1,15 @@
+---
+title: Changelog
+non_cognitive: true
+---
+
+All major changes on the site
+=============================
+
+{:#changelog}
+- 2011/09/04: Converted whole site to [nanoc][]. Most of the content got
+  re-organized, but not widely changed.
+
+  Every page has an [Epistemic State][] now. This is an important step to
+  convert this into proper long-term content.
+

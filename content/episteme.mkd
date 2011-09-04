@@ -1,7 +1,7 @@
 ---
 title: Epistemic State
 date: 2011-09-03
-status: :done
+techne: :done
 episteme: :believed
 ---
 

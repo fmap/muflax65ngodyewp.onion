@@ -55,6 +55,12 @@ a.episteme:hover {
     color: black;
 }
 
+/* episteme header */
+div.episteme {
+    background: #c4f3af;
+    line-height: 2em;
+}
+
 /* move paragraphs a bit closer to the center, with list exceptions */
 p { 
     margin-left: 1em;
