@@ -20,6 +20,11 @@ is_hidden: true
 [Spreeder]: http://www.spreeder.com
 [nanoc]: http://nanoc.stoneship.org
 [PhilPapers Survey]: http://philpapers.org/surveys/
+[Berryz工房 - Dschinghis Khan]: http://www.youtube.com/watch?v=b7pui9Q6Vbo
+[Using Neuroscience for Spiritual Practice]: http://video.google.com/videoplay?docid=1030598948823323439
+[Enlightenment, Self and the Brain]: http://video.google.com/videoplay?docid=5474604744218568426
+
+
 
 <!-- Wikipedia articles (and similar) -->
 [DXM]: http://en.wikipedia.org/wiki/DXM

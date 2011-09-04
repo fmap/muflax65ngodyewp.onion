@@ -1,0 +1,414 @@
+---
+title: Letting Go of Music
+date: 2010-05-03
+techne: :done
+episteme: :discredited
+---
+
+Motivation
+==========
+
+It feels very unusual and strange, after thinking critically about the
+arguments, assessing the evidence and forming a rational conclusion, to arrive
+at a position that nowadays only two groups share: Christian puritans and the
+Taliban. It makes me very uncomfortable, but I let's give the argument a good
+shot anyway.
+
+What conclusion am I talking about? *Music is a parasite*, or in practical
+terms, *Music exploits you*. This is a radical statement, so initial skepticism
+is very much understandable. If it comforts you, let me get one thing out of the
+way: I do not object to music out of "spiritual" or "religious" reasons, which,
+unfortunately, seems to be the most common case. Most likely, music does not
+"corrupt your character" or "lead you away from God" or any such nonsense. It is
+also not really an argument for asceticism. No, my main argument comes from
+memetic theory and a cost/benefit analysis. It is, in principle, a very similar
+argument broad forward by atheists against religion. The Four Horsemen of
+Atheism (Richard Dawkins, Daniel Dennett, Sam Harris and Christopher Hitchens,
+all truly awesome) have argued very much alike, but against religion.  I will
+try to show that their reasoning extends to more fields, one of which is music.
+This is not meant to falsify or parody their position (I in fact agree with it,
+at least partially), but to explore the real ramifications.
+
+Being sensible never got anyone anywhere. I don't believe much in carefully
+adjusting. Jumping right into a big unknown and then compromising always seemed
+so much more natural to me. If things work out, you are a genius for getting it
+right from the start. If they don't, you can always just deny everything.
+
+Before I get going, let's clarify 3 things. Firstly, I will build on memetic
+theory, so you will probably need to know what it's about to understand some of
+my reasoning. You may want to read "The Meme Machine" by Susan Blackmore or some
+of Daniel Dennett's recent books, like "Darwin's Dangerous Idea", or at least
+google it. The arguments aren't really very technical, but if you aren't
+familiar with basic evolution or what a meme is, then my points may seem alien
+to you. To understand the perspective of replicators, it will also help greatly
+to read "The Selfish Gene" by Richard Dawkins.
+
+Secondly, let's establish a few terms. I will refer to "not having music" as
+amusicality, analog to "not believing in god(s)" being atheism. This is totally
+different from being tone-deaf, disliking music or the like. To be honest, I'm a
+great fan of music, so this is also not a "disgruntled outsider" kind of
+argument. Furthermore, I take it as a given that music is a highly advanced
+memeplex (i.e. group of memes that support each other), in the same way as
+religion or language, and as such is a replicator and subject to evolution, but
+independent of genes.
+
+And lastly, why I will bring no argument for amusicality. It might seem odd that
+I only attack arguments for music, but have no strong argument of my own why
+"not having music" is too be favored. This follows the same logic of atheism:
+the one's making the claim are the one's in need of evidence and arguments. The
+Null Hypothesis (i.e. "there is no correlation between A and B" or "A doesn't
+exist" or similar) is the default position of science. We start off with an
+empty set of assumptions and every one we want to add has to be substantiated.
+To successfully defend the skeptic position, I only have to dismantle all the
+evidence proponents show, not actively prove the impossibility of the claim.
+Atheists are used to it in terms of religion: You only show there is no reason
+to believe in god(s), you don't need to show there is any evidence against
+god(s). This is logically evident, as disproving such claims is often impossible
+or simply impractical.
+
+However, my position isn't exactly that bleak. I actually *can*> make one simple
+argument for "not having music": it eats up your time. Replace any time you
+spend listening to music with something actually beneficial and you are in a
+better position. But even if music were "free" (as in, would use up no
+resources), my position might still be the rational one.
+
+To be honest, the argument against music isn't entirely unmotivated. (It never
+is.) I became so udderly obsessed with music that I just got sick of it all.
+Comparing codecs, hardware, different players, optimizations, genres, recording
+techniques, musical structure, correct labeling and all this crap, I just got
+tired of it; and when I asked myself why I was doing all this in the first
+place, what music gave me in return... I got nothing. Nothing worth the effort,
+anyway. So it's probably fair to say that I wasn't exactly unbiased.
+
+So let's go and see all the arguments in favor of music. To be clear, it is rare
+for anyone to defend *all* of them. But they are, as far as I know, all
+proposed seriously and the list is complete. Here we go:
+
+The Argument from History
+-------------------------
+
+> Humans have been playing music for, at least, thousands of years and
+> probably millions of years. It is completely natural for us to do so. Evolution
+> has shaped our brain to encourage this.
+
+This is true, but a fallacy: what *is* can never inform us what *ought* to be.
+Evolution has also made men good at killing and raping, for example. (And also
+enabled us to use language and science, of course.) What has happened in the
+past can inform us, but can not be our sole guide. You must provide actual,
+current benefits.
+
+The Argument from Social Integrity
+----------------------------------
+
+> Human society is, among other things, united by music. People engage in
+> collective music, like festivals, camp fires or choirs. They define their own
+> identity through it ("Are you a metalhead, too?"). It is one reason why human
+> society is so stable and productive. Do you want to advocate chaos and
+> anarchy?
+
+This is probably the strongest general argument in favor of music. It is true
+that music is a very important social "glue" and it might very well be true that
+society as we know it would not function without it. But the same thing can be
+said of religion. There is not a single historical case of a society that got
+from family-sized tribes to city-states without major help from religion. That,
+however, doesn't make any religion particularly true. And even if this were true
+in the past, it doesn't have to be true for the future. 
+
+I'll have to admit that I can not completely disprove this argument. I would not
+advice on any changes to society, like outlawing music, even though I'd love to
+do a proper experiment. But I can point some things out.
+
+First, there *are* societies without music. The most famous one are the Taliban,
+who are thriving and have a stable history. They certainly are a competitive and
+strong society. Also, the deaf community is active and very tight-knit. The
+claim is probably overstated, but might have some justification.
+
+Second, I do understand the danger of trying to experiment on this. What if the
+argument is right and we accidentally do harm civilization? Is it really worth
+the risk? (I'd like to think so, but I'm also willing to put up with a far
+greater risk than most people.)
+
+The Argument from Pleasure
+--------------------------
+
+> Humans take great joy from music. It invokes many emotions, from happiness to
+> anger to sadness. It gives their life meaning, but also just passes boredom.
+
+This one is easy to argue against, but hard to understand. You do not enjoy
+music because of benefits, but because music is shaped (and has shaped you) to
+be enjoyable. It (ab)uses your reward system, your fear response, anger response
+and so on, to pass itself on. It is self-perpetuating, making you feel good so
+you listen to it so you feel good so you listen to it... Memetic evolution
+predicts this: brains that are "bored" without music will propagate it more, so
+any successful music will incorporate selection for this property. This is
+obvious to any outsider, as it is with any drug, but not for the afflicted.
+Observe anyone under the effect of a drug, during a panic attack and so on,
+while you yourself are neutral, unaffected. They will be blind to it; their
+brain pays no attention to this fact.
+
+Arguing that pleasure in itself is a good thing, is tautological at best and
+addictive behaviour at worst. If you propose this, then you are in a really bad
+position. It is very hard to make a good case for pleasure without also argueing
+for direct stimulation of your reward center. You see, Electrodes can be
+inserted, a little switch can be attached and you can sit there all day, feeling
+great! But even most hedonists do not want to defend this.
+
+The Argument from Morals
+------------------------
+
+> Music can influence our moral behaviour. Playing wholesome and delightful
+> music to children will shape their character for the better!
+
+This is a bold statement, especially because it has no evidence whatsoever.
+There is no psychological study supporting this, no disproportionately large
+chunk of deaf people in jail, no connection between crime rate and music
+education. If there is any link, it is minuscule.
+
+There is, however, a strong connection between indoctrination and music. Almost
+every cult, religion or otherwise strong ideology will use music for its
+purposes. Music's strong  potential to move people's emotion can easily be
+exploited to instill fake unity, bliss or aggression. I would not go so far to
+disqualify music for this reason, but reject any moral claims as at least
+neutral. If it has positive effects, it might as well have negative ones. You
+can not advocate only the one part you profit from.
+
+This argument is sometimes used negatively, e.g. "Modern music corrupts our
+children!". If you believe it, you must accept this conclusion as well. Music
+censorship, at least partially, would be the only responsible thing to do.
+
+The Argument from Profits
+-------------------------
+
+> Billions of dollars are involved. Music is a very profitable
+> industry.
+
+So is heroin. I don't feel I have to say more about this; it is such an empty
+argument.
+
+The Argument from Benign Symbiosis
+----------------------------------
+
+> Music is useful to us. It enhances our ability to recognize patterns. It
+> supports the learning of languages. It improves our ability to adopt other
+> memes. It has been documented that children that learnt an instrument perform
+> better in school. Music can help to treat mental illnesses.
+
+There exists barely any valid research for any of those claims. The strongest is
+probably the learning of languages. Basically, this uses musics strong
+reproductive capabilities by hijacking it. You take language memes, like a poem,
+or just some words, and apply them as text to some music, thereby making them
+"stick" a lot better. This seems to work, as far as we can tell. There is, of
+course, no conclusive evidence. (This is mostly because of the failure of
+language education and linguistics, and unrelated to music, in my opnion.)
+
+But is this worth its price? Are you able to contain it? Recall that you are
+using music exactly because it is so fertile. It seems like the opposite of a
+safe operation to me. Also, is it really effective? Instead of using music to
+get small benefits in school or elsewhere, read books. Learn critical thinking.
+Solve puzzles. Address the problem directly, instead of trying to do it through
+some remote synergy with a symbiont.
+
+However, it can be argued that music was a major driving force behind the
+development of our big brains. We needed more and more capable meme machines to
+spread music more reliably, so we were selected for it. We profit from this
+because the human brain is largely a universal machine, not specialized for any
+particular meme and so all kinds of useful memes spread better as well. Everyone
+wants a better memetic "soil", if you want. But if this is true (I suspect it
+is), then there is a fiendish little twist to it: We can exploit the parasite
+now! Sure, music used us for its own purposes, endowing us with bigger brains to
+get a better chance itself, but now that we have those brains, we don't need to
+have any affiliation to music anymore! What do we care if music survives? Let's
+use those brains for something *good*! So long, and thanks for all the
+neurons!
+
+The medical use of music might be justified. Psychotherapy is in a terrible
+state right now, but the existing studies seem to support effectiveness of music
+in some cases. While I personally would prefer other methods, I would
+nonetheless agree that a reasonable case can be made for music *in the hands
+of a professional*. And this is the crux: we are talking about serious
+illnesses and therapy, certainly not recreational use.
+
+Finally, I feel that this argument is very dishonest. It is really a
+rationalisation. No one sits down, thinks "Hey, singing those songs would get me
+better test scores in 10 years!" and then does so. You listen to music because
+you like it. Later on come the "reasons" and "beliefs" on why it really is good
+for you. If I showed studies disproving all such claim, would it change the
+argument? Most likely not. You would still listen to music, those scientists be
+damned. They are probably frauds anyway!
+
+Argument from Spirituality
+--------------------------
+
+> Entweder durch den Einfluss des narkotischen Getränkes, von dem alle
+> ursprünglichen Menschen und Völker in Hymnen sprechen, oder bei dem
+> gewaltigen, die ganze Natur lustvoll durchdringenden Nahen des Frühlings
+> erwachen jene dionysischen Regungen, in deren Steigerung das Subjektive zu
+> völliger Selbstvergessenheit hinschwindet. Auch im deutschen Mittelalter
+> wälzten sich unter der gleichen dionysischen Gewalt immer wachsende Schaaren,
+> singend und tanzend, von Ort zu Ort (...). Es gibt Menschen, die, aus Mangel
+> an Erfahrung oder aus Stumpfsinn, sich von solchen Erscheinungen wie von
+> "Volkskrankheiten", spöttisch oder bedauernd im Gefühl der eigenen Gesundheit
+> abwenden: die Armen ahnen freilich nicht, wie leichenfarbig und gespenstisch
+> eben diese ihre "Gesundheit" sich ausnimmt, wenn an ihnen das glühende Leben
+> dionysischer Schwärmer vorüberbraust.
+>
+> -- Friedrich Nietzsche, Geburt der Tragödie [^trans]
+
+[^trans]: Translation:
+
+    > Even under the influence of the narcotic draught, of which songs of all
+    > primitive men and peoples speak, or with the potent coming of spring that
+    > penetrates all nature with joy, these Dionysian emotions awake, and as
+    > they grow in intensity everything subjective vanishes into complete
+    > self-forgetfulness. In the German Middle Ages, too, singing and dancing
+    > crowds, ever increasing in number, whirled themselves from place to place
+    > under this same Dionysian impulse. (...) There are some who, from
+    > obtuseness or lack of experience, turn away from such phenomena as from
+    > "folk-diseases," with contempt or pity born of consciousness of their own
+    > "healthy-mindedness." But of course such poor wretches have no idea how
+    > corpselike and ghostly their so-called "healthy-mindedness" looks when the
+    > glowing life of the Dionysian revelers roars past them. 
+
+This is in my opinion the strongest and at the same time rarest argument. It
+surprised me a bit that so many people seem to listen to music for any *other*
+reason than this.[^after] But then, mystics have always been in the minority, so
+there.
+
+The use of music for spiritual purposes extends to virtually all mystic
+practices, be they shamanistic rituals, prayer, meditation or the more modern
+drug-based practices, as exemplified by Leary or Crowley.
+
+[^after]: This is a bit after-the-fact rationalisation, though. Like most
+people, I started listening to music not voluntarily, but was exposed to it and
+simply liked it. Only much later did I discover its great potential and changed
+my usage.
+
+In fact, I suspect there is a strong correlation with "being spiritual" and
+"liking music". The link may be the ease with which memes can enter your brain -
+your memetic immune system, if you want. This holds true for me (I was a gnostic
+theist for a long time, having personally talked to several gods and all. It was
+a hard struggle towards logic and reason for me.) and many people I know. 
+
+Also, there is a strong connection to the amygdala and temporal lobes. I don't
+want to reiterate the point here and will just point to the awesome talks on
+neurotheology by Todd Murphy, specifically [Using Neuroscience for Spiritual
+Practice]  and [Enlightenment, Self and the Brain]. There is some great research
+popping up in recent years for sure.
+
+Honestly, I don't know how to retain my contrarian attitude here, seeing that I
+agree with the argument. You may try to attack spirituality (in the sense of
+mystic experiences, not believe in woo) as bad in itself, but this is very rare
+even among hardcore atheists and materialists. 
+
+The argument that mystic experiences will lead to pseudoscience or superstitions
+is easily disproved; just have a look at how many both scientists and mystics
+are still clearly rational. Good examples may range from Michael Persinger on
+the science side, to Sam Harris somewhere in the middle, and the Dalai Lama on
+the religious side. Sure, like any counter-intuitive and large open question,
+spirituality lends itself to false believes, but that's a general human problem,
+not something specific to the topic. The answer are good rational practices, not
+abandoning music.
+
+Conclusion
+==========
+
+In the end, one thing stands out: many attitudes towards music, and their
+rationalisation, are indistinguishable from memetic addiction. People are being
+exploited by music. It has shaped our brain for its reproductive advantages.
+Sure, we may have won the game of natural selection sometimes, but this is of
+little concern to music. The memeplex has all characteristics of a virus. It
+eats up as much of individual resources as it can without disabling its host.
+We are constantly encouraged to listen to more music, get more music, recommend
+it to our friends and so on. It spreads for the sake of spreading. Good music is
+judged not by its inherent benefits to individuals or the species, but by how
+popular it is, that is, how good it is at spreading. Being an ear worm is a
+*good* thing for music to be. If someone states they doesn't listen much to
+music, then the most common response is one of disbelief, utterances of "How
+empty and meaningless my life would be without music!", of "What is wrong with
+you? Are you depressed?", followed by hundreds of recommendations because "There
+has to be some music out there that you like! Just listen more to it!".
+
+It sure looks like the behaviour of addicts. If you are not devoted to music, at
+least a bit, you must try harder! These are memes that ruthlessly exploit their
+hosts.  Natural selection has shaped them to be highly resistant, persuasive and
+addictive. All of music theory and education is only occupied with how to make
+more popular music, how to spread it better, how to increase its impact. It
+conveys no message (or only an empty shell of one), it teaches nothing, it gives
+you nothing except pleasure. It circumvents the purpose of a reward system by
+directly stimulating it without giving something in return. It is a parasite.
+
+But what now?
+> I thought, "Okay, calm down. Let's just try on the not-believing-in-God
+> glasses for a moment, just for a second. Just put  on the no-God glasses and
+> take a quick look around and then immediately  throw them off". So I put them
+> on and I looked around.
+>
+> I'm embarrassed to report that I initially felt dizzy. I actually had the
+> thought, "Well, how does the Earth stay up in the sky? You mean  we're just
+> hurtling through space? That's so vulnerable!" I wanted to  run out and catch
+> the Earth as it fell out of space into my hands...
+> 
+> I wandered around in a daze thinking, “No one is minding the store!”  And I
+> wondered how traffic worked, like how we weren't just in chaos all  the time.
+> And slowly, I began to see the world completely differently. I  had to rethink
+> what I thought about everything. It's like I had to go  change the wallpaper of
+> my mind.
+>
+> -- Julia Sweeney, "Letting Go of God (which my title is, of course, an allusion
+> to)
+
+That's a bit how I felt at first. Really, can my reasoning be right? It *must*
+be wrong! Dvořák's 9th symphony, a parasite? ゆらゆら帝国's "Sweet Spot",
+detrimental? Demons & Wizards, really a satanic band? Impossible! And even if,
+can I ever be able to let go of them? Can I *not* listen to music? Will I not
+die of boredom, depression, isolation? Will it not cheapen my life to be
+amusical? Will nostalgia not overpower me?
+
+It began to settle in. I remember the same thing happening to religion.  Not
+praying, not talking with the gods, not feeling this sense of mystical bliss,
+this was really hard for me to accept. But it seemed the only honest thing to
+do. The only true understanding you can have. And after a while, the old way
+seemed silly. You begin to truly understand the world a bit better, not making
+excuses, running down dead ends, but learning an actual powerful lesson. Trying
+to understand or work with anything without embracing rationality and science is
+always a bad idea.
+
+Safer Use
+---------
+
+But there is something important to clarify here: Just because something is a
+parasite doesn't mean it's necessarily bad. In fact, most parasites are actually
+quite useful to their host. They share a common interest in the hosts well-being,
+after all. The crucial thing to understand, though, is that the virus is
+interested in its own replication the most. The host will always have to fight
+hard to ensure that the relationship is still symbiotic and not exploitative. 
+
+Basically, the normal safer use rules apply. Don't overdo it. Establish pauses,
+don't repeat anything too much, diversify your tastes. Avoid mainstream sources,
+which are mostly characterized by pure popularity. (And ruled by agents that
+have the moral strength of tobacco companies.) Don't mix activities too much:
+doing something "on the side", all the time, is always strong evidence that it
+has become an addiction. You know the drill - make sure you still benefit
+enough to make it worth it.
+
+The Future
+----------
+
+New habits will grow to fill the void, better habits. New memes will come. The
+world goes on.
+
+But then I found this on Youtube: [Berryz工房 - Dschinghis Khan][]
+
+Yes, it's a Japanese cover of the German song *Dschingis Khan*. I don't
+know whether they are playing it in heaven or hell, but probably both. So good,
+yet so bad... If you ever needed proof that humanity has gone batshit insane,
+well... JPOP's the end of all theology, the end of all faith. You may believe
+whatever you want why there are no gods around today, but no one, religious and
+atheist alike, ever proposed that they simply got too alienated with us. I mean,
+JPOP, for Cthulhu's sake! You had all those great ideas for humanity, visions of
+paradise, or eternal servitude, or food, or whatever, but at some point, humans
+just stopped caring about the sacrifices and the prayers and just went on
+covering 70's pop. There's no chance of redemption anymore and from that day on,
+the gods simply didn't believe in us anymore. Nyarlathotep might have given us
+the atomic bomb, but even he is freaked out by *Hello! Project*. The mad,
+monotonous music surrounding Azathoth's throne, I might have identified it.
