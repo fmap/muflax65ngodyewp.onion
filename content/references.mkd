@@ -45,4 +45,3 @@ is_hidden: true
 *[SSA]: Self-Sampling Assumption
 *[SRS]: Spaced Repetition Software (e.g. Anki)
 *[RAW]: Robert Anton Wilson
-

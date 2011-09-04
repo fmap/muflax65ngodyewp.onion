@@ -9,14 +9,14 @@ Lies and Wonderland
 ![logo](logo.jpg)   
 Yet another hypergraphic information whore's site.
 
-muflax is empty. My [LibraryThing][] profile says more about me than I ever could.
+[muflax][] is empty. My [LibraryThing][] profile says more about me than I ever could.
 You may, of course, just read this site to find out more. You can
 get in [Contact][] with me about anything, be it comments, criticisms or
 corrections.
 
 Articles are sorted by latest major modification. You can see the [Changelog]
 for any recent changes or subscribe to the [RSS Feed][RSS]. You can also read
-the [Twitter][] feed or my [Blog][] for smaller, raw thought.
+the [Twitter][] feed or my [Blog][] for raw thought in smaller chunks.
 
 <%= category :experiments %>
 <%= category :reflections %>

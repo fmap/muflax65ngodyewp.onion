@@ -29,13 +29,15 @@
           end.join(" » ") %>
     </div>
 
-    <!-- actual content -->
     <div class="main">
       <!-- epistemic and technical state -->
       <div class="episteme">
       <% if @item[:episteme] %>
       <p><span class="align_left">
-          Last modified on <%= @item[:date] %> (<%= techne @item[:techne] %>).
+          Last modified on
+          <a class='episteme' href='/changelog/'>
+            <%= @item[:date] %>
+          </a> (<%= techne @item[:techne] %>).
         </span>
         <span class="align_right">
           Epistemic state:
@@ -44,7 +46,9 @@
       </p>
       <% end %>
       </div>
-      
+
+      <!-- actual content (not indented to protect markdown) -->
+
 <%= yield %>
 
     </div>
