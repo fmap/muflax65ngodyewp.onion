@@ -2,7 +2,7 @@
 title: Speed Reading
 date: 2010-06-23
 techne: :rough
-episteme: :believed
+episteme: :broken
 ---
 
 Wait, what? Speed reading? Isn't that pseudoscience? Partially, sure. However,
@@ -43,7 +43,7 @@ Being Myselves
 --------------
 
 I then controlled for that by using series of numbers and suddenly I was able to
-read to things at the same time! For a while, rivalry happened a lot, but soon I
+read two things at the same time! At first rivalry happened a lot, but soon I
 got into mental soft focus and could read (but not parse sentences) just fine. I
 then speculated that I might be able to exploit both halves of my brain. In
 split-brain patients, who don't have a connection between their left and right
@@ -52,20 +52,21 @@ on people that tried to induce this with normal brains.
 
 Because the left side of vision (i.e. left in both eyes) is handled by the left
 hemisphere and vice versa, you can wear glasses that have either their left half
-on each glass blocked by tape or the right side, and only give visual input to
-one. This actually causes a significant effect if your two hemispheres are
-currently in disagreement. Some people with depression or anxiety were able to
-reduce it or turn it almost off temporarily while wearing such glasses! So for
-example, you feel very nervous with your therapist, block the left side,
-everything is the same, then instead block the right side, woosh!, your anxiety
-is gone. It comes right back when you take the glasses off, but still, way cool! 
+on each glass blocked by tape or the right side, and so only give visual input
+to one hemiphhere. This actually causes a significant effect if your two
+hemispheres are currently in disagreement. Some people with depression or
+anxiety were able to reduce it or turn it almost off temporarily while wearing
+such glasses! So for example, you feel very nervous with your therapist, block
+the left side, everything is the same, then instead block the right side,
+woosh!, your anxiety is gone. It comes right back when you take the glasses off,
+but still, way cool.
 
 So by being able to make each hemisphere dominant at will, you can really fuck
 with your mood. Find where your language side is (typically the left side) and
-block it - you become more empathetic and reading gets harder. Block the other,
-reading is normal, but relating to content is harder. The effect is typically
-not that large because both sides are still internally connected, but I found it
-quite noticeable.
+block it - you become more empathetic and reading gets harder. Block the other
+side, reading is normal, but relating to content is harder. The effect is
+typically not that large because both sides are still internally connected, but
+I found it quite noticeable.
 
 Anyway, I tried to improve on binocular reading by separating not only between
 eyes, but sides of vision. Let my left half of my left eye read one thing and
@@ -126,8 +127,8 @@ quantity for quality is right out. Nonetheless, it is still true that topics
 that are difficult to understand will always be read slowly, no matter the
 technique used. Reading about theoretical physics will be slow unless you have
 studied it. No speed reading technique will fix this problem. Most texts,
-however, fit nicely into your rough skill level and the limiting factor is, in
-fact, your reading, not your understanding.
+however, fit nicely into your rough skill level and the limiting factor is in
+fact your reading, not your understanding.
 
 Related to that, a common objection to speed reading is that it kills the
 enjoyment, or that maybe you are just reading too easy texts. "Why hurry
@@ -166,7 +167,7 @@ different aspects of sound:
    processing you can read much faster that way.  Personally, I believe that the
    problem is that to understand an inner or outer voice, your brain has to
    simulate sequential processesing, but the brain is only parallel. This
-   makes it all quite slow. Visual processing, on the other hand, is not - you
+   makes it all quite slow. Visual processing on the other hand is not - you
    can parse many parts of an image or scene at the same time and only
    coordinate results at the very end. Also, your visual hardware is far more
    optimized and greater in size.
@@ -288,8 +289,7 @@ speeds. I occasionally ignore the marked line and read the upcoming context
 instead, though. [Spreeder][] is also nice and maybe
 easier to use at first.       
 
-
-I would also recommend [Look, Ma; No Hands!], a book that teaches semantic
+I would also recommend [Look, Ma; No Hands!][], a book that teaches semantic
 chunking very well. It's quite short and precise. You get results very fast.
 
 To make chunking possible, you have to watch out for the right **font size**.
@@ -381,7 +381,7 @@ As material I used minor blogs I enjoyed reading, but didn't care too much about
 if I missed anything, and novels I had already read or that were kinda
 predictable. That way, if you go blank from time to time, you can find back
 into the text easily. And it's a great chance to read Twilight without any
-guilt! ;) (You can find usable novels in .txt or .pdf form in certain bays or,
+guilt! (You can find usable novels in .txt or .pdf form in certain bays or,
 for older texts, in the Gutenberg archive, for example.)
 
 It took me about a week to read 800wpm that way without missing anything. After
@@ -466,7 +466,7 @@ assemble meaning by moving into all directions, not just left-to-right.[^ltr]
 
 Once you go beyond a certain speed, it stops being uniform. I noticed that I can
 read consistently at 300-400wpm using my previous techniques, but when speed
-reading I vary among 700wpm to 1200wpm from page to page. Especially dialogue
+reading I vary between 700wpm to 1200wpm from page to page. Especially dialogue
 really slows me down. This also means that each book has its own speed, so
 measuring reading speeds in "words per minute" stops being useful. "Bits of
 information per minute" would be better, but how do you calculate that?
