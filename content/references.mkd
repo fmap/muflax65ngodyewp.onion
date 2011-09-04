@@ -19,10 +19,21 @@ is_hidden: true
 [Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
 [Spreeder]: http://www.spreeder.com
 [nanoc]: http://nanoc.stoneship.org
+[PhilPapers Survey]: http://philpapers.org/surveys/
 
-<!-- Wikipedia articles -->
+<!-- Wikipedia articles (and similar) -->
 [DXM]: http://en.wikipedia.org/wiki/DXM
 [Epistemology]: http://en.wikipedia.org/wiki/Epistemology
+[Anatta]: http://en.wikipedia.org/wiki/Anatta
+[Anicca]: http://en.wikipedia.org/wiki/Anicca
+[Dukkha]: http://en.wikipedia.org/wiki/Dukkha
+[Wang Yangming]: http://www.iep.utm.edu/wangyang/
+[Unity of Knowledge and Action]: http://www.iep.utm.edu/wangyang/#H4
+[Theravada]: http://en.wikipedia.org/wiki/Theravada
+[Trivialism]: http://en.wikipedia.org/wiki/Trivialism
+[A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
+[B-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
+
 
 <!-- internal links -->
 [RSS]: /rss.xml

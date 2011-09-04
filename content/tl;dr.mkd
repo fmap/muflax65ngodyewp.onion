@@ -6,7 +6,231 @@ techne: :incomplete
 episteme: :believed
 ---
 
-muflax likes filling out profiles about itself. Maybe it's a signaling thing.
-Who knows.
+[muflax][] likes filling out profiles about itself. Maybe it's a signaling
+thing. Who knows.
 
+# Philosophical Background
+
+Philosophically, my strongest early influence comes from Satanism and
+Discordianism. I tried to, but never really got Nietzsche and felt very much at
+home when reading Robert Anton Wilson. Later on, I picked up many Buddhist
+influences (Zen at first, later mostly [Theravada][]) and some Taoism. I belong to
+no school of thought and my belief system is very idiosyncratic, with most
+pieces coming from Theravada Buddhism, Discordianism and different schools of
+Rationality (mostly Bayesian, though).
+
+I was motivated at first by fascinating problems, then making sense of madness,
+understanding consciousness and fate[^why_fate], and right now, purpose.
+
+[^why_fate]:
+    To clarify, I'm not interested in "What is fate?", but "Why do I perceive
+    the world ordered in a way that is consistent with fate?". 
+
+For me, the most important non-obvious philosophers are the Buddha (who I
+believe to be fiction and do not identify with Siddharta Gautama), for the three
+principles of [Anatta][], [Anicca][] and [Dukkha][], and [Wang Yangming][] for
+the [Unity of Knowledge and Action][]. Without those, no understanding of the world
+is ever possible.[^understanding]
+
+[^understanding]: Interestingly, I don't believe anymore that these 4 are
+    necessarily all correct, but only that they forced me to think about my mind
+    and behaviour in a way to break through very serious misconceptions. I hope
+    to clarify eventually what I think about each of them, once I worked them
+    out in more detail and cleared up several problems I'm having right now.
+
+Survey
+======
+
+Based on the [PhilPapers Survey][], a bunch of common questions and my position
+on them.
+
+A priori knowledge?
+-------------------
+
+No. There is no such thing as knowledge without experience. Truth is not an
+independent property of statements, but the ability to use them to anticipate
+future experiences. In other words, a map is true if I can use it to navigate.
+It is meaningless to speak about the truth of a map that doesn't have a
+territory.
+
+Abstract objects: Platonism or nominalism?
+------------------------------------------
+
+Neither. Abstract objects don't exist, period. Or rather, what do you anticipate
+either way? Can you even point at an abstract object? There isn't even a
+phenomenon in need of explanation.
+
+Aesthetic value: objective or subjective?
+-----------------------------------------
+
+Subjective. See my view on morality.
+
+Analytic-synthetic distinction: yes or no?
+------------------------------------------
+
+No, as a priori knowledge does not exist.
+
+Epistemic justification: internalism or externalism?
+----------------------------------------------------
+
+Neither. There is no such thing as a distinction between mind and environment.
+
+External world: idealism, skepticism, or non-skeptical realism?
+---------------------------------------------------------------
+
+Meaningless distinction.
+
+Free will: compatibilism, libertarianism, or no free will?
+----------------------------------------------------------
+
+There is no free will. It isn't even a useful illusion. It just isn't there.
+
+God: theism or atheism?
+-----------------------
+
+For a time, I thought that certain concepts could be justifiably believed that
+might be called "god", so that, under certain perspectives, you could call me a
+theist. I now realized that I was never justified in *even asking the question*.
+There is simply no evidence in need of an explanation to bring in the god
+hypothesis, so having any believes in that regard is mistaken, including a
+rejection of god.
+
+Knowledge: empiricism or rationalism?
+-------------------------------------
+
+Strongly lean towards empiricism. I consider it very important, but it seems to
+be not exhaustive. I'm still open to alternatives.
+
+Knowledge claims: contextualism, relativism, or invariantism?
+-------------------------------------------------------------
+
+Meaningless. The concept of "truth" is nonsense. See "a priori knowledge". 
+
+Laws of nature: Humean or non-Humean?
+-------------------------------------
+
+Humean, in the sense that there are no objective laws of nature. All order is
+fictitious.
+
+Logic: classical or non-classical?
+----------------------------------
+
+Very strongly non-classical. Classical logic is horribly broken. I'm undecided
+about alternatives. Maybe even just a finitist version of classical knowledge
+might do. Replacing "truth" with "provability" is a good first step. (A
+challenge: if you believe [Trivialism][] is false, find an argument a trivialist
+can't see as support for trivialism.)
+
+Mental content: internalism or externalism?
+-------------------------------------------
+
+Meaningless distinction.
+
+Meta-ethics: moral realism or moral anti-realism?
+-------------------------------------------------
+
+Moral nihilism. There is no such thing as morality and you should abandon the
+very concept. In other words, there are agents, they may or may not have
+preferences, and there are rational ways of negotiating these preferences (via
+decision theory, economics, etc.). That is all there is.
+
+Metaphilosophy: naturalism or non-naturalism?
+---------------------------------------------
+
+Naturalism, in the sense that there is no "magic" or fundamental "mystery" that
+is unresolvable. I strongly doubt that proponents of non-naturalism believe it
+or understand what they are saying. As such, the distinction seems to be
+"understands what an explanation is" and "doesn't", so having a position on this
+is probably silly.
+
+Mind: Anti-physicalism or physicalism?
+--------------------------------------
+
+Physicalism, but not necessarily computationalism.
+
+To further clarify, I fully support that "the mind is what the brain does" and
+there is no such thing as a separate mind floating around somewhere, but I feel
+that a pure algorithmic description of the brain can't explain *all* aspects of
+the mind, regardless of computability.
+
+Moral judgment: cognitivism or non-cognitivism?
+-----------------------------------------------
+
+Varies, but moral statements are generally non-cognitive. But as mentioned, I'm
+a moral nihilist.
+
+Moral motivation: internalism or externalism?
+---------------------------------------------
+
+Neither. Again, moral nihilism.
+
+Newcomb's problem: one box or two boxes?
+----------------------------------------
+
+The only two reasons to ever pick two boxes, as I see it, are that you either
+don't trust the oracle, in which case you don't understand the question, or that
+you think you can break causality, in which case, good luck with that and let me
+know if you succeed.
+
+Normative ethics?
+-----------------
+
+None. Again, moral nihilsm. Though I have a lot of sympathy for virtue
+ethics.
+
+Personal identity?
+------------------
+
+Depends on what you mean by "self". One "self" has a name, a job, status,
+friends, memories and so on. This one is linguistically constructed. Another has
+experiences. I have no idea how that one works in detail. If I didn't live in a
+social context that demanded that I maintain a "self" persona, then I wouldn't
+even bother at all. I do not have any experience of a "self" in any meaningful
+way.
+
+Politics?
+---------
+
+None. All political systems fail. Solving problems through ideology never works.
+Solve them through experiments.
+
+Teletransporter (new matter): survival or death?
+------------------------------------------------
+
+Rebirth. Literally.
+
+Time: A-theory or B-theory?
+---------------------------
+
+Tend towards [A-theory][]. [B-theory][] is very elegant, but it's main problem
+is that it suggests a general graph of events. Therefore, if you only knew that
+the universe was B-theoretic, you would expect to find time-loops, but not a
+solid arrow of time. You can introduce a bridging law, but that makes B-theory
+much less elegant.
+
+Trolley problem: switch or don't switch?
+----------------------------------------
+
+Neither, in the sense that there is no such thing as something one "ought" to
+do. Realistically, I would freeze up and let the default happen, just like
+pretty much everyone.
+
+P-Zombies?
+----------
+
+The Zombie position can be separated into two distinct ideas, a strong and a
+weak one.
+
+The strong (and original) position is that of zombies being externally
+absolutely identical. You couldn't, through no experiment whatsoever, figure out
+if you are dealing with a zombie or not. Neither could the zombie themselves.
+This is Chalmers' position and complete bonkers.
+
+A weaker position, however, is far more interesting. Exactly how necessary is
+consciousness, really? Could you build something that does more or less the same
+things as a human, e.g. can reason, use memory, simulate outcomes, talk and so
+on, but is completely unconscious? Maybe. I strongly suspect that most aspects
+of the human mind can be implemented in an unconscious way (or already are). As
+such, assuming all people at all times to be conscious is almost certainly
+false.  Exactly what role consciousness plays, however, I don't know.
 
