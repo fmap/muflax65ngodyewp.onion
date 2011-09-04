@@ -58,3 +58,9 @@ watcher:
   # When to send notifications (using Growl or notify-send).
   notify_on_compilation_success: false
   notify_on_compilation_failure: false
+
+# deploying the site
+deploy:
+  default:
+    dst: muflax:~/www/static
+    options: ['-gpPrtvz', '--delete']
