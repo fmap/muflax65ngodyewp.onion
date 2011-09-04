@@ -34,14 +34,15 @@
       <div class="episteme">
       <% if @item[:episteme] %>
       <p><span class="align_left">
-          Last modified on
+          Last modified:
           <a class='episteme' href='/changelog/'>
             <%= @item[:date] %>
           </a> (<%= techne @item[:techne] %>).
         </span>
         <span class="align_right">
           Epistemic state:
-          <a class='episteme' href='/episteme/'><%= @item[:episteme] %></a>.
+          <a class='episteme' href='/episteme/'>
+            <%= episteme @item[:episteme] %></a>.
         </span>
       </p>
       <% end %>

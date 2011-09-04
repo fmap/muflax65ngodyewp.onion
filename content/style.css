@@ -83,6 +83,9 @@ ol p {
 .align_right {
     float: right;
     text-align: right;
+}
+
+ul.table .align_right {
     margin-right: 1em;
 }
 

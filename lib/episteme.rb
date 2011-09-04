@@ -13,14 +13,17 @@ def techne status
   end
 end
 
+def episteme status
+  case status
+  when :broken
+    "semi-believed"
+  when :discredited
+    "not believed"
+  else
+    status.to_s
+  end
+end
+
 def episteme_cat status
-  s = case status
-      when :broken
-        "partly believed"
-      when :discredited
-        "not believed"
-      else
-        status.to_s
-      end
-  "[#{s}][Epistemic State]{:.episteme}"
+  "[#{episteme status}][Epistemic State]{:.episteme}"
 end
