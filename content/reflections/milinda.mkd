@@ -1,4 +1,9 @@
-% Origin of the Buddha's teachings
+---
+title: Milinda and the Minotaur
+date: 2011-04-09
+techne: :rough
+episteme: :fiction
+---
 
 One question plagues me, plagues me more than anything else. It undermines my
 rationality, casts doubt on all that I believe. Let me tell you a little story
@@ -223,7 +228,7 @@ For a while, I thought I wielded not just Occam's razor, but Occam's meat
 cleaver. The power of the Unjustified Focus was so strong, I could take apart
 whole traditions in one precise strike. But then one thought came up, and with
 it doubt, a little at first, then more and more, until I realized that Eris had
-successfully stolen the cleaver right out of my hand and cut me in two. 
+successfully stolen the cleaver right out of my hand and cut me in two.
 
 "Does the Unjustified Focus really only go one way?"
 
@@ -274,9 +279,4 @@ It seems impossible. On what knowledge could the Buddha have built his
 teachings? He didn't know neuroscience. He didn't know evolution. He predates
 all of science. Yet, his teachings are *true*. How can this be?
 
-
 And I think of Thích Quảng Đức. He didn't even move. Desire can be overcome.
-
-
-Oh, and btw. The monster is real. I have met it. It is quite nice and has some
-very interesting things to say. May you encounter it one day, too!
