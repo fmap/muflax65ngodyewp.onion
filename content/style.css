@@ -111,15 +111,6 @@ ul {
     padding-left: 1em;
 }
 
-/* colors for techne states */
-span.techne_done {
-    color: green;
-}
-
-span.techne_rough {
-    color: red;
-}
-
 em {
     color: #562D6F;
     font-style: italic;
