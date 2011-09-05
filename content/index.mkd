@@ -1,7 +1,7 @@
 ---
 title: Lies and Wonderland
 short_title: muflax
-is_category: true
+non_cognitive: true
 ---
 
 ![logo](logo.jpg)   
