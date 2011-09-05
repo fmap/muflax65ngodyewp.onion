@@ -35,9 +35,18 @@ div.title {
     position: absolute;
     top: 0;
     left: 0;
-    font-size: 1.7em;
     line-height: 1.3;
     text-align: center;
+}
+
+a:link.title, a:hover.title, a:visited.title, a:active.title {
+    font-size: 1.7em;
+    color: #d9d9d9;
+}
+
+/* don't underline titles */
+a:link.title, a:visited.title, a:active.title {
+    text-decoration: none;
 }
 
 div.footnotes {
