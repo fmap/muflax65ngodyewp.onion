@@ -23,7 +23,11 @@ is_hidden: true
 [Berryz工房 - Dschinghis Khan]: http://www.youtube.com/watch?v=b7pui9Q6Vbo
 [Using Neuroscience for Spiritual Practice]: http://video.google.com/videoplay?docid=1030598948823323439
 [Enlightenment, Self and the Brain]: http://video.google.com/videoplay?docid=5474604744218568426
-
+[bible.org]: http://bible.org/netbible/index.htm
+[How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
+[tripzine]: http://www.tripzine.com/listing.php?smlid=268 
+[Breaking the Spell]: http://www.philosophypress.co.uk/?p=1001
+[Swartz Dennett]: http://www.aaronsw.com/weblog/dennettdumb
 
 
 <!-- Wikipedia articles (and similar) -->
@@ -38,7 +42,16 @@ is_hidden: true
 [Trivialism]: http://en.wikipedia.org/wiki/Trivialism
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
 [B-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
-
+[Julian Jaynes]: http://en.wikipedia.org/wiki/Julian_Jaynes
+[Sathya Sai Baba]: http://en.wikipedia.org/wiki/Sathya_Sai_Baba
+[Marcion]: http://en.wikipedia.org/wiki/Marcion_of_Sinope
+[Simon Magus]: http://en.wikipedia.org/wiki/Simon_Magus
+[Arising and Passing Away]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/The%20Arising%20and%20Passing%20Away?p_r_p_185834411_title=The%20Arising%20and%20Passing%20Away
+[Robert M. Price]: http://robertmprice.mindvendor.com
+[Tathagata]: http://en.wikipedia.org/wiki/Tath%C4%81gata
+[Langton's Ant]: http://en.wikipedia.org/wiki/Langton's_ant
+[Multiple Drafts]: http://www.scholarpedia.org/article/Multiple_drafts_model
+[Vilayanur S. Ramachandran]: http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran
 
 <!-- internal links -->
 [RSS]: /rss.xml

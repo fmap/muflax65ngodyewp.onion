@@ -8,8 +8,13 @@ All major changes on the site
 
 {:#changelog}
 - 2011/09/04: Converted whole site to [nanoc][]. Most of the content got
-  re-organized, but not widely changed.
+  re-organized, but not widely changed. The design is reasonably the same, with
+  some minor tweaks. The navigation bar is now at the bottom to deal with some
+  footnote issues.
 
   Every page has an [Epistemic State][] now. This is an important step to
-  convert this into proper long-term content.
-
+  convert this into proper long-term content. Sites are also dated now.
+  
+  I added the story [Milinda and the Minotaur][] I wrote some time ago, but
+  never felt like publishing. Thanks to [epistemic states][Epistemic State]
+  though, I now can.

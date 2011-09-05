@@ -1,11 +1,16 @@
-% Consciousness Explained
+---
+title: Consciousness Explained
+date: 2010-05-13
+techne: :done
+episteme: :discredited
+---
 
 This is a little series of thoughts on the book "Consciousness Explained" by
 Daniel Dennett. I was having a lot of problems the first time through and gave
 up in a rage, but enough people I respect recommended the book. So to find out
 if it's just me and my personal bias, I started to read it again, giving Dennett
 more credit than before. I comment on most of the book, but might skip parts I
-simply agree with and have nothing to say about.  I planned to have at least a
+simply agree with and have nothing to say about. I planned to have at least a
 detailed criticism the second time through, but actually was influenced so much
 by it that it quite literally changed my life and whole way of thinking, trying
 to sort it all out and somehow refute Dennett.
@@ -143,7 +148,7 @@ Susan Blackmore has extensive drug and meditation experiences, as has Sam Harris
 and almost everyone else I know that is interested in some aspect of their own
 mind. I find it really hard to imagine the mindset of a person that wants to
 understand minds, yet doesn't start hacking their own one right away. The term
-"ivory tower academic" never seemed more appropriate. 
+"ivory tower academic" never seemed more appropriate.
 
 But back to the book itself. As I mentioned, I was still, at least partially,
 convinced I had experienced strong hallucinations before. So is Dennett's
@@ -171,7 +176,7 @@ called "Psychoanalysis":
 > [in spite of the final t, applying the noncontradiction override] When the
 > dupe returns to the room and begins questioning, he gets a more or less
 > random, or at any rate arbitrary, series of yeses and noes in response. The
-> results are often entertaining.  Sometimes theprocess terminates swiftly in
+> results are often entertaining. Sometimes theprocess terminates swiftly in
 > absurdity, as one can see at a glance by supposing the initial question asked
 > were "Is the story line of the dream word-for-word identical to the story line
 > of War and Peace?" or, alternatively, "Are there any animate beings in it?" A
@@ -195,7 +200,7 @@ intentions, geometric patterns and so on), and this isn't particularly hard, you
 really only need to cut off the regular input (as when sleeping), then the
 narrative parts of the brain are in quite a tricky situation. Their job is to
 make sense of all that, rationalizing both the outside world and your own
-behaviour.  This is crucial in social situations; you really wanna figure out
+behaviour. This is crucial in social situations; you really wanna figure out
 fast who is plotting against you and whom you can trust. In fact, it is so
 useful, that even quite a bit of false positives isn't so bad. Some paranoia or
 thinking your PC hates you isn't so bad and can even help you analyze situations
@@ -205,13 +210,13 @@ given (pseudo-)random noise, it will impose any story it thinks is most natural,
 i.e. most of the time other human(oid)s, recent emotions and so on. This is
 exactly how dreams work and, in fact, most drug-induced hallucinations as well.
 The exact distortion and resulting flexibility in making up a good story depends
-on the drug, of course, and is quite interesting in itself. 
+on the drug, of course, and is quite interesting in itself.
 
 But does this really explain my own strong hallucinations? I was reluctant to
-accept this at first, but now have to agree with Dennett here.  Thinking back,
+accept this at first, but now have to agree with Dennett here. Thinking back,
 and based on the most recent experiments, I am forced to concede this point. I
 never met an agent, or phenomenon at all, that was able to act against my own
-will. James Kent describes this on [tripzine]:
+will. James Kent describes this on [tripzine][]:
 
 > However, the more I experimented with DMT the more I found that the "elves"
 > were merely machinations of my own mind. While under the influence I found I
@@ -226,10 +231,10 @@ will. James Kent describes this on [tripzine]:
 > any piece of data I did not already know, nor could their existence be
 > sustained under any kind of prolonged scrutiny. Like a dream, once you realize
 > you are dreaming you are actually slipping into wakefulness and the dream
-> fades. So it is with the elves as well.  When you try to shine a light of
+> fades. So it is with the elves as well. When you try to shine a light of
 > reason on them they dissolve like shadows.
 
-And so I gave up on believing in them, as reality, as Philip K.  Dick said, "is
+And so I gave up on believing in them, as reality, as Philip K. Dick said, "is
 that which, when you stop believing in it, doesn't go away". One last thought
 one the topic, though: Dennett contradicts himself here. If it is so relatively
 easy to lie to the brain, to convince it to see patterns that aren't there - and
@@ -255,7 +260,7 @@ Descartes' mind vs. matter, or a more toned down version Dennett calls the
 central place where consciousness happens, a seat of the "I", if you will. It is
 unfortunate that we still have to deal with this (even though it has been
 dismantled by Greek, Indian and many other thinkers for at least 2000 years),
-but the illusion is still powerful and has to be addressed. 
+but the illusion is still powerful and has to be addressed.
 
 I also want to add that Dennett's point here (and later on, when he goes into
 the details) is that there is no one central point _where consciousness
@@ -321,13 +326,12 @@ like:
 > all blurry!" Now didn't you use an image or fleeting diagram of some sort to
 > picture the mistake the speaker was making?
 
-I didn't. Humor, or stories in general, tend to be non-visual for
-me. They happen "as language", not "as vision", if that makes any
-sense. But for other experiences he doesn't emphasize the visual
-component and I wonder, doesn't he have one there? He talks a lot
-about music and tones, but never mentions seeing music, which I do,
-to a degree. Different tones *look* different to me, but they don't
-*sound* very different - and least not in any meaningful way.[^vis]
+I didn't. Humor, or stories in general, tend to be non-visual for me. They
+happen "as language", not "as vision", if that makes any sense. But for other
+experiences he doesn't emphasize the visual component and I wonder, doesn't he
+have one there? He talks a lot about music and tones, but never mentions seeing
+music, which I do, to a degree. Different tones *look* different to me, but they
+don't *sound* very different - and least not in any meaningful way.[^vis]
 
 Now, this in itself is not a problem - different parts of the brain doing the
 parsing and so on, which (for a multitude of reasons) is very different among
@@ -354,11 +358,11 @@ very idea, that like we mean the same animal when we say "dog" (with small
 caveats), we mean the same mental state when we say "think of a dog", is, to me,
 almost absurd. There is some functional equivalence going on, sure, otherwise
 communication would be impossible, but the exact implementations vary so much
-that such a catalogue is doomed from the start. 
+that such a catalogue is doomed from the start.
 
 There is a common advice among users of strong hallucinogenic drugs: If you feel
 something discomforting and can't figure out what it is - like you never had
-this experience before? Almost certainly, you just have to pee.  "When in doubt,
+this experience before? Almost certainly, you just have to pee. "When in doubt,
 go to the toilet." has so far never let me down, even though the same thing has
 felt very different every time.
 
@@ -369,30 +373,30 @@ Die Entdeckung der Langsamkeit
 > didn't want to give them an excuse to throw the book across the room. I wanted
 > them to feel a little bit bad about their throwing it across the room, maybe
 > go and retrieve it and think well, hang on, yes, this irritated me but maybe I
-> don't have the right to be irritated. 
+> don't have the right to be irritated.
 >
-> -- Daniel Dennett, about [Breaking the Spell]
+> -- Daniel Dennett, about [Breaking the Spell][]
 
 Although Dennett meant a different book, he still pretty much sums up how I feel
 about "Consciousness Explained". If I actually owned his book, I literally would
-have thrown it against the wall. Multiple times, in fact. 
+have thrown it against the wall. Multiple times, in fact.
 
 But the more I came to think about it and analyzed *why* I disagreed so much
 with him, the more I realized that I really had very poor reasons to do so. No
 matter how weak I thought his arguments were, I couldn't just reject them
-without good arguments of my own, and I found out I didn't have any! 
+without good arguments of my own, and I found out I didn't have any!
 
 To get a better idea of the context Dennett operates in, I needed to first know
 all current models of consciousness, which lead to a *tremendous* amount of
 reading. I spent a good 4 months or so going through many books per week, trying
 to develop a better understanding of the topic, and mostly, to understand my own
-motivations and beliefs.  
+motivations and beliefs.
 
 No matter how much of his work I might find myself agreeing with in the future,
 I already am glad I stuck with the book. Dennett raised all hell in my brain and
 demonstrated to me quite clearly that I have been in heavy rationalization mode
 for some time now. I will have to deconstruct and tear apart a lot more until I
-reach internal consistency again, so let's go on! 
+reach internal consistency again, so let's go on!
 
 Multiple Drafts and Central Meaning
 -----------------------------------
@@ -417,20 +421,20 @@ Turing machine.
 
 *How can that be?!* It completely surprises me. Such ideas go clearly against my
 own experiences, clash with all of my introspections, have been widely and
-thoroughly taking apart in all the traditions about consciousness *I* seem to
-be aware of, like from Buddhism, Christian and Gnostic mysticism, the whole drug
+thoroughly taking apart in all the traditions about consciousness *I* seem to be
+aware of, like from Buddhism, Christian and Gnostic mysticism, the whole drug
 culture and so on. Really, most of the time the first things a mystic is gonna
 tell you is that reality is not fundamental, but can be taken apart, that your
 perceptions, emotions and thoughts are independent processes and not *you* and
-that the sense of self, the ego, can entirely disappear[^ego]. In fact,
-the belief in the self is the very first thing on the way to nirvana a Buddhist
-has to overcome. It can take many forms, but the basic experience of selfless
+that the sense of self, the ego, can entirely disappear[^ego]. In fact, the
+belief in the self is the very first thing on the way to nirvana a Buddhist has
+to overcome. It can take many forms, but the basic experience of selfless
 existence is one thing really *every* mystic or guru or saint has ever said or
 written something about that I just thought it to be common knowledge. How could
 you *not* know this? Did you also not know that the sun rises in the
 east?[^meaning]
 
-Pandemonium
+Pandaemonium
 ------------
 
 The crucial part in Dennett's draft, I think, is the chaotic and decentral
@@ -438,7 +442,7 @@ nature of it. There isn't "one" mind or "one" meaner that does all the meaning,
 but many small, independent circuits, often only temporary units that realign
 themselves constantly, that cooperate, but also compete with each other for
 dominion in the brain. The ultimate results are just the winner of that battle
-and may shift or even disagree all the time. 
+and may shift or even disagree all the time.
 
 This is an astonishing fact, without which *no* action of the brain can ever be
 properly understood. Still, it took Dennett, what?, 250 pages to get there?
@@ -462,7 +466,7 @@ effectively trying to upgrade a broken system not by fixing it, but by slowly,
 tenuously, working around its bugs. The *proper* solution would be to get rid of
 the system altogether! Destroy their superstitions, make all their assumptions
 crash and contradict each other, lead them into a state of pure chaos from which
-nothing old can ever emerge again! Operation Mindfuck! 
+nothing old can ever emerge again! Operation Mindfuck!
 
 But we don't do this. Buddhism understood this perfectly. *First* you must make
 the student enlightened, *then* you can teach them about their mind and
@@ -470,7 +474,7 @@ meta-physics and so on. The Buddha never discussed any teaching with a beginner,
 simply because it would be impossible. Only *after* you have a prepared mind can
 you understand the problem properly. But nothing of this sort happens in modern
 science. No neuroscientist is required to learn meditation, or take courses on
-philosophy, or given a spiritual challenge: "You are going to take DMT, and
+philosophy, or is given a spiritual challenge: "You are going to take DMT, and
 until you can properly deal with it, your research will be considered worthless.
 When you stop screaming and sobbing like a baby and can sit calmly through it,
 we'll read your paper. Otherwise, you haven't even *seen* the real mind, so what
@@ -480,27 +484,30 @@ And this shows, again and again. Because of this we get clusterfucks like the
 Beyond Belief conference, on which I can really only quote Scott Atran[^atran]:
     
 > I certainly don't see in this audience the slightest indication that people
-> here are emotionally, intellectually equipped to deal with the facts of
-> changing human knowledge in the context of unchanging human needs, that
-> haven't changed much since the Pleistocene. And I *don't* see that there's any
-> evidence that science is being used to try to understand the people you are
-> trying to convince to join you. So, for example, the statements we've heard
-> here about Islam, in this audience, are worse than any comic book statements
-> that I've heard about it and make the classic comic books look like the
-> Encyclopedia Britannica. Statements about who the Jihadis are, who a suicide
-> bomber is, what a religious experience is; except for one person, you haven't
-> the slightest idea, you haven't produced one single fact, you haven't produced
-> one single bit of knowledge, not a single bit. Every case provided here is an
-> N of 1, our own intuition, except for Rama[^rama], who had an N of 2 (one
-> brain patient). Luckily, we had *some* diversity. And from there,
-> generalizations are made about religion, about what to do about religion,
-> about how science is to engage or not engage religion, about what is rubbish
-> and what is not. It strikes me that if you ever wanted to be serious and you
-> want to engage the public to make it a moral, peaceful and compassionate
-> world, you've gotta get real. You've got to get some data. You've got to get
-> some knowledge. And you can't trust your own intuitions about how the world
-> is. Be scientists! There is no indication whatsoever that anything we've heard
-> shows any evidence of scientific inquiry.
+> here are emotionally (or) intellectually equipped to deal with the facts of
+> changing human knowledge in the context of unchanging human needs; (needs)
+> that haven't changed much since the Pleistocene. And I *don't* see that
+> there's any evidence that science is being used to try to understand the
+> people you are trying to convince to join you.
+>
+> So, for example, the statements we've heard here about Islam, in this
+> audience, are worse than any comic book statements that I've heard about it
+> and make the classic comic books look like the Encyclopedia Britannica.
+> Statements about who the Jihadis are, who a suicide bomber is, what a
+> religious experience is; except for one person, you haven't the slightest
+> idea, you haven't produced one single fact, you haven't produced one single
+> bit of knowledge, not a single bit. Every case provided here is an N of 1, our
+> own intuition, except for Rama[^rama], who had an N of 2 (one brain patient).
+>
+> Luckily, we had *some* diversity. And from there, generalizations are made
+> about religion, about what to do about religion, about how science is to
+> engage or not engage religion, about what is rubbish and what is not. It
+> strikes me that if you ever wanted to be serious and you want to engage the
+> public to make it a moral, peaceful and compassionate world, you've gotta get
+> real. You've got to get some data. You've got to get some knowledge. And you
+> can't trust your own intuitions about how the world is. Be scientists! There
+> is no indication whatsoever that anything we've heard shows any evidence of
+> scientific inquiry.
 
 Evasion
 =======
@@ -537,19 +544,19 @@ I'm sure Dennett would answer that this is a meaningless question to ask and
 that's exactly what's infuriating me so much about the book. To me, that is a
 perfectly obvious and most important question to ask! The problem is essentially
 that Dennett seems to believe that giving a full description is *enough*. It
-*isn't*. This is most clearly demonstrated, in my opinion, by [Langton's Ant].
+*isn't*. This is most clearly demonstrated, in my opinion, by [Langton's Ant][].
 
 Basically, Langton's Ant is a little ant on an infinite 2-dimensional grid.
 Every step, it will look at the color of the field it is on: if it is white, it
 colors it black and turns left, or if it is black, it colors it white and turns
-right. Afterwards, it moves one field straight ahead and then repeats itself. 
+right. Afterwards, it moves one field straight ahead and then repeats itself.
 
 There, I just gave you a *full description* of the universe of Langton's Ant. I
 left nothing out, all the rules are in there. If you want, you can build your
 own genuine Ant from that, without anything missing. But then you observe the
 ant and the following happens:
 
-![Langton's Ant builds a highway](LangtonsAnt.png)
+![Langton's Ant builds a highway](/reflections/LangtonsAnt.png)
 
 Once the highway is started, the ant will build nothing else anymore. This
 *seems* to be true for all possible starting grids, and it has been proven that
@@ -629,42 +636,39 @@ points out more the failing of its competition than comes with any strengths of
 its own, and so just like Linux, is **highly recommended**. It's what it does to
 your mind that counts, not what it actually is.
 
-[^functionalism]: 
-    This chapter makes it look like I have lost all hope in functionalism, but
-    that's probably a bit to pessimistic just now. Functionalism has lead to
-    great discoveries and contains many valuable insights, particularly for AI
-    research, so I'm still sure that it's a worthwhile endeavour for some time
-    to come, but I do have severe doubts that it will succeed in the end to
-    explain consciousness. I see no indication so far that it is even powerful
-    enough to do that, but we'll have to see. There's no reason to abandon
-    something that still produces results.
+[^functionalism]: This chapter makes it look like I have lost all hope in
+    functionalism, but that's probably a bit to pessimistic just now.
+    Functionalism has lead to great discoveries and contains many valuable
+    insights, particularly for AI research, so I'm still sure that it's a
+    worthwhile endeavour for some time to come, but I do have severe doubts that
+    it will succeed in the end to explain consciousness. I see no indication so
+    far that it is even powerful enough to do that, but we'll have to see.
+    There's no reason to abandon something that still produces results.
 
-[^dmt]: 
-    This is quite close to what many Ayahuasca groups do. Everyone is required
-    to drink it at least once a week, and for quite a while, they are probably
-    going to die and go right through hell again and again, until their soul has
-    become pure and they can begin to learn. This is a rather harsh treatment,
-    but it works exceptionally well.
+[^dmt]: This is quite close to what many Ayahuasca groups do. Everyone is
+    required to drink it at least once a week, and for quite a while, they are
+    probably going to die and go right through hell again and again, until their
+    soul has become pure and they can begin to learn. This is a rather harsh
+    treatment, but it works exceptionally well.
 
-[^meaning]:
-    But then, really, it shouldn't have surprised me. This mainstream ignorance
-    was exactly what drove me away from many scientists (but not science) and
-    intellectuals. Many times did I experience how a group of generally smart
-    people would read a text about or by someone who had a mystic experience,
-    and it doesn't matter whether the mystic content is just incidental or the
-    only point, and they would completely *miss it*. I didn't even believe this
-    for years because it is so obvious to me. They may read the Gospel of John,
-    or talk about the ideas of St. Augustine, or discuss the purpose of
-    monasteries, and they either never bring up the mystic content or dismiss it
-    as poetic language. How someone can read the Gospel of John as a *political*
-    text is beyond me. I would just listen, confused, how they'd discuss some of
-    Jesus' teaching, say about the kingdom of god for example, and bring forth
-    all kinds of interpretations; that it is a political vision (maybe a new
-    state for the oppressed people, or an early form of communism), or that it
-    is cult rhetoric, or a moral teaching, or a literary metaphor to drive home
-    a certain point in his parables, and so on, all taking seriously at least as
-    *possible* interpretations which would now have to be justified or
-    criticised. It never seemed to occur to them at all that Jesus *meant
+[^meaning]: But then, really, it shouldn't have surprised me. This mainstream
+    ignorance was exactly what drove me away from many scientists (but not
+    science) and intellectuals. Many times did I experience how a group of
+    generally smart people would read a text about or by someone who had a
+    mystic experience, and it doesn't matter whether the mystic content is just
+    incidental or the only point, and they would completely *miss it*. I didn't
+    even believe this for years because it is so obvious to me. They may read
+    the Gospel of John, or talk about the ideas of St. Augustine, or discuss the
+    purpose of monasteries, and they either never bring up the mystic content or
+    dismiss it as poetic language. How someone can read the Gospel of John as a
+    *political* text is beyond me. I would just listen, confused, how they'd
+    discuss some of Jesus' teaching, say about the kingdom of god for example,
+    and bring forth all kinds of interpretations; that it is a political vision
+    (maybe a new state for the oppressed people, or an early form of communism),
+    or that it is cult rhetoric, or a moral teaching, or a literary metaphor to
+    drive home a certain point in his parables, and so on, all taking seriously
+    at least as *possible* interpretations which would now have to be justified
+    or criticised. It never seemed to occur to them at all that Jesus *meant
     exactly what he said*, that he was really speaking of the kingdom of god,
     something he had experienced himself and was now reporting on, not something
     he had invented in any way or wanted to establish, even though he warns
@@ -673,15 +677,14 @@ your mind that counts, not what it actually is.
     these things as a given. *Of course* they exist, I had seen the kingdom,
     that's what got me interested in learning more about it in the first place.
     Surely you all have, too? Wait, no? You are puzzled what he could have
-    possible meant? What?! 
+    possible meant? What?!
 
     Dennett harshly reminds me of this myopia, most profoundly demonstrated by
     philosophers. They have never even seen the terrain, yet they try to draw a
     map anyway. No wonder Dennett has to take apart so many ideas I didn't even
     consider worth mentioning. I now feel sympathy for Dennett.
 
-[^ego]: 
-    This is often called "ego death" in hallucinogen culture, but also being
+[^ego]: This is often called "ego death" in hallucinogen culture, but also being
     "born again" in Christian tradition and many other things. It is in my
     opinion the defining experience behind all mysticism and the first and most
     important requirement for any spiritual progress. The best indicator is
@@ -690,11 +693,8 @@ your mind that counts, not what it actually is.
     or much worry in general.
 
 [^md]: Dennett has written another good explanation of the multiple drafts model
-    for [Scholarpedia] including some updates and corrections. I'm not going to
-    reiterate it here.
-    
-[Scholarpedia]: http://www.scholarpedia.org/article/Multiple_drafts_model
-
+    for [Scholarpedia][Multiple Drafts] including some updates and corrections.
+    I'm not going to reiterate it here.
 
 [^unity]: Later on, Dennett writes, "To begin with, there is our personal,
     introspective appreciation of the 'unity of consciousness', which impresses
@@ -703,21 +703,21 @@ your mind that counts, not what it actually is.
     and with my eyes open is the same stuff: brain circuitry.". This is shortly
     followed up with this exercise for the reader: "If all you know is your own
     brain programs operating, the whole universe you experience is inside your
-    head.  Try to hold onto that model for at least an hour. Note how often you
+    head. Try to hold onto that model for at least an hour. Note how often you
     relapse into feeling the universe as *outside* you."
  
 [^det]: As a little side note, he did the same thing when arguing that "free
     will" still exists in a deterministic world. Our world is not deterministic
     (it is, at best, probabilistic) and his re-definition of free will to
     something useful in practice because he doesn't want to face reality is very
-    weak. 
+    weak.
     
     That's like arguing that, while impossible in principle, I can still measure
     the momentum of an atom with enough accuracy I would ever need in practice,
     therefore I can ignore all the implications of quantum physics. A weak
     excuse to save his own world view instead of facing the weirdness of
-    reality. Also, [Aaron Swartz](http://www.aaronsw.com/weblog/dennettdumb)
-    has a nice and simple comment on that.
+    reality. Also, [Aaron Swartz][Swartz Dennett] has a nice and simple comment
+    on that.
 
     Dennett even goes on to state that in a deterministic world, some events may
     actually be _uncaused_, i.e. you can not find a specific cause for them. He
@@ -768,7 +768,7 @@ your mind that counts, not what it actually is.
     down to the subatomic level, of course, where you will find a guaranteed
     proper effect) Or, you go on to create a more abstract framework and
     investigate what the cause for a major diplomatic catastrophe of that
-    magnitude is, without including any specifics.  
+    magnitude is, without including any specifics.
     
     He confuses deterministic causes and narrative causes. He insists on
     defending that we are narratively free - we can convince ourselves that we
@@ -788,18 +788,9 @@ your mind that counts, not what it actually is.
     conclusion came first and the arguments only later. Except Christopher
     Hitchens, though, I don't see anyone of them admit that.
 
-[tripzine]: http://www.tripzine.com/listing.php?smlid=268 
-
-[Breaking the Spell]: http://www.philosophypress.co.uk/?p=1001
-
-[speed reading]: /experiments/speedreading.html
-
-[Langton's Ant]: http://en.wikipedia.org/wiki/Langton's_ant
-
-[^zombie]: 
-    I'd have to say that I don't know how I stand on the p-zombie issue.
+[^zombie]: I'd have to say that I don't know how I stand on the p-zombie issue.
     Or rather, I *am* sure that *most* people are p-zombies. I'm not sure if
-    *all* are, including me. 
+    *all* are, including me.
     
     In fact, I consider it a real possibility that most people *are* less
     conscious than mystics are, leading to Dennett actually having less features
@@ -815,16 +806,16 @@ your mind that counts, not what it actually is.
     you, is one? If they are not, why are you hesitating to say that a bat, a
     thermostat and Mickey Mouse are conscious? Absolutely no balls.
 
-[^rama]: Vilayanur S. Ramachandran. Very awesome.
+[^rama]: [Vilayanur S. Ramachandran][]. Very awesome.
 
 [^atran]: Unfortunately, I haven't been able to actually read anything by Scott
     Atran, but he's very high on my todo. His comments were the highlight of
-    both BB 1 and 2.
+    both Beyond Belief 1 and 2.
 
-[^vis]: 
-    You can even hack your brain here and change what part of it handles what.
-    You can shift, through practice (and not very much, really - a few weeks may
-    be enough to get very cool results) or drugs, your thoughts from being _an
-    inner voice_ to _pure text_ to _images_ and so on, and mix-and-match wildly.
-    I wrote some about that in my experiment on [speed reading].
+[^vis]: You can even hack your brain here and change what part of it handles
+    what. You can shift, through practice (and not very much, really - a few
+    weeks may be enough to get very cool results) or drugs, your thoughts from
+    being _an inner voice_ to _pure text_ to _images_ and so on, and
+    mix-and-match wildly. I wrote some about that in my experiment on
+    [Speed Reading][].
 

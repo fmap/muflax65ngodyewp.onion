@@ -1,22 +1,27 @@
-% On The Crucifixion
+---
+title: On the Crucifixion
+date: 2011-03-11
+techne: :rough
+episteme: :broken
+---
 
 <div align="center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="390" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/PZBqsqvfj0Y?fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="390" src="http://www.youtube.com/v/PZBqsqvfj0Y?fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
 
 We know that the crucifixion of Christ is a myth[^1]. We also know that it isn't
-unique;  there are plenty of life-death-rebirth gods. The theme goes back to at
+unique; there are plenty of life-death-rebirth gods. The theme goes back to at
 least 2,000BCE in its explicit form. But what's the charm? What is its
 attraction?
 
 There are two points that can be made, I believe.
 
-The first would be a [Jaynesian](http://en.wikipedia.org/wiki/Julian_Jaynes)
-argument; that the early "reborn" gods are hallucinations of former rulers that
-continued beyond their death. The king would give commands, many of which were
-in the form of explicit voice-hallucinations by his subjects, and as such they
-tended to hang around a while after the king's death. The bodily death of a
-person didn't wipe it out completely; resurrection becomes obvious. (I'm not
-gonna give a detailed account how this worked, for Jaynes and others have
-already done so.) I find this very convincing for many cases. [^2]
+The first would be a [Jaynesian][Julian Jaynes] argument; that the early
+"reborn" gods are hallucinations of former rulers that continued beyond their
+death. The king would give commands, many of which were in the form of explicit
+voice-hallucinations by his subjects, and as such they tended to hang around a
+while after the king's death. The bodily death of a person didn't wipe it out
+completely; resurrection becomes obvious. (I'm not gonna give a detailed account
+how this worked, for Jaynes and others have already done so.) I find this very
+convincing for many cases. [^2]
 
 In the case of Jesus, however, we have a somewhat different scenario. For one,
 it plays out much too late. The bicameral mind would've already largely been
@@ -41,10 +46,9 @@ What stands out in Mark's gospel is the lack of a biography. Jesus appears out
 of nowhere, gets baptized, heals a lot of people, appoints his staff and finally
 is killed. The miracle stories are very non-specific, giving just minimalist
 accounts, reminiscent of today's anecdotes about "spiritual healers" (c.f.
-[Sathya Sai Baba](http://en.wikipedia.org/wiki/Sathya_Sai_Baba)). The person
-described here is just one con-man among many, with some Jewish justification
-thrown in in an obvious attempt to later support his authority over the Jews,
-capitalizing on John the Baptist as well.
+[Sathya Sai Baba][]). The person described here is just one con-man among many,
+with some Jewish justification thrown in in an obvious attempt to later support
+his authority over the Jews, capitalizing on John the Baptist as well.
 
 But the tone changes dramatically at the end. Suddenly, Jesus becomes insecure
 and actually takes his own practices seriously. Before, you get the impression
@@ -141,18 +145,17 @@ have seen so far are miracles stories, interpretations of Jewish law and some
 organizational issues.
 
 What we really see happening is a hijacking. Gnostic thinkers, most notably
-[Marcion](http://en.wikipedia.org/wiki/Marcion_of_Sinope) and [Simon
-Magus](http://en.wikipedia.org/wiki/Simon_Magus)[^10], develop their own
-theology, based on Jewish mythology, a rejection of Jewish law and many (mostly
-Greek) mystic techniques. To increase mass appeal, they retrofit it into
-existing legends and begin a process of "historization", identifying a spiritual
-messiah figure with an actual person. Over time, the idea of a Jewish faith
-healer as central figure of a cosmic struggle sticks, people like it and the
-myth moves. Mark assimilates anecdotes and myth into a plausible story.
-Followers like it, but the narrative is severely lacking. Luke and  Matthew
-rewrite it, introducing many new popular anecdotes, giving Jesus an actual
-character and adding a proper arc structure. Now intellectuals can find
-something in there, too! That's the way the story should've happened, you know.
+[Marcion][] and [Simon Magus][] [^10], develop their own theology, based on Jewish
+mythology, a rejection of Jewish law and many (mostly Greek) mystic techniques.
+To increase mass appeal, they retrofit it into existing legends and begin a
+process of "historization", identifying a spiritual messiah figure with an
+actual person. Over time, the idea of a Jewish faith healer as central figure of
+a cosmic struggle sticks, people like it and the myth moves. Mark assimilates
+anecdotes and myth into a plausible story. Followers like it, but the narrative
+is severely lacking. Luke and Matthew rewrite it, introducing many new popular
+anecdotes, giving Jesus an actual character and adding a proper arc structure.
+Now intellectuals can find something in there, too! That's the way the story
+should've happened, you know.
 
 Believing that Jesus must have lived (others say so), and that his  teachings
 must've been profound (his followers swear by it), mystics  start substituting
@@ -307,15 +310,14 @@ But what *is* transformed? Now that is the real strength of the crucifixion.
 
 You see, it is a placeholder. It can take on the role of any mystic technique.
 It is a universal metaphor. The Gnostic can see Sophia, the Theravadan can see
-the [Arising and Passing
-Away](http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/The%20Arising%20and%20Passing%20Away?p_r_p_185834411_title=The%20Arising%20and%20Passing%20Away),
-the new convert sees hope. What the crucifixion provides is a usable
-interpretation for a wide variety of confusing experiences. Instead of having to
-deal with the mind and the world as they really are, the crucifixion gives
-security. The difficult part of the ongoing transformation has already been done
-by someone else, the purpose is clear, the goal relatable.  Overcoming death,
-freeing the spirit, getting closer to God - pick whatever seems most attractive
-to you. The Christ died for all of these, so have faith.
+the [Arising and Passing Away][], the new convert sees hope. What the
+crucifixion provides is a usable interpretation for a wide variety of confusing
+experiences. Instead of having to deal with the mind and the world as they
+really are, the crucifixion gives security. The difficult part of the ongoing
+transformation has already been done by someone else, the purpose is clear, the
+goal relatable. Overcoming death, freeing the spirit, getting closer to God -
+pick whatever seems most attractive to you. The Christ died for all of these, so
+have faith.
 
 The crucifixion is a Rorschach blot of the psyche.
 
@@ -328,54 +330,47 @@ The crucifixion is a Rorschach blot of the psyche.
 > 
 > -- Dr. Malcolm Long, Watchmen
 
-![](rorschach.jpg)
+![](/religion/rorschach.jpg)
 
-[^1]: 
-    [Robert M. Price](http://robertmprice.mindvendor.com), yada yada, Christ
-    myth proponents not convincing? Do you also believe in
-    [Oz](http://www.youtube.com/watch?v=SDhDLOiXp7g)? If not, how about
-    Hercules? If you understand why they are myth, you will understand why
-    Christ is, too.
+[^1]: [Robert M. Price][], yada yada, Christ myth proponents not convincing? Do
+    you also believe in [Oz](http://www.youtube.com/watch?v=SDhDLOiXp7g)? If
+    not, how about Hercules? If you understand why they are myth, you will
+    understand why Christ is, too.
 
-[^2]: 
-    A completely unjustified speculation: the Buddha stands out by being the
+[^2]: A completely unjustified speculation: the Buddha stands out by being the
     only one that breaks the pattern. He taught within a context that still
     accepted general rebirth, so continuing the theme would be very obvious and
     in fact, later Buddhists, particularly in the Mahayana tradition, did bring
     it back by making Buddha an ascended god, or by inventing the idea of the
     Bodhisattva, a being that intentionally ensures its own rebirth to help
     others. But in the original story, Buddha was a mortal who distinguished
-    himself by *not* being reborn. He successfully extinguishes himself
-    after death and his disciples didn't doubt it. Why is this remarkable? It
-    would've happened during the transition to conscious minds, according to
-    Jaynes' theory. There would be lots of remnants around, lots of old  ideas
-    colored by bicameral minds. What the Buddha did, maybe, was achieve full
-    subjective consciousness(, destroy his personal god called the self) and
-    teach it to his students, thus killing the dead voices. He wouldn't hang
-    around after death because he changed the minds of his followers, so he was
-    truly gone - [tathagata](http://en.wikipedia.org/wiki/Tath%C4%81gata). Later
-    students, already conscious, couldn't understand the remarkableness of this
-    feat anymore, so they retconned the Samsara story into it, maybe even
-    actually inverting it. Now the goal of enlightenment is to destroy the
-    linguistically constructed self and see the world "raw", non-subjectively. I
-    would strongly suspect that during this retcon, they invented the figure of
-    the Buddha, moved him closer to their time and assembled his story out of
-    ongoing myths. The "real" Buddha, the one that brought death to the world,
-    is almost certainly much older, dating back to maybe 1000BCE.
+    himself by *not* being reborn. He successfully extinguishes himself after
+    death and his disciples didn't doubt it. Why is this remarkable? It would've
+    happened during the transition to conscious minds, according to Jaynes'
+    theory. There would be lots of remnants around, lots of old ideas colored by
+    bicameral minds. What the Buddha did, maybe, was achieve full subjective
+    consciousness(, destroy his personal god called the self) and teach it to
+    his students, thus killing the dead voices. He wouldn't hang around after
+    death because he changed the minds of his followers, so he was truly gone -
+    [Tathagata][]. Later students, already conscious, couldn't understand the
+    remarkableness of this feat anymore, so they retconned the Samsara story
+    into it, maybe even actually inverting it. Now the goal of enlightenment is
+    to destroy the linguistically constructed self and see the world "raw",
+    non-subjectively. I would strongly suspect that during this retcon, they
+    invented the figure of the Buddha, moved him closer to their time and
+    assembled his story out of ongoing myths. The "real" Buddha, the one that
+    brought death to the world, is almost certainly much older, dating back to
+    maybe 1000BCE.
 
-[^3]: 
-    Mark and Paul, of course, are likely not really Mark and Paul, but rather
+[^3]: Mark and Paul, of course, are likely not really Mark and Paul, but rather
     anonymous texts attributed to the fictitious characters. Paul, at least, is
-    most likely based on a real person, in the same way that Jetpack Hitler
-    is.
+    most likely based on a real person, in the same way that Jetpack Hitler is.
 
-[^4]: 
-    Always using the NET bible, as on [bible.org](http://bible.org/netbible/index.htm).
+[^4]: Always using the NET bible, as on [bible.org][].
 
-[^5]: 
-    I find it fascinating that there is explicit mention of how fast Jesus died.
-    Also, his followers took his body right away. This gives some credence to
-    the idea that his death was faked. However, Jesus does not return in any
+[^5]: I find it fascinating that there is explicit mention of how fast Jesus
+    died. Also, his followers took his body right away. This gives some credence
+    to the idea that his death was faked. However, Jesus does not return in any
     way. He might've successfully gone into hiding (or to India, as some
     traditions have it), but that seems a bit too speculative to me. I don't
     really see how you could fake a crucifixion, or why you would draw attention
@@ -383,90 +378,81 @@ The crucifixion is a Rorschach blot of the psyche.
     about the preparations or the sudden death. It would look much more like
     Luke.
 
-[^6]: 
-    If you find my dismissal of Mark too harsh, try reading it yourself, but as
-    if it were new. Imagine we met at a friend's house and I introduce you to
+[^6]: If you find my dismissal of Mark too harsh, try reading it yourself, but
+    as if it were new. Imagine we met at a friend's house and I introduce you to
     some text I wrote. It's all true, I inform you. It's about my former
     Japanese teacher, Takashi, but I wrote it in English for you, translating as
     necessary. Try reading Mark that way, substituting Takashi for Jesus, Osaka
     for Galilee, Suzuki the Monk for John the Baptist and so on. What would you
     think about this Takashi? What is his message? Could you even decipher any?
 
-[^7]: 
-    There is the idea that the New Testament is a (partial) parody. Some parts
+[^7]: There is the idea that the New Testament is a (partial) parody. Some parts
     of it might be, especially in Acts, but I don't buy it for Mark. It follows
     well-known woo-woo con-men structures, has obvious editing mistakes and no
     underlying plot. The text is partially manipulative, partially sincere, as
     is typical for the genre. Compare with reports about Sai Baba or Osho, for
     example.
 
-[^8]: 
-    I'm eagerly awaiting Price' upcoming book, "The Amazing Colossal Apostle".
+[^8]: I'm eagerly awaiting Price' upcoming book, "The Amazing Colossal Apostle".
     I'm certainly seeing the merit of rejecting all Pauline letters as authentic
     already, but I'm not fully convinced yet. Also, I didn't want to make my
     analysis contingent on it.
 
-[^9]: 
-    I'd love to know what exact practices Paul is talking about. I suspect
+[^9]: I'd love to know what exact practices Paul is talking about. I suspect
     something akin to what modern Pentecostals are doing.
 
-[^10]: 
-    Robert Price identifies Simon Magus as Paul. I haven't looked much into the
-    evidence for this yet, but it seems plausible to me.
+[^10]: Robert Price identifies Simon Magus as Paul. I haven't looked much into
+    the evidence for this yet, but it seems plausible to me.
 
-[^11]: 
-    Funny thing is, about a millennium later, the same thing happened to
+[^11]: Funny thing is, about a millennium later, the same thing happened to
     Christianity, too! The Reformation is nothing but an attempt to rationalize
     Catholic dogma. This process continues to this very day, producing Christian
-    Atheism and Universalism (see Mencius Moldbug's glorious 5-part series [How
-    Dawkins got
-    pwned](http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html)
-    (link to part 5, which links to previous parts)). Or, as Jaynes said it:
+    Atheism and Universalism (see Mencius Moldbug's glorious 5-part series
+    [How Dawkins got pwned][] (link to part 5, which links to previous parts)).
+    Or, as Jaynes said it:
 
     > What happens in this modern dissolution of ecclesiastical authorization
     > reminds us a little of what happened long ago after the breakdown of the
-    > bicameral mind itself.  Everywhere  in the contemporary world there are
-    > substitutes, other methods of authorization.   Some are revivals of
-    > ancient ones:  the popularity of possession religions in South America,
-    > where the church had  once been so strong; extreme religious absolutism
-    > ego-based on "the Spirit",  which is really the ascension of Paul over
-    > Jesus; an alarming rise in the  serious acceptance of astrology, that
-    > direct heritage from the period of the  breakdown of the bicameral mind in
-    > the Near East; or the more minor divination of the *I Ching*, also a
-    > direct heritage from the period just after the  breakdown in China.  There
-    > are also  the huge commercial and sometimes psychological successes of
-    > various meditation  procedures, sensitivity training groups, mind control,
-    > and group encounter  practices.  Other persuasions often  seem like
-    > escapes from a new boredom of unbelief, but are also characterized by this
-    > search for authorization: faiths in various pseudosciences, as in
-    > scientology, or in unidentified flying objects bringing authority from
-    > other  parts of our universe, or that gods were at one time actually such
-    > visitors; or  the stubborn muddled fascination with extrasensory
-    > perception as a supposed  demonstration of a spiritual surround of our
-    > lives whence some authorization  might come; or the use of psychotropic
-    > drugs as ways of contacting profounder  realities, as they were for most
-    > of the American native Indian civilizations in  the breakdown of their
-    > bicameral mind. Just as we saw in [previous parts of the book] that the
-    > collapse  of the institutionalized oracles resulted in smaller cults of
-    > induced  possession, so the waning of institutional religions is resulting
-    > in these smaller, more private religions of every description.  And this
-    > historical process can be  expected to increase the rest of this century.
+    > bicameral mind itself. Everywhere in the contemporary world there are
+    > substitutes, other methods of authorization. Some are revivals of ancient
+    > ones: the popularity of possession religions in South America, where the
+    > church had once been so strong; extreme religious absolutism ego-based on
+    > "the Spirit", which is really the ascension of Paul over Jesus; an
+    > alarming rise in the serious acceptance of astrology, that direct heritage
+    > from the period of the breakdown of the bicameral mind in the Near East;
+    > or the more minor divination of the *I Ching*, also a direct heritage from
+    > the period just after the breakdown in China. There are also the huge
+    > commercial and sometimes psychological successes of various meditation
+    > procedures, sensitivity training groups, mind control, and group encounter
+    > practices. Other persuasions often seem like escapes from a new boredom of
+    > unbelief, but are also characterized by this search for authorization:
+    > faiths in various pseudosciences, as in scientology, or in unidentified
+    > flying objects bringing authority from other parts of our universe, or
+    > that gods were at one time actually such visitors; or the stubborn muddled
+    > fascination with extrasensory perception as a supposed demonstration of a
+    > spiritual surround of our lives whence some authorization might come; or
+    > the use of psychotropic drugs as ways of contacting profounder realities,
+    > as they were for most of the American native Indian civilizations in the
+    > breakdown of their bicameral mind. Just as we saw in
+    > [previous parts of the book] that the collapse of the institutionalized
+    > oracles resulted in smaller cults of induced possession, so the waning of
+    > institutional religions is resulting in these smaller, more private
+    > religions of every description. And this historical process can be
+    > expected to increase the rest of this century.
     >
     > [...]
     >
-    > Science then, for all its pomp of factness, is not unlike some of the
-    > more easily disparaged outbreaks of pseudoreligions.  In this period of
-    > transition from its  religious basis, science often shares with the
-    > celestial maps of astrology, or a  hundred other irrationalisms, the same
-    > nostalgia for the Final Answer, the One  Truth, the Single Cause.  In the
+    > Science then, for all its pomp of factness, is not unlike some of the more
+    > easily disparaged outbreaks of pseudoreligions. In this period of
+    > transition from its religious basis, science often shares with the
+    > celestial maps of astrology, or a hundred other irrationalisms, the same
+    > nostalgia for the Final Answer, the One Truth, the Single Cause. In the
     > frustrations and sweat of laboratories, it feels the same temptations to
-    > swarm  into sects, even as did the Khabiru refugees, and set out here and
-    > there through  the dry Sinais of parched fact for some rich and brave
-    > significance flowing with  truth and exaltation.  And all of  this, my
+    > swarm into sects, even as did the Khabiru refugees, and set out here and
+    > there through the dry Sinais of parched fact for some rich and brave
+    > significance flowing with truth and exaltation. And all of this, my
     > metaphor and all, is a part of this transitional period after the
     > breakdown of the bicameral mind.
 
-[^12]: 
-    Also note that John is trying to provide plausible reasons why Jesus was
-    taken from the cross so early. Did somebody get accused of fakery, I
-    wonder?
+[^12]: Also note that John is trying to provide plausible reasons why Jesus was
+    taken from the cross so early. Did somebody get accused of fakery, I wonder?

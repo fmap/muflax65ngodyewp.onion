@@ -20,4 +20,5 @@ the [Twitter][] feed or my [Blog][] for raw thought in smaller chunks.
 
 <%= category :experiments %>
 <%= category :reflections %>
+<%= category :religion %>
 <%= category :software %>
