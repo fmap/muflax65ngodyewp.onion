@@ -1,4 +1,9 @@
-% Polyphasic Sleep
+---
+title: Polyphasic Sleep
+date: 2010-05-06
+techne: :done
+episteme: :broken
+---
 
 Definition
 ==========
@@ -12,7 +17,7 @@ However, the really interesting ones are those where you only sleep about 2-5
 hours in total per day. Yes, that's not a typo: *2 hours per day*. They can
 generally be classified into Uberman sleep, which has 6 naps of 20 minutes each,
 and Everyman sleep, which has one core of 1-3 hours and up to 5 nap of 20
-minutes. Both terms were coined by [puredoxyk], who also has one of the best
+minutes. Both terms were coined by [puredoxyk][], who also has one of the best
 sites on how to adapt to them. I'm not gonna repeat all that here, nor address
 any of the common myths and criticisms (Like, "That's impossible!". It isn't.),
 but instead give my own criticism why I believe it's a *Bad Thing*. Also, a bit
@@ -30,10 +35,10 @@ sleep is right for you. It minimizes the damage this kind of life will do, but
 you will still be worse off. You will still be sleep deprived. [^deprived]
 
 [^deprived]: Well, as far as I can tell, you are not doing any permanent damage,
-so a week of good sleep will probably fix everything again. Also, many
-polyphasic sleepers will argue that they are not sleep deprived and I certainly
-accept that they don't _feel_ that way. But try using your memory and see how fast
-you crash.
+    so a week of good sleep will probably fix everything again. Also, many
+    polyphasic sleepers will argue that they are not sleep deprived and I
+    certainly accept that they don't _feel_ that way. But try using your memory
+    and see how fast you crash.
 
 Ok, having acknowledged that, let's start with the criticism. In fact, it's a
 very simple criticism because it only involves one point.
@@ -163,4 +168,3 @@ weekend. I even started picking up another language just to have something to
 do! But then, after a while, your brain is completely overloaded and you just
 crash. So it _is_ just like cocaine, really.
 
-[puredoxyk]: http://www.puredoxyk.com

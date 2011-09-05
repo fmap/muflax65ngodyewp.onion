@@ -1,4 +1,9 @@
-% Fixing Concentration
+---
+title: Fixing Concentration
+date: 2010-07-13
+techne: :incomplete
+episteme: :believed
+---
 
 I had serious problems concentrating. Typically, I rapidly lost focus or just
 felt blah and unmotivated the whole day, often with a (minor to medium)
@@ -43,20 +48,18 @@ Animal Fat
 Despite what virtually all common wisdom is going to tell you, animal fat is
 probably the most important thing for you to eat. (The second-most important are
 bacteria[^bacteria]). As I'm a bit lazy, I'll do no convincing here and leave
-this to the [Paleo] crowd. (Ignore the libertarians. Just try it yourself for a
+this to the [Paleo][] crowd. (Ignore the libertarians. Just try it yourself for a
 week and be amazed.) If you are an vegetarian, then you really shouldn't be one.
 But the very least don't be a vegan, k?  Because then you are royally screwed
 with regards to food.
 
-[^bacteria]: 
-    I'm just gonna send you over to [Seth Roberts] on this. I completely agree
-    with him on everything about nutrition, having tested it all myself.
-    Seriously, grab yourself some strong jogurt (not the sweet stuff, but the
-    good, sour one), kefir or miso and eat it. Every day. You can thank me later
-    when most of the problems you just lived with are gone.
+[^bacteria]: I'm just gonna send you over to [Seth Roberts][Seth Bacteria] on
+    this. I completely agree with him on everything about nutrition, having
+    tested it all myself. Seriously, grab yourself some strong jogurt (not the
+    sweet stuff, but the good, sour one), kefir or miso and eat it. Every day.
+    You can thank me later when most of the problems you just lived with are
+    gone.
 
-[Seth Roberts]: http://www.blog.sethroberts.net/category/umami-hypothesis/
-[Paleo]: http://www.paleonu.com/what-is-panu/
 
 Eating about 50-100g of butter refuels my energy almost completely in less than
 20 minutes and greatly increases concentration. I perform better on all
@@ -74,8 +77,7 @@ levels of Omega-3, which also greatly increases all kinds of mental functions
 and general health. A good and wide-spread brand is Kerrygold, although there
 are often local alternatives as well.
 
-[^cheese]: 
-    I'm not kidding here. I have no idea what exactly is causing it, but
+[^cheese]: I'm not kidding here. I have no idea what exactly is causing it, but
     *something* in certain cheeses is clearly psychedelic. I get a trippy mood,
     incredibly wild dreams and even some mild hallucinations. I suspect the
     tryptophan, but it doesn't really fit the dosage and only seems to happen
@@ -97,8 +99,12 @@ Eating dinner should have you *more* active than before, not *less*.
 Protein
 -------
 
+TODO
+
 Sugar
 -----
+
+TODO
 
 St. John's Wort 
 ----------------
@@ -143,10 +149,10 @@ I have a relatively low opinion of most mainstream medication for depression,
 though especially SSRIs may be worth a try. Personally, I also had good
 short-term success with MAO inhibitors, but wouldn't recommend them because they
 are so incompatible with many other drugs or important food. It's just too hard
-to eat right and too easy to kill yourself on MAO inhibitors.  Also, raised
-serotonin levels and drugs don't mix at all, especially MDMA or DXM. [Serotonin
-syndrome](http://en.wikipedia.org/wiki/Serotonin_syndrome) isn't nice. It's a
-bit of a pity, though, but I can live with that.
+to eat right and too easy to kill yourself on MAO inhibitors. Also, raised
+serotonin levels and drugs don't mix at all, especially MDMA or DXM.
+[Serotonin syndrome] isn't nice. It's a bit of a pity, though, but I can live
+with that.
 
 Tyrosine
 --------
@@ -185,19 +191,26 @@ trick myself into starting anything, but can just work right away. I only get
 exhausted when I actually did something (and can refuel with sleep and butter)
 and not at random times.
 
-As a last piece of evidence, I'm just going to mention three numbers. They are the
-number of daily [SRS](/reflections/srs.html) repetitions I could do per day
-before my brain would shut down. A year ago, using almost no caffeine and no
-tyrosine, I managed about 80 reps, max. A few months ago, using caffeine, I got
-up to 150, maybe 200, but that's a good day. 100 would be normal. The last two
-weeks, I did over 500 each day without breaking a sweat. I got up to 800 after 3
-hours of continuous work and that's still not the maximum level. I just normally
-stop after an hour or so because it gets too time-consuming or boring otherwise.
+As a last piece of evidence, I'm just going to mention three numbers. They are
+the number of daily SRS repetitions I could do per day before my brain would
+shut down. A year ago, using almost no caffeine and no tyrosine, I managed about
+80 reps, max. A few months ago, using caffeine, I got up to 150, maybe 200, but
+that's a good day. 100 would be normal. The last two weeks, I did over 500 each
+day without breaking a sweat. I got up to 800 after 3 hours of continuous work
+and that's still not the maximum level. I just normally stop after an hour or so
+because it gets too time-consuming or boring otherwise.
 
 Tyrosine is, however, useless when your serotonin levels are bad. You can be as
 concentrated as you want, if you are apathetic, nothing will get done. That's
 why I consider St. John's Wort more important, but tyrosine is more noticeable
 right away and ultimately the effect I was hoping for.
+
+(Outdated, effect doesn't hold up long-term.)
+
+Nicotine
+--------
+
+TODO
 
 Magnesium
 ---------
@@ -215,8 +228,6 @@ For simplicity's sake, there are two kinds of exercise: resistance training
 (short, high strength, causes muscle growth) and long-term endurance training.
 The first one is good for you, the second one neutral at best, harmful at worst.
 
-[citation needed]
-
 I found endurance training to be utterly useless for concentration. As a
 reference, I have a caved-in chest (about medium) and can't swim. For most of my
 life, I had very poor fitness levels. During the summers of 2009 and 2010, I
@@ -230,13 +241,10 @@ serious strength program, including weight gain (from 75kg to 85kg at 185cm of
 height) and everything[^strength]. Besides obviously improving my fitness and
 confidence, it also increased my energy levels and sleep. Highly recommended.
 
-[^strength]: Specifically, I follow [Convict Conditioning] and ensure at least
-150g of protein a day, mostly in the form of whole milk, meat and [quark]. I
-exercise twice per week (as prescribed) and level up about one step per month
-for each exercise.
-
-[Convict Conditioning]: http://www.dragondoor.com/b41/ 
-[quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
+[^strength]: Specifically, I follow [Convict Conditioning][] and ensure at least
+    150g of protein a day, mostly in the form of whole milk, meat and [quark][].
+    I exercise twice per week (as prescribed) and level up about one step per
+    month for each exercise.
 
 Meditation
 ==========
@@ -257,15 +265,9 @@ Because of that, meditation is more of a middle- to end-game strategy. I highly
 recommend it, but you need a certain level of skill and concentration already to
 really use it. If you can't get out of bed, then meditation ain't gonna work,
 either. For introductions to meditation, I recommend going on a 10 day
-[Vipassana] retreat and [Shinzen Young]'s videos.  
-
-[Shinzen Young]: http://www.youtube.com/user/expandcontract
-[Vipassana]: http://www.dhamma.org
-
-Active Rest
-===========
+[Vipassana][] retreat and [Shinzen Young's][Shinzen Young] videos.  
 
 Sunlight
 ========
 
-
+TODO

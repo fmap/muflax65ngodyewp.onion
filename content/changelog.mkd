@@ -13,8 +13,19 @@ All major changes on the site
   footnote issues.
 
   Every page has an [Epistemic State][] now. This is an important step to
-  convert this into proper long-term content. Sites are also dated now.
+  convert this into proper long-term content. Sites are also dated now, so that
+  some obviously out-dated material is clearly visible as such (and new material
+  is obvious on the main page).
   
   I added the story [Milinda and the Minotaur][] I wrote some time ago, but
   never felt like publishing. Thanks to [epistemic states][Epistemic State]
   though, I now can.
+  
+  I do plan articles on the Great Filter and languages (use and learning), but
+  dunno how long this'll take. For now, this is mostly a setup to make it really
+  easy for me to write more stuff und release faster. I have a couple of drafts
+  lying around I might revive, particularly a comparison of the [Theravada][]
+  path model of enlightenment with the Matrix movie.
+  
+  (I also threw away the old changelog because it's useless now anyway. Check
+  the [git history][Source] if you care.)

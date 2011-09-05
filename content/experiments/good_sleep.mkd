@@ -1,16 +1,21 @@
-% Ways to Improve Your Sleep
+---
+title: Ways to Improve Your Sleep
+date: 2010-05-27
+techne: :done
+episteme: :broken
+---
 
 Some stuff that I found that actually works.
 
 f.lux
 =====
 
-[f.lux] controls the level of blue your monitor shows and tones it down during
+[f.lux][] controls the level of blue your monitor shows and tones it down during
 the night to allow you to get tired naturally (and not stay up all night,
-playing ケロロＲＰＧ like _some_ people). There's quite a bit of research to back
-it up and I achieved some really good results with it. 
+playing ケロロＲＰＧ like _some_ people). There's quite a bit of research to
+back it up and I achieved some really good results with it.
 
-(While [f.lux] has a Linux version, it's just an ugly binary. Use [Redshift]
+(While [f.lux] has a Linux version, it's just an ugly binary. Use [Redshift][]
 instead. All good distros have it in their repository (i.e., Gentoo).)
 
 Easy Exercise
@@ -26,11 +31,11 @@ Easy Exercise
 > [normal exercise], where the benefits accrue slowly (over weeks and months),
 > the benefits are obvious the next morning (you feel better-rested) and the
 > next day (you’re less tired). (...) The benefits are so large relative to the
-> cost that there’s no motivation problem. Deciding to do it is about as hard as
-> deciding to pick up a $10 bill. Deciding to do conventional exercise is a lot
-> harder.
+> cost that there’s no motivation problem. Deciding to do it is about as hard
+> as deciding to pick up a $10 bill. Deciding to do conventional exercise is a
+> lot harder.
 >
-> Seth Roberts, [Why Did I Sleep So Well?]
+> Seth Roberts, [Why Did I Sleep So Well?][]
 
 Basically, putting a ltitle bit of stress on muscles causes good sleep. The
 easiest form of doing this is by standing on one leg, while pulling the other
@@ -55,8 +60,8 @@ help as well. Regardless, all artificial light sources pale in comparison to the
 sun, even on a very cloudy day. You aren't able to consciously tell how bright
 something really is (because most of human vision is processed as relative to
 its surrounding, not in absolutes), so it's easy to get this wrong, but during
-my [polyphasic] experiment I found standing outside for even just 5 minutes to
-be a great help in waking up.
+my [polyphasic][Polyphasic Sleep] experiment I found standing outside for even
+just 5 minutes to be a great help in waking up.
 
 Caffeine
 ========
@@ -68,11 +73,11 @@ This hack applies only to some brains, mostly people with bipolar or ADD
 personalities. The best sign is whether uppers like caffeine, cocaine or
 Ritanol, especially in small dosages, make you hyper or calm. I actually get
 sleepy from drinking caffeine. It takes me about 2 to 3 hours, minimum, to
-become more active after a cup of coffee. 
+become more active after a cup of coffee.
 
 The critical part is getting just the right dosage. Caffeine still affects and
 disrupts your tiredness, so drinking to much will prevent you from getting good
-sleep.  The tricky thing is that the negative effects will only kick in very
+sleep. The tricky thing is that the negative effects will only kick in very
 late, hours later, while you are working like crazy. I have gone multiple times
 for about 3 or 4 days drinking huge amounts of coffee, like at 10 to 20 cups a
 day, feeling great, sleeping great, until I finally found I suddenly couldn't
@@ -86,9 +91,3 @@ It's quite a paradox state to be in, when you can't fall asleep, but once you
 do, you sleep great. I had even considered taking *both* an upper and a downer,
 like caffeine and diphenhydramine, but found this too silly (and I dislike all
 available downers, including melatonin).
-
-[Why Did I Sleep So Well?]: 
-    http://www.blog.sethroberts.net/2008/09/03/science-in-action-why-did-i-sleep-so-well-part-10-2/
-[f.lux]: http://www.stereopsis.com/flux/
-[Redshift]: http://jonls.dk/redshift/
-[polyphasic]: /experiments/sleep/polyphasic_sleep.html

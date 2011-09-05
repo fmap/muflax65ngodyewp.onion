@@ -28,7 +28,16 @@ is_hidden: true
 [tripzine]: http://www.tripzine.com/listing.php?smlid=268 
 [Breaking the Spell]: http://www.philosophypress.co.uk/?p=1001
 [Swartz Dennett]: http://www.aaronsw.com/weblog/dennettdumb
-
+[Seth Bacteria]: http://www.blog.sethroberts.net/category/umami-hypothesis/
+[Shinzen Young]: http://www.youtube.com/user/expandcontract
+[Vipassana]: http://www.dhamma.org
+[puredoxyk]: http://www.puredoxyk.com
+[Why Did I Sleep So Well?]: http://www.blog.sethroberts.net/2008/09/03/science-in-action-why-did-i-sleep-so-well-part-10-2/
+[f.lux]: http://www.stereopsis.com/flux/
+[Redshift]: http://jonls.dk/redshift/
+[Price Purpose]: http://www.robertmprice.mindvendor.com/zara/april__2007.htm
+[Fyfe Purpose]: http://atheistethicist.blogspot.com/2009/07/purpose-to-life-choosing-purpose.html
+[Rational Addiction]: http://www.xtranormal.com/watch/7873033/
 
 <!-- Wikipedia articles (and similar) -->
 [DXM]: http://en.wikipedia.org/wiki/DXM
@@ -52,6 +61,12 @@ is_hidden: true
 [Langton's Ant]: http://en.wikipedia.org/wiki/Langton's_ant
 [Multiple Drafts]: http://www.scholarpedia.org/article/Multiple_drafts_model
 [Vilayanur S. Ramachandran]: http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran
+[quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
+[Convict Conditioning]: http://www.dragondoor.com/b41/ 
+[Serotonin Syndrome]: http://en.wikipedia.org/wiki/Serotonin_syndrome
+[Paleo]: http://www.paleonu.com/what-is-panu/
+[Wireheading]: http://www.wireheading.com/
+[Desirism]: http://commonsenseatheism.com/?p=2982
 
 <!-- internal links -->
 [RSS]: /rss.xml

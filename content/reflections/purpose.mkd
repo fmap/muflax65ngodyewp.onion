@@ -1,10 +1,15 @@
-% On Purpose
+---
+title: On Purpose
+date: 2011-03-11
+techne: :done
+episteme: :broken
+---
 
 Two reflections on purpose and two open questions.
 
-**Purpose cannot be created.**
+# Purpose cannot be created.
 
-I'll just let [Alonzo Fyfe] speak for me.
+I'll just let [Alonzo Fyfe][Fyfe Purpose] speak for me.
 
 > However, the common atheist response to the question of meaning and purpose in
 > life is almost as absurd.
@@ -28,11 +33,11 @@ I'll just let [Alonzo Fyfe] speak for me.
 > To live one's life as if this fictional purpose or meaning is real is to live
 > a lie.
 
-**Desire is not about content.**
+# Desire is not about content.
 
 Do desires exist? Has desire fulfillment value?
 
-According to [desirism], desire fulfillment itself has no value, but the
+According to [Desirism][], desire fulfillment itself has no value, but the
 existence of desires creates value within the agent that has them. In other
 words, if Bob wants to eat cheese, then eating cheese has value for Bob, but
 only because this attitude exists in Bob's mind. The important assertion of
@@ -47,17 +52,17 @@ happen to have desires.)
 Overall, this is not an esoteric claim. It follows quiet neatly from standard
 scientific models. But is it true?
 
-Think about wireheading. Why should I bother to fulfill a complex set of desires
-if I'm also able to self-modify? I could simply replace all my desires with a
-single trivial one, say "I desire 1+1 to equal 2". What would be the difference
-in this case?
+Think about [wireheading][Wireheading]. Why should I bother to fulfill a complex
+set of desires if I'm also able to self-modify? I could simply replace all my
+desires with a single trivial one, say "I desire 1+1 to equal 2". What would be
+the difference in this case?
 
 How do you identify desires? How do you *know* if a desire fulfilled?
 
 One possibility might be that desire is about a state the world should be in.
 Say, I might desire that every human has access to health care. But that seems
 weak. For example, economics is full of "as if" models built just around this
-assumption. A nice one is [rational addiction]. Regardless of their predictive
+assumption. A nice one is [Rational Addiction]. Regardless of their predictive
 power, they tend to be very different from the way people actually think.
 
 Or maybe we are talking about "reasons for action". Essentially, every moment
@@ -76,21 +81,20 @@ cessation-of-aggravation that matters, not the content of the desire.
 
 A content-of-desire model of purpose therefore fails.
 
-[^1]: 
-    While trying to map this during vipassana, I noticed an additional stage
+[^1]: While trying to map this during vipassana, I noticed an additional stage
     right before the aggravation. Sometimes for a short moment a glimpse of
     "heaven" pops up, but the promise is never actually fulfilled. I haven't yet
-    mustered the necessary concentration to check if it always occurs.  
+    mustered the necessary concentration to check if it always occurs.
     
-**But why does this state of cessation exist in the first place?**
+# Why does this state of cessation exist at all?
 
 It seems so unnecessary. Agents with preferences would work just fine without
 it. I can drop my free will, so to speak, yet still act and choose just fine. I
 do lose my ability to make complex conscious decisions, but why the difference?
 And why, if I don't drop it, do I have cessation-of-aggravation even for trivial
-things?  
+things?
 
-**How does one act if there is no purpose?**
+# How does one act if there is no purpose?
 
 Maybe there really isn't any meaning to life. My brain is just broken, hoping to
 find any. But then what? There seem to be only two responses to this question.
@@ -117,8 +121,4 @@ fate* seems to be not too unusual.
 > different language games, and that to solve one is not to solve the other.
 > Thus, why wait to solve both before you can make headway on either one?
 >
-> -- [Robert M. Price](http://www.robertmprice.mindvendor.com/zara/april__2007.htm)
-
-[Alonozo Fyfe]: http://atheistethicist.blogspot.com/2009/07/purpose-to-life-choosing-purpose.html
-[desirism]: http://commonsenseatheism.com/?p=2982
-[rational addiction]: http://www.xtranormal.com/watch/7873033/
+> -- [Robert M. Price][Price Purpose]
