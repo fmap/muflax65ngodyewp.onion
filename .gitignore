@@ -1,5 +1,4 @@
+*.sw[a-z]
+
+tmp/
 out/
-*.pyc
-*.swp
-push.sh
-tmp
