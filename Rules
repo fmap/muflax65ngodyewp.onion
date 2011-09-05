@@ -82,6 +82,10 @@ route '/feed/' do
   '/rss.xml'
 end
 
+route '/htaccess/' do
+  '/.htaccess'
+end
+
 route '/style/' do
   '/style.css'
 end

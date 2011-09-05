@@ -1,0 +1,6 @@
+# manual 404 page
+ErrorDocument 404 /404/index.html
+
+# don't alienate people who use the old feed
+RewriteEngine on
+RewriteRule ^feed/? /rss.xml
