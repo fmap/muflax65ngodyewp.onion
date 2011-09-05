@@ -21,15 +21,12 @@
     </script>
   </head>
   <body>
-    <!-- breadcrumb navigation -->
-    <div class="crumb">
-      <%= breadcrumbs_trail.map do |crumb|
-          target = crumb[:short_title] || crumb[:title] || crumb.name
-          "<a class='crumb' href='#{crumb.identifier}'>#{target}</a>"
-          end.join(" » ") %>
-    </div>
-
     <div class="main">
+      <!-- page title -->
+      <% if @item[:title] %>
+      <div class="title"><%= @item[:title] %></div>
+      <% end %>
+      
       <!-- epistemic and technical state -->
       <div class="episteme">
       <% if @item[:episteme] %>
@@ -54,5 +51,12 @@
 
     </div>
 
+    <!-- breadcrumb navigation -->
+    <div class="crumb">
+      <%= breadcrumbs_trail.map do |crumb|
+          target = crumb[:short_title] || crumb[:title] || crumb.name
+          "<a class='crumb' href='#{crumb.identifier}'>#{target}</a>"
+          end.join(" » ") %>
+    </div>
   </body>
 </html>

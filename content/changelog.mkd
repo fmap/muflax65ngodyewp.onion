@@ -3,14 +3,24 @@ title: Changelog
 non_cognitive: true
 ---
 
+> Well, this site's existed for long enough now that there must be people coming
+> back and wondering "Has anything new gone up?". In an ideal world, they'd all
+> be forced to read my pages over and over again until they'd got 'em memorised
+> and could spot the places where I've turned a comma into a semicolon… but
+> until then, I'll let people bookmark this page and visit every six months to
+> see how little progress there's been.
+>
+> -- jbr's [changelog][jbr changelog]
+
 All major changes on the site
 =============================
 
 {:#changelog}
 - 2011/09/04: Converted whole site to [nanoc][]. Most of the content got
-  re-organized, but not widely changed. The design is reasonably the same, with
-  some minor tweaks. The navigation bar is now at the bottom to deal with some
-  footnote issues.
+  re-organized, but not widely changed. A few things have disappeared, but will
+  probably come back in a better form later. The design is reasonably the same,
+  with some minor tweaks. The navigation bar is now at the bottom to deal with
+  some footnote issues.
 
   Every page has an [Epistemic State][] now. This is an important step to
   convert this into proper long-term content. Sites are also dated now, so that
@@ -23,7 +33,7 @@ All major changes on the site
   
   I do plan articles on the Great Filter and languages (use and learning), but
   dunno how long this'll take. For now, this is mostly a setup to make it really
-  easy for me to write more stuff und release faster. I have a couple of drafts
+  easy for me to write more stuff and release faster. I have a couple of drafts
   lying around I might revive, particularly a comparison of the [Theravada][]
   path model of enlightenment with the Matrix movie.
   

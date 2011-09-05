@@ -4,8 +4,6 @@ short_title: muflax
 is_category: true
 ---
 
-Lies and Wonderland
-===================
 ![logo](logo.jpg)   
 Yet another hypergraphic information whore's site.
 

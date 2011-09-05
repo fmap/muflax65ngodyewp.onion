@@ -38,6 +38,7 @@ is_hidden: true
 [Price Purpose]: http://www.robertmprice.mindvendor.com/zara/april__2007.htm
 [Fyfe Purpose]: http://atheistethicist.blogspot.com/2009/07/purpose-to-life-choosing-purpose.html
 [Rational Addiction]: http://www.xtranormal.com/watch/7873033/
+[jbr changelog]: http://www.xibalba.demon.co.uk/jbr/log/
 
 <!-- Wikipedia articles (and similar) -->
 [DXM]: http://en.wikipedia.org/wiki/DXM
