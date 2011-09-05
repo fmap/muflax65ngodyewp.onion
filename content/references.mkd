@@ -39,6 +39,7 @@ is_hidden: true
 [Fyfe Purpose]: http://atheistethicist.blogspot.com/2009/07/purpose-to-life-choosing-purpose.html
 [Rational Addiction]: http://www.xtranormal.com/watch/7873033/
 [jbr changelog]: http://www.xibalba.demon.co.uk/jbr/log/
+[Find the Bug]: http://www.findthebug.com
 
 <!-- Wikipedia articles (and similar) -->
 [DXM]: http://en.wikipedia.org/wiki/DXM
