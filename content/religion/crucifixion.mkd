@@ -5,7 +5,13 @@ techne: :rough
 episteme: :broken
 ---
 
-<div align="center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="390" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/PZBqsqvfj0Y?fs=1" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="390" src="http://www.youtube.com/v/PZBqsqvfj0Y?fs=1" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+<div align="center"><object width="420" height="315"><param name="movie"
+value="http://www.youtube.com/v/PZBqsqvfj0Y?version=3&amp;hl=en_US"></param><param
+name="allowFullScreen" value="true"></param><param name="allowscriptaccess"
+value="always"></param><embed
+src="http://www.youtube.com/v/PZBqsqvfj0Y?version=3&amp;hl=en_US"
+type="application/x-shockwave-flash" width="420" height="315"
+allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
 
 We know that the crucifixion of Christ is a myth[^1]. We also know that it isn't
 unique; there are plenty of life-death-rebirth gods. The theme goes back to at
@@ -333,9 +339,8 @@ The crucifixion is a Rorschach blot of the psyche.
 ![](/religion/rorschach.jpg)
 
 [^1]: [Robert M. Price][], yada yada, Christ myth proponents not convincing? Do
-    you also believe in [Oz](http://www.youtube.com/watch?v=SDhDLOiXp7g)? If
-    not, how about Hercules? If you understand why they are myth, you will
-    understand why Christ is, too.
+    you also believe in Oz? If not, how about Hercules? If you understand why
+    they are myth, you will understand why Christ is, too.
 
 [^2]: A completely unjustified speculation: the Buddha stands out by being the
     only one that breaks the pattern. He taught within a context that still

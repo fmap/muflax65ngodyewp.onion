@@ -66,7 +66,7 @@ is_hidden: true
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
 [Convict Conditioning]: http://www.dragondoor.com/b41/ 
 [Serotonin Syndrome]: http://en.wikipedia.org/wiki/Serotonin_syndrome
-[Paleo]: http://www.paleonu.com/what-is-panu/
+[Paleo]: http://www.archevore.com/archevore/
 [Wireheading]: http://www.wireheading.com/
 [Desirism]: http://commonsenseatheism.com/?p=2982
 
