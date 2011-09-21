@@ -98,6 +98,10 @@ route '/kanji/*' do
   route_unchanged
 end
 
+route '/stuff/*' do
+  route_unchanged
+end
+
 route '/references' do
   # pass
 end
