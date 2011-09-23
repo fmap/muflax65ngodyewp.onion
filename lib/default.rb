@@ -21,11 +21,16 @@ def category name
   render "category", :category => name
 end
 
-# only articles that actually get printed
-def printed_items
-  @items.select { |i| not i[:is_hidden] and not i.binary? }
+def route_unchanged
+  item.identifier.chop + '.' + item[:extension]
 end
 
-def route_unchanged
-  "#{@item.identifier[0..-2]}.#{@item[:extension]}"
+class Nanoc3::Site
+  # only articles that actually get printed
+  attr_reader :printed_items
+
+  def find_printed_items
+    @printed_items = @items.select { |i| not i[:is_hidden] and not i.binary? }
+  end
 end
+

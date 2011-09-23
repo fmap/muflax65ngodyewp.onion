@@ -3,7 +3,7 @@
 <!-- find category index -->
 
 <% cat_match = %r{^/#{@category}/}
-cat_index = printed_items.find{|i| i.path.match(cat_match) and i[:is_category]} %>
+cat_index = @site.printed_items.find{|i| i.path.match(cat_match) and i[:is_category]} %>
 
 <!-- header -->
 
@@ -11,9 +11,9 @@ cat_index = printed_items.find{|i| i.path.match(cat_match) and i[:is_category]} 
 
 <!-- find items in category -->
 
-<% items = printed_items.select do |i|
-  not i[:is_category] and
-    i.path.match cat_match
+<% items = @site.printed_items.select do |i|
+   i.path.match cat_match and
+   not i[:is_category]
 end %>
 
 <!-- print items in nice list -->

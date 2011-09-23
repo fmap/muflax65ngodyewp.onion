@@ -18,10 +18,23 @@ preprocess do
   def reference_links
     # find reference item
     reference = @items.find{|item| item.identifier == '/references/'}
-      
+
+    # add automatic content to reference
+    page_links = ["<!-- automatic content -->"]
+    @site.printed_items.each do |i|
+      page_links << "[#{i[:title]}]: #{i.identifier}"
+   
+      unless i[:alt_titles].nil?
+        i[:alt_titles].each do |title|
+          page_links << "[#{title}]: #{i.identifier}"
+        end
+      end
+    end
+    reference.add_content(page_links.join("\n"))
+    
     unless reference.nil?
       # add references to every markdown item
-      printed_items.each do |item|
+      @site.printed_items.each do |item|
         if item[:extension] == "mkd"
           item.add_references reference.raw_content
         end
@@ -31,14 +44,16 @@ preprocess do
 
   def hide_pages
     @items.each do |item|
-      if item.identifier.match %r{^/(js|style)/}
+      if item.identifier.match %r{^/(style)/}
         item[:is_hidden] = true
       end
     end
   end
-  
+
+  hide_pages # must be first
+  @site.find_printed_items
+
   reference_links
-  hide_pages
 end
 
 compile '/style/' do
@@ -96,8 +111,7 @@ end
 
 route '*' do
   if item.binary?
-    # Write item with identifier /foo/ to /foo.ext
-    item.identifier.chop + '.' + item[:extension]
+    route_unchanged
   else
     # Write item with identifier /foo/ to /foo/index.html
     item.identifier + 'index.html'

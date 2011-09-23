@@ -73,17 +73,6 @@ is_hidden: true
 <!-- internal links -->
 [RSS]: /rss.xml
 
-<!-- automatic content -->
-<% printed_items.each do |i| %>
-[<%= i[:title] %>]: <%= i.identifier %>
-   
-   <% unless i[:alt_titles].nil?
-     i[:alt_titles].each do |title| %>
-[<%= title %>]: <%= i.identifier %>
-     <% end %>
-   <% end %>
-<% end %>
-
 <!-- abbreviations -->
 *[PCT]: Perceptual Control Theory
 *[LW]: LessWrong
