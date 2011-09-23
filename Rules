@@ -90,18 +90,6 @@ route '/style/' do
   '/style.css'
 end
 
-route '/js/*' do
-  route_unchanged
-end
-
-route '/kanji/*' do
-  route_unchanged
-end
-
-route '/stuff/*' do
-  route_unchanged
-end
-
 route '/references' do
   # pass
 end
