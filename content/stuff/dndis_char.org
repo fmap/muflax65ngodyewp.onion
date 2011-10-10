@@ -29,7 +29,7 @@ episteme: :done
 - XP: 496 (450 spend) (+50 Utopist)
 ** Items 
 - book bag of holding(8/1)
-- KJ bible (+1 bibliomancy, +5 off/def demons, +3 RIT) 
+- KJ bible (+1 bibliomancy, +5 off/def demons, +3 RIG) 
 - club (+1 STR, +1 smash)
 - Antivenom (poison)
 - Penicillin (sickness)
@@ -57,23 +57,23 @@ episteme: :done
 - Phronesis: 6
 *** General
 - Debate (RAT) diff(RAT+d20)/2 mental dmg
-- Preach (free) diff(RIT+d20)/2 (moral) mental dmg
+- Preach (free) diff(RIG+d20)/2 (moral) mental dmg
 - Confuse (BUL) (BUL+d20 - PHR+d20) / 2 mental damage
 - Smash (STR) diff(STR+d20) / 2 physical damage
 *** Apologist
-- Heal (RIT) RIT/3
-- Pray (RIT) +1/-1 any roll
-- Kenosis (RIT) RIT/2 mental dmg
-- Predestined Hellfire (2RIT) diff(RIT) dmg
+- Heal (RIG) RIG/3
+- Pray (RIG) +1/-1 any roll
+- Kenosis (RIG) RIG/2 mental dmg
+- Predestined Hellfire (2RIG) diff(RIG) dmg
 - FEAT: Bibliomancy (+1..+2 Luck)
 - FEAT: Pentecostalism (immune to poison, -3 dmg snakes)
-- Summon Christ Metaphor (3RIT, 3 turns)
+- Summon Christ Metaphor (3RIG, 3 turns)
   - Ensouled Lion (12/12/12/12/22(+6), 60/(15))
     - Maul (STR/3 dmg, Speed DC15 against lame)
-- Faith Healing (2RIT+BUL) RIT/2 for up to 12 aware chars
-- Power of Tongues (RIT, 6 turns)
+- Faith Healing (2RIG+BUL) RIG/2 for up to 12 aware chars
+- Power of Tongues (RIG, 6 turns)
 - Fossil Gap (BUL) RAT save DC18 or fossil dies
-- Agape (2RIT) -1 enemy control, +1 association
+- Agape (2RIG) -1 enemy control, +1 association
 *** Ethicist
 - (none)
 ** Skills
