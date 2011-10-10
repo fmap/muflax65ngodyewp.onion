@@ -1,8 +1,9 @@
 ---
-title: Phaidros
+title: Phaidros (D&Dis character)
+short_title: Phaidros
 date: 2011-10-10
 techne: :done
-episteme: :done
+episteme: :fiction
 ---
 
 * Notes

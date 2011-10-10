@@ -54,8 +54,8 @@
     <!-- breadcrumb navigation -->
     <div class="crumb">
       <%= breadcrumbs_trail.map do |crumb|
-          target = crumb[:short_title] || crumb[:title] || crumb.name
-          "<a class='crumb' href='#{crumb.identifier}'>#{target}</a>"
+            target = crumb[:short_title] || crumb[:title] || crumb.name
+            "<a class='crumb' href='#{crumb.identifier}'>#{target}</a>"
           end.join(" » ") %>
     </div>
   </body>

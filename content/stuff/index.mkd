@@ -1,0 +1,6 @@
+---
+title: stuff
+is_category: true
+---
+
+<%= category :stuff %>

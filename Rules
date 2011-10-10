@@ -87,12 +87,12 @@ compile '*' do
       filter :erb
       filter :kramdown
       filter :colorize_syntax, :default_colorizer => :pygmentize
-      layout 'default'
     when "org" # org-mode pages
       filter :org
     end
 
     # layout
+    layout 'default'
     filter :tidy
   end
 end
