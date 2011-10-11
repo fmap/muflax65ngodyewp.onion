@@ -74,7 +74,8 @@ episteme: :fiction
 - Faith Healing (2RIG+BUL) RIG/2 for up to 12 aware chars
 - Power of Tongues (RIG, 6 turns)
 - Fossil Gap (BUL) RAT save DC18 or fossil dies
-- Agape (2RIG) -1 enemy control, +1 association
+- Agape (2RIG) +1 control/party, +50% party buffs (1 turn), no State of Nature
+  (3 turns)
 *** Ethicist
 - (none)
 ** Skills
