@@ -27,7 +27,7 @@ episteme: :fiction
   - Apologist: 4 (400)
   - Ethicist: 1 (50)
 - Wealth: 140 (3)
-- XP: 496 (450 spend) (+50 Utopist)
+- XP: 546 (450 spend) (+50 Utopist)
 ** Items 
 - book bag of holding(8/1)
 - KJ bible (+1 bibliomancy, +5 off/def demons, +3 RIG) 
