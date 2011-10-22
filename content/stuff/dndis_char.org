@@ -17,6 +17,8 @@ episteme: :fiction
 7. <2011-10-01 土 20:30>
 8. <2011-10-08 土 20:30>
 9. <2011-10-15 土 20:30>
+10. <2011-10-22 土 20:30>
+11. <2011-10-29 土 20:30>
 * Character
 ** Details
 - Name: Phaidros
@@ -25,9 +27,11 @@ episteme: :fiction
 - Major: Apologetics
 - Levels:
   - Apologist: 4 (400)
-  - Ethicist: 1 (50)
-- Wealth: 140 (3)
-- XP: 546 (450 spend) (+50 Utopist)
+  - Ethicist: 2 (150)
+- Wealth: 315 (4)
+- XP: 766 (550 spend) (+50 Utopist)
+*** Special Characteristics
+- missing left hand
 ** Items 
 - book bag of holding(8/1)
 - KJ bible (+1 bibliomancy, +5 off/def demons, +3 RIG) 
@@ -35,6 +39,7 @@ episteme: :fiction
 - Antivenom (poison)
 - Penicillin (sickness)
 - First Aid Kit (bleeding, injury, doesn't get used up)
+- Water Shield (-1 physical dmg, water protection)
 ** Beliefs
 - Dualist
 - Kantian
@@ -57,8 +62,8 @@ episteme: :fiction
 - Bullshytte: 8
 - Phronesis: 6
 *** General
-- Debate (RAT) diff(RAT+d20)/2 mental dmg
-- Preach (free) diff(RIG+d20)/2 (moral) mental dmg
+- Debate (RAT) diff(RAT+d20) / 2 mental dmg
+- Preach (free) diff(RIG+d20) / 2 (moral) mental dmg
 - Confuse (BUL) (BUL+d20 - PHR+d20) / 2 mental damage
 - Smash (STR) diff(STR+d20) / 2 physical damage
 *** Apologist
@@ -77,7 +82,7 @@ episteme: :fiction
 - Agape (2RIG) +1 control/party, +50% party buffs (1 turn), no State of Nature
   (3 turns)
 *** Ethicist
-- (none)
+- Diogenes' Lantern (R, 3 turns), ethical status 
 ** Skills
 (base 25) 
 - Erudition: 6
