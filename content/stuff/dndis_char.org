@@ -28,8 +28,8 @@ episteme: :fiction
 - Levels:
   - Apologist: 4 (400)
   - Ethicist: 2 (150)
-- Wealth: 315 (4)
-- XP: 766 (550 spend) (+50 Utopist)
+- Wealth: 395 (4)
+- XP: 896 (550 spend) (+50 Utopist)
 *** Special Characteristics
 - missing left hand
 ** Items 
@@ -82,7 +82,7 @@ episteme: :fiction
 - Agape (2RIG) +1 control/party, +50% party buffs (1 turn), no State of Nature
   (3 turns)
 *** Ethicist
-- Diogenes' Lantern (R, 3 turns), ethical status 
+- Diogenes' Lantern (RIG, 3 turns), ethical status 
 ** Skills
 (base 25) 
 - Erudition: 6
