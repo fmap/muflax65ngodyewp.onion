@@ -26,16 +26,16 @@ episteme: :fiction
 - Race: Greek
 - Major: Apologetics
 - Levels:
-  - Apologist: 4 (400)
+  - Apologist: 5 (800)
   - Ethicist: 2 (150)
-- Wealth: 395 (4)
-- XP: 896 (550 spend) (+50 Utopist)
+- Wealth: 455 (5)
+- XP: 1096 (950 spend) (+50 Utopist)
 *** Special Characteristics
 - missing left hand
 ** Items 
 - book bag of holding(8/1)
 - KJ bible (+1 bibliomancy, +5 off/def demons, +3 RIG) 
-- club (+1 STR, +1 smash)
+- Isoceles triangle (+2 STR, +4 smash)
 - Antivenom (poison)
 - Penicillin (sickness)
 - First Aid Kit (bleeding, injury, doesn't get used up)
@@ -48,8 +48,8 @@ episteme: :fiction
 ** Attributes
 (base 54)
 - Rationality: 12 +1 (12 -1 +1)
-- Righteousness: 20 +5 (14 +1 +5)
-- Phronesis: 12 +1 (11 +1)
+- Righteousness: 23 +7 (14 +1 +5)
+- Phronesis: 14 +2 (11 +1)
 - Bullshytte: 16 +3 (16 +0) 
 - Strength: 9 -1 (7 +2)
 - HP: 100
@@ -58,9 +58,9 @@ episteme: :fiction
 ** Spells
 *** Spell Slots:
 - Rationality: 6
-- Righteousness: 10
+- Righteousness: 12
 - Bullshytte: 8
-- Phronesis: 6
+- Phronesis: 7
 *** General
 - Debate (RAT) diff(RAT+d20) / 2 mental dmg
 - Preach (free) diff(RIG+d20) / 2 (moral) mental dmg
@@ -81,16 +81,20 @@ episteme: :fiction
 - Fossil Gap (BUL) RAT save DC18 or fossil dies
 - Agape (2RIG) +1 control/party, +50% party buffs (1 turn), no State of Nature
   (3 turns)
+- Summon Angelic Doctor (2RIG+RAT, 3 turns)
+  - Angelic Doctor (14/16/16/10/10, 40/(12))
+    - Cure (9), 9HP, cures Sick, Lame, Bleeding, Depressed
+    - may prescribe medication
 *** Ethicist
 - Diogenes' Lantern (RIG, 3 turns), ethical status 
 ** Skills
 (base 25) 
-- Erudition: 6
+- Erudition: 7
 - Rhetoric: 4
 - Sophistry: 4
 - Sense-Perception: 3
 - Precision: 2
-- Theory of Mind: 3
+- Theory of Mind: 4
 - Research: 2
 - Language: 5 
 - Techne: 1
