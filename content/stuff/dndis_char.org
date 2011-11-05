@@ -27,9 +27,9 @@ episteme: :fiction
 - Major: Apologetics
 - Levels:
   - Apologist: 5 (800)
-  - Ethicist: 2 (150)
-- Wealth: 455 (5)
-- XP: 1096 (950 spend) (+50 Utopist)
+  - Ethicist: 3 (250)
+- Wealth: 955 (6)
+- XP: 1396 (1050 spend) (+50 Utopist)
 *** Special Characteristics
 - missing left hand
 ** Items 
@@ -52,7 +52,7 @@ episteme: :fiction
 - Phronesis: 14 +2 (11 +1)
 - Bullshytte: 16 +3 (16 +0) 
 - Strength: 9 -1 (7 +2)
-- HP: 100
+- HP: 120
 - (Speed: 12)
 - Luck: 0
 ** Spells
@@ -86,7 +86,9 @@ episteme: :fiction
     - Cure (9), 9HP, cures Sick, Lame, Bleeding, Depressed
     - may prescribe medication
 *** Ethicist
-- Diogenes' Lantern (RIG, 3 turns), ethical status 
+- Diogenes' Lantern (RIG, 3 turns), ethical status
+- Summon Trolley (RIG, 3 turns), 20m/10p dmg, bid temp RIG to avoid
+- Catatonic Imperative (2RIG), d3 creatures paralyzed for 2 turns, RIG DC20
 ** Skills
 (base 25) 
 - Erudition: 7
