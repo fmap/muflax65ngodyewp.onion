@@ -26,10 +26,10 @@ episteme: :fiction
 - Race: Greek
 - Major: Apologetics
 - Levels:
-  - Apologist: 5 (800)
+  - Apologist: 6 (1600)
   - Ethicist: 3 (250)
 - Wealth: 955 (6)
-- XP: 1396 (1050 spend) (+50 Utopist)
+- XP: 1896 (1850 spend) (+50 Utopist)
 *** Special Characteristics
 - missing left hand
 ** Items 
@@ -48,10 +48,10 @@ episteme: :fiction
 ** Attributes
 (base 54)
 - Rationality: 12 +1 (12 -1 +1)
-- Righteousness: 23 +7 (14 +1 +5)
-- Phronesis: 14 +2 (11 +1)
-- Bullshytte: 16 +3 (16 +0) 
-- Strength: 9 -1 (7 +2)
+- Righteousness: 26 +8 (14 +1 +5)
+- Phronesis: 16 +3 (11 +1)
+- Bullshytte: 17 +4 (16 +0) 
+- Strength: 11 +0 (7 +2 +2)
 - HP: 120
 - (Speed: 12)
 - Luck: 0
@@ -85,6 +85,7 @@ episteme: :fiction
   - Angelic Doctor (14/16/16/10/10, 40/(12))
     - Cure (9), 9HP, cures Sick, Lame, Bleeding, Depressed
     - may prescribe medication
+- Total Depravity (2RIG, 1 turn) RIG=0 
 *** Ethicist
 - Diogenes' Lantern (RIG, 3 turns), ethical status
 - Summon Trolley (RIG, 3 turns), 20m/10p dmg, bid temp RIG to avoid
@@ -94,9 +95,9 @@ episteme: :fiction
 - Erudition: 7
 - Rhetoric: 4
 - Sophistry: 4
-- Sense-Perception: 3
+- Sense-Perception: 4
 - Precision: 2
-- Theory of Mind: 4
+- Theory of Mind: 5
 - Research: 2
 - Language: 5 
 - Techne: 1
