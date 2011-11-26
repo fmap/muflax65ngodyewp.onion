@@ -67,6 +67,10 @@ horrible right now.
 It is always wrong to bring someone into existence. *Every* being is worse off
 alive. Even [Manabi][]. This is what I'm arguing for.
 
+# Arguments
+
+## Escape from Kaldor Hicks
+
 # What about future versions of yourself?
 
 Self, person-moments. Should you kill yourself right now?
@@ -91,7 +95,6 @@ unconventional you are? After all, even professional ethicists aren't more
 ethical on average[^ethicistfail].
 
 [^ethicistfail]: See [Schwitzgebel's various studies][Schwitzgebel Ethics].
-
 
 # Religious Analogies
 
