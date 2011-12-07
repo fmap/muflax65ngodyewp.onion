@@ -13,6 +13,7 @@ episteme: :believed
 - [Living in Hell][]
 - [Divine Command Theory for Atheists][]
 - [An Empty God][]
+- [Killing Jesus][]
 
 # Short FAQ
 
