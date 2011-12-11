@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder>
+<name>German LW users</name>
+<Placemark>
+  <name>12/9/2011 3:00:52</name>
+  <Point>
+    <coordinates>8.63,49.4</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 7:25:06</name>
+  <Point>
+    <coordinates>8.65,50.58</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 8:30:30</name>
+  <Point>
+    <coordinates>8.14,49.36</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 8:59:19</name>
+  <Point>
+    <coordinates>13.4,52.52</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 10:24:00</name>
+  <Point>
+    <coordinates>9.22,48.75</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 10:50:40</name>
+  <Point>
+    <coordinates>13.4,52.52</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 10:55:52</name>
+  <Point>
+    <coordinates>8.38,51.9</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 11:51:16</name>
+  <Point>
+    <coordinates>8.65,50.58</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 12:17:05</name>
+  <Point>
+    <coordinates>8.25,48.75</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 12:45:27</name>
+  <Point>
+    <coordinates>12.38,51.37</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 13:14:17</name>
+  <Point>
+    <coordinates>6.87,50.87</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 13:46:10</name>
+  <Point>
+    <coordinates>8.39,49.0</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 13:49:21</name>
+  <Point>
+    <coordinates>9.95,53.55</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 14:20:58</name>
+  <Point>
+    <coordinates>12.13,54.08</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 15:13:25</name>
+  <Point>
+    <coordinates>7.22,51.48</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 17:53:26</name>
+  <Point>
+    <coordinates>11.07,49.45</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/9/2011 20:25:56</name>
+  <Point>
+    <coordinates>11.37,48.13</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/10/2011 1:56:45</name>
+  <Point>
+    <coordinates>10.88,48.37</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/10/2011 14:27:37</name>
+  <Point>
+    <coordinates>11.7,48.05</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/10/2011 17:54:57</name>
+  <Point>
+    <coordinates>11.03,50.98</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/11/2011 12:26:39</name>
+  <Point>
+    <coordinates>10.53,52.27</coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>12/11/2011 12:59:35</name>
+  <Point>
+    <coordinates>10.53,52.27</coordinates>
+  </Point>
+</Placemark>
+</Folder>
+</kml>

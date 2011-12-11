@@ -60,6 +60,10 @@ compile '/style/' do
   # pass
 end
 
+compile '/stuff/*' do
+  # pass
+end
+
 compile '/references' do
   # link references are only added to other files
 end
@@ -111,6 +115,11 @@ end
 
 route '/references' do
   # pass
+end
+
+# never compile /stuff
+route '/stuff/*' do
+  route_unchanged
 end
 
 route '*' do
