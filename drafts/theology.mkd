@@ -1,5 +1,5 @@
 ---
-title: The Broken Savior
+title: Theology in a Godless World
 date: 2011-10-17
 techne: :incomplete
 episteme: :believed
@@ -7,42 +7,32 @@ episteme: :believed
 
 # Topics
 
-- [Tracing the Gospels][]
-- [Tracing Paul][]
-- [On the Crucifixion][]
-- [Living in Hell][]
-- [Divine Command Theory for Atheists][]
-- [An Empty God][]
-- [Killing Jesus][]
+- [Jesus FAQ][]
+- [Against Asceticism][]
+- [Serving An Absent God][] aka Divine Command Theory for Atheists
+- [Devil's Guide to Theology][]
 
 # Short FAQ
 
 ### Is this apologetics?
 
-No. This isn't really about Christianity, just Christ and salvation. I'm not
-interested in politics.
+No. This isn't really about Christianity, just the Christ. It's not
+about Buddhism, just the end of suffering. There is no savior, just salvation.
+
+In other words, I'm not defending a political or religious institution. I'm
+just thinking about topics that cluster more-or-less around religion. Some of it
+is philosophy, some history, some morality and some fiction.
 
 ### Are you a Christian?
 
-No. I occassionally identify as a Buddhist, but really, I'm just a normal
-non-believing atheist internet crackpot.
+No. I occassionally call myself a Buddhist or Christian atheist, but really, I'm
+just a normal non-believing internet crackpot.
 
 ### Then why do you care so much about Christ?
 
 Dunno. He fascinates me. Maybe I'm even in love with him.
 
 ### Do you think Christ was historical?
-
-No. The best you can do is reconstruct some plausible minimalistic accounts, but
-they always remind me of the old Radio Yerevan joke:
-
-> The Armenian Radio was asked: Is it true that Ivan Ivanovich from Moscow won a
-> car in a lottery?
->
-> The Armenian Radio answered: In principle yes, but it wasn't Ivan Ivanovich
-> but Aleksander Aleksandrovich, he is not from Moscow but from Odessa, it was
-> not a car but a bicycle, and he didn't win it, but it was stolen from him.
-> Everything else is correct.
 
 I think that any attempt to historize Christ misses the point. He must be
 understood on theological grounds. You must wrestle with mercy and damnation,

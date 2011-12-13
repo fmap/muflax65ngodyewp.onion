@@ -1,0 +1,132 @@
+---
+title: Jesus FAQ
+date: 2011-12-13
+techne: :incomplete
+episteme: :believed
+---
+
+Introduction
+============
+
+I'm totally biased.
+
+## Conventions
+
+I'm sticking to a few rules in this overview (and the rest of my writing).
+
+1. Whenever I use a name, I'll stick to the most common English version, but
+give original version the first time I mention them. There are a few exceptions.
+Some characters vary dramatically depending on the community, so to untangle
+them I'll use different names for different versions, either by using an obvious
+alias (Chrestos for the Marcionite Jesus) or by using fanfic tags
+(catholic!Jesus). 
+
+2. Texts are always linked in both original and translated versions. If it's
+unclear what the original language was, I'll mention all plausible candidates.
+
+3. I often give probability estimates that reflect my own certainty in a
+particular belief, like so: "(muflax: 50%)". I sometimes also give them for other
+writers, but then typically without numerical estimates.
+
+4. A "myth" is any kind of story, true or not. "Fiction" is not true, and
+obvious as such to the reader. A person is "mythological" if it appears in myths
+and "historical" if there is evidence to attest their existence outside of myth.
+Someone can be both at the same time: [Adolf Hitler][] is historical, but
+[Jetpack Hitler][] is mythological.
+
+Dramatis personae
+=================
+
+Who are all these people?
+
+TODO: Stammbaum
+
+The groupings are a bit arbitrary and overlap somewhat, but I think they make
+the most sense this way. I've ordered them roughly by importance, but that's not
+a value judgment. I totally like Longinus too.
+
+Prophets
+--------
+
+### Jesus
+
+- Joshua (a jewish prophet)
+- Yeshu (an evil prophet)
+- the Son of God
+- Christus (the messiah)
+- Chrestos (the Marcionite version)
+- Isa (the ascetic)
+
+I'll use "Jesus" as a collective name for all these persons and otherwise use
+the relevant specific version. This might be a bit confusing at first, but I do
+this to separate the traditions and make it easier to see just how messed up the
+modern myth is.
+
+### John the Baptist
+
+aka John the Baptizer
+
+### James the Just
+
+Apostles
+--------
+
+### Paul
+
+- Paulus, St. Paul
+- Saul of Tarsus, Saulus 
+- Simon Magus
+- 
+
+### Peter
+
+aka Simon Peter, St. Peter, Petrus
+
+I'll typically just
+
+### Judas Iscariot
+
+aka Judas the False One
+
+Church Fathers
+--------------
+
+(And "fathers?" No women? Well, honestly, not really. There is exactly one and
+she is mythological.)
+    
+### Marcion
+
+### Augustine of Hippo
+
+Historians
+----------
+
+### Josephus
+
+Others
+------
+
+### Herod
+
+
+# Historicity
+
+*But maybe there's a historical Jesus all the mythological accounts are based on?* 
+
+I don't think so. (muflax: 70%) You may be able to reconstruct some plausible
+minimalistic accounts, or reduce him to some other figure like Siddhattha
+Gotama, but I think both of these approaches miss the point. Back in the old
+Soviet Union, people told this Radio Yerevan joke:
+
+> The Armenian Radio was asked: Is it true that Ivan Ivanovich from Moscow won a
+> car in the lottery?
+>
+> The Armenian Radio answered: In principle yes, but it wasn't Ivan Ivanovich
+> but Aleksander Aleksandrovich, he isn't from Moscow but from Odessa, it was
+> not a car but a bicycle, and he didn't win it, but it was stolen from him.
+> Everything else is correct.
+
+At some point you just have to let go and say "he isn't real".
+
+[Adolf Hitler]: http://en.wikipedia.org/wiki/Adolf_Hitler
+[Jetpack Hitler]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StupidJetpackHitler
