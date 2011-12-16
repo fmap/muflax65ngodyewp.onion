@@ -25,6 +25,10 @@ def route_unchanged
   item.identifier.chop + '.' + item[:extension]
 end
 
+def toc
+  "- ToC\n{:toc}"
+end
+
 class Nanoc3::Site
   # only articles that actually get printed
   attr_reader :printed_items
