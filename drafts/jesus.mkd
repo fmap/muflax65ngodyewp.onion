@@ -10,6 +10,20 @@ Introduction
 
 I'm totally biased.
 
+## Higher Criticism
+
+aka Historical Criticism
+
+First rule of Higher Criticism: anything that survived in writing must have
+served someone's purpose.[^writing] Because writing was so expensive and
+time-consuming, no-one would've written anything down unless they saw a use in
+it. Thus, there are no quotes or stories in any text unless someone *wanted*
+them there.
+
+[^writing]: This rule stops being true once we reach the modern times with
+    ubiquitous writing. It's so cheap to document stuff now that we get a lot of
+    unintentional or at least un-edited text.
+
 ## Conventions
 
 I'm sticking to a few rules in this overview (and the rest of my writing).
@@ -128,5 +142,3 @@ Soviet Union, people told this Radio Yerevan joke:
 
 At some point you just have to let go and say "he isn't real".
 
-[Adolf Hitler]: http://en.wikipedia.org/wiki/Adolf_Hitler
-[Jetpack Hitler]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StupidJetpackHitler

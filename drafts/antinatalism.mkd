@@ -36,14 +36,15 @@ episteme: :believed
 > had escaped. Pain - for having to live. There will be no more pain. There
 > will be no more chaos.
 >
-> -- [Kerghan][] the Wise ([video][Kerghan Speech])
+> -- [Kerghan][] ([video][Kerghan Speech])
 
 # Why You Got Screwed
 
 Why you have been harmed by coming into existence and nothing you can do will
 make up for it.
 
-# Range of Positions
+Range of Positions
+==================
 
 ## Pronatalism
 
@@ -65,17 +66,57 @@ horrible right now.
 ## Categorical Antinatalism
 
 It is always wrong to bring someone into existence. *Every* being is worse off
-alive. Even [Manabi][]. This is what I'm arguing for.
+alive. Even [Manabi][].
 
-# Arguments
+Arguments for Antinatalism
+==========================
 
 ## Escape from Kaldor Hicks
 
-# What about future versions of yourself?
+## The Asymmetry
+
+## What about future versions of yourself?
 
 Self, person-moments. Should you kill yourself right now?
 
-# Moral Imperative
+
+Arguments against Antinatalism
+==============================
+
+## Your suffering is a First World Problem.
+
+An anonymous commenter on [The View from Hell][] provides an example of this
+common argument:
+
+> I think your blog's title is a total misnomer: if you're still able
+> (emotionally, physically and financially) to enjoy drugs, sex, running and
+> talking about philosophy as you yourself claim you clearly haven't got the
+> slightest notion of what hell consists of.
+
+In other words, if there are many people who are much worse off than you, you
+can't claim to suffer.
+
+I find that a very strange argument. If even privileged people suffer greatly,
+isn't that an argument *for* antinatalism, namely that even greatly improved
+average circumstances don't fix suffering? Shouldn't we therefore conclude that
+many more people suffer than we typically think?
+
+What the arguments seems to be doing is to critize people for requesting help.
+Basically, if someone else needs help much more than you, you shouldn't be
+bringing your pain to our attention. You're just wasting resources that way.
+That's not a bad point, but it is not an argument against preventing births. If
+less people are made, less will suffer and we can take better care of the rest.
+
+Practical Implications
+======================
+
+Is this just a contrarian position? Are you merely signalling how deep and
+unconventional you are? After all, even professional ethicists aren't more
+ethical on average[^ethicistfail].
+
+[^ethicistfail]: See [Schwitzgebel's various studies][Schwitzgebel Ethics].
+
+## Moral Imperative
 
 Comparison to Vampire RPG. In it, you are a recently turned vampire who has to
 feed on the living to survive. Your constant hunger for blood makes it likely
@@ -88,15 +129,15 @@ what you tell yourself, you are evil.[^social]
 [^social]: The analogy to our economy, social system and all of
     industrialization is too obvious to ignore.
 
-# Practical Implications
 
-Is this just a contrarian position? Are you merely signalling how deep and
-unconventional you are? After all, even professional ethicists aren't more
-ethical on average[^ethicistfail].
+Religious Analogies
+===================
 
-[^ethicistfail]: See [Schwitzgebel's various studies][Schwitzgebel Ethics].
-
-# Religious Analogies
+This is not a completely serious section. It doesn't provide actual arguments,
+really. Just because some religion or old ascetic supported something like
+antinatalism, doesn't mean it's right. But I still find it interesting how
+*common* the position actually is. There is obvious [memetic][meme] pressure to
+remove antinatalism from any religion, but it still survives for some reason.
 
 ## Gnosticism
 
@@ -113,13 +154,10 @@ argument, like so:
 
 How not to do it.
 
-## Genetic Exploitation
-
-Being a sucker for genes.
-
-## Buddhism.
+## Buddhism
 
 [Manabi]: http://en.wikipedia.org/wiki/Gakuen_Utopia_Manabi_Straight!
 [Schwitzgebel Ethics]: http://schwitzsplinters.blogspot.com/2007/04/moral-behavior-of-ethics-professors.html
 [Kerghan]: http://en.wikipedia.org/wiki/Arcanum
 [Kerghan Video]: http://www.youtube.com/watch?v=IkBrIrQikWY
+[The View from Hell]: http://theviewfromhell.blogspot.com
