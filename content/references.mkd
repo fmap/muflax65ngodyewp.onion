@@ -11,7 +11,7 @@ is_hidden: true
 [Source]: http://github.com/muflax/muflax.com
 [Twitter]: http://twitter.com/muflax
 [Config]: http://github.com/muflax/config
-
+[whatiswrongwith.me]: htpp://whatiswrongwith.me/muflax
 
 <!-- external links -->
 [Berryz工房 - Dschinghis Khan]: http://www.youtube.com/watch?v=b7pui9Q6Vbo
@@ -23,7 +23,7 @@ is_hidden: true
 [Find the Bug]: http://www.findthebug.com
 [Fyfe Purpose]: http://atheistethicist.blogspot.com/2009/07/purpose-to-life-choosing-purpose.html
 [How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
-[Kerghan Speechr]: http://www.youtube.com/watch?v=IkBrIrQikWY
+[Kerghan Speech]: http://www.youtube.com/watch?v=IkBrIrQikWY
 [Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
 [PhilPapers Survey]: http://philpapers.org/surveys/
 [Price Purpose]: http://www.robertmprice.mindvendor.com/zara/april__2007.htm
@@ -99,7 +99,7 @@ is_hidden: true
 [Hedonic Threadmill]: http://en.wikipedia.org/wiki/Hedonic_Threadmill
 [Repugnant Conclusion]: http://en.wikipedia.org/wiki/Repugnant_Conclusion
 [Scope Insensitivity]: http://lesswrong.com/lw/hw/scope_insensitivity/
-
+[Crocker's Rules]: http://wiki.lesswrong.com/wiki/Crocker%27s_rules
 
 <!-- internal links -->
 [RSS]: /rss.xml

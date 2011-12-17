@@ -1,5 +1,6 @@
 ---
 title: Antinatalism Overview
+alt_titles: [Antinatalism]
 date: 2011-11-16
 techne: :incomplete
 episteme: :believed
@@ -90,11 +91,11 @@ alive. Even [Manabi][].
 
 One thing this overview won't address is any argument for the particular size of
 the ethical circle, i.e. the set of all morally relevant beings. It doesn't
-really matter for antinatalism whether you think [only you][Egoism] or
-[all animals][Animal Rights] matter, or if the circle is
-[expanding][Expanding Circle] or [narrowing][Narrowing Circle]. For simplicity's
-    sake, I will assume the circle encompasses all humans, but most arguments can be
-trivially modified for any size.
+really matter for antinatalism whether you think [only you][Egoism] or [all
+animals][Animal Rights] matter, or if the circle is [expanding][Expanding
+Circle] or [narrowing][Narrowing Circle]. For simplicity's sake, I will assume
+the circle encompasses all humans, but most arguments can be trivially modified
+for any size.
 
 Arguments for Antinatalism
 ==========================
@@ -313,9 +314,9 @@ them. And if you have a transhumanist bend, you might even think that [modifying
 the set point][Wireheading] is not too far off.
 
 [^setpoint]: All you depressed people hopefully realize how devastating this is.
-    Life sucks and it will *keep on sucking*. Under
-    [normal circumstances][Happiness Stochastic], happiness is largely constant.
-    Happy endings are for other people.
+    Life sucks and it will *keep on sucking*. Under [normal
+    circumstances][Happiness Stochastic], happiness is largely constant. Happy
+    endings are for other people.
 
 TODO rebuttal from desire fulfillment
 

@@ -16,6 +16,16 @@ All major changes on the site
 =============================
 
 {:#changelog}
+- 2011/12/17: Wrote an [Antinatalism Overview][]. Covers many arguments for and
+  against bringing life into existence. It's hopefully more approachable than
+  scattered philosophy, but also less scientifically illiterate than your
+  typical writing about ethics. I tried to refrain from pushing my own view too
+  much, but I'm not treating silly arguments as respectable either.
+
+  Also improved the site's design somewhat. Larger articles have tables of
+  contents, navigation is more visible, contact features are more prominent and
+  comments were added for easier feedback.
+  
 - 2011/09/04: Converted whole site to [nanoc][]. Most of the content got
   re-organized, but not widely changed. A few things have disappeared, but will
   probably come back in a better form later. The design is reasonably the same,
