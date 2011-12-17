@@ -1,0 +1,510 @@
+---
+title: Antinatalism Overview
+date: 2011-11-16
+techne: :incomplete
+episteme: :believed
+---
+
+> If only I could show you the places I have seen, you might understand the
+> things I say. I have been to the Desolate Lands, wandered by those souls who
+> still see the lands of the living but wear the cloak of the dead. Blind to
+> their own ends, they cry, passing through one another like shadows in the
+> dying light of day. I have travelled to where souls rot in torment, pierced
+> with the jagged shards of life and vision, clinging to memory - regrets of
+> the flesh. I saw that this prison was of their own making, and that the key
+> was in unknowing, in release... and still, I travelled on.
+>
+> And finally, I came to the place where souls go to die. Where the mirrored and
+> worn spirits fall into an endless sea of grey, mirrored glass, and I lowered
+> myself within, and lay there among them, and I almost did not return.
+>
+> And do you know what I found there? There, among the silent and battered
+> shells of the innumerable? Peace. Enlightenment. Truth. Only then did I realize
+> that this place, this "Life", is an abomination, a horrible distortion of the
+> natural order. This *"Life"*, who mothered Pain, and Fear, and Envy... these
+> twisted children who exist only because we are here to feed them, to nourish
+> them. This *"Life"*, this *afterthought* - a disturbance, a mere ripple in that
+> great, dead sea, not even the cause, but merely an effect, sending these souls
+> upwards, screaming for release from the day they are torn from their waters!
+> The effect of what?!
+>
+> I do not know. Nor do I care.
+>
+> Have you ever spoken with the dead? Called to them from this side? Called them
+> from their silent rest? Do you know what it is that they feel? Pain. Pain,
+> when torn into this wakefulness, this reminder of the chaos from which they
+> had escaped. Pain - for having to live. There will be no more pain. There
+> will be no more chaos.
+>
+> -- [Kerghan][], about to end the world ([video][Kerghan Speech])
+
+# Why You Got Screwed
+
+I've got bad news for you. According to some philosophers, there is a huge
+source of harm in the world that most people ignore. Even worse, *you* are
+already affected by it. The harm? *Being born*.
+
+This position is called [antinatalism][Antinatalism].
+
+As a stylistic convention, I will refer to all good experiences as "awesome" or
+"awesomeness" and all bad ones as "suck" or "suckiness". That's a little
+unusual, but I think superior to words like "pleasure" or "pain", which can
+refer to either very specific sensations (e.g. having a toothache) or the whole
+category. So to prevent this confusion, everything bad just "sucks". If I mean
+specifically just pain, I'll say so.
+
+Range of Positions
+==================
+
+The names for these positions are mine, but reasonably close to common versions.
+
+## Pronatalism
+
+It is never wrong to bring someone into existence.
+
+## Indifferent Natalism
+
+It isn't *wrong* to bring someone into existence, but isn't right either. Both
+outcomes are morally equivalent, so we should decide based on other
+considerations, like our personal preferences or involved economic costs.
+
+## Minor Antinatalism
+
+There are some beings who are worse off, but on average, it works out. This
+seems like the majority view of humanity.
+
+## Major Antinatalism
+
+Some beings are better off alive, but on average, the harm dominates. This
+position is not unusual among transhumanists, who might think that humanity has
+a possible good future, but so far has mostly suffered. It is not uncommon for
+people to hold off on having children because the world is too horrible at a
+given time.
+
+## Categorical Antinatalism
+
+It is always wrong to bring someone into existence. *Every* being is worse off
+alive. Even [Manabi][].
+
+## A Note on Circles
+
+One thing this overview won't address is any argument for the particular size of
+the ethical circle, i.e. the set of all morally relevant beings. It doesn't
+really matter for antinatalism whether you think [only you][Egoism] or
+[all animals][Animal Rights] matter, or if the circle is
+[expanding][Expanding Circle] or [narrowing][Narrowing Circle]. For simplicity's
+    sake, I will assume the circle encompasses all humans, but most arguments can be
+trivially modified for any size.
+
+Arguments for Antinatalism
+==========================
+
+## Escape from Kaldor Hicks
+
+Argument from consent.
+
+http://theviewfromhell.blogspot.com/2011/01/pareto-kaldor-hicks-and-deserving.html
+http://theviewfromhell.blogspot.com/2011/01/markets-are-ungrounded.html
+
+## The Asymmetry {#asymmetry}
+
+[Benatar][]'s famous argument. It's deceptively simple:
+
+1. The presence of suck is bad.
+2. The presence of awesome is good.
+3. The absence of suck is good, even if that good is not enjoyed by anyone.
+4. The absence of awesome is not bad unless there is somebody for whom this
+   absence is a deprivation.
+
+The first two are uncontroversial. It's the second two parts that are
+problematic.
+
+TODO Argument from Duty
+
+Benatar:
+
+> The asymmetry between (3) and (4) is the best explanation for the view that
+> while there is a duty to avoid bringing suffering people into existence, there
+> is no duty to bring happy people into being.
+
+The asymmetry relies fundamentally on the intuitions that absence of suckiness
+must be good and that absence of awesomeness can't be bad. Disagreeing with
+either would have weird consequences, so Benatar, and doesn't match our actual
+behavior.
+
+But I think Benatar is not expecting enough from his audience. Both positions
+seem actually fairly sensible. Let's have a closer look.
+
+
+### Absence is Always Neutral
+
+One way to resolve the asymmetry is to deny that the absence of suckiness is
+actually good.
+
+After all, who is benefitted? The hypothetical preferences of
+non-existent people can't matter, or we would also take their preference for
+awesomeness into account - and by accepting (4), we don't. So how does this
+benefit arrise?
+
+[Sister Y][Sister Asymmetry] gives us this thought experiment:
+
+> **The Austrian Basement**
+>
+> E. F. has been kidnapped by her father and imprisoned in an Austrian cellar
+> since her early adolescence. Her father repeatedly rapes her over the course
+> of several years. E. F. gives birth to several children sired by her father.
+> She reasonably believes that all these children have severe health problems,
+> and that at least the female children will likely be abused by her father as
+> they grow up.
+>
+> In Year 10 of her imprisonment, with four children born and removed from her
+> by her father, she discovers a box (unknown to her father) hidden under a
+> floorboard in her cell, containing everything she needs in order to practice
+> undetectable birth control.
+>
+> Does she have a duty to practice birth control and avoid having more babies?
+> Does she have a duty not to practice birth control, because she would be
+> depriving her unborn babies of life (which, while it would have certain
+> problems, would nevertheless presumably be worth living)? (Assume she would
+> like the company of more babies, but fears the pain of more unassisted
+> childbirth, and the "interests of the unborn children" is the concern that
+> will break the tie, given her personal ambivalence.)
+
+If you answer "yes, E. should use birth control", then why? She is preventing
+harm to her unborn children, but if you deny the asymmetry, how is this
+relevant?
+
+So if absence of suckiness is not good, E. should have more children, who will
+subsequentally be raped and beaten, but overall, say they like living. That's a
+tough bullet to bite.
+
+### Astronomical Waste
+
+Why should the absence of awesome be considered "not bad"? Why not consider it
+an evil? One transhumanist approach to this is called [Astronomical Waste][]. As
+Nick Bostrom says:
+
+> With very advanced technology, a very large population of people living happy
+> lives could be sustained in the accessible region of the universe. For every
+> year that development of such technologies and colonization of the universe is
+> delayed, there is therefore an opportunity cost: a potential good, lives worth
+> living, is not being realized. Given some plausible assumptions, this cost is
+> extremely large.
+
+TODO
+
+[Sister Y][Sister Asymmetry] has another thought experiment:
+
+> **Slum World**
+> 
+> The Supreme World Leaders meet in Tokyo in 2100 and decide that the world has
+> a choice. Either the 2100 world population of 3 billion can be maintained in
+> relative splendor, with fresh kumquats and sensory implants for everyone, or
+> the world population can be increased to 100 billion, with everyone living in
+> conditions similar to the conditions of a 20th century slum, apparently
+> endured by upwards of 900 million people circa the year 2000.
+>
+> Which condition should the Supreme World Leaders choose?
+
+This is really just an illustration of the problem, but a poignant one. However,
+someone already convinced of positive utilitarianism will simply accept the
+[Repugnant Conclusion][] and appeal to [Scope Insensitivity][].
+
+Even so, Benatar writes:
+
+> Whereas, at least when we think of them, we rightly are sad for inhabitants of
+> a foreign land whose lives are characterized by suffering, when we hear that
+> some island is unpopulated, we are not similarly sad for the happy people who,
+> had they existed, would have populated this island. Similarly, nobody really
+> mourns for those who do not exist on Mars, feeling sorry for potential such
+> beings that they cannot enjoy life. Yet, if we knew that there were sentient
+> life on Mars but that Martians were suffering, we would regret this for them.
+
+Even most positive utilitarians don't feel saddened by the emptiness of space
+and feel a strong moral compulsion to fix this mistake. On the other hand, nor
+do negative utilitarians rejoice at all the matter in the universe that *isn't*
+used to torture people. So overall, maybe our feeling of regret or relief isn't
+such a great guide after all?
+
+### What about future versions of yourself?
+
+TODO Self, person-moments. Should you kill yourself right now?
+
+## Life Sucks
+
+This is a really straightforward argument. Life sucks, therefore it is bad to
+create another life, for it too will suck.
+
+It starts to get tricky once you start asking questions like "How *much* does it
+suck?", "Is there an acceptable level of suck?" or "Does it suck for everyone?".
+
+### Amount of Suck
+
+TODO benatar
+
+### Acceptable Suckiness
+
+TODO utilitarian / max-harm argument
+
+### I like Russian Roulette
+
+Maybe not everyone is affected by overall suckiness. If you are already
+upper-class parents with no history of depression, then maybe your child *does*
+have a good shot at a worthwhile life.
+
+This is fundamentally an utilitarian argument. You take the probability of
+*your* child having a sucky life, multiply it with the negative value of all the
+expected harm, do the same thing with the chance of awesomeness and compare the
+two. It's fundamentally like russian roulette, but if the odds are good enough,
+why not play?
+
+Of course, if you accept this argument, I'd like you to show me these
+calculations. (Seriously. [Contact][] me. I can't even decide on the rough order
+of magnitude for any of these values.) In my experience, almost no-one who makes
+claims about utility actually ever calculates it. So how do you know?
+
+TODO non-utilitarian rebuttals
+
+## Children are Expensive
+
+TODO
+
+### Humans are Parasites
+
+A variant of this argument argues that the rest of the planet would be better
+off without humans.
+
+TODO [Voluntary Human Extinction Movement (VHEMT)][VHEMT]
+
+TODO wildlife is much worse off
+
+Of course, if you think that animals don't have moral value, then the whole
+argument is moot.
+
+Arguments against Antinatalism
+==============================
+
+## Most people don't want to die.
+
+If you ask people if they would like to die, most disagree.
+
+TODO hypothetical consent
+
+TODO bias argument
+
+TODO include [Wasting The Dawn][] somehow
+
+I can't help but feel that culture too rarely [makes the case][Wasting The Dawn]
+for antinatal positions and that feeling regret at having to live is always
+treated as a mental illness, not a possible position to defend.
+
+## Synthetic Happiness is Real Happiness
+
+[Dan Gilbert][Gilbert TED] argues that we fabricate "synthetic happiness" when
+we don't get what we want, and that this is as good as "real" happiness. Thanks
+to the [Hedonic Threadmill][], we will adapt to any change in life and go back
+to our happiness set point.
+
+If this happiness research is right, then our life circumstances are largely
+irrelevant when considering how happy we are. Only one thing matters: our
+happiness set point.[^setpoint] And because most people say they like living, they have a
+sufficiently high set point and weren't harmed by whatever life we forced upon
+them. And if you have a transhumanist bend, you might even think that [modifying
+the set point][Wireheading] is not too far off.
+
+[^setpoint]: All you depressed people hopefully realize how devastating this is.
+    Life sucks and it will *keep on sucking*. Under
+    [normal circumstances][Happiness Stochastic], happiness is largely constant.
+    Happy endings are for other people.
+
+TODO rebuttal from desire fulfillment
+
+TODO rebuttal from separate pain
+
+## Non-Person Values
+
+Not just people matter. We can value states of the world without existing. Thus,
+I can be harmed without ever being brought into existence. Existence is not a
+morally significant hurdle.
+
+Basically, we should respect the values of of even non-existent people. They
+would want to live (or so they would tell us), so we are harming them by denying
+them the opportunity.
+
+*Rebuttal*: This can't be right. For every possible mind X, there is a possible
+mind Anti-X that values exactly the opposite. If you bring X into existence
+becomes X wants to live, then you are ignoring Anti-X who wants X to *not* live.
+If you prefer a specific sampling of minds (say, minds similar to you), then you
+are really just imposing your own values. Then it's not about unborn people,
+just you.
+
+## You Can't Harm the Non-Existent
+
+[Benatar][] provides a version in [Better Never to Have Been][]\:
+
+1. For something to harm somebody, it must make that person worse off.
+2. The 'worse off' relation is a relation between two states.
+3. Thus, for somebody to be worse off in some state (such as existence), the
+   alternative state, with which it is compared, must be one in which he is less
+   badly (or better) off.
+4. But non-existence is not a state in which anybody can be, and thus cannot be
+   compared with existence.
+5. Thus coming into existence cannot be worse than never coming into existence.
+6. Therefore, coming into existence cannot be a harm.
+
+
+## If life is so horrible, why don't you kill yourself?
+
+TODO if life is so awesome, why do so many people kill themselves?
+
+TODO suicide censorship, illegality
+
+## Your suffering is a First World Problem.
+
+An anonymous commenter on [The View from Hell][] provides an example of this
+common argument:
+
+> I think your blog's title is a total misnomer: if you're still able
+> (emotionally, physically and financially) to enjoy drugs, sex, running and
+> talking about philosophy as you yourself claim you clearly haven't got the
+> slightest notion of what hell consists of.
+
+In other words, if there are many people who are much worse off than you, you
+can't claim to suffer.
+
+I find that a very strange argument. If even privileged people suffer greatly,
+isn't that an argument *for* antinatalism, namely that even greatly improved
+average circumstances don't fix suffering? Shouldn't we therefore conclude that
+many more people suffer than we typically think?
+
+What the arguments seems to be doing is to critize people for requesting help.
+Basically, if someone else needs help much more than you, you shouldn't be
+bringing your pain to our attention. You're just wasting resources that way.
+That's not a bad point, but it is not an argument against preventing births. If
+less people are made, less will suffer and we can take better care of the rest.
+
+## Without slaves, Rome would collapse!
+
+> I need children to care for me once I am old. Our social system needs enough
+> young people or the old will starve.
+
+This is fundamentally a very selfish argument. That doesn't mean it's *wrong*.
+Just that you can't have any pretense that you care about the well-being or rights of
+others if you make it.
+
+TODO real argument
+
+## Potential People Have Rights Too
+
+See the [asymmetry](#asymmetry).
+
+Practical Implications
+======================
+
+Is this just a contrarian position? Are you merely signalling how deep and
+unconventional you are? After all, even professional ethicists aren't more
+ethical on average[^ethicistfail].
+
+[^ethicistfail]: See [Schwitzgebel's various studies][Schwitzgebel Ethics].
+
+## Moral Consequences
+
+I once read a summary of the game [Vampire: The Masquerade][Vampire RPG]. In it,
+you are a recently turned vampire who has to feed on the living to survive. Your
+constant hunger for blood makes it likely that you will one day lose control and
+kill whoever you're feeding off or any amount of other innocents. You must
+exploit and endanger a large number of humans merely to survive. You know that
+this is wrong, yet your own need to survive makes you do it anyway. You might
+tell yourself all kinds of clever reasons why this is acceptable. But really,
+no-one believes you, not even you. You know that you could do the right thing
+anytime and just step out into the sun. You don't *have* to exist. You can just
+die. Yet you don't. No matter what you tell yourself, you are evil.[^social]
+
+[^social]: The analogy to our economy, social system and all of
+    industrialization is too obvious to ignore.
+
+This is basically the antinatalist worldview.
+
+## Apocalyptic Imperative
+
+The fact that only [few][Dawrst] antinatalists call for the end of all life, in
+some form or another, is a bad sign. It requires a fairly complex argument to
+think that being born is bad, but total extinction isn't worth it. Instead of
+that particular combination being right, it seems much more likely that you
+really just picked an unusual belief as a contrarian signal, but don't want to
+upset the status quo *too* much. Gods forbid you actually have to live according
+to your expoused morality![^positivestatus]
+
+[^positivestatus]: The same goes for pronatalists, of course. If life is so
+    awesome, why aren't you making much more of it? Why stop at 2 kids and not
+    at 2000? Costs? What, I thought birth is always good?
+
+Religious Analogies
+===================
+
+This section isn't completely serious. It doesn't provide actual arguments,
+really. Just because some religion or old ascetic supported something like
+antinatalism doesn't mean it's right. But I still find it interesting how
+*common* the position actually is. There is obvious [memetic][meme] pressure to
+remove antinatalism from any religion, but it still survives for some reason.
+
+## Christianity
+
+Even Jesus was an Antinatalist.
+
+> Jesus said, "The example of whosoever demands the world is like those who
+> drink sea water. The more he drinks the more his thirst increases until it
+> kills him." -- [al-Ghazali][]
+
+A minor remark. Antinatalism also provides a solution to Anselm's ontological
+argument, like so:
+
+1. God is the greatest possible being. (Definition)
+2. It is best to not exist. (Antinatalism)
+3. Therefore, God does not exist.
+
+### Shakers
+
+How not to do it.
+
+## Buddhism
+
+> Furthermore, as if the monk were to see a corpse cast away in a charnel ground
+> — one day, two days, three days dead — bloated, livid and festering, he
+> applies it to this very body, 'This body, too: Such is its nature, such is its
+> future, such its unavoidable fate'...
+>
+> Or again, as if he were to see a corpse cast away in a charnel ground, picked
+> at by crows, vultures and hawks, by dogs, hyenas and various other
+> creatures... a skeleton smeared with flesh and blood, connected with
+> tendons... a fleshless skeleton smeared with blood, connected with tendons...
+> a skeleton without flesh or blood, connected with tendons... bones detached
+> from their tendons, scattered in all directions — here a hand bone, there a
+> foot bone, here a shin bone, there a thigh bone, here a hip bone, there a back
+> bone, here a rib, there a breast bone, here a shoulder bone, there a neck
+> bone, here a jaw bone, there a tooth, here a skull... the bones whitened,
+> somewhat like the color of shells... piled up, more than a year old...
+> decomposed into a powder: He applies it to this very body, 'This body, too:
+> Such is its nature, such is its future, such its unavoidable fate.'
+>
+> (...) His mindfulness is established, and he lives detached, and clings to
+> nothing in the world.
+>
+> -- excerpt from the [Satipatthana Sutta][]
+
+> A monk who is constantly mindful of death will be diligent. He is disenchanted
+> with all forms of existence. He has conquered attachment to life. He abhors
+> all evil. He is not greedy and does not hoard requisites. The perception of
+> impermanence grows in him, followed by the perceptions of suffering and
+> non-self. Others who have not developed mindfulness of death become victims of
+> fear, horror and confusion when the time of their death arrives. They may feel
+> suddenly seized by wild beasts, ghosts, snakes, robbers or murderers. However,
+> the monk dies fearless, without delusion.
+>
+> -- excerpt from the [Visuddhimagga][]
+
+
+# Unused References
+
+http://www.alcor.org/magazine/2011/01/14/non-existence-is-hard-to-do/
+http://opinionator.blogs.nytimes.com/2010/06/06/should-this-be-the-last-generation/

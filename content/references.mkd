@@ -17,12 +17,13 @@ is_hidden: true
 [Berryz工房 - Dschinghis Khan]: http://www.youtube.com/watch?v=b7pui9Q6Vbo
 [Breaking the Spell]: http://www.philosophypress.co.uk/?p=1001
 [Creative Commons]: http://creativecommons.org/licenses/by-nc-sa/3.0/de
+[Dawrst]: http://www.utilitarian-essays.com/
 [Enlightenment, Self and the Brain]: http://video.google.com/videoplay?docid=5474604744218568426
 [Eyercize]: http://www.eyercize.com
 [Find the Bug]: http://www.findthebug.com
 [Fyfe Purpose]: http://atheistethicist.blogspot.com/2009/07/purpose-to-life-choosing-purpose.html
 [How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
-[Kerghan Video]: http://www.youtube.com/watch?v=IkBrIrQikWY
+[Kerghan Speechr]: http://www.youtube.com/watch?v=IkBrIrQikWY
 [Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
 [PhilPapers Survey]: http://philpapers.org/surveys/
 [Price Purpose]: http://www.robertmprice.mindvendor.com/zara/april__2007.htm
@@ -33,9 +34,11 @@ is_hidden: true
 [Shinzen Young]: http://www.youtube.com/user/expandcontract
 [Spreeder]: http://www.spreeder.com
 [Swartz Dennett]: http://www.aaronsw.com/weblog/dennettdumb
+[Sister Y]: http://theviewfromhell.blogspot.com
 [The View from Hell]: http://theviewfromhell.blogspot.com
 [Using Neuroscience for Spiritual Practice]: http://video.google.com/videoplay?docid=1030598948823323439
 [Vipassana]: http://www.dhamma.org
+[Wasting The Dawn]: http://www.youtube.com/watch?v=K7PhrPbyIsE
 [Why Did I Sleep So Well?]: http://www.blog.sethroberts.net/2008/09/03/science-in-action-why-did-i-sleep-so-well-part-10-2/
 [bible.org]: http://bible.org/netbible/index.htm
 [f.lux]: http://www.stereopsis.com/flux/
@@ -43,12 +46,21 @@ is_hidden: true
 [nanoc]: http://nanoc.stoneship.org
 [puredoxyk]: http://www.puredoxyk.com
 [tripzine]: http://www.tripzine.com/listing.php?smlid=268 
+[Gilbert TED]: http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy.html
+[Happiness Stochastic]: http://www.psych.umn.edu/psylabs/happness/happy.htm
+[Chapman Disgust]: http://meaningness.wordpress.com/2011/07/22/disgust-horror-western-buddhism/
+[Sister Asymmetry]: http://theviewfromhell.blogspot.com/2008/07/austrian-basement-and-beyond.html
+[Egoism]: http://en.wikipedia.org/wiki/Ethical_egoism
+[Animal Rights]: http://en.wikipedia.org/wiki/Animal_rights#Main_philosophical_approaches
+[Expanding Circle]: http://en.wikipedia.org/wiki/Peter_Singer
+[Narrowing Circle]: http://www.gwern.net/Notes#the-narrowing-circle
 
 <!-- Wikipedia articles (and similar) -->
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
 [Adolf Hitler]: http://en.wikipedia.org/wiki/Adolf_Hitler
 [Anatta]: http://en.wikipedia.org/wiki/Anatta
 [Anicca]: http://en.wikipedia.org/wiki/Anicca
+[Antinatalism]: http://en.wikipedia.org/wiki/Antinatalism
 [Arising and Passing Away]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/The%20Arising%20and%20Passing%20Away?p_r_p_185834411_title=The%20Arising%20and%20Passing%20Away
 [B-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
 [Convict Conditioning]: http://www.dragondoor.com/b41/ 
@@ -66,16 +78,28 @@ is_hidden: true
 [Paleo]: http://www.archevore.com/archevore/
 [Robert M. Price]: http://robertmprice.mindvendor.com
 [Sathya Sai Baba]: http://en.wikipedia.org/wiki/Sathya_Sai_Baba
+[Satipatthana Sutta]: http://en.wikipedia.org/wiki/Satipatthana_Sutta
 [Serotonin Syndrome]: http://en.wikipedia.org/wiki/Serotonin_syndrome
 [Simon Magus]: http://en.wikipedia.org/wiki/Simon_Magus
 [Tathagata]: http://en.wikipedia.org/wiki/Tath%C4%81gata
 [Theravada]: http://en.wikipedia.org/wiki/Theravada
 [Trivialism]: http://en.wikipedia.org/wiki/Trivialism
 [Unity of Knowledge and Action]: http://www.iep.utm.edu/wangyang/#H4
+[VHEMT]: http://en.wikipedia.org/wiki/Voluntary_human_extinction_movement
+[Vampire RPG]: http://en.wikipedia.org/wiki/Vampire:_The_Masquerade
 [Vilayanur S. Ramachandran]: http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran
+[Visuddhimagga]: http://en.wikipedia.org/wiki/Visuddhimagga
 [Wang Yangming]: http://www.iep.utm.edu/wangyang/
 [Wireheading]: http://www.wireheading.com/
+[al-Ghazali]: http://en.wikipedia.org/wiki/Al-Ghazali
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
+[Benatar]: http://en.wikipedia.org/wiki/David_Benatar
+[Better Never to Have Been]: http://www.amazon.com/Better-Never-Have-Been-Existence/dp/0199296421
+[Astronomical Waste]: http://www.nickbostrom.com/astronomical/waste.html
+[Hedonic Threadmill]: http://en.wikipedia.org/wiki/Hedonic_Threadmill
+[Repugnant Conclusion]: http://en.wikipedia.org/wiki/Repugnant_Conclusion
+[Scope Insensitivity]: http://lesswrong.com/lw/hw/scope_insensitivity/
+
 
 <!-- internal links -->
 [RSS]: /rss.xml
