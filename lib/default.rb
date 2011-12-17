@@ -26,7 +26,10 @@ def route_unchanged
 end
 
 def toc
-  "- ToC\n{:toc}"
+  "<div class='markdown-toc' markdown='1'>
+- ToC
+{:toc}
+</div>"
 end
 
 class Nanoc3::Site
