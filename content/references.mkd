@@ -14,17 +14,24 @@ is_hidden: true
 [whatiswrongwith.me]: htpp://whatiswrongwith.me/muflax
 
 <!-- external links -->
+[Animal Rights]: http://en.wikipedia.org/wiki/Animal_rights#Main_philosophical_approaches
 [Berryz工房 - Dschinghis Khan]: http://www.youtube.com/watch?v=b7pui9Q6Vbo
 [Breaking the Spell]: http://www.philosophypress.co.uk/?p=1001
+[Chapman Disgust]: http://meaningness.wordpress.com/2011/07/22/disgust-horror-western-buddhism/
 [Creative Commons]: http://creativecommons.org/licenses/by-nc-sa/3.0/de
 [Dawrst]: http://www.utilitarian-essays.com/
+[Egoism]: http://en.wikipedia.org/wiki/Ethical_egoism
 [Enlightenment, Self and the Brain]: http://video.google.com/videoplay?docid=5474604744218568426
+[Expanding Circle]: http://en.wikipedia.org/wiki/Peter_Singer
 [Eyercize]: http://www.eyercize.com
 [Find the Bug]: http://www.findthebug.com
 [Fyfe Purpose]: http://atheistethicist.blogspot.com/2009/07/purpose-to-life-choosing-purpose.html
+[Gilbert TED]: http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy.html
+[Happiness Stochastic]: http://www.psych.umn.edu/psylabs/happness/happy.htm
 [How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
 [Kerghan Speech]: http://www.youtube.com/watch?v=IkBrIrQikWY
 [Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
+[Narrowing Circle]: http://www.gwern.net/Notes#the-narrowing-circle
 [PhilPapers Survey]: http://philpapers.org/surveys/
 [Price Purpose]: http://www.robertmprice.mindvendor.com/zara/april__2007.htm
 [Rational Addiction]: http://www.xtranormal.com/watch/7873033/
@@ -32,9 +39,10 @@ is_hidden: true
 [Schwitzgebel Ethics]: http://schwitzsplinters.blogspot.com/2007/04/moral-behavior-of-ethics-professors.html
 [Seth Bacteria]: http://www.blog.sethroberts.net/category/umami-hypothesis/
 [Shinzen Young]: http://www.youtube.com/user/expandcontract
+[Sister Asymmetry]: http://theviewfromhell.blogspot.com/2008/07/austrian-basement-and-beyond.html
+[Sister Y]: http://theviewfromhell.blogspot.com
 [Spreeder]: http://www.spreeder.com
 [Swartz Dennett]: http://www.aaronsw.com/weblog/dennettdumb
-[Sister Y]: http://theviewfromhell.blogspot.com
 [The View from Hell]: http://theviewfromhell.blogspot.com
 [Using Neuroscience for Spiritual Practice]: http://video.google.com/videoplay?docid=1030598948823323439
 [Vipassana]: http://www.dhamma.org
@@ -46,14 +54,7 @@ is_hidden: true
 [nanoc]: http://nanoc.stoneship.org
 [puredoxyk]: http://www.puredoxyk.com
 [tripzine]: http://www.tripzine.com/listing.php?smlid=268 
-[Gilbert TED]: http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy.html
-[Happiness Stochastic]: http://www.psych.umn.edu/psylabs/happness/happy.htm
-[Chapman Disgust]: http://meaningness.wordpress.com/2011/07/22/disgust-horror-western-buddhism/
-[Sister Asymmetry]: http://theviewfromhell.blogspot.com/2008/07/austrian-basement-and-beyond.html
-[Egoism]: http://en.wikipedia.org/wiki/Ethical_egoism
-[Animal Rights]: http://en.wikipedia.org/wiki/Animal_rights#Main_philosophical_approaches
-[Expanding Circle]: http://en.wikipedia.org/wiki/Peter_Singer
-[Narrowing Circle]: http://www.gwern.net/Notes#the-narrowing-circle
+[Nose Snail]: http://www.youtube.com/watch?v=vk_eljpPGMM
 
 <!-- Wikipedia articles (and similar) -->
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
@@ -62,12 +63,17 @@ is_hidden: true
 [Anicca]: http://en.wikipedia.org/wiki/Anicca
 [Antinatalism]: http://en.wikipedia.org/wiki/Antinatalism
 [Arising and Passing Away]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/The%20Arising%20and%20Passing%20Away?p_r_p_185834411_title=The%20Arising%20and%20Passing%20Away
+[Astronomical Waste]: http://www.nickbostrom.com/astronomical/waste.html
 [B-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
+[Benatar]: http://en.wikipedia.org/wiki/David_Benatar
+[Better Never to Have Been]: http://www.amazon.com/Better-Never-Have-Been-Existence/dp/0199296421
 [Convict Conditioning]: http://www.dragondoor.com/b41/ 
+[Crocker's Rules]: http://wiki.lesswrong.com/wiki/Crocker%27s_rules
 [DXM]: http://en.wikipedia.org/wiki/DXM
 [Desirism]: http://commonsenseatheism.com/?p=2982
 [Dukkha]: http://en.wikipedia.org/wiki/Dukkha
 [Epistemology]: http://en.wikipedia.org/wiki/Epistemology
+[Hedonic Threadmill]: http://en.wikipedia.org/wiki/Hedonic_Threadmill
 [Jetpack Hitler]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StupidJetpackHitler
 [Julian Jaynes]: http://en.wikipedia.org/wiki/Julian_Jaynes
 [Kerghan]: http://en.wikipedia.org/wiki/Arcanum
@@ -76,9 +82,11 @@ is_hidden: true
 [Marcion]: http://en.wikipedia.org/wiki/Marcion_of_Sinope
 [Multiple Drafts]: http://www.scholarpedia.org/article/Multiple_drafts_model
 [Paleo]: http://www.archevore.com/archevore/
+[Repugnant Conclusion]: http://en.wikipedia.org/wiki/Repugnant_Conclusion
 [Robert M. Price]: http://robertmprice.mindvendor.com
 [Sathya Sai Baba]: http://en.wikipedia.org/wiki/Sathya_Sai_Baba
 [Satipatthana Sutta]: http://en.wikipedia.org/wiki/Satipatthana_Sutta
+[Scope Insensitivity]: http://lesswrong.com/lw/hw/scope_insensitivity/
 [Serotonin Syndrome]: http://en.wikipedia.org/wiki/Serotonin_syndrome
 [Simon Magus]: http://en.wikipedia.org/wiki/Simon_Magus
 [Tathagata]: http://en.wikipedia.org/wiki/Tath%C4%81gata
@@ -93,13 +101,6 @@ is_hidden: true
 [Wireheading]: http://www.wireheading.com/
 [al-Ghazali]: http://en.wikipedia.org/wiki/Al-Ghazali
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
-[Benatar]: http://en.wikipedia.org/wiki/David_Benatar
-[Better Never to Have Been]: http://www.amazon.com/Better-Never-Have-Been-Existence/dp/0199296421
-[Astronomical Waste]: http://www.nickbostrom.com/astronomical/waste.html
-[Hedonic Threadmill]: http://en.wikipedia.org/wiki/Hedonic_Threadmill
-[Repugnant Conclusion]: http://en.wikipedia.org/wiki/Repugnant_Conclusion
-[Scope Insensitivity]: http://lesswrong.com/lw/hw/scope_insensitivity/
-[Crocker's Rules]: http://wiki.lesswrong.com/wiki/Crocker%27s_rules
 
 <!-- internal links -->
 [RSS]: /rss.xml
