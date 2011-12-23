@@ -43,10 +43,10 @@ particular belief, like so: "(muflax: 50%)". I sometimes also give them for othe
 writers, but then typically without numerical estimates.
 
 4. A "myth" is any kind of story, true or not. "Fiction" is not true, and
-obvious as such to the reader. A person is "mythological" if it appears in myths
-and "historical" if there is evidence to attest their existence outside of myth.
-Someone can be both at the same time: [Adolf Hitler][] is historical, but
-[Jetpack Hitler][] is mythological.
+obvious as such to the intended reader. A person is "mythological" if they appear
+in myths and "historical" if there is evidence to attest their existence outside
+of myth. Someone can be both at the same time: [Adolf Hitler][] is historical,
+but [Jetpack Hitler][] is mythological.
 
 Dramatis personae
 =================
@@ -123,7 +123,10 @@ Others
 ### Herod
 
 
-# Historicity
+Historicity
+===========
+
+> The Buddha, Jesus and Mohammed walk into a bar. He orders a beer...
 
 *But maybe there's a historical Jesus all the mythological accounts are based on?* 
 
