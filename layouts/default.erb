@@ -21,13 +21,15 @@
     </script>
   </head>
   <body>
-    <div id="body">
+    <div id="<%= @item[:toc] ? "body-toc" : "body" %>">
       <!-- main part -->
       <div id="main">
         <!-- page title -->
         <% if @item[:title] %>
           <div id="title"><h1 class="title">
-              <a class="title" href="/"><%= @item[:title] %></a>
+              <a class="title" href="/">
+                <%= @item[:is_category] ? "Category Index" : @item[:title] %>
+              </a>
             </h1></div>
         <% end %>
 
@@ -83,24 +85,21 @@
         <% end %>
       </div>
 
-      <!-- navigation sidebar -->
-      <div id="nav">
-        <!-- table of contents -->
-        <% if @item[:toc] %>
+      <% if @item[:toc] %>
+        <!-- navigation sidebar with toc -->
+        <div id="nav">
           <div id="toc">
             <%= toc %>
           </div>
-        <% end %>
-        
-        <!-- contact -->
-        <!-- TODO -->
-      </div>
-      <!-- breadcrumb navigation -->
-      <div id="crumb">
-        <%= breadcrumbs.map do |crumb|
-             "<a class='crumb' href='#{crumb[:link]}'>#{crumb[:title].downcase}</a>"
-           end.join(" » ") %>
-      </div>
+        </div>
+      <% end %>
+      
+    </div>
+    <!-- breadcrumb navigation -->
+    <div id="crumb">
+      <%= breadcrumbs.map do |crumb|
+            "<a class='crumb' href='#{crumb[:link]}'>#{crumb[:title].downcase}</a>"
+          end.join(" » ") %>
     </div>
 
   </body>
