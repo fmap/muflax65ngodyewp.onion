@@ -1,234 +1,245 @@
-body { 
-   background: #ffffcc; 
-   color: #222;
-   font-size: 1em;
-   font-weight: normal;
-   font-family: serif; 
-   line-height: 1.3;
-   text-align: justify;
+/* colors */
+$bg: #ffffcc;
+$fg: #222;
+$h1: #7D9B3E;
+$h2: #AAd398;
+$crumb-bg: #562d6f;
+$crumb-fg: #d9d9d9;
+$episteme: #c4f3af;
+$hover: #057dff;
+$quote: #a6a542;
+$pre: #fff8d9;
+
+body {
+  background: $bg;
+  color: $fg;
+  font-size: 1em;
+  font-weight: normal;
+  font-family: serif; 
+  line-height: 1.3;
+  text-align: justify;
 }
 
 div#main {
-   margin-top: 3.5em;
-   margin-bottom: 3.5em;
-   /* margin-left: auto; */
-   margin-right: auto;
-   max-width: 45em;
-   padding: 0;
+  margin-top: 3.5em;
+  margin-bottom: 3.5em;
+  /* margin-left: auto; */
+  margin-right: auto;
+  max-width: 45em;
+  padding: 0;
 }
 
 div#disqus_thread {
-   margin-left: auto;
-   margin-right: auto;
-   max-width: 45em;
-   padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 45em;
+  padding: 0;
 }
 
 /* toc */
 div#toc {
-   border-top: 10px solid #7D9B3E;
-   border-bottom: 10px solid #7D9B3E;
+  border-top: 10px solid $h1;
+  border-bottom: 10px solid $h1;
 }
 
 div#crumb {
-   background: #562D6F;
-   color: #d9d9d9;
-   left: 0;
-   line-height: 2em;
-   position: fixed;
-   text-align: center;
-   bottom: 0;
-   width: 100%;
+  background: $crumb-bg;
+  color: $crumb-fg;
+  left: 0;
+  line-height: 2em;
+  position: fixed;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
 }
 
 div#title {
-   background: #562D6F;
-   color: #d9d9d9;
-   width: 100%;
-   position: absolute;
-   top: 0;
-   left: 0;
-   line-height: 1.3;
-   text-align: center;
+  background: $crumb-bg;
+  color: $crumb-fg;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 1.3;
+  text-align: center;
 }
 
 /* episteme header */
 div#episteme {
-   background: #c4f3af;
-   line-height: 2em;
+  background: $episteme;
+  line-height: 2em;
 }
 
 
 a:link.title, a:hover.title, a:visited.title, a:active.title {
-   font-size: 1.7em;
-   color: #d9d9d9;
+  font-size: 1.7em;
+  color: $crumb-fg;
 }
 
 /* don't underline titles */
 a:link.title, a:visited.title, a:active.title {
-   text-decoration: none;
+  text-decoration: none;
 }
 
 div.footnotes {
-   border-top: 10px solid #7D9B3E;
+  border-top: 10px solid $h1;
 }
 
 sup {
-   margin-left: 0.2em;
-    /* font-size: 1em; */
+  margin-left: 0.2em;
+  /* font-size: 1em; */
 }
 
 a:link.crumb, a:hover.crumb, a:visited.crumb, a:active.crumb {
-   color: #d9d9d9;
-   font-size: 1.3em;
-   font-weight: bold;
+  color: $crumb-fg;
+  font-size: 1.3em;
+  font-weight: bold;
 }
 
 a:hover {   
-   background: #057dff;
-   color: #fff;
+  background: $hover;
+  color: #fff;
 }
 
 /* epistemic states should stand out from normal links */
 a.episteme {
-   color: #057dff;
+  color: $hover;
 }
 
 a.episteme:hover {
-   background: #7D9B3E;
-   color: black;
+  background: $h1;
+  color: black;
 }
 
 /* move paragraphs a bit closer to the center, with list exceptions */
 p { 
-   margin-left: 1em;
-   margin-right: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 ul p {
-   margin-left: 0;
+  margin-left: 0;
 }
 
 ol p {
-   margin-left: 0;
+  margin-left: 0;
 }
 
 /* category items */
 .align_left {
-   text-align: left;
+  text-align: left;
 }
 
 .align_right {
-   float: right;
-   text-align: right;
+  float: right;
+  text-align: right;
 }
 
 ul.table .align_right {
-   margin-right: 1em;
+  margin-right: 1em;
 }
 
 ul.table li {
-   margin-left: -1em;
+  margin-left: -1em;
 }
 
 /* general lists */
 li {
-   padding-left: 0;
+  padding-left: 0;
 }
 
 ol {
-   margin-left: 2em;
-   margin-top: 0;
-   margin-bottom: 0;
-   padding-left: 1em;
+  margin-left: 2em;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 1em;
 }
 
 ul {
-   list-style-type: square;
-   margin-left: 2em;
-   margin-top: 0;
-   margin-bottom: 0;
-   padding-left: 1em;
+  list-style-type: square;
+  margin-left: 2em;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 1em;
 }
 
 em {
-   color: #562D6F;
-   font-style: italic;
+  color: $crumb-bg;
+  font-style: italic;
 }
 
 strong {
-   color: green;
-   font-weight: bold;
+  color: green;
+  font-weight: bold;
 }
 
 img {
-   display: block;
-   margin-left: auto;
-   margin-right: auto;
-   max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
 }
 
 div.figure {
-   text-align: center;
+  text-align: center;
 }
 
 h1 {
-   background: #7D9B3E;
-   color: #000000;
-   font-size: 2em;
-   line-height: 1.3;
-   text-align: center;
+  background: $h1;
+  color: #000;
+  font-size: 2em;
+  line-height: 1.3;
+  text-align: center;
 }
 
 h1 a:link, h1 a:visited, h1 a:active {
-   color: #000;
+  color: #000;
+}
+
+@mixin header2 {
+  background: $h2;
+  color: #000;
+  font-weight:normal;
+  margin-left: 0.2em;
+  margin-right: 0.2em;
+  padding-left: 0.5em;
 }
 
 h2 {
-   background: #AAd398;
-   color: #000000;
-   font-size: 1.3em;
-   font-weight:normal;
-   line-height: 1.3;
-   margin-left: 0.2em;
-   margin-right: 0.2em;
-   padding-left: 0.5em;
+  @include header2;
+  font-size: 1.3em;
+  line-height: 1.3;
 }                
 
 h3, h4, h5, h6 {
-   background: #AAd398;
-   color: #000000;
-   margin-left: 0.2em;
-   margin-right: 0.2em;
-   padding-left: 0.5em;
-   font-weight:normal;
+  @include header2;
 }
 
 blockquote {
-   border-left: 10px solid #A6A542;
-   border-right: 10px solid #A6A542;
-   margin-left: 1em;
-   margin-right: 1em;
-   padding-left: 0;
+  border-left: 10px solid $quote;
+  border-right: 10px solid $quote;
+  margin-left: 1em;
+  margin-right: 1em;
+  padding-left: 0;
 }
 
 /* fix indentation if blockquote is already indented */
 li blockquote {
-   padding-left: 1em;
-   margin-right: 2em;
+  padding-left: 1em;
+  margin-right: 2em;
 }
 
 pre { 
-   background: #FFF8D9;
-   border: 1px dashed green; 
-   font-family: monospace !important;
-   line-height: 1.3em;
-   overflow: auto;
-   padding: 0.5em 1em; 
+  background: $pre;
+  border: 1px dashed green; 
+  font-family: monospace !important;
+  line-height: 1.3em;
+  overflow: auto;
+  padding: 0.5em 1em; 
 }
 
 /* pygments code highlighting */
-pre span.hll { background-color: #ffffcc }
+pre span.hll { background-color: $bg }
 pre span.c { color: #408080; font-style: italic } /* Comment */
 pre span.err { border: 1px solid #FF0000 } /* Error */
 pre span.k { color: #008000; font-weight: bold } /* Keyword */

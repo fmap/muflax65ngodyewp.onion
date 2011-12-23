@@ -57,7 +57,7 @@ preprocess do
 end
 
 compile '/style/' do
-  # pass
+  filter :sass, :syntax => :scss
 end
 
 compile '/stuff/*' do
