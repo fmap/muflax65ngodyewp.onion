@@ -21,14 +21,14 @@
     </script>
   </head>
   <body>
-    <div class="main">
+    <div id="main">
       <!-- page title -->
       <% if @item[:title] %>
-      <div class="title"><a class="title" href="/"><%= @item[:title] %></a></div>
+      <div id="title"><a class="title" href="/"><%= @item[:title] %></a></div>
       <% end %>
       
       <!-- epistemic and technical state -->
-      <div class="episteme">
+      <div id="episteme">
       <% if @item[:episteme] %>
       <p><span class="align_left">
           Last modified:
@@ -51,12 +51,18 @@
 
     </div>
 
+    <!-- table of contents -->
+    <% if @item[:toc] %>
+      <%= toc %>
+    <% end %>
+    
     <!-- comments -->
     <% unless @item[:no_comments] or @item[:is_category] %>
       <div id="disqus_thread"></div>
       <script type="text/javascript">
         var disqus_shortname = 'muflax';
-
+        var disqus_developer = 1;
+        
         (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
         dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
@@ -68,7 +74,7 @@
     <% end %>
     
     <!-- breadcrumb navigation -->
-    <div class="crumb">
+    <div id="crumb">
       <%= breadcrumbs_trail.map do |crumb|
             target = crumb[:short_title] || crumb[:title] || crumb.name
             "<a class='crumb' href='#{crumb.identifier}'>#{target}</a>"

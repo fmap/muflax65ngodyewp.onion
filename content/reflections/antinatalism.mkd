@@ -4,6 +4,7 @@ alt_titles: [Antinatalism]
 date: 2011-11-16
 techne: :incomplete
 episteme: :believed
+toc: true
 ---
 
 > If only I could show you the places I have seen, you might understand the things I say. I have been to the Desolate Lands, wandered by those souls who still see the lands of the living but wear the cloak of the dead. Blind to their own ends, they cry, passing through one another like shadows in the dying light of day. I have travelled to where souls rot in torment, pierced with the jagged shards of life and vision, clinging to memory - regrets of the flesh. I saw that this prison was of their own making, and that the key was in unknowing, in release... and still, I travelled on.

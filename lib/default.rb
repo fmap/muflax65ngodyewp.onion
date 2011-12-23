@@ -25,13 +25,6 @@ def route_unchanged
   item.identifier.chop + '.' + item[:extension]
 end
 
-def toc
-  "<div class='markdown-toc' markdown='1'>
-- ToC
-{:toc}
-</div>"
-end
-
 class Nanoc3::Site
   # only articles that actually get printed
   attr_reader :printed_items
