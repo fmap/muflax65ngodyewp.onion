@@ -17,12 +17,18 @@ div.main {
    padding: 0;
 }
 
+div#disqus_thread {
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 45em;
+   padding: 0;
+}
+
 /* toc */
 div.markdown-toc {
    border-top: 10px solid #7D9B3E;
    border-bottom: 10px solid #7D9B3E;
 }
-
 
 div.crumb {
    background: #562D6F;
