@@ -1,0 +1,11 @@
+# breadcrumb navigation
+include Nanoc3::Helpers::Breadcrumbs
+
+def breadcrumbs
+  breadcrumbs_for_identifier(@item.identifier).map do |crumb|
+    {
+      link: crumb.identifier,
+      title: crumb[:short_title] || crumb[:title] || crumb.name,
+    }
+  end
+end

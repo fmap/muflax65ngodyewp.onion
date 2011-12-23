@@ -1,6 +1,5 @@
 # Helper functions for site-building.
 
-include Nanoc3::Helpers::Breadcrumbs
 include Nanoc3::Helpers::Rendering
 
 class Nanoc3::Item

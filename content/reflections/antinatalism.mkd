@@ -1,7 +1,7 @@
 ---
 title: Antinatalism Overview
 alt_titles: [Antinatalism]
-date: 2011-11-16
+date: 2011-12-24
 techne: :incomplete
 episteme: :believed
 toc: true

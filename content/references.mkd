@@ -11,7 +11,7 @@ is_hidden: true
 [Source]: http://github.com/muflax/muflax.com
 [Twitter]: http://twitter.com/muflax
 [Config]: http://github.com/muflax/config
-[whatiswrongwith.me]: htpp://whatiswrongwith.me/muflax
+[whatiswrongwith.me]: http://whatiswrongwith.me/muflax
 
 <!-- external links -->
 [Animal Rights]: http://en.wikipedia.org/wiki/Animal_rights#Main_philosophical_approaches
@@ -55,8 +55,24 @@ is_hidden: true
 [puredoxyk]: http://www.puredoxyk.com
 [tripzine]: http://www.tripzine.com/listing.php?smlid=268 
 [Nose Snail]: http://www.youtube.com/watch?v=vk_eljpPGMM
+[Alan Dawrst]: http://www.utilitarian-essays.com/suffering-nature.html
+[suffering per kg]: http://www.utilitarian-essays.com/suffering-per-kg.html
+[Moldbug Left Right]: http://unqualified-reservations.blogspot.com/2008/06/olxi-truth-about-left-and-right.html
+[Carrier Vegetarianism]: http://freethoughtblogs.com/carrier/archives/87
+[Eduardo Sousa]: http://www.ted.com/talks/dan_barber_s_surprising_foie_gras_parable.html
+[Dawrst Wildlife]: http://www.utilitarian-essays.com/suffering-nature.html
+[LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
+[Ching Chong]: http://www.youtube.com/watch?v=zulEMWj3sVA
+[Buddhism for Vampires]: http://buddhism-for-vampires.com
+[LW protect]: http://lesswrong.com/lw/nb/something_to_protect/
 
 <!-- Wikipedia articles (and similar) -->
+[Sensates]: http://mimir.net/psmush/sensates.shtml
+[Sisyphus]: http://en.wikipedia.org/wiki/The_Myth_of_Sisyphus
+[Frankl]: http://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning
+[Evil Trope]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTropes
+[Kai Lexx]: http://en.wikipedia.org/wiki/Kai_(Lexx)
+[Paperclipper]: http://wiki.lesswrong.com/wiki/Paperclip_maximizer
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
 [Adolf Hitler]: http://en.wikipedia.org/wiki/Adolf_Hitler
 [Anatta]: http://en.wikipedia.org/wiki/Anatta
@@ -101,6 +117,10 @@ is_hidden: true
 [Wireheading]: http://www.wireheading.com/
 [al-Ghazali]: http://en.wikipedia.org/wiki/Al-Ghazali
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
+[Mirror Test]: http://en.wikipedia.org/wiki/Mirror_test
+[Implied Consent]: http://en.wikipedia.org/wiki/Implied_consent
+[Hypothetical Consent]: http://simonamey.com/Philosophy/Entry.php?entryid=314
+[schächten]: http://en.wikipedia.org/wiki/Shechita
 
 <!-- internal links -->
 [RSS]: /rss.xml

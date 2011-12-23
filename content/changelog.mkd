@@ -16,15 +16,13 @@ All major changes on the site
 =============================
 
 {:#changelog}
-- 2011/12/17: Wrote an [Antinatalism Overview][]. Covers many arguments for and
-  against bringing life into existence. It's hopefully more approachable than
-  scattered philosophy, but also less scientifically illiterate than your
-  typical writing about ethics. I tried to refrain from pushing my own view too
-  much, but I'm not treating silly arguments as respectable either.
+- 2011/12/17: Wrote an [Antinatalism Overview][]. Covers many arguments for and against bringing life into existence. It's hopefully more approachable than the scattered philosophy material on the topic. Contrary to mainstream philosophy, I also included some common transhumanist replies to the arguments. I tried to refrain from pushing my own view too much, but I'm not treating silly arguments as respectable either.
 
-  Also improved the site's design somewhat. Larger articles have tables of
-  contents, navigation is more visible, contact features are more prominent and
-  comments were added for easier feedback.
+  I've moved some stuff from the [Blog][] into proper articles. Content didn't change in case you read them already. Articles: [Why I'm Not a Vegetarian][], [Three Sides][]. 
+
+  Also improved the site's design somewhat. Larger articles now have a table of contents and general navigation is more visible. The main column moved to the left to accomodate for the new navigation bar. To make feedback easier, I've added a link to the contact page to the navigation and added a comment box. (Web 2.0!) Generally speaking, I also accept [anonymous feedback][whatiswrongwith.me] about anything. (Yes, anything.)
+
+  More overviews are coming. Soon-ish. If I don't get bored, that is. Basicall, the languages articles isn't happening, Great Filter was delayed until I figure out identity and probabilities, an informal introduction to Solomonoff Induction and Kolmogorov Complexity is coming, and I've begun writing an overview about New Testament scholarship.
   
 - 2011/09/04: Converted whole site to [nanoc][]. Most of the content got
   re-organized, but not widely changed. A few things have disappeared, but will

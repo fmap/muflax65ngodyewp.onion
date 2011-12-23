@@ -21,45 +21,13 @@ body {
 }
 
 div#main {
-  margin-top: 3.5em;
-  margin-bottom: 3.5em;
-  /* margin-left: auto; */
-  margin-right: auto;
-  max-width: 45em;
   padding: 0;
-}
-
-div#disqus_thread {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 45em;
-  padding: 0;
-}
-
-/* toc */
-div#toc {
-  border-top: 10px solid $h1;
-  border-bottom: 10px solid $h1;
-}
-
-div#crumb {
-  background: $crumb-bg;
-  color: $crumb-fg;
-  left: 0;
-  line-height: 2em;
-  position: fixed;
-  text-align: center;
-  bottom: 0;
-  width: 100%;
+  width: 45em;
 }
 
 div#title {
   background: $crumb-bg;
   color: $crumb-fg;
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
   line-height: 1.3;
   text-align: center;
 }
@@ -68,6 +36,31 @@ div#title {
 div#episteme {
   background: $episteme;
   line-height: 2em;
+}
+
+div#disqus {
+  border-top: 10px solid $h1;
+  text-align: center;
+}
+
+div#nav {
+  float: right;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+/* toc */
+div#toc {
+}
+
+div#crumb {
+  background: $crumb-bg;
+  color: $crumb-fg;
+  line-height: 2em;
+  text-align: center;
+  // width: 100%;
+  float: right;
 }
 
 

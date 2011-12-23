@@ -10,7 +10,7 @@ def toc
   max_levels = 3
 
   # begin toc
-  res = '<div id="toc"><h1>Content</h1>'
+  res = '<h1>Content</h1>'
 
   # iterate through the body, find headers and build toc as we go along
   level = 0
@@ -34,7 +34,7 @@ def toc
   end
 
   # end toc
-  res << '</ol></div>'
+  res << '</ol>'
   res 
 end
 

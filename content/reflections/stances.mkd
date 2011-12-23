@@ -1,0 +1,50 @@
+---
+title: Three Sides
+date: 2011-07-18
+techne: :done
+episteme: :broken
+---
+
+I destabilized again, but this time I see a different direction to stabilize in, something I've never done before.
+
+I'm used to not having stable preferences or personalities. Typically, every 1.5-3 months, I have a breakdown event, lose all my motivation and enjoyment of whatever I've been doing and am stuck with reassembling the pieces into something new. Over the last few years, I've tried [many things][LW bipolar] to fix this, but never got anywhere.
+
+Shortly after I wrote down all the ways I have failed, I had a little [epiphany][Ching Chong]. I have no clue if this is a good idea. But it's a <em>new</em> idea and I'm tired of the old ways, so let's see where this leads.
+
+Basically, when dealing with your emotions, there are 3 different attitudes one can take. I call them **Light Stance**, **Dark Stance** and **No Stance**. Light Stance is the most common, No Stance is relatively new, Dark Stance is virtually unknown.
+
+Taking the **Light Stance**, one wants emotions to be *nice*. For example, hedonism is a Light Stance, as are virtually any form of meditation or psychotherapy. A core concept of the Light Stance is **transformation**, i.e. the idea of turning bad feelings into harmless or pleasant ones. Almost all philosophies and religions take the Light Stance (if they take any stance at all, that is). However, "nice" doesn't just mean "socially acceptable", but simply anything that feels nice. A power-hungry narcissist is still taking the Light Stance, as is a masochist.
+
+__No Stance__ is characterized by being indifferent or free from all emotions whatsoever. [Kai the undead assassin][Kai Lexx] or a [paperclip maximizer][Paperclipper] are great examples, but essentially anyone running on calculations takes No Stance. It is important to differentiate No Stance from equanimity, which it superficially resembles. Equanimity is harmless, in the sense that nothing bad is happening. It is a pleasant state to be in and sought *for* its pleasantness. If one wants to not be bothered by negative feelings anymore, then that's the Light Stance. No Stance, however, is fundamentally **indifferent**. Some forms of utilitarianism take No Stance, as does proper nihilism. If vipassana is done for the purpose of transformation (e.g. to overcome suffering), it's Light Stance. If it's done entirely detached from what comes up, focusing purely on the correct application, it's No Stance. Most advanced vipassana practitioners stumble on No Stance; barely anyone stays there.
+
+You'll notice that I've covered pretty much all religions, philosophies, self-help and just general attitudes to life with those two. (This is somewhat deceptive - Light Stance is tremendously vast.) Up until recently, I thought that's pretty much all there is.
+
+Then I found [Buddhism for Vampires][], an attempt to move Buddhism away from its current politically correct and nice ghetto, and to bring back tantra. (I applaud the effort.) Ultimately, Buddhism for Vampires, or tantra in general, is still a Light Stance. It directly engages (and even encourages) bad emotions, but only for the purpose of transformation, of getting rid of them or turning them into something pleasant. It improves on Romantic Buddhism by acknowledging that negative emotions <em>exist</em> and should be noticed, so they can be dealt with.
+
+But.
+
+And here comes the idea.
+
+Do they *have* to be dealt with? What if you *didn't* do that?
+
+What if, when you felt disgust, you didn't push it away, but *embraced* it? Or when you felt pain, you dived into it, not to make it pleasant or non-existent, but to fully experience it, in all its awfulness? In fact, what if you took great care to *retain* this awfulness?
+
+Now you're taking the **Dark Stance**. Say hello to misery, disgust, hatred, boredom, sorrow and pain.
+
+I want to be extra clear on this. In the Dark Stance, you *don't* embrace hatred because it makes you do good things, or gives you a rush, or so you can see through it and overcome it, nor do you *endure* it. That still assumes that hatred is only instrumental or an unfortunate necessity. Dark Stance embraces hatred *for hatred's sake*. Also, the Dark Stance is not an [Evil Trope][]. The Good and the Bad Guys both don't want to suffer, they merely use different ways to overcome their own suffering. Evil might be willing to cause suffering for others, but it will never cause it's *own* suffering. The only fictional example of someone taking the Dark Stance I can think of are Planescape's [Sensates][].
+
+And the weird thing is, for the few days now that I've been learning this, for the few hours I've been able to hold the Dark Stance, I felt *satisfied*.
+
+I have not felt truly satisfied for at least a *decade*. I realized my deep boredom some months ago, but I thought the answer lies in getting excited again. I wrestled with the idea of failing, of impossibility. I thought that one ought to *overcome* failure or live *in spite* of it. That's what [Sisyphus][] does and he is happy, they say.
+
+I thought that satisfaction was *something*, that it was a specific emotion, something to be cultivated and achieved. That I had a hole in my life, maybe not a god-shaped, but a [purpose-shaped one][Frankl], and somehow I was supposed to figure out what this purpose was, that I really needed [something to protect][LW protect].
+
+And then I just took my pain and said to it, "I'm ok with you. This is not a trap. I'm not trying to accept you out of existence. Please stay for as long as you please. It hurts and I'm ok with this. I *want* you to hurt and to continue to do so.", and I felt something going to rest, for only a moment, some part of me that was so desperately trying to protect me from this pain. It was not needed anymore and it could finally let go. I was satisfied. I couldn't believe it, I thought I must've confused the fucker by asking it to hurt me. I tried it again with hatred and disgust; it still worked. It wasn't making me feel any *better* - this is not a Light Stance in disguise, after all - but the dissatisfaction that had become so prevalent was gone, if only for a bit.
+
+I do not know where this path will lead, only that it will be interesting.
+
+*run on hatred // run on pain // transform nothing // seek no gain*
+
+
+
+

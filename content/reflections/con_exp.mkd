@@ -2,6 +2,7 @@
 title: Consciousness Explained
 date: 2010-05-13
 techne: :done
+toc: true
 episteme: :discredited
 ---
 

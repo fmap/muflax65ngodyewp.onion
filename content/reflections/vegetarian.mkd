@@ -1,0 +1,56 @@
+---
+title: Why I'm Not a Vegetarian
+date: 2011-12-20
+techne: :done
+episteme: :believed
+---
+
+This post isn't so much an actual argument per se, but a belief dump of the core arguments why I'm not a vegetarian. I'm currently rethinking the issue (thanks to [Alan Dawrst][]) and might change my mind over the next few months. I always find it hard to reconstruct what I believed in the past and why, so I'm writing it down. To counter some bias, I'm also trying to state what kind of evidence would be necessary to convince me of vegetarianism. I'll revisit this within a few months once I've resolved a few moral confusions.
+
+# Animals are not morally relevant agents.
+
+Morality, as I understand it, requires certain features to act upon. The state a rock is in is not morally relevant *per se*. I don't have my metaethics worked out yet, but there are at least three features I'm pretty sure are necessary to be morally relevant: a self, consent and the ability to obey laws. I don't think animals have any of these, so whatever we do with them is not a moral concern. (Also note that there are *humans* who don't have all three. There might be game-theoretic reasons to treat them *as if* they had them, but no moral ones.)
+
+I'd give this argument maybe 60% certainty, so I'm in no way confident and this alone would not be enough to justify ignoring animals as moral agents. The potential harm is too great, and while I wouldn't make preventing it a top priority, I would still act to minimize the suffering I might cause. If only this argument remained, I would avoid [most animal products][suffering per kg]. But let's take a look at the three features.
+
+## A Self
+
+Basically, there are three levels. Pure phenomenal consciousness (feeling pain), a subjective experience that makes these things happen *to* someone (*I* am feeling pain) and abstract thought to reflect on this (thinking: "I am feeling pain"). To be morally relevant, you need to have at least the subjective experience. No farm animal does. So they aren't relevant.
+
+A counterargument wouldn't need to convince me that animals certainly have a self, but merely that they *might* have one. A sufficiently large risk (say, >20%) is enough for me. One way to do this is the simple ["recognize yourself in the mirror" test][Mirror Test]. No farm animal passes it. (Some animals do, and I consider them likely enough to fulfill this requirement of moral relevance.) Of course, any animal that has language and can refer to itself also passes, and I'd give it at least 20% confidence that some non-human animal can do so, so this might also be a possible path. None of these seem to be farm animals, though.
+
+## Consent
+
+The ability to agree to (or reject) a  proposed deal. The main problem is that I'm not sure that consent is actually *real*. It might well be a general confusion. But I still think it's more likely than not that something-not-too-unlike consent can be naturalized and exists in humans. But what do you need? Language is certainly sufficient, but it seems a dog can also accept or reject food, so is it *consenting*?
+
+I'm really hesitant to accept [hypothetical][Hypothetical Consent] or [implied][Implied Consent] consent. I would strongly prefer any consent to be explicit and (ideally) formalized. I currently don't see how explicit consent can work without the abilities of thought and language. So animals can't consent and are not morally relevant.
+
+There are two ways to negate this argument. Either show that animals *can* meaningfully consent (this is also relevant for [Antinatalism][] - if non-existent humans can consent, then it seems much more likely that animals can too, and vice versa), or show that humans *can't* consent, i.e. that consent is a confused concept. This is probably the weakest of the three features and I expect to change my mind about it, but I don't know in which direction yet.
+
+## The Rule of Law
+
+To slightly paraphrase [Moldbug][Moldbug Left Right]:
+
+>[Anyone] should be free to make any promise. In return, he or she can expect to be held responsible for that promise: there is no freedom to break it. All promises are voluntary until they are made, and involuntary afterward. A pair of reciprocal promises [...] is an *agreement*.
+
+Any organization of agents that allows and enforces such agreements establishes the Rule of Law. Basically, it's the "lawful" component in the D&D moral system. It's what makes Divine Command Theory moral (and why I'm very sympathetic to it, despite its untenable foundation in non-existent gods). Ideal Confucian government embodies it.
+
+Without arguing for a specific implementation, it seems clear that animals can't obey (or even understand) laws or act as citizens of a lawful state. Therefore, they aren't morally relevant.
+
+Evidence to the contrary would be, for example, a demonstration that animals can form states (or reasonably similar organizations). Or show that the concept is confused, for example because we really want some *consequence* of lawful states, but don't actually want the laws themselves.
+
+# Farm animals under typical Western conditions do not suffer significantly.
+
+See [Richard Carrier's][Carrier Vegetarianism] post for the actual argument. Basically, animals in modern farms don't experience a significant amount of pain or suffering. It ain't heaven, but it's not so bad that we should prevent it at all costs. The benefits in increased reproduction (for the animals) and better nutrition (for the humans) easily make up for whatever suffering remains. (This might no be true in non-Western countries or when you [ritually slaughter][schächten] them, but the proper response to that is urbanization and secularization, not vegetarianism.)
+
+There are two ways this could be wrong. First, you could try to show that there is some fundamental desire that animals in modern farms can't fulfill. Obviously, I don't see such a desire, but it might exist. The best case for this so far is [Eduardo Sousa][]'s farm. However, animals don't seem to reject modern farms or suffer tremendous stress. But we might've missed something.
+
+The second way this could be wrong is to show that categorical [Antinatalism][] is correct (and that animals are morally relevant). Basically, if it is always wrong to bring a life into existence, then we shouldn't breed animals, ever. (And we should seek the extinction of all wildlife.) I'm currently working through the various antinatalist arguments, but so far, I'm not convinced of the most categorical form, but I already accept basic antinatalism (it is *often* wrong to create life), and some of the arguments still look promising to me once I'm done repairing them.
+
+# Even if they suffer, I morally discount against them (and I'm justified to do so).
+
+It's true that I strongly discount anything that doesn't directly affect me or those close to me. The question is, am I justified in doing so, or is it a bug in my judgment? I have not seen a good argument for universalism (if you don't already have it as a preference) except that it would be simple.
+
+However, this is inherently the weakest argument. If we accept that animals immorally suffer, then discounting just changes the level of importance we should assign to it. But given the [huge amount of animals][Dawrst Wildlife] (10^10 and more!), even strong discounting can be overcome. If we accept that breeding animals violates their rights or consent, then no amount of discounting is relevant. Consent can't be morally overridden.
+
+But as it stands now, animals probably don't have rights, so we can discount. They don't suffer much, if at all, so even their large numbers aren't sufficient, especially because human benefits outweigh it. Therefore, eating animals is acceptable.
