@@ -240,8 +240,7 @@ The List
     plugin, to have far nice fuzzy matching of buffers, files and so
     on. I have **\\b**, **\\f** and **\\o** mapped to buffers, files
     and everything (as in TextMate). Incredibly useful. (See
-    [here](http://codeulate.com/2010/02/installing-fuzzyfinder_textmate-textmates-cmdt-in-vim/)
-    for installation instructions.)
+    [here][fuzzyfinder] for installation instructions.)
 
 45. **NERDcommenter** plugin for more intelligent commenting. Most
     importantly, **\\cSpace** to toggle commenting, **\\cc** to comment

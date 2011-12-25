@@ -4,22 +4,28 @@ is_hidden: true
 
 <!-- personal links -->
 [Blog]: http://blog.muflax.com
+[Config]: http://github.com/muflax/config
 [GPG Key]: /muflax.asc          
 [Google+]: https://plus.google.com/105665518912548939532
 [LibraryThing]: http://www.librarything.com/profile/muflax
 [Pororo]: http://github.com/muflax/pororo
 [Source]: http://github.com/muflax/muflax.com
 [Twitter]: http://twitter.com/muflax
-[Config]: http://github.com/muflax/config
 [whatiswrongwith.me]: http://whatiswrongwith.me/muflax
 
 <!-- external links -->
+[Alan Dawrst]: http://www.utilitarian-essays.com/suffering-nature.html
 [Animal Rights]: http://en.wikipedia.org/wiki/Animal_rights#Main_philosophical_approaches
 [Berryz工房 - Dschinghis Khan]: http://www.youtube.com/watch?v=b7pui9Q6Vbo
 [Breaking the Spell]: http://www.philosophypress.co.uk/?p=1001
+[Buddhism for Vampires]: http://buddhism-for-vampires.com
+[Carrier Vegetarianism]: http://freethoughtblogs.com/carrier/archives/87
 [Chapman Disgust]: http://meaningness.wordpress.com/2011/07/22/disgust-horror-western-buddhism/
+[Ching Chong]: http://www.youtube.com/watch?v=zulEMWj3sVA
 [Creative Commons]: http://creativecommons.org/licenses/by-nc-sa/3.0/de
+[Dawrst Wildlife]: http://www.utilitarian-essays.com/suffering-nature.html
 [Dawrst]: http://www.utilitarian-essays.com/
+[Eduardo Sousa]: http://www.ted.com/talks/dan_barber_s_surprising_foie_gras_parable.html
 [Egoism]: http://en.wikipedia.org/wiki/Ethical_egoism
 [Enlightenment, Self and the Brain]: http://video.google.com/videoplay?docid=5474604744218568426
 [Expanding Circle]: http://en.wikipedia.org/wiki/Peter_Singer
@@ -30,8 +36,12 @@ is_hidden: true
 [Happiness Stochastic]: http://www.psych.umn.edu/psylabs/happness/happy.htm
 [How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
 [Kerghan Speech]: http://www.youtube.com/watch?v=IkBrIrQikWY
+[LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
+[LW protect]: http://lesswrong.com/lw/nb/something_to_protect/
 [Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
+[Moldbug Left Right]: http://unqualified-reservations.blogspot.com/2008/06/olxi-truth-about-left-and-right.html
 [Narrowing Circle]: http://www.gwern.net/Notes#the-narrowing-circle
+[Nose Snail]: http://www.youtube.com/watch?v=vk_eljpPGMM
 [PhilPapers Survey]: http://philpapers.org/surveys/
 [Price Purpose]: http://www.robertmprice.mindvendor.com/zara/april__2007.htm
 [Rational Addiction]: http://www.xtranormal.com/watch/7873033/
@@ -53,29 +63,17 @@ is_hidden: true
 [jbr changelog]: http://www.xibalba.demon.co.uk/jbr/log/
 [nanoc]: http://nanoc.stoneship.org
 [puredoxyk]: http://www.puredoxyk.com
-[tripzine]: http://www.tripzine.com/listing.php?smlid=268 
-[Nose Snail]: http://www.youtube.com/watch?v=vk_eljpPGMM
-[Alan Dawrst]: http://www.utilitarian-essays.com/suffering-nature.html
 [suffering per kg]: http://www.utilitarian-essays.com/suffering-per-kg.html
-[Moldbug Left Right]: http://unqualified-reservations.blogspot.com/2008/06/olxi-truth-about-left-and-right.html
-[Carrier Vegetarianism]: http://freethoughtblogs.com/carrier/archives/87
-[Eduardo Sousa]: http://www.ted.com/talks/dan_barber_s_surprising_foie_gras_parable.html
-[Dawrst Wildlife]: http://www.utilitarian-essays.com/suffering-nature.html
-[LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
-[Ching Chong]: http://www.youtube.com/watch?v=zulEMWj3sVA
-[Buddhism for Vampires]: http://buddhism-for-vampires.com
-[LW protect]: http://lesswrong.com/lw/nb/something_to_protect/
+[tripzine]: http://www.tripzine.com/listing.php?smlid=268 
+[Puredoxyk]: http://www.puredoxyk.com/
+[fuzzyfinder]: http://codeulate.com/2010/02/installing-fuzzyfinder_textmate-textmates-cmdt-in-vim/
 
 <!-- Wikipedia articles (and similar) -->
-[Sensates]: http://mimir.net/psmush/sensates.shtml
-[Sisyphus]: http://en.wikipedia.org/wiki/The_Myth_of_Sisyphus
-[Frankl]: http://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning
-[Evil Trope]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTropes
-[Kai Lexx]: http://en.wikipedia.org/wiki/Kai_(Lexx)
-[Paperclipper]: http://wiki.lesswrong.com/wiki/Paperclip_maximizer
+[Lucid dreaming]: http://en.wikipedia.org/wiki/Lucid_dreaming
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
 [Adolf Hitler]: http://en.wikipedia.org/wiki/Adolf_Hitler
 [Anatta]: http://en.wikipedia.org/wiki/Anatta
+[Anhedonia]: http://en.wikipedia.org/wiki/Anhedonia
 [Anicca]: http://en.wikipedia.org/wiki/Anicca
 [Antinatalism]: http://en.wikipedia.org/wiki/Antinatalism
 [Arising and Passing Away]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/The%20Arising%20and%20Passing%20Away?p_r_p_185834411_title=The%20Arising%20and%20Passing%20Away
@@ -89,22 +87,31 @@ is_hidden: true
 [Desirism]: http://commonsenseatheism.com/?p=2982
 [Dukkha]: http://en.wikipedia.org/wiki/Dukkha
 [Epistemology]: http://en.wikipedia.org/wiki/Epistemology
+[Evil Trope]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTropes
+[Frankl]: http://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning
 [Hedonic Threadmill]: http://en.wikipedia.org/wiki/Hedonic_Threadmill
+[Hypothetical Consent]: http://simonamey.com/Philosophy/Entry.php?entryid=314
+[Implied Consent]: http://en.wikipedia.org/wiki/Implied_consent
 [Jetpack Hitler]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StupidJetpackHitler
 [Julian Jaynes]: http://en.wikipedia.org/wiki/Julian_Jaynes
+[Kai Lexx]: http://en.wikipedia.org/wiki/Kai_(Lexx)
 [Kerghan]: http://en.wikipedia.org/wiki/Arcanum
 [Langton's Ant]: http://en.wikipedia.org/wiki/Langton's_ant
 [Manabi]: http://en.wikipedia.org/wiki/Gakuen_Utopia_Manabi_Straight!
 [Marcion]: http://en.wikipedia.org/wiki/Marcion_of_Sinope
+[Mirror Test]: http://en.wikipedia.org/wiki/Mirror_test
 [Multiple Drafts]: http://www.scholarpedia.org/article/Multiple_drafts_model
 [Paleo]: http://www.archevore.com/archevore/
+[Paperclipper]: http://wiki.lesswrong.com/wiki/Paperclip_maximizer
 [Repugnant Conclusion]: http://en.wikipedia.org/wiki/Repugnant_Conclusion
 [Robert M. Price]: http://robertmprice.mindvendor.com
 [Sathya Sai Baba]: http://en.wikipedia.org/wiki/Sathya_Sai_Baba
 [Satipatthana Sutta]: http://en.wikipedia.org/wiki/Satipatthana_Sutta
 [Scope Insensitivity]: http://lesswrong.com/lw/hw/scope_insensitivity/
+[Sensates]: http://mimir.net/psmush/sensates.shtml
 [Serotonin Syndrome]: http://en.wikipedia.org/wiki/Serotonin_syndrome
 [Simon Magus]: http://en.wikipedia.org/wiki/Simon_Magus
+[Sisyphus]: http://en.wikipedia.org/wiki/The_Myth_of_Sisyphus
 [Tathagata]: http://en.wikipedia.org/wiki/Tath%C4%81gata
 [Theravada]: http://en.wikipedia.org/wiki/Theravada
 [Trivialism]: http://en.wikipedia.org/wiki/Trivialism
@@ -117,18 +124,15 @@ is_hidden: true
 [Wireheading]: http://www.wireheading.com/
 [al-Ghazali]: http://en.wikipedia.org/wiki/Al-Ghazali
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
-[Mirror Test]: http://en.wikipedia.org/wiki/Mirror_test
-[Implied Consent]: http://en.wikipedia.org/wiki/Implied_consent
-[Hypothetical Consent]: http://simonamey.com/Philosophy/Entry.php?entryid=314
 [schächten]: http://en.wikipedia.org/wiki/Shechita
 
 <!-- internal links -->
 [RSS]: /rss.xml
 
 <!-- abbreviations -->
-*[PCT]: Perceptual Control Theory
 *[LW]: LessWrong
-*[SIA]: Self-Indication Assumption
-*[SSA]: Self-Sampling Assumption
-*[SRS]: Spaced Repetition Software (e.g. Anki)
+*[PCT]: Perceptual Control Theory
 *[RAW]: Robert Anton Wilson
+*[SIA]: Self-Indication Assumption
+*[SRS]: Spaced Repetition Software (e.g. Anki)
+*[SSA]: Self-Sampling Assumption
