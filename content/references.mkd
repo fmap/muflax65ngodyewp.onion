@@ -67,6 +67,7 @@ is_hidden: true
 [tripzine]: http://www.tripzine.com/listing.php?smlid=268 
 [Puredoxyk]: http://www.puredoxyk.com/
 [fuzzyfinder]: http://codeulate.com/2010/02/installing-fuzzyfinder_textmate-textmates-cmdt-in-vim/
+[WHO suicide]: http://www.who.int/mental_health/prevention/suicide/suicideprevent/en/
 
 <!-- Wikipedia articles (and similar) -->
 [Lucid dreaming]: http://en.wikipedia.org/wiki/Lucid_dreaming
@@ -97,7 +98,6 @@ is_hidden: true
 [Kai Lexx]: http://en.wikipedia.org/wiki/Kai_(Lexx)
 [Kerghan]: http://en.wikipedia.org/wiki/Arcanum
 [Langton's Ant]: http://en.wikipedia.org/wiki/Langton's_ant
-[Manabi]: http://en.wikipedia.org/wiki/Gakuen_Utopia_Manabi_Straight!
 [Marcion]: http://en.wikipedia.org/wiki/Marcion_of_Sinope
 [Mirror Test]: http://en.wikipedia.org/wiki/Mirror_test
 [Multiple Drafts]: http://www.scholarpedia.org/article/Multiple_drafts_model
@@ -122,6 +122,7 @@ is_hidden: true
 [Visuddhimagga]: http://en.wikipedia.org/wiki/Visuddhimagga
 [Wang Yangming]: http://www.iep.utm.edu/wangyang/
 [Wireheading]: http://www.wireheading.com/
+[Yotsuba]: http://en.wikipedia.org/wiki/Yotsuba&!
 [al-Ghazali]: http://en.wikipedia.org/wiki/Al-Ghazali
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
 [schächten]: http://en.wikipedia.org/wiki/Shechita
