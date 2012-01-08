@@ -58,7 +58,7 @@ There are some beings who are worse off, but on average, it works out. This seem
 
 Some beings are better off alive, but on average, the harm dominates. This position is not unusual among transhumanists, who might think that humanity has a possible good future, but so far has mostly suffered. It is not uncommon for people to hold off on having children because the world is too horrible at a given time.
 
-## Categorical Antinatalism
+## Categorical Antinatalism {#categorical}
 
 It is always wrong to bring someone into existence. *Every* being is worse off alive. Even [Yotsuba][].
 
@@ -87,6 +87,8 @@ Or in table form:
 It should be clear that the first column (Presence) corresponds to existence and the second (Absence) to non-existence.
 
 The first two claims about existence are uncontroversial. It's non-existence that's problematic.
+
+The asymmetry is probably the most important argument for antinatalism for two reasons. First, it argues for the harshest form, [Categorical Antinatalism](#categorical). If it's true, there is no room for compromise. Existence is bad, period. And second, many other arguments can be reduced to or are overshadowed by the asymmetry.
 
 TODO Argument from Duty
 
@@ -176,7 +178,9 @@ TODO utilitarian / max-harm argument
 
 Life has harms and benefits. Instead of denying *all* life because *some* harm exists, why not just weigh it against the benefit? If the good outweighs the bad, then life would still be worthwhile, even if you accept the asymmetry. The non-existent have the advantage of always non-negative utility (because they can't be harmed), but maybe the sum of utility the existent experience is still much greater, despite the handicap?
 
-Let's call the magnitude of benefit B and of harm H. Benatar assumes that, naturally, the absence of harm must be exactly opposite in value to the harm done by its presence, i.e. (1) (no harm) has utility `+H` and (3) (harm) has `-H`.
+Let's call the magnitude of benefit B and of harm H. Benatar assumes that, naturally, the absence of harm must be exactly opposite[^opposite] in value to the harm done by its presence, i.e. (1) (no harm) has utility `+H` and (3) (harm) has `-H`.
+
+[^opposite]: Should the negative value of harm and the positive value of its prevention really be exactly opposite? What about risk aversion? The important thing to note here is that risk aversion is typically measured with regards to *money* or some other quantity, not direct "utility".
 
 |             | __Presence__ | __Absence__ |
 | __Benefit__ | +B           | 0           |
@@ -311,6 +315,25 @@ TODO real argument
 ## Potential People have Rights too
 
 See the [asymmetry](#asymmetry).
+
+## Harm is Socially Constructed
+
+> The fact that diseases can be invented (or, as with homosexuality, uninvented) and their criteria tweaked in response to social conditions is exactly what worries critics like Frances about some of the disorders proposed for the DSM-5—not only attenuated psychotic symptoms syndrome but also binge eating disorder, temper dysregulation disorder, and other "sub-threshold" diagnoses. To harness the power of medicine in service of kids with hallucinations, or compulsive overeaters, or 8-year-olds who throw frequent tantrums, is to command attention and resources for suffering that is undeniable. But it is also to increase psychiatry's intrusion into everyday life, even as it gives us tidy names for our eternally messy problems.
+
+http://networkedblogs.com/s9u4M
+
+If we perceive life as harmful because we talk about it, then accepting antinatalism will makes us like life *even less*.
+
+> As far as we can tell no human has ever been born without the propensity to develop cancer. That people don't die of cancer is purely a function of the fact that they die of something else before the cancer gets them.
+> So, why is cancer not just a part of life? Part and parcel with being a multicellular organism? The simple answer is that it causes death, disability and pain. These are widely recognized as bad and so is cancer.
+> What about feeling sad? To my knowledge no human has ever been born without the propensity to feel sadness. Is sadness simply part and parcel with life? The answer from my corner is, not if you don't want to be sad.
+> This is the rub in all mental illness. It is the malady of not wanting to experience the world as we do. And, it raises the deepest questions about what it means to improve wellness.
+
+All talk about mental problems, including depression and a lack of satisfaction with life, is really normative talk in disguise.
+
+TODO Szasz
+
+Can be reduced to asymmetry.
 
 Practical Implications
 ======================
