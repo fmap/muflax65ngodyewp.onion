@@ -4,4 +4,4 @@
 
 source ~/.zsh/path.sh
 
-grep -oP "http://.*" content/references.mkd | backup-urls
+grep -roP "http://.*" content drafts | backup-urls
