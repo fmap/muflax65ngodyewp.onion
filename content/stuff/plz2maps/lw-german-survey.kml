@@ -152,5 +152,11 @@
     <coordinates>9.1833,48.7667</coordinates>
   </Point>
 </Placemark>
+<Placemark>
+  <name>12/30/2011 16:52:01</name>
+  <Point>
+    <coordinates>8.2688,50.001</coordinates>
+  </Point>
+</Placemark>
 </Folder>
 </kml>
