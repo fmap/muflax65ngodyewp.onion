@@ -137,3 +137,7 @@ is_hidden: true
 *[SIA]: Self-Indication Assumption
 *[SRS]: Spaced Repetition Software (e.g. Anki)
 *[SSA]: Self-Sampling Assumption
+*[AI]: Artificial Intelligence
+*[AGI]: Artificial General Intelligence (aka Strong AI)
+*[GAI]: General Artificial Intelligence (aka Strong AI)
+*[SIAI]: Singularity Institute for Artificial Intelligence
