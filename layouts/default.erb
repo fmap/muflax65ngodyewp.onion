@@ -33,8 +33,8 @@
         <% end %>
 
         <!-- epistemic and technical state -->
-        <div id="episteme">
-          <% if @item[:episteme] %>
+        <% if @item[:episteme] %>
+          <div id="episteme">
             <p><span class="align_left">
                 Last modified:
                 <a class='episteme' href='/changelog/'>
@@ -47,9 +47,15 @@
                   <%= episteme @item[:episteme] %></a>.
               </span>
             </p>
-          <% end %>
-        </div>
+          </div>
+        <% end %>
 
+        <% if @item[:mindkiller] %>
+          <div id="mindkiller">
+            <p>Warning: this page contains mind-killing content. Proceed with caution. The author does not endorse any of the views expressed here, even when they may look convincing. If you feel offended, consider that the author might be trolling you and whether you want to encourage them even further.</p>
+          </div>
+        <% end %>
+        
         <!-- actual content (not indented to protect markdown) -->
         <div id="content">
 

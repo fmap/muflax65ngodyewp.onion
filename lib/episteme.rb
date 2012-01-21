@@ -19,8 +19,6 @@ def episteme status
     "semi-believed"
   when :discredited
     "not believed"
-  when :mindkiller
-    "mind-killing"
   else
     status.to_s
   end
