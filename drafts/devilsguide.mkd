@@ -1,7 +1,7 @@
 ---
 title: Devil's Guide to Theology
 date: 2011-11-24
-techne: :incomplete
+techne: :wip
 episteme: :fiction
 ---
 

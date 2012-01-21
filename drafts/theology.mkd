@@ -1,7 +1,7 @@
 ---
 title: Theology in a Godless World
 date: 2011-10-17
-techne: :incomplete
+techne: :wip
 episteme: :believed
 ---
 

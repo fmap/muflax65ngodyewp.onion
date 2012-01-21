@@ -4,7 +4,7 @@ def techne status
   case status
   when :rough
     "needs revisiting"
-  when :incomplete
+  when :wip
     "work in progress"
   when :done
     "finished"
@@ -19,6 +19,8 @@ def episteme status
     "semi-believed"
   when :discredited
     "not believed"
+  when :mindkiller
+    "mind-killing"
   else
     status.to_s
   end

@@ -2,7 +2,7 @@
 title: "tl;dr: muflax"
 alt_titles: [muflax]
 date: 2011-09-04
-techne: :incomplete
+techne: :wip
 episteme: :believed
 ---
 

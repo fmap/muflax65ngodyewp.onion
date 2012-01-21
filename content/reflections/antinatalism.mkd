@@ -2,7 +2,7 @@
 title: Antinatalism Overview
 alt_titles: [Antinatalism]
 date: 2011-12-24
-techne: :incomplete
+techne: :wip
 episteme: :believed
 toc: true
 ---
@@ -201,7 +201,7 @@ But maybe they are comparable. Why not try the calculation? Benatar makes a case
 
     If benefit and harm are comparable, then Sick can be better than Healthy.
 
-    > This presumably would be the case where the amount of suffering that (2)saves S is more than twice the amount S actually suffers. But this cannot be right, for surely it is always better to be H (a person who never sick and is thus not disadvantaged by lacking the capacity for recovery). The whole point is that (2) is *good* for S but does constitute an advantage over H.
+    > This presumably would be the case where the amount of suffering that (2) saves S is more than twice the amount S actually suffers. But this cannot be right, for surely it is always better to be H (a person who never sick and is thus not disadvantaged by lacking the capacity for recovery). The whole point is that (2) is *good* for S but does constitute an advantage over H.
 
 ### I like Russian Roulette
 
