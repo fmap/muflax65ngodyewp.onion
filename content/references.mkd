@@ -18,6 +18,7 @@ is_hidden: true
 [Animal Rights]: http://en.wikipedia.org/wiki/Animal_rights#Main_philosophical_approaches
 [Berryz工房 - Dschinghis Khan]: http://www.youtube.com/watch?v=b7pui9Q6Vbo
 [Breaking the Spell]: http://www.philosophypress.co.uk/?p=1001
+[Bro Epicurus]: http://www.philosophybro.com/2011/03/epicurus-sovran-maxims-summary.html
 [Buddhism for Vampires]: http://buddhism-for-vampires.com
 [Carrier Vegetarianism]: http://freethoughtblogs.com/carrier/archives/87
 [Chapman Disgust]: http://meaningness.wordpress.com/2011/07/22/disgust-horror-western-buddhism/
@@ -38,12 +39,15 @@ is_hidden: true
 [Kerghan Speech]: http://www.youtube.com/watch?v=IkBrIrQikWY
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
 [LW protect]: http://lesswrong.com/lw/nb/something_to_protect/
+[LW words]: http://lesswrong.com/lw/od/37_ways_that_words_can_be_wrong/
 [Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
 [Moldbug Left Right]: http://unqualified-reservations.blogspot.com/2008/06/olxi-truth-about-left-and-right.html
 [Narrowing Circle]: http://www.gwern.net/Notes#the-narrowing-circle
 [Nose Snail]: http://www.youtube.com/watch?v=vk_eljpPGMM
 [PhilPapers Survey]: http://philpapers.org/surveys/
+[PlaidX torture]: http://lesswrong.com/lw/5ro/what_bothers_you_about_less_wrong/47ph
 [Price Purpose]: http://www.robertmprice.mindvendor.com/zara/april__2007.htm
+[Puredoxyk]: http://www.puredoxyk.com/
 [Rational Addiction]: http://www.xtranormal.com/watch/7873033/
 [Redshift]: http://jonls.dk/redshift/
 [Schwitzgebel Ethics]: http://schwitzsplinters.blogspot.com/2007/04/moral-behavior-of-ethics-professors.html
@@ -56,21 +60,19 @@ is_hidden: true
 [The View from Hell]: http://theviewfromhell.blogspot.com
 [Using Neuroscience for Spiritual Practice]: http://video.google.com/videoplay?docid=1030598948823323439
 [Vipassana]: http://www.dhamma.org
+[WHO suicide]: http://www.who.int/mental_health/prevention/suicide/suicideprevent/en/
 [Wasting The Dawn]: http://www.youtube.com/watch?v=K7PhrPbyIsE
 [Why Did I Sleep So Well?]: http://www.blog.sethroberts.net/2008/09/03/science-in-action-why-did-i-sleep-so-well-part-10-2/
 [bible.org]: http://bible.org/netbible/index.htm
 [f.lux]: http://www.stereopsis.com/flux/
+[fuzzyfinder]: http://codeulate.com/2010/02/installing-fuzzyfinder_textmate-textmates-cmdt-in-vim/
 [jbr changelog]: http://www.xibalba.demon.co.uk/jbr/log/
 [nanoc]: http://nanoc.stoneship.org
 [puredoxyk]: http://www.puredoxyk.com
 [suffering per kg]: http://www.utilitarian-essays.com/suffering-per-kg.html
 [tripzine]: http://www.tripzine.com/listing.php?smlid=268 
-[Puredoxyk]: http://www.puredoxyk.com/
-[fuzzyfinder]: http://codeulate.com/2010/02/installing-fuzzyfinder_textmate-textmates-cmdt-in-vim/
-[WHO suicide]: http://www.who.int/mental_health/prevention/suicide/suicideprevent/en/
 
 <!-- Wikipedia articles (and similar) -->
-[Lucid dreaming]: http://en.wikipedia.org/wiki/Lucid_dreaming
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
 [Adolf Hitler]: http://en.wikipedia.org/wiki/Adolf_Hitler
 [Anatta]: http://en.wikipedia.org/wiki/Anatta
@@ -98,12 +100,16 @@ is_hidden: true
 [Kai Lexx]: http://en.wikipedia.org/wiki/Kai_(Lexx)
 [Kerghan]: http://en.wikipedia.org/wiki/Arcanum
 [Langton's Ant]: http://en.wikipedia.org/wiki/Langton's_ant
+[Lucid dreaming]: http://en.wikipedia.org/wiki/Lucid_dreaming
 [Marcion]: http://en.wikipedia.org/wiki/Marcion_of_Sinope
 [Mirror Test]: http://en.wikipedia.org/wiki/Mirror_test
 [Multiple Drafts]: http://www.scholarpedia.org/article/Multiple_drafts_model
 [Paleo]: http://www.archevore.com/archevore/
 [Paperclipper]: http://wiki.lesswrong.com/wiki/Paperclip_maximizer
+[Pascal's Mugging]: http://lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/
+[Principle of Charity]: http://en.wikipedia.org/wiki/Principle_of_Charity
 [Repugnant Conclusion]: http://en.wikipedia.org/wiki/Repugnant_Conclusion
+[Risk Aversion]: http://en.wikipedia.org/wiki/Risk_Aversion
 [Robert M. Price]: http://robertmprice.mindvendor.com
 [Sathya Sai Baba]: http://en.wikipedia.org/wiki/Sathya_Sai_Baba
 [Satipatthana Sutta]: http://en.wikipedia.org/wiki/Satipatthana_Sutta
@@ -126,6 +132,8 @@ is_hidden: true
 [al-Ghazali]: http://en.wikipedia.org/wiki/Al-Ghazali
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
 [schächten]: http://en.wikipedia.org/wiki/Shechita
+[Dunbar's Number]: http://en.wikipedia.org/wiki/Dunbar's_Number
+
 
 <!-- internal links -->
 [RSS]: /rss.xml

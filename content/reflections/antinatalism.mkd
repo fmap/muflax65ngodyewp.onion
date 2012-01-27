@@ -7,11 +7,11 @@ episteme: :believed
 toc: true
 ---
 
-> If only I could show you the places I have seen, you might understand the things I say. I have been to the Desolate Lands, wandered by those souls who still see the lands of the living but wear the cloak of the dead. Blind to their own ends, they cry, passing through one another like shadows in the dying light of day. I have travelled to where souls rot in torment, pierced with the jagged shards of life and vision, clinging to memory - regrets of the flesh. I saw that this prison was of their own making, and that the key was in unknowing, in release... and still, I travelled on.
+> If only I could show you the places I have seen, you might understand the things I say. I have been to the desolate lands, wandered by those souls who still see the lands of the living but wear the cloak of the dead. Blind to their own ends, they cry, passing through one another like shadows in the dying light of day. I have travelled to where souls rot in torment, pierced with the jagged shards of life and vision, clinging to memory - regrets of the flesh. I saw that this prison was of their own making, and the key was in unknowing, in release. And still, I travelled on.
 >
-> And finally, I came to the place where souls go to die. Where the mirrored and worn spirits fall into an endless sea of grey, mirrored glass, and I lowered myself within, and lay there among them, and I almost did not return.
+> And finally, I came to the place where souls go to die, where the mirrored and worn spirits fall into an endless sea of grey, mirrored glass, and I lowered myself within, and lay there among them, and I almost did not return.
 >
-> And do you know what I found there? There, among the silent and battered shells of the innumerable? Peace. Enlightenment. Truth. Only then did I realize that this place, this "Life", is an abomination, a horrible distortion of the natural order. This *"Life"*, who mothered Pain, and Fear, and Envy... these twisted children who exist only because we are here to feed them, to nourish them. This *"Life"*, this *afterthought* - a disturbance, a mere ripple in that great, dead sea, not even the cause, but merely an effect, sending these souls upwards, screaming for release from the day they are torn from their waters! The effect of what?!
+> And do you know what I found there? There, among the silent and battered shells of the innumerable? Peace. Enlightenment. Truth. Only then did I realize that this place, this "Life", is an abomination, a horrible distortion of the natural order. This *"Life"*, who mothered Pain, and Fear, and Envy - these twisted children who exist only because we are here to feed them, to nourish them. This *"Life"*, this *afterthought* - a disturbance, a mere ripple in that great, dead sea. Not even the cause, but merely an effect, sending these souls upwards, screaming for release from the day they are torn from their waters! The effect of what?!
 >
 > I do not know. Nor do I care.
 >
@@ -21,9 +21,13 @@ toc: true
 
 # Why You Got Screwed
 
-I've got bad news for you. According to some philosophers, there is a huge source of harm in the world that most people ignore. Even worse, *you* are already affected by it. The harm? *Being born*.
+I've got bad news for you. According to some philosophers, there is a huge source of harm in the world. This harm is rarely addressed and marginalized in society. Even worse, *you* are already affected by it. The harm? *Being born*.
 
-This position is called [antinatalism][Antinatalism].
+This position is called *antinatalism*.
+
+There are many different arguments for antinatalism. It also poses a unique challenge to many ethical theories, and gives unusual answers to well-known problems. The purpose of this FAQ is to give an introduction to all of this.
+
+But more importantly, it alls tries to *accurately* represent antinatalism. When I researched the position, I was surprised how few non-antinatalist sources actually cared to read the original arguments, relying instead on distorted summaries or second-hand texts. Maybe this FAQ will provide a better overview for the curious reader.
 
 ## Some Notes
 
@@ -33,14 +37,20 @@ As a stylistic convention, I will refer to all good experiences as a "benefit" a
 
 I'd also like to stress that I use negations in their strict sense, i.e. "not good" does not mean "bad", but rather "either bad or neutral".
 
-I won't present too many details. For this I just refer you to the linked blogs and books, mostly [Better Never to Have Been][] and [The View from Hell][]. However, I do strive to cover all the arguments and their criticisms. [Contact][] me if you think I missed or misrepresented something.
+I try to limit the amount of details and disclaimers. For this I just refer you to the linked blogs and books, mostly [Better Never to Have Been][] and [The View from Hell][]. However, I do strive to cover all the arguments and their criticisms. [Contact][] me if you think I missed or misrepresented something, but consider the [Principle of Charity][] as well. Assume that obvious gaps are just omissions on my side for the sake of brevity, not fundamental flaws.
 
-Range of Positions
-==================
+As this is a FAQ arguing *for* antinatalism, it focuses on the antinatalist arguments and treats pronatalist positions as rebuttals of specific assumptions or lines of reasoning.
 
-The names for these positions are mine, but are reasonably close to common versions.
+(And yes, this isn't really a FAQ. Deal with it.)
 
-TODO link each position with its relevant arguments
+What's antinatalism?
+====================
+
+In short, antinatalism (from lat. natalis, birth) is the position that coming into existence is a harm, and thus, it is generally morally wrong to have children. There are a range of positions about *how bad* this harm is, how *universal* it is and if it can be *overridden* in certain circumstances.
+
+The names for these positions are mine, but are reasonably close to common versions. I've linked each position with its most common arguments, but you can just follow the flow of the FAQ to get a general overview.
+
+TODO link positions to arguments
 
 ## Pronatalism
 
@@ -48,11 +58,11 @@ It is never wrong to bring someone into existence.
 
 ## Indifference
 
-It isn't *wrong* to bring someone into existence, but isn't right either. Both outcomes are morally equivalent, so we should decide based on other considerations, like our personal preferences or involved economic costs.
+It isn't *wrong* to bring someone into existence, but isn't right either. Both outcomes are morally equivalent, so we should decide based on other considerations, like our personal preferences or economic costs.
 
 ## Minor Antinatalism
 
-There are some beings who are worse off, but on average, it works out. This seems like the majority view of humanity.
+There are *some* beings who are worse off, but on average, it works out. This seems like the majority view of humanity.
 
 ## Major Antinatalism
 
@@ -69,9 +79,12 @@ One thing this overview won't address is any argument for the particular size of
 Arguments for Antinatalism
 ==========================
 
-## The Asymmetry {#asymmetry}
+The Asymmetry {#asymmetry}
+--------------------------
 
-[Benatar][]'s famous argument. It's deceptively simple:
+The asymmetry is probably the most important argument for antinatalism for two reasons. First, it argues for the strongest form, [Categorical Antinatalism](#categorical). If it's true, there is no room for compromise. Existence is bad, period. And second, many other arguments can be reduced to or are overshadowed by it.
+
+The asymmetry is [Benatar][]'s famous core argument. It's deceptively simple:
 
 1. The presence of harm is bad.
 2. The presence of benefit is good.
@@ -88,8 +101,6 @@ It should be clear that the first column (Presence) corresponds to existence and
 
 The first two claims about existence are uncontroversial. It's non-existence that's problematic.
 
-The asymmetry is probably the most important argument for antinatalism for two reasons. First, it argues for the harshest form, [Categorical Antinatalism](#categorical). If it's true, there is no room for compromise. Existence is bad, period. And second, many other arguments can be reduced to or are overshadowed by the asymmetry.
-
 TODO Argument from Duty
 
 Benatar:
@@ -101,7 +112,7 @@ The asymmetry relies fundamentally on the intuitions that absence of harm must b
 [^intuition]: 
     Personally, I'm slightly worried by Benatar's appeal to intuitions. He spends much of his book on how counter-intuitive his position of antinatalism is, and how we are biased towards optimism, but then he  argues that the asymmetry actually matches many of our intuitions (astronomical waste isn't bad, we have no duty to procreate, but a duty to prevent bad births, etc.). You can't have it both ways.
 
-### Absence is Always Neutral
+### Absence is Always Neutral {#neutral_absence}
 
 One way to resolve the asymmetry is to deny that the absence of harm is actually good.
 
@@ -110,7 +121,7 @@ One way to resolve the asymmetry is to deny that the absence of harm is actually
 | __Harm__    | bad          | *not good*  |
 
 
-After all, who is benefitted? The hypothetical preferences of non-existent people can't matter, or we would also take their preference for benefit into account - and by accepting (4), we don't. So how does this benefit arrise?
+After all, who is benefitted? The hypothetical preferences of non-existent people can't matter, or we would also take their preference for benefit into account - and by assumption, we don't. So how does this benefit arise?
 
 [Sister Y][Sister Asymmetry] gives us this thought experiment:
 
@@ -126,7 +137,9 @@ If you answer "yes, E. should use birth control", then why? She is preventing ha
 
 So if absence of harm is not good (i.e. neutral), E. should have more children, who will subsequentally be raped and beaten, but overall, will say they like living. That's a tough bullet to bite.
 
-### Astronomical Waste
+TODO rebuttal from wrong intuition about "worth living"
+
+### Astronomical Waste {#waste}
 
 Why should the absence of benefit be considered "not bad"? Why not consider it an evil?
 
@@ -134,7 +147,7 @@ Why should the absence of benefit be considered "not bad"? Why not consider it a
 | __Benefit__ | good         | *bad*       |
 | __Harm__    | bad          | good        |
 
-One transhumanist approach to this is called [Astronomical Waste][]. As Nick Bostrom says:
+One transhumanist approach to this is called [Astronomical Waste][]. Says Nick Bostrom:
 
 > With very advanced technology, a very large population of people living happy lives could be sustained in the accessible region of the universe. For every year that development of such technologies and colonization of the universe is delayed, there is therefore an opportunity cost: a potential good, lives worth living, is not being realized. Given some plausible assumptions, this cost is extremely large.
 
@@ -150,43 +163,91 @@ TODO
 
 This is really just an illustration of the problem, but a poignant one. However, someone already convinced of positive utilitarianism will simply accept the [Repugnant Conclusion][] and appeal to [Scope Insensitivity][].
 
+TODO antinatalist answer to repugnant conclusion, mere addition
+
 Even so, Benatar writes:
 
 > Whereas, at least when we think of them, we rightly are sad for inhabitants of a foreign land whose lives are characterized by suffering, when we hear that some island is unpopulated, we are not similarly sad for the happy people who, had they existed, would have populated this island. Similarly, nobody really mourns for those who do not exist on Mars, feeling sorry for potential such beings that they cannot enjoy life. Yet, if we knew that there were sentient life on Mars but that Martians were suffering, we would regret this for them.
 
 Even most positive utilitarians don't feel saddened by the emptiness of space and don't feel a strong moral compulsion to fix this mistake. On the other hand, nor do negative utilitarians rejoice at all the matter in the universe that *isn't* used to torture people. So overall, maybe our feeling of regret or relief isn't such a great guide after all?
 
-### What about future versions of yourself?
+### Should absence matter at all? (A Cake Metaphor)
 
-TODO Self, person-moments. Should you kill yourself right now?
+Here's a thought experiment to question the assumption that absence of certain things is morally relevant at all. And don't worry, it doesn't involve any torture, rape or murder! What am I, an ethicist?[^torture] It's only about pie.
+
+[^torture]:
+As [PlaidX observes][PlaidX torture]:
+
+> The use of torture in these hypotheticals generally seems to have less to do with ANALYZING cognitive algorithms, and more to do with "getting tough" on cognitive algorithms. Grinding an axe or just wallowing in self-destructive paranoia.
+>
+> If the point you're making really only applies to torture, fine. But otherwise, it tends to read like "Maybe people will understand my point better if I CRANK MY RHETORIC UP TO 11 AND UNCOIL THE FIREHOSE AND HALHLTRRLGEBFBLE"
+
+![](/pigs/pie.jpg)
+
+There are three different worlds. Let's call them *Defaultia*, *Absencia* and *Lossa*. They are all very similar, except for one little detail. In all three worlds there is a pie shop, and in this pie shop there is a careful pie maker. The pie maker is currently making another delicious pie for a customer. Behind the pie maker are three ingredients in three conspicuously similar pots, yet only one is needed for the pie. The pie maker will blindly grab one of the pots, make sure it is the right one and if so, use it. The pie will be delicious and the customer will be very happy.
+
+And here's how these worlds differ.
+
+In *Defaultia*, the pie maker is lucky and immediately grabs the right ingredient. Everything comes out right and the world is good.
+
+In *Absencia*, the pie maker is not so lucky and takes the wrong ingredient at first. A pie with this ingredient would taste horrible! The customer would be very sad indeed. But the pie maker immediately notices the wrong pot, tries again and this time is lucky. The same pie as in Defaultia is produced and everyone is happy.
+
+And finally in *Lossa*, the pie maker again picks the wrong pot. (What's up with that anyway? Maybe the pie maker should consider looking next time! Sheesh.) But it is not the pie-ruining ingredient this time, but unbeknownst to the pie maker, it would make the pie even more delicious! It is a totally weird coincidence and no-one in the whole world knows of this connection, so the pie maker again puts back the pot and picks the intended ingredient. As usual, the same pie as in Defaultia results. Sunshine, end scene.
+
+Thus ends the thought experiment. And here is the question: which of these worlds is *better*? Remember that in all three of them, the exact same pie is produced, and both pie maker and customer are just as happy every time.
+
+Yet if we believed the asymmetry, then there would be a clear winner - namely *Absencia*! In Absencia, there was a potential for great harm. Had the pie maker not noticed the wrong pot, then the customer's day would've been ruined. But fortunately, this harm was avoided and so, says the asymmetry, an additional good was produced for the customer. Ergo, Absencia is the best.
+
+If we look at it from the perspective of [Astronomical Waste][#waste], then the absence of benefits, even when there is no existing person being deprived, is still bad. Proponents of this view look at the universe and are disappointed by all the matter that *isn't* used for making people happy (or making happy people). It follows then, if the absence of pleasure causes a harm, then *Lossa* is clearly worse than Defaultia! After all, Lossa almost included a super-pie and super-happy customer, but then didn't after all.
+
+In a third approach, we could ask Hardcore Consequentialist Robot 9000 what it thinks about these worlds. It would correctly reason that the pie makers initial choice of ingredients was truly random and that the resulting pie was already determined before picking anything. The pie maker will always end up using the intended ingredient and the same pie will be made. Thus, the state of the world is always the same, and as paths to a state don't matter to HCR 9000, all worlds are exactly equal in value. (This scenario is particularly frustrating for HCR 9000's evil archenemy Doctor Deontology. Paths matter, he says, but only random chance was involved this time, so he still has to choose. But how?)
+
+So who's right? Or is everyone wrong and there's a fourth option? Maybe the idea of "prevention of harm" in a deterministic universe is a flawed one, and we should reject it. But then how do we construct morality? (Do we have to?)
+
+### What about future versions of yourself?
 
 According to Benatar, there is a difference between "lives worth starting" and "lives worth continuing". Unfortunately for him, he doesn't actually offer any argument *why* these should be different.
 
-## Life Sucks
+TODO benatar's view
 
-This is a really straightforward argument. Life sucks, therefore it is bad to create another life, for it too will suck.
+Assuming computationalism, there can't be a continuous self over time, only a set of self-moments loosely connected by psychological similarity. How can one such self-moment blinking into existence be fundamentally different from another, just because one involves sperm and the other normal operations of the brain?
 
-It starts to get tricky once you start asking questions like "How *much* does it suck?", "Is there an acceptable level of suck?" or "Does it suck for everyone?".
+Many constructions of materialism face this problem. If antinatalism is true, then we have a responsibility for our future-selves in exactly the same way as for our children, and so, if we shouldn't have children, neither should we have future-selves. We ought to commit suicide right away. This by itself of course is not an argument *against* the correctness of antinatalism. It just puts pressure on living antinatalists to construct a meaningful conception of personhood, if they aren't just in it for the [contrarian statu](#hypocrisy).
 
-### Amount of Harm
+## Non-Person Values
+
+Not just people matter. We can value states of the world without existing. Thus, I can be harmed without ever being brought into existence. Existence is not a morally significant hurdle.
+
+Basically, we should respect the values of of even non-existent people. They would want to live (or so they would tell us), so we are harming them by denying them the opportunity.
+
+_Rebuttal_: This can't be right. For every possible mind X, there is a possible mind Anti-X that values exactly the opposite. If you bring X into existence becomes X wants to live, then you are ignoring Anti-X who wants X to *not* live. If you prefer a specific sampling of minds (say, minds similar to you), then you are really just imposing your own values. Then it's not about unborn people, just you.
+
+Life Sucks
+----------
+
+This is a really straightforward argument. Life sucks, therefore it is bad to create another life, for it too will suck. There is nothing categorical about it. In principle, life could be awesome and then we should have plenty of children. It's just our world of suffering that we don't want to force upon further victims.
+
+It starts to get tricky once you start asking questions like "*How much* does it suck?", "Is there an *acceptable* level of suck?" or "Does it suck for *everyone*?".
+
+### How bad is life?
 
 TODO benatar
 
-### Acceptable Harm
+### Is some level of harm acceptable?
 
 TODO utilitarian / max-harm argument
 
-Life has harms and benefits. Instead of denying *all* life because *some* harm exists, why not just weigh it against the benefit? If the good outweighs the bad, then life would still be worthwhile, even if you accept the asymmetry. The non-existent have the advantage of always non-negative utility (because they can't be harmed), but maybe the sum of utility the existent experience is still much greater, despite the handicap?
+Life has harms and benefits. Instead of denying *all* life because *some* harm exists, why not just weigh it against the benefit? If the good outweighs the bad, then life might still be worthwhile, even if you accept the asymmetry. The non-existent have the advantage of always non-negative utility (because they can't be harmed), but maybe the sum of utility the existent experience is still much greater, despite the handicap?
 
-Let's call the magnitude of benefit B and of harm H. Benatar assumes that, naturally, the absence of harm must be exactly opposite[^opposite] in value to the harm done by its presence, i.e. (1) (no harm) has utility `+H` and (3) (harm) has `-H`.
-
-[^opposite]: Should the negative value of harm and the positive value of its prevention really be exactly opposite? What about risk aversion? The important thing to note here is that risk aversion is typically measured with regards to *money* or some other quantity, not direct "utility".
+Let's call the magnitude of benefit B and of harm H. Benatar assumes that (quite naturally) the absence of harm must be exactly opposite[^opposite] in value to the harm done by its presence, i.e. *no harm* has utility `+H` and *harm* has `-H`.
 
 |             | __Presence__ | __Absence__ |
 | __Benefit__ | +B           | 0           |
 | __Harm__    | -H           | +H          |
 
-Therefore, existence has a total value of `(+B) + (-H) = B-H` and non-existence has `(0) + (+H) = H`. So for existence to be better[^comparable] than non-existence, we must have `B > 2*H`. In other words, the benefits must be more than twice as good as the good we attain through the absence of harm.
+[^opposite]: Should the negative value of harm and the positive value of its prevention really be exactly opposite? What about [Risk Aversion][]? The important thing to note here is that risk aversion is typically measured with regards to *money* or some other quantity, not direct "utility".
+
+Therefore, existence has a total value of `(+B) + (-H) = B-H` and non-existence has `(0) + (+H) = H`. So for existence to be better than non-existence, we must have `B > 2*H`. In other words, the benefits must be more than twice as good as the good we attain through the absence of harm.
 
 Benatar argues that - given the asymmetry - this simple calculation will never work.
 
@@ -194,52 +255,115 @@ But maybe they are comparable. Why not try the calculation? Benatar makes a case
 
 > TODO
 
-[^comparable]:
-    Benatar actually argues that we *can't* compare benefit and harm. He offers the following analogy:
+## Without slaves, Rome would collapse!
 
-    > \[C\]onsider an analogy which, because it involves the comparison of existent people is unlike the comparison between existence and non-existence in *this* way, but which nonetheless may be instructive. (Sick) is prone to regular bouts of illness. Fortunately for him, he is also so constituted that he recovers quickly. H (Healthy) lacks the capacity for quick recovery, but he *never* gets sick. It is bad for S that he gets sick and it is good for him that he recovers quickly. It is good that H never gets sick, but it is not bad that he lacks the capacity to heal speedily. The capacity for quick recovery, although a good for S, is not a real advantage over H. This is because the absence of that capacity is not bad for H. This, in turn, is because the absence of that capacity is not a deprivation for H. H is not worse off than he would have been had he had the recuperative powers of S. S is not better off than H in way, even though S is better off than he himself would have been had he lacked the capacity for rapid recovery.
+One example of how harm might be acceptable is commonly put this way:
 
-    If benefit and harm are comparable, then Sick can be better than Healthy.
+> I need children to care for me once I am old. Our social system needs enough young people or the old will starve.
 
-    > This presumably would be the case where the amount of suffering that (2) saves S is more than twice the amount S actually suffers. But this cannot be right, for surely it is always better to be H (a person who never sick and is thus not disadvantaged by lacking the capacity for recovery). The whole point is that (2) is *good* for S but does constitute an advantage over H.
+This is fundamentally a very selfish argument. That doesn't mean it's *wrong*, just that you can't have any pretense that you care about the well-being or rights of others if you make it.
 
-### I like Russian Roulette
+Benatar thinks this argument might well be correct. He argues that, even though we should fade out human existence, we might have to bring some people into existence purely so we can fascilitate this extinction.
 
-Maybe not everyone is affected by overall harm. If you are already upper-class parents with no history of depression, then maybe your child *does* have a good shot at a worthwhile life.
+TODO isolation
+
+Regardless of its correctness, [Dunbar's Number][] provides evidence that a population of a few hundred people is still large enough to not feel lonely. If so, then we can decrease our 7+ billion people *a lot* before these problems become dominant.
+
+TODO rights argument
+
+### Are harm and benefit even comparable?
+
+Benatar actually argues that we *can't* compare benefit and harm. He offers the following analogy:
+
+> \[C\]onsider an analogy which, because it involves the comparison of existent people is unlike the comparison between existence and non-existence in *this* way, but which nonetheless may be instructive. (Sick) is prone to regular bouts of illness. Fortunately for him, he is also so constituted that he recovers quickly. H (Healthy) lacks the capacity for quick recovery, but he *never* gets sick. It is bad for S that he gets sick and it is good for him that he recovers quickly. It is good that H never gets sick, but it is not bad that he lacks the capacity to heal speedily. The capacity for quick recovery, although a good for S, is not a real advantage over H. This is because the absence of that capacity is not bad for H. This, in turn, is because the absence of that capacity is not a deprivation for H. H is not worse off than he would have been had he had the recuperative powers of S. S is not better off than H in way, even though S is better off than he himself would have been had he lacked the capacity for rapid recovery.
+
+If benefit and harm are comparable, then Sick can be better than Healthy.
+
+> This presumably would be the case where the amount of suffering that (2) saves S is more than twice the amount S actually suffers. But this cannot be right, for surely it is always better to be H (a person who never sick and is thus not disadvantaged by lacking the capacity for recovery). The whole point is that (2) is *good* for S but does constitute an advantage over H.
+
+Another illustration to underline the implausibility of direct comparison is the existence of sacred values.
+
+TODO sacred values
+
+Similarly, there are also negative sacred values, i.e. things so bad we *can't* accept them, ever. This is one of the few situations where a torture example is really appropriate. Imagine being tortured horribly, but with the promise that once the torture is over, you will be given access to paradise full of pleasure and cute puppies.[^heaven] Is there a torture so bad that *nothing* could make up for it? Even if you knew the torturer were trustworthy and the paradise really great, is there some point where you simply *give up*? Furthermore, denying this and accepting the direct comparison forces you to deal with [Pascal's Mugging][].
+
+[^heaven]: This is not too different from certain Christian worldviews. After all, having to endure earthly existence is nothing but torture compared to future heavenly delights.
+
+### But I like Russian Roulette!
+
+Maybe not everyone is affected by dominating harm. If you are already an upper-class parent with no history of depression, then maybe your child *does* have a good shot at a worthwhile life.
 
 This is fundamentally an utilitarian argument. You take the probability of *your* child having a sucky life, multiply it with the negative value of all the expected harm, do the same thing with the chance of a good life and compare the two. It's fundamentally like russian roulette, but if the odds are good enough, why not play?
 
 Of course, if you accept this argument, I'd like you to show me these calculations. (Seriously. [Contact][] me. I can't even decide on the rough order of magnitude for any of these values.) In my experience, almost no-one who makes claims about utility actually ever calculates it. So how do you know?[^selfservingprob]
 
-[^selfservingprob]: That's a general problem with utilitarians, I think. As long as a distribution of values exists that *could* favor whatever view they're arguing for, they're happy. It's really rare to see an utilitarian actually do the math, and even rarer to see one do the math for *multiple* problems and use the *same* numbers in all cases.
+[^selfservingprob]: That's a general problem with utilitarians, I think. As long as a distribution of values exists that *could* favor whatever view they're arguing for, they're happy. It's really rare to see an utilitarian actually do the math, and even rarer to see one do the math for *multiple* problems and use the *same* numbers in all cases. If they don't do the math, how can they claim that it is in their favor? Where does this knowledge come from?
 
 TODO non-utilitarian rebuttals
 
-## Escape from Kaldor Hicks
+TODO caution principle
+
+### Synthetic Happiness is Real Happiness
+
+[Dan Gilbert][Gilbert TED] argues that we fabricate "synthetic happiness" when we don't get what we want, and that this is as good as "real" happiness. Thanks to the [Hedonic Threadmill][], we will adapt to any change in life and go back to our happiness set point.
+
+If this happiness research is right, then our life circumstances are largely irrelevant when considering how happy we are. Only one thing matters: our happiness set point.[^setpoint] And because most people say they like living, they probably have a sufficiently high set point and weren't harmed by whatever life we forced on them. And if you have a transhumanist bend, you might even think that [modifying the set point][Wireheading] is not too far off.
+
+[^setpoint]: All you depressed people hopefully realize how devastating this is. Life sucks and it will *keep on sucking*. Under [normal circumstances][Happiness Stochastic], happiness is largely constant. Happy endings are for other people.
+
+TODO rebuttal from desire fulfillment
+
+TODO rebuttal from separate pain
+
+TODO golem analogy
+
+### Your suffering is a First World Problem.
+
+An anonymous commenter on [The View from Hell][] provides an example of this common argument:
+
+> I think your blog's title is a total misnomer: if you're still able (emotionally, physically and financially) to enjoy drugs, sex, running and talking about philosophy as you yourself claim you clearly haven't got the slightest notion of what hell consists of.
+
+In other words, if there are many people who are much worse off than you, you can't claim to suffer.
+
+I find that a very strange argument to make. If even privileged people suffer greatly, isn't that an argument *for* antinatalism, namely that even greatly improved average circumstances don't fix suffering? Shouldn't we therefore conclude that many more people suffer than we typically think?
+
+What the arguments seems to be doing is to critize people for expressing a desire for help. Basically, if someone else needs help much more than you, you shouldn't bring your pain to our attention. You're just wasting resources that way. That's not a bad point, but it is not an argument against preventing births. If less people are made, less will suffer and we can take better care of the rest.
+
+### Children are Expensive
+
+We've heard utilitarian arguments about benefit outweighing harm, so why not try the other side? Are there egoistic reasons[^egoistic] to *not* have children?
+
+TODO cost, happiness statistic, pregnancy photos
+
+[^egoistic]: As Kant correctly noted, essentially *all* reasons to have children are egoistic, of course. It's really hard to make a child without treating it as a means.
+
+### Humans are Parasites
+
+A variant of "life sucks" is that it isn't *human* life that's so bad, but the horror we inflict on the rest of the planet in order to sustain ourselves. Most life would be better off if humanity went extinct.
+
+TODO [Voluntary Human Extinction Movement (VHEMT)][VHEMT]
+
+TODO wildlife is much worse off
+
+Of course, if you think that only humans have moral value, then the whole argument is moot to begin with. 
+
+Escape from Kaldor Hicks
+------------------------
 
 Argument from consent.
 
 http://theviewfromhell.blogspot.com/2011/01/pareto-kaldor-hicks-and-deserving.html
 http://theviewfromhell.blogspot.com/2011/01/markets-are-ungrounded.html
 
-## Children are Expensive
+### Rights are Inalienable
 
 TODO
 
-### Humans are Parasites
+### Potential People have Rights too
 
-A variant of this argument argues that the rest of the planet would be better off without humans.
+See the [asymmetry](#asymmetry).
 
-TODO [Voluntary Human Extinction Movement (VHEMT)][VHEMT]
-
-TODO wildlife is much worse off
-
-Of course, if you think that animals don't have moral value, then the whole argument is moot.
-
-Arguments against Antinatalism
-==============================
-
-## Most people don't want to die.
+### But most people don't want to die!
 
 If you ask people if they would like to die, most disagree.
 
@@ -249,27 +373,18 @@ TODO bias argument
 
 TODO include [Wasting The Dawn][] somehow
 
-I can't help but feel that culture too rarely [makes the case][Wasting The Dawn] for antinatal positions and that feeling regret at having to live is always treated as a mental illness, not a possible position to defend.
+I can't help but feel that culture too rarely [makes the case][Wasting The Dawn] for antinatal positions and that feeling regret for having to live is always treated as a mental illness, not a possible position to defend.
 
-## Synthetic Happiness is Real Happiness
+Epicurus called, he wants his argument back
+-------------------------------------------
 
-[Dan Gilbert][Gilbert TED] argues that we fabricate "synthetic happiness" when we don't get what we want, and that this is as good as "real" happiness. Thanks to the [Hedonic Threadmill][], we will adapt to any change in life and go back to our happiness set point.
+Says the [Bro][Bro Epicurus]:
 
-If this happiness research is right, then our life circumstances are largely irrelevant when considering how happy we are. Only one thing matters: our happiness set point.[^setpoint] And because most people say they like living, they have a sufficiently high set point and weren't harmed by whatever life we forced on them. And if you have a transhumanist bend, you might even think that [modifying the set point][Wireheading] is not too far off.
+> Why the fuck are people so obsessed with what happens when you die? Look, once you're dead you can't feel a goddamn thing, so get over it.
 
-[^setpoint]: All you depressed people hopefully realize how devastating this is. Life sucks and it will *keep on sucking*. Under [normal circumstances][Happiness Stochastic], happiness is largely constant. Happy endings are for other people.
+Basically, the Epicurean position on death denies it any moral value. We have seen how one might [deny that absence of anything is bad](#neutral_absence). This is a generalization of this idea: only things that happen to people are ever relevant. If there is no person, there is neither harm nor benefit.
 
-TODO rebuttal from desire fulfillment
-
-TODO rebuttal from separate pain
-
-## Non-Person Values
-
-Not just people matter. We can value states of the world without existing. Thus, I can be harmed without ever being brought into existence. Existence is not a morally significant hurdle.
-
-Basically, we should respect the values of of even non-existent people. They would want to live (or so they would tell us), so we are harming them by denying them the opportunity.
-
-_Rebuttal_: This can't be right. For every possible mind X, there is a possible mind Anti-X that values exactly the opposite. If you bring X into existence becomes X wants to live, then you are ignoring Anti-X who wants X to *not* live. If you prefer a specific sampling of minds (say, minds similar to you), then you are really just imposing your own values. Then it's not about unborn people, just you.
+TODO can't harm through murder (game-theoretical rebuttal)
 
 ## You Can't Harm the Non-Existent
 
@@ -282,6 +397,21 @@ _Rebuttal_: This can't be right. For every possible mind X, there is a possible 
 5. Thus coming into existence cannot be worse than never coming into existence.
 6. Therefore, coming into existence cannot be a harm.
 
+TODO argument relies on *relative* harm, not *absolute* harm. I'm not making you *worse* off if I bring you into existence, regardless what that existence looks like, but you might still suffer. So while death is not a bad thing under the Epicurean perspective (and I would tend to agree), birth still can be bad. Insisting that it technically isn't *worse* is essentially just [arguing about words][LW words], not morality.
+
+Arguments against Antinatalism
+==============================
+
+
+Practical Implications
+======================
+
+## Are antinatalists just being contrarian? {#hypocrisy}
+
+Is this just a contrarian position? Are antinatalists merely signalling how deep and unconventional they are? After all, even professional ethicists aren't more ethical on average[^ethicistfail]. And some antinatalists keep on insisting that their position is a great taboo.
+
+[^ethicistfail]: See [Schwitzgebel's various studies][Schwitzgebel Ethics].
+
 ## If life is so horrible, why don't you kill yourself?
 
 ![likebeingdead](/reflections/likebeingdead.jpg)
@@ -292,29 +422,21 @@ TODO if life is so awesome, why do so *many* people kill themselves? Why does th
 
 TODO suicide censorship, illegality
 
-## Your suffering is a First World Problem.
+## Abortion
 
-An anonymous commenter on [The View from Hell][] provides an example of this common argument:
+TODO Benatar
 
-> I think your blog's title is a total misnomer: if you're still able (emotionally, physically and financially) to enjoy drugs, sex, running and talking about philosophy as you yourself claim you clearly haven't got the slightest notion of what hell consists of.
+When, exactly, is the harm done?
 
-In other words, if there are many people who are much worse off than you, you can't claim to suffer.
+![Antinatalist Antelope is Pro-Death](/pigs/prodeath.jpg)
 
-I find that a very strange argument. If even privileged people suffer greatly, isn't that an argument *for* antinatalism, namely that even greatly improved average circumstances don't fix suffering? Shouldn't we therefore conclude that many more people suffer than we typically think?
+## Moral Consequences
 
-What the arguments seems to be doing is to critize people for requesting help. Basically, if someone else needs help much more than you, you shouldn't bring your pain to our attention. You're just wasting resources that way. That's not a bad point, but it is not an argument against preventing births. If less people are made, less will suffer and we can take better care of the rest.
+I once read a summary of the game [Vampire: The Masquerade][Vampire RPG]. In it, you are a recently turned vampire who has to feed on the living to survive. Your constant hunger for blood makes it likely that you will one day lose control and kill whoever you're feeding off or any amount of other innocents. You must exploit and endanger a large number of humans merely to survive. You know that this is wrong, yet your own need to survive makes you do it anyway. You might tell yourself all kinds of clever reasons why this is acceptable. But really, no-one believes you, not even you. You know that you could do the right thing anytime and just step out into the sun. You don't *have* to exist. You can just die. Yet you don't. No matter what you tell yourself, you are evil.[^social]
 
-## Without slaves, Rome would collapse!
+This is basically the antinatalist worldview.
 
-> I need children to care for me once I am old. Our social system needs enough young people or the old will starve.
-
-This is fundamentally a very selfish argument. That doesn't mean it's *wrong*. Just that you can't have any pretense that you care about the well-being or rights of others if you make it.
-
-TODO real argument
-
-## Potential People have Rights too
-
-See the [asymmetry](#asymmetry).
+[^social]: The analogy to our economy, social system and all of industrialization is too obvious to ignore.
 
 ## Harm is Socially Constructed
 
@@ -335,27 +457,6 @@ TODO Szasz
 
 Can be reduced to asymmetry.
 
-Practical Implications
-======================
-
-Is this just a contrarian position? Are you merely signalling how deep and unconventional you are? After all, even professional ethicists aren't more ethical on average[^ethicistfail].
-
-[^ethicistfail]: See [Schwitzgebel's various studies][Schwitzgebel Ethics].
-
-## Abortion
-
-TODO Benatar
-
-When, exactly, is the harm done?
-
-## Moral Consequences
-
-I once read a summary of the game [Vampire: The Masquerade][Vampire RPG]. In it, you are a recently turned vampire who has to feed on the living to survive. Your constant hunger for blood makes it likely that you will one day lose control and kill whoever you're feeding off or any amount of other innocents. You must exploit and endanger a large number of humans merely to survive. You know that this is wrong, yet your own need to survive makes you do it anyway. You might tell yourself all kinds of clever reasons why this is acceptable. But really, no-one believes you, not even you. You know that you could do the right thing anytime and just step out into the sun. You don't *have* to exist. You can just die. Yet you don't. No matter what you tell yourself, you are evil.[^social]
-
-This is basically the antinatalist worldview.
-
-[^social]: The analogy to our economy, social system and all of industrialization is too obvious to ignore.
-
 ## Apocalyptic Imperative
 
 The fact that only [few][Dawrst] antinatalists call for the end of all life, in some form or another, is a bad sign. It requires a fairly complex argument to think that being born is bad, but total extinction isn't worth it. Instead of that particular combination being exactly right, it seems much more likely that you really just picked an unusual belief as a contrarian signal, but don't want to upset the status quo *too* much. Gods forbid you actually have to live according to your expoused morality![^positivestatus]
@@ -365,7 +466,7 @@ The fact that only [few][Dawrst] antinatalists call for the end of all life, in 
 Religious Analogies
 ===================
 
-This section isn't completely serious. It doesn't provide actual arguments, really. Just because some religion or old ascetic supported something like antinatalism doesn't mean it's right. But I still find it interesting how *common* the position actually is. There is obvious [memetic][meme] pressure to remove antinatalism from any religion, but it still survives for some reason.
+This section isn't completely serious. It doesn't provide actual arguments, really. Just because some religious scholaror old ascetic supported something doesn't make it right. But I still find it interesting how *common* the position actually is. There is obvious [memetic][meme] pressure to remove antinatalism from any religion, but it still survives for some reason.
 
 ## Christianity
 
@@ -397,7 +498,10 @@ How not to do it.
 >
 > -- excerpt from the [Visuddhimagga][]
 
+## Judaism
+
+TODO Talmud Benatar
+
 # Unused References
 
-http://www.alcor.org/magazine/2011/01/14/non-existence-is-hard-to-do/
 http://opinionator.blogs.nytimes.com/2010/06/06/should-this-be-the-last-generation/

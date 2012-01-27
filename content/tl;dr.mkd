@@ -6,31 +6,18 @@ techne: :wip
 episteme: :believed
 ---
 
-[muflax][] likes filling out profiles about itself. Maybe it's a signaling
-thing. Who knows.
+[muflax][] likes filling out profiles about itself. Maybe it's a signaling thing. Who knows.
 
 # Philosophical Background
 
-Philosophically, my strongest early influence comes from Satanism and
-Discordianism. I tried to, but never really got Nietzsche and felt very much at
-home when reading Robert Anton Wilson. Later on, I picked up many Buddhist
-influences (Zen at first, later mostly [Theravada][]) and some Taoism. I belong to
-no school of thought and my belief system is very idiosyncratic, with most
-pieces coming from Theravada Buddhism, Discordianism and different schools of
-Rationality (mostly Bayesian, though).
+Philosophically, my strongest early influence comes from Satanism and Discordianism. I tried to, but never really got Nietzsche and felt very much at home when reading Robert Anton Wilson. Later on, I picked up many Buddhist influences (Zen at first, later mostly [Theravada][]) and some Taoism. I belong to no school of thought and my belief system is very idiosyncratic, with most pieces coming from Theravada Buddhism, Discordianism and different schools of Rationality (mostly Bayesian, though).
 
-I was motivated at first by fascinating problems, then making sense of madness,
-understanding consciousness and fate[^why_fate], and right now, purpose.
+I was motivated at first by fascinating problems, then making sense of madness, understanding consciousness and fate[^why_fate], and right now, purpose.
 
 [^why_fate]:
-    To clarify, I'm not interested in "What is fate?", but "Why do I perceive
-    the world ordered in a way that is consistent with fate?". 
+    To clarify, I'm not interested in "What is fate?", but "Why do I perceive the world ordered in a way that is consistent with fate?". 
 
-For me, the most important non-obvious philosophers are the Buddha (who I
-believe to be fiction and do not identify with Siddharta Gautama), for the three
-principles of [Anatta][], [Anicca][] and [Dukkha][], and [Wang Yangming][] for
-the [Unity of Knowledge and Action][]. Without those, no understanding of the world
-is ever possible.[^understanding]
+For me, the most important non-obvious philosophers are the Buddha (who I believe to be fiction and do not identify with Siddharta Gautama), for the three principles of [Anatta][], [Anicca][] and [Dukkha][], and [Wang Yangming][] for the [Unity of Knowledge and Action][]. Without those, no understanding of the world is ever possible.[^understanding]
 
 [^understanding]: Interestingly, I don't believe anymore that these 4 are
     necessarily all correct, but only that they forced me to think about my mind
@@ -41,8 +28,7 @@ is ever possible.[^understanding]
 Survey
 ======
 
-Based on the [PhilPapers Survey][], a bunch of common questions and my position
-on them.
+Based on the [PhilPapers Survey][], a bunch of common questions and my position on them.
 
 A priori knowledge?
 -------------------
