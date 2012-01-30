@@ -72,6 +72,7 @@ is_hidden: true
 [suffering per kg]: http://www.utilitarian-essays.com/suffering-per-kg.html
 [tripzine]: http://www.tripzine.com/listing.php?smlid=268 
 [Carlin Sanctity]: http://www.youtube.com/watch?feature=player_embedded&v=AvF1Q3UidWM
+[Francois Caplan]: http://francoistremblay.wordpress.com/2011/12/07/bryan-caplan-repeats-same-nonsense-but-this-time-with-more-arrogance/
 
 <!-- Wikipedia articles (and similar) -->
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
