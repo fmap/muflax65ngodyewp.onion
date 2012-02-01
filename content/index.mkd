@@ -5,7 +5,7 @@ non_cognitive: true
 no_comments: true
 ---
 
-![logo](logo.jpg)   
+![logo](/pigs/logo.jpg)   
 Yet another hypergraphic information whore's site.
 
 [muflax][] is empty. My [LibraryThing][] profile says more about me than I ever could.

@@ -253,8 +253,8 @@ the whole meat of speed reading. It's the main trick to discover.
 Once you read at a very high speed, it really makes a huge difference how large
 your chunks are. Here's a little demonstration:
 
-![chunk size 1](/experiments/fast.gif)   
-![chunk size 4](/experiments/slow.gif)
+![chunk size 1](/pigs/fast.gif)   
+![chunk size 4](/pigs/slow.gif)
 
 Both animations run at the same reading speed of 1000wpm, but the first one
 shows every word on its own, while the second one uses groups of 4. If you watch

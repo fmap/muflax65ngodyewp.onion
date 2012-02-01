@@ -17,7 +17,7 @@ Diet and Drugs
 Caffeine
 --------
 
-![totally safe](/experiments/coffee_cat.jpg)
+![totally safe](/pigs/coffee_cat.jpg)
 
 Caffeine drastically improves my concentration. It gives me an indiscriminate,
 but very narrow focus. I can work for hours on basically anything, but find it
@@ -158,7 +158,7 @@ with that.
 Tyrosine
 --------
 
-![lolcatecholamines](/experiments/lolcats.jpg)
+![lolcatecholamines](/pigs/lolcats.jpg)
 
 Now comes the magic bullet. Seriously, Tyrosine is among my favorite chemicals
 because it fixes a problem without creating new ones. That's quite rare.

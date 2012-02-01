@@ -361,7 +361,7 @@ http://www.nber.org/~rosenbla/econ311/syllabus/rabincallibration.pdf
 
 A separate argument is the hypocrisy of utilitarians. In my experience, almost no-one who makes claims about utility actually ever calculates it. That's a major problem undermining the whole theory. As long as a distribution of values exists that *could* favor whatever view a particular utilitarian is arguing for, they're happy.
 
-It's really rare to see them actually do the math, and even rarer to see one do the math for *multiple* problems and use the *same* numbers in all cases. If they don't do the math, how can they claim that it is in their favor? Where does this knowledge come from?
+It's really rare to see one actually do the math, and even rarer for one to do the math for *multiple* problems and use the *same* numbers every time. If they don't do the math, how can they claim that it is in their favor? Where does this knowledge come from? If they believe in their theory, why aren't they using it?
 
 If you *have* done a utility calculation, I'd love to hear about it. (Seriously, [Contact][] me. I can't even decide on the rough order of magnitude for many relevant values.) 
 
@@ -442,7 +442,7 @@ Is this just a contrarian position? Are antinatalists merely signalling how deep
 
 ## If life is so horrible, why don't you kill yourself?
 
-![likebeingdead](/reflections/likebeingdead.jpg)
+![likebeingdead](/pigs/likebeingdead.jpg)
 
 Revealed preference: it's easy to kill yourself, yet only about [0.016%][WHO suicide], or 1 in 63, kill themselves each year. 
 

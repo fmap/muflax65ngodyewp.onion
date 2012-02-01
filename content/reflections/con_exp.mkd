@@ -557,7 +557,7 @@ left nothing out, all the rules are in there. If you want, you can build your
 own genuine Ant from that, without anything missing. But then you observe the
 ant and the following happens:
 
-![Langton's Ant builds a highway](/reflections/LangtonsAnt.png)
+![Langton's Ant builds a highway](/pigs/LangtonsAnt.png)
 
 Once the highway is started, the ant will build nothing else anymore. This
 *seems* to be true for all possible starting grids, and it has been proven that
