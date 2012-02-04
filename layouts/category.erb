@@ -13,7 +13,8 @@ cat_index = @site.printed_items.find{|i| i.path.match(cat_match) and i[:is_categ
 
 <% items = @site.printed_items.select do |i|
    i.path.match cat_match and
-   not i[:is_category]
+       not i[:is_category] and
+       not i.draft? # hide drafts, but make them reachable
 end %>
 
 <!-- print items in nice list -->

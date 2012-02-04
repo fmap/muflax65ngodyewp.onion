@@ -14,6 +14,10 @@ class Nanoc3::Item
   def name
     identifier.split("/").last
   end
+
+  def draft?
+    self[:techne] == :wip
+  end
 end
 
 def category name
