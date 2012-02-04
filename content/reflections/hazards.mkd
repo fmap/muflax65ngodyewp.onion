@@ -1,4 +1,9 @@
-% Information wants to pwn you
+---
+title: Information Wants to Pwn You
+date: 2011-09-05
+techne: :wip
+episteme: :broken
+---
 
 Hacker Culture
 ==============
@@ -7,74 +12,31 @@ Hacker Culture
 > 
 > -- a hacker motto
 
-At first, I believed this statement solely on political grounds. When I grew up,
-everyone who wanted to control information was evil - the record industry, old
-politicians, you know, those kind of people. Sharing information was an act of
-rebellion, no matter what the information actually *was*. People didn't want you
-to have free access, so you simply created it, regardless of content, be it the
-Anarchist's Cookbook, warez or pr0n.
+At first, I believed this statement solely on political grounds. When I grew up, everyone who wanted to control information was evil - the record industry, old politicians, you know, those kind of people. Sharing information was an act of rebellion, no matter what the information actually *was*. People didn't want you to have free access, so you simply created it, regardless of content, be it the Anarchist's Cookbook, warez or pr0n.
 
-I grew up during the early Windoze years. One day, I accidentally opened an .exe
-file in a text editor and saw a lot of gibberish. I was amazed how someone could
-even *produce* this noise, let alone make it *work*. Later, I learned to program
-(and what machine code and compilers are) and adopted the culture of
-programmers, specifically open source ones.
+I grew up during the early Windoze years. One day, I accidentally opened an .exe file in a text editor and saw a lot of gibberish. I was amazed how someone could even *produce* this noise, let alone make it *work*. Later, I learned to program (and what machine code and compilers are) and adopted the culture of programmers, specifically open source ones.
 
-It was obvious to me that information should be shared. Open your source code
-and others can learn from it, find bugs for you and even implement new features.
-Everybody wins. The only people wanting to hide their code were those more
-interested in making money. (Which was considered suspect in the communitarian
-culture I grew up in.) Worse, they were essentially only making money from
-*ignorance*. If everyone knew their code, or how to produce it themselves, then
-they wouldn't actually provide any worthwhile service at all.
+It was obvious to me that information should be shared. Open your source code and others can learn from it, find bugs for you and even implement new features. Everybody wins. The only people wanting to hide their code were those more interested in making money. (Which was considered suspect in the communitarian culture I grew up in.) Worse, they were essentially only making money from *ignorance*. If everyone knew their code, or how to produce it themselves, then they wouldn't actually provide any worthwhile service at all.
 
-This all convinced me that the motto was right, information really ought to be
-free. Up until now[^wikileaks] that is.
+This all convinced me that the motto was right, information really ought to be free. Up until now[^wikileaks] that is.
 
 Bad News
 ========
 
-The idea of psychological hijacking, in the form of indoctrination, for example,
-was always vaguely known to me, but I always thought that this is both a) hard
-to do and b) affects only *other* people, certainly not me. Weak-minded idiots
-become cult members and suicide bombers[^suicide]; I'm far too intelligent for
-that.
+The idea of psychological hijacking, in the form of indoctrination, for example, was always vaguely known to me, but I always thought that this is both a) hard to do and b) affects only *other* people, certainly not me. Weak-minded idiots become cult members and suicide bombers[^suicide]; I'm far too intelligent for that.
 
-[^suicide]: I see now how wrong I was about fanatics after having read the
-latest research into suicide bombers. In fact, I can see that I am *exactly* the
-kind of person who, under the right environmental factors, becomes just that. As
-a defense mechanism, I get very nervous whenever a belief I hold creates any
-strong emotions or radical disagreement with the culture it originated in.
+[^suicide]:
+    I see now how wrong I was about fanatics after having read the latest research into suicide bombers. In fact, I can see that I am *exactly* the kind of person who, under the right environmental factors, becomes just that. As a defense mechanism, I get very nervous whenever a belief I hold creates any strong emotions or radical disagreement with the culture it originated in.
 
-I became more aware of the problem when I fell into the trap of a particularly
-nasty conspiracy theory[^conspiracy]. When I crawled my way out of it, I only
-concluded that I must become *smarter* and more *rational*. I thought of the
-problem in terms of psychology (being attracted by certain crowds and adopting
-their beliefs) and faulty reasoning (learn about fallacies and biases and you
-are safe). This changed when I learned about memetics and was provided with a
-(basic) mechanism of how this actually happened.
+I became more aware of the problem when I fell into the trap of a particularly nasty conspiracy theory[^conspiracy]. When I crawled my way out of it, I only concluded that I must become *smarter* and more *rational*. I thought of the problem in terms of psychology (being attracted by certain crowds and adopting their beliefs) and faulty reasoning (learn about fallacies and biases and you are safe). This changed when I learned about memetics and was provided with a (basic) mechanism of how this actually happened.
 
-A meme is a "unit of cultural transmission", the idea-equivalent of a gene, like
-an earworm. As memes are themselves replicators, they follow all the laws of
-evolution. I applied those idea the first time by thinking about the
-implications of considering [music] as a replicator. I wasn't quite sure what to
-make of my conclusions, but I didn't seriously deal with it (beyond downsizing
-my music library from 200GB to about 30GB) until now. (I also should revisit the
-article and fix several blatant flaws.)
+A meme is a "unit of cultural transmission", the idea-equivalent of a gene, like an earworm. As memes are themselves replicators, they follow all the laws of evolution. I applied those idea the first time by thinking about the implications of considering [music][Letting Go of Music] as a replicator. I wasn't quite sure what to make of my conclusions, but I didn't seriously deal with it (beyond downsizing my music library from 200GB to about 30GB) until now. (I also should revisit the article and fix several blatant flaws.)
 
-[music]: /reflections/letting_go_of_music.html
+It really clicked upon encountering the concept of the [Langford Basilisk]. Let this neat picture explain it:
 
-It really clicked upon encountering the concept of the [Langford Basilisk]. Let
-this neat picture explain it:
+![The Parrot](/pigs/parrot.jpg) 
 
-![The Parrot](parrot.jpg) 
-
-A Langford Basilisk is a genuinely dangerous idea. In its original form, it
-works through making the brain think an impossible thought - essentially setting
-off a logic bomb. I don't believe that the human brain is actually susceptible
-to this kind of attack, but a poorly designed AI might be. Rergardless, there
-are other forms of Basilisks, some of which I actually know to work (under
-certain conditions).
+A Langford Basilisk is a genuinely dangerous idea. In its original form, it works through making the brain think an impossible thought - essentially setting off a logic bomb. I don't believe that the human brain is actually susceptible to this kind of attack, but a poorly designed AI might be. Rergardless, there are other forms of Basilisks, some of which I actually know to work (under certain conditions).
 
 Consequences
 ============
@@ -96,7 +58,7 @@ approach.
 
 So let's draft a little catalogue of memetic hazards.
 
-![Memetically Active](memetically_active.jpg) 
+![Memetically Active](/pigs/memetically_active.jpg) 
 
 Structural Hijacking
 --------------------

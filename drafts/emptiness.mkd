@@ -1,7 +1,0 @@
----
-title: An Empty God
-date: 2011-10-17
-techne: :rough
-episteme: :believed
----
-

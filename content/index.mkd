@@ -17,6 +17,7 @@ Articles are sorted by latest major modification. You can see the [Changelog]
 for any recent changes or subscribe to the [RSS Feed][RSS]. You can also read
 the [Twitter][] feed or my [Blog][] for raw thought in smaller chunks.
 
+<%= category :morality %>
 <%= category :reflections %>
 <%= category :religion %>
 <%= category :experiments %>

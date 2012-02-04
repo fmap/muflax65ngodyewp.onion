@@ -1,0 +1,6 @@
+---
+title: Morality
+is_category: true
+---
+
+<%= category :morality %>

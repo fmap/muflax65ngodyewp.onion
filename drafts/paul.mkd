@@ -1,7 +1,0 @@
----
-title: Tracing Paul
-date: 2011-10-17
-techne: :rough
-episteme: :believed
----
-

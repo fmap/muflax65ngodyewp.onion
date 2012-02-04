@@ -1,0 +1,39 @@
+---
+title: Teaching Morality Through Examples
+date: 2011-11-24
+techne: :wip
+episteme: :believed
+---
+
+# Introduction
+
+Traditionally, morality is approached through definitions and rules. I tell you "consequences matter" and then you know that consequences are morally important. This doesn't work. Centuries of debates have shown that no rule really works. At worst, it introduces politics. Now it's [consequentialists][Consequentialism] vs. [deontologists][Deontology] and we don't get anywhere.
+
+I want to try a different way. In education, we already know that definitions and rules are useless. We need examples and classifications. The words we use aren't relevant. So I'm not going to teach you "morality". I'm teaching you a specific concept that matters a lot to me. Sometimes I call it *morality*. But this time I'm going to call it *liangzhi*. You probably don't know what liangzhi means. That's good. There won't be any wrong associations in your mind. It isn't a concept that maps to any particular word. You can't translate it. But you can learn it anyway.
+
+Here is how. I will give you a couple of examples. For each example, I will tell you if it is liangzhi or not. Then I will give you some unclassified examples and ask you if you think they are liangzhi. (Please really answer.) Then I tell you if you're right. After the examples, you should get it. (If you don't, I failed.) You might not know how to put liangzhi into words and worry. Or you might want to say "Oh, liangzhi means X!". Please don't do either of these things. Just accept "I now know what muflax means by liangzhi because I can look at certain situations and recognize their liangzhi-ness.". This is all you need. You don't need theories or definitions. You just need to know. Then right action will follow.
+
+# Liangzhi
+
+## Consent
+
+## Contracts
+
+## Duties
+
+## Honor
+
+I strongly recommend watching Winter's Bone as study material. Virtually all the characters in it exemplify this virtue.
+
+## Liangzhi
+
+# Some Comments
+
+This teaching approach is called [Direct Instruction][]. It's based on [Engelmann][]'s [Theory of Instruction][]. The name "liangzhi" means "innate knowledge" and comes from [Confucianism][]. I took it from [Wang Yangming][]. The sub-concepts are similarly taken from Pali, Chinese and other languages. You can google them if you want. The meanings I taught you don't exactly correspond to the original ones, but that doesn't matter. Labels are irrelevant. The more alien they are, the better. What you need are wordless ideas. Using a language you already know will just confuse you.
+
+The idea that you only need to properly understand something and then right action will always follow is called the [Unity of Knowledge and Action][] in Yangming's philosophy. You are never divided. You can never fail to do what is right. You can only be confused.
+
+I have covered several important positions in morality. Please don't think I'm directly advocating a specific take on them, or that you have to adopt them. This is not about politics. However, these topics have lots of good discussion.
+
+- Antinatalism
+- Deontology

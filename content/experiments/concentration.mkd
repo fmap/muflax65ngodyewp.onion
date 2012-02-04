@@ -1,9 +1,9 @@
 ---
 title: Fixing Concentration
 date: 2010-07-13
-techne: :wip
+techne: :rough
+episteme: :broken
 toc: true
-episteme: :believed
 ---
 
 I had serious problems concentrating. Typically, I rapidly lost focus or just

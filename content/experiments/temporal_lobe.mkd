@@ -1,4 +1,9 @@
-% Temporal Lobe Experiences
+---
+title: Temporal Lobe Experiences
+date: 2010-05-14
+techne: :wip
+episteme: :believed
+---
 
 Personal Info
 =============

@@ -1,5 +1,6 @@
 ---
 title: Three Sides
+alt_titles: [Stances]
 date: 2011-07-18
 techne: :done
 episteme: :broken
@@ -44,7 +45,3 @@ And then I just took my pain and said to it, "I'm ok with you. This is not a tra
 I do not know where this path will lead, only that it will be interesting.
 
 *run on hatred // run on pain // transform nothing // seek no gain*
-
-
-
-

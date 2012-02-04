@@ -12,6 +12,7 @@ is_hidden: true
 [Source]: http://github.com/muflax/muflax.com
 [Twitter]: http://twitter.com/muflax
 [whatiswrongwith.me]: http://whatiswrongwith.me/muflax
+[Antinatalism Tumblr]: http://antinatalism.tumblr.com/
 
 <!-- external links -->
 [Alan Dawrst]: http://www.utilitarian-essays.com/suffering-nature.html
@@ -73,6 +74,10 @@ is_hidden: true
 [tripzine]: http://www.tripzine.com/listing.php?smlid=268 
 [Carlin Sanctity]: http://www.youtube.com/watch?feature=player_embedded&v=AvF1Q3UidWM
 [Francois Caplan]: http://francoistremblay.wordpress.com/2011/12/07/bryan-caplan-repeats-same-nonsense-but-this-time-with-more-arrogance/
+[NFS.net]: https://www.nearlyfreespeech.net/
+[shamus bible]: http://www.shamusyoung.com/twentysidedtale/?p=12768&cpage=1#comment-231273
+[Devil Pascal]: http://squid314.livejournal.com/301735.html
+[Hell Employee]: http://feelafraidcomic.com/60.php
 
 <!-- Wikipedia articles (and similar) -->
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
@@ -135,6 +140,12 @@ is_hidden: true
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
 [schächten]: http://en.wikipedia.org/wiki/Shechita
 [Dunbar's Number]: http://en.wikipedia.org/wiki/Dunbar's_Number
+[Catuskoti]: http://en.wikipedia.org/wiki/Catu%E1%B9%A3ko%E1%B9%ADi
+[Naraka]: http://en.wikipedia.org/wiki/Naraka
+[Yamantaka]: http://en.wikipedia.org/wiki/Yamantaka
+[Nagarjuna]: http://en.wikipedia.org/wiki/Nagarjuna
+[Satan]: http://en.wikipedia.org/wiki/Satan
+[Discordianism]: http://en.wikipedia.org/wiki/Discordianism
 
 
 <!-- internal links -->

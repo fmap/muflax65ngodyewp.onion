@@ -3,12 +3,7 @@ title: Changelog
 non_cognitive: true
 ---
 
-> Well, this site's existed for long enough now that there must be people coming
-> back and wondering "Has anything new gone up?". In an ideal world, they'd all
-> be forced to read my pages over and over again until they'd got 'em memorised
-> and could spot the places where I've turned a comma into a semicolon… but
-> until then, I'll let people bookmark this page and visit every six months to
-> see how little progress there's been.
+> Well, this site's existed for long enough now that there must be people coming back and wondering "Has anything new gone up?". In an ideal world, they'd all be forced to read my pages over and over again until they'd got 'em memorised and could spot the places where I've turned a comma into a semicolon… but until then, I'll let people bookmark this page and visit every six months to see how little progress there's been.
 >
 > -- jbr's [changelog][jbr changelog]
 
@@ -16,34 +11,34 @@ All major changes on the site
 =============================
 
 {:#changelog}
-- 2011/12/17: Wrote an [Antinatalism Overview][]. Covers many arguments for and against bringing life into existence. It's hopefully more approachable than the scattered philosophy material on the topic. Contrary to mainstream philosophy, I also included some common transhumanist replies to the arguments. I tried to refrain from pushing my own view too much, but I'm not treating silly arguments as respectable either.
+- 2012/02/04: Finally pushed some changes.
 
-  I've moved some stuff from the [Blog][] into proper articles. Content didn't change in case you read them already. Articles: [Why I'm Not a Vegetarian][], [Three Sides][]. 
+  Also improved the site's design somewhat. Larger articles now have a table of contents and general navigation is more visible. The main column moved to the left to accomodate for the new navigation bar. To make feedback easier, I've added a comment box. (Web 2.0! We still care about this, right guys? Guys?) I also accept [anonymous feedback][whatiswrongwith.me] about anything. (Yes, anything.)
 
-  Also improved the site's design somewhat. Larger articles now have a table of contents and general navigation is more visible. The main column moved to the left to accomodate for the new navigation bar. To make feedback easier, I've added a link to the contact page to the navigation and added a comment box. (Web 2.0!) Generally speaking, I also accept [anonymous feedback][whatiswrongwith.me] about anything. (Yes, anything.)
+  Drafts are now semi-integrated into the site. The are reachable if you know the address, but they don't show up on the index pages. That way I can still reference them or let someone read early versions without having to hide them.
 
-  More overviews are coming. Soon-ish. If I don't get bored, that is. Basicall, the languages articles isn't happening, Great Filter was delayed until I figure out identity and probabilities, an informal introduction to Solomonoff Induction and Kolmogorov Complexity is coming, and I've begun writing an overview about New Testament scholarship.
+  I'll soon(tm) port the Wordpress [Blog][] over to nanoc as well. Once everything is static content (besides the comments), I'll change hosts to [NFS.net][].
   
-- 2011/09/04: Converted whole site to [nanoc][]. Most of the content got
-  re-organized, but not widely changed. A few things have disappeared, but will
-  probably come back in a better form later. The design is reasonably the same,
-  with some minor tweaks. The navigation bar is now at the bottom to deal with
-  some footnote issues.
+  I've begun writing an [Antinatalism Overview][]. It will cover many (all?) arguments for and against bringing life into existence. It's hopefully more approachable than the scattered philosophy material on the topic and will eventually be more rigorous than existing overviews. I got fed up with opponents of antinatalism constantly misrepresenting its arguments, and antinatalists not making all their assumptions explicit.
 
-  Every page has an [Epistemic State][] now. This is an important step to
-  convert this into proper long-term content. Sites are also dated now, so that
-  some obviously out-dated material is clearly visible as such (and new material
-  is obvious on the main page).
+  Contrary to mainstream philosophy, I also included some common transhumanist replies to the arguments. I try not to push my own view too much, but I'm also adding my own commentary to it. Anything else would be dishonest. Regardless, it's not yet finished, but "release early, release often", right? It's maybe 30% done and has already ~7k words. Maybe I'll write a summary of the summary, too.
+
+  I'm also collecting antinatalism memes and quotes in the [Antinatalism Tumblr][].
   
-  I added the story [Milinda and the Minotaur][] I wrote some time ago, but
-  never felt like publishing. Thanks to [epistemic states][Epistemic State]
-  though, I now can.
+  More overviews are coming. Soon-ish. If I don't get bored, that is. Basically, the languages articles are't happening, Great Filter is somewhat delayed and an informal introduction to Solomonoff Induction and Kolmogorov Complexity is coming This Month(tm).
+
+  I've also begun writing an [overview about New Testament][Jesus FAQ] scholarship, mostly to collect interesting theories and keep all the names straight. It will be months until it will actually be useful, but I have time.
+
+  I've moved some stuff from the [Blog][] into proper articles. Content didn't change in case you read them already. Articles: [Why I'm Not a Vegetarian][], [Three Sides][]. The other posts will also be converted once I transition away from the blog.
+
+  The categories have also changed to accomodate the new writing.
   
-  I do plan articles on the Great Filter and languages (use and learning), but
-  dunno how long this'll take. For now, this is mostly a setup to make it really
-  easy for me to write more stuff and release faster. I have a couple of drafts
-  lying around I might revive, particularly a comparison of the [Theravada][]
-  path model of enlightenment with the Matrix movie.
+- 2011/09/04: Converted whole site to [nanoc][]. Most of the content got re-organized, but not widely changed. A few things have disappeared, but will probably come back in a better form later. The design is reasonably the same,  with some minor tweaks. The navigation bar is now at the bottom to deal with some footnote issues.
+
+  Every page has an [Epistemic State][] now. This is an important step to convert this into proper long-term content. Sites are also dated now, so that some obviously out-dated material is clearly visible as such (and new material is obvious on the main page).
   
-  (I also threw away the old changelog because it's useless now anyway. Check
-  the [git history][Source] if you care.)
+  I added the story [Milinda and the Minotaur][] I wrote some time ago, but never felt like publishing. Thanks to [epistemic states][Epistemic State] though, I now can.
+  
+  I do plan articles on the Great Filter and languages (use and learning), but dunno how long this'll take. For now, this is mostly a setup to make it really easy for me to write more stuff and release faster. I have a couple of drafts lying around I might revive, particularly a comparison of the [Theravada][] path model of enlightenment with the Matrix movie.
+  
+  (I also threw away the old changelog because it's useless now anyway. Check the [git history][Source] if you care.)
