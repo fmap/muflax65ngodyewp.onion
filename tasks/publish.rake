@@ -17,4 +17,4 @@ namespace :publish do
 end
 
 desc "publish complete site"
-task :publish => ['publish:push', 'publish:deploy']
+task :publish => ['publish:push', 'compress', 'publish:deploy']

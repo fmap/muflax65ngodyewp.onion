@@ -1,6 +1,14 @@
 # manual 404 page
 ErrorDocument 404 /404/index.html
 
-# don't alienate people who use the old feed
+# rewrite stuff
 RewriteEngine on
+
+# don't alienate people who use the old feed
 RewriteRule ^feed/? /rss.xml
+
+# serve gzipped files if available
+RewriteCond %{HTTP:Accept-Encoding} gzip
+RewriteCond %{REQUEST_FILENAME} !\.gz$
+RewriteCond %{REQUEST_FILENAME}.gz -f 
+RewriteRule ^(.*)$ $1.gz [L] 
