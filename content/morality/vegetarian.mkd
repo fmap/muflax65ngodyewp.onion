@@ -1,5 +1,6 @@
 ---
 title: Why I'm Not a Vegetarian
+alt_titles: [Vegetarian]
 date: 2011-12-20
 techne: :done
 episteme: :believed

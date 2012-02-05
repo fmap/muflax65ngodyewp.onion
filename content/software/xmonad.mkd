@@ -1,5 +1,6 @@
 ---
 title: Meditation on XMonad
+alt_titles: [XMonad]
 date: 2010-05-03
 techne: :done
 episteme: :discredited

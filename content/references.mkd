@@ -4,15 +4,26 @@ is_hidden: true
 
 <!-- personal links -->
 [Blog]: http://blog.muflax.com
-[Config]: http://github.com/muflax/config
 [GPG Key]: /muflax.asc          
 [Google+]: https://plus.google.com/105665518912548939532
 [LibraryThing]: http://www.librarything.com/profile/muflax
-[Pororo]: http://github.com/muflax/pororo
-[Source]: http://github.com/muflax/muflax.com
 [Twitter]: http://twitter.com/muflax
 [whatiswrongwith.me]: http://whatiswrongwith.me/muflax
 [Antinatalism Tumblr]: http://antinatalism.tumblr.com/
+[Beeminder]: https://www.beeminder.com/muflax/goals/
+[PredictionBook]: http://predictionbook.com/users/muflax
+
+<!-- software -->
+[Github]: http://github.com/muflax/
+[Config]: http://github.com/muflax/config
+[Source]: http://github.com/muflax/muflax.com
+[Pororo]: http://github.com/muflax/pororo
+[RBS]: https://github.com/muflax/scripts/blob/master/rbs
+[daily screenshot]: https://github.com/muflax/scripts/blob/master/daily_screenshot.sh
+[backup video]: https://github.com/muflax/muflax.com/blob/master/backup-video.rb
+[fume]: https://github.com/muflax/fume
+[fumetrap]: https://github.com/muflax/fumetrap
+[ashuku]: http://muflax.com/software/ashuku.html
 
 <!-- external links -->
 [Alan Dawrst]: http://www.utilitarian-essays.com/suffering-nature.html
@@ -78,6 +89,13 @@ is_hidden: true
 [shamus bible]: http://www.shamusyoung.com/twentysidedtale/?p=12768&cpage=1#comment-231273
 [Devil Pascal]: http://squid314.livejournal.com/301735.html
 [Hell Employee]: http://feelafraidcomic.com/60.php
+[Blackmore Free Will]: http://www.susanblackmore.co.uk/Chapters/Brockman2005.htm
+[Fry God]: http://www.youtube.com/watch?feature=player_detailpage&v=kKOS4I6pUuY#t=45s
+[NOAA]: http://www.n3kl.org/sun/noaa.html
+[Gwern URL]: http://www.gwern.net/Archiving%20URLs
+[Samsara Talk]: http://arobuddhism.org/audio-teachings/samsara-suffering-and-suspicion-the-path-to-endless-enjoyment.html
+[LessWrong]: http://lesswrong.com
+[Xmonad Bug]: http://www.reddit.com/r/xmonad/comments/fdp4o/let_focus_follow_mouse_only_on_certain_layouts/
 
 <!-- Wikipedia articles (and similar) -->
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
@@ -146,7 +164,14 @@ is_hidden: true
 [Nagarjuna]: http://en.wikipedia.org/wiki/Nagarjuna
 [Satan]: http://en.wikipedia.org/wiki/Satan
 [Discordianism]: http://en.wikipedia.org/wiki/Discordianism
-
+[Core Dump]: http://en.wikipedia.org/wiki/Core_dump
+[Michael Persinger]: http://en.wikipedia.org/wiki/Michael_Persinger
+[Flanging]: http://en.wikipedia.org/wiki/Flanging
+[Kasina]: http://en.wikipedia.org/wiki/Kasina
+[Jhana]: http://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism#Usage_of_jh.C4.81na
+[Sutrayana]: http://en.wikipedia.org/wiki/Sutrayana
+[Vayrayana]: http://en.wikipedia.org/wiki/Vajrayana
+[Profiling]: http://en.wikipedia.org/wiki/Profiling_(computer_programming)
 
 <!-- internal links -->
 [RSS]: /rss.xml

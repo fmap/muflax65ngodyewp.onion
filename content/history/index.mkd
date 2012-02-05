@@ -1,0 +1,6 @@
+---
+title: Digesting History
+is_category: true
+---
+
+<%= category :history %>
