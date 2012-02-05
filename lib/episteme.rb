@@ -27,3 +27,14 @@ end
 def episteme_cat status
   "[#{episteme status}][Epistemic State]{:.episteme}"
 end
+
+class Nanoc3::Item
+  def epistemic?
+    !!self[:episteme]
+  end
+
+  def mindkiller?
+    topics = %w{history}
+    !!self[:mindkiller] || !!path.match(%r{^/(#{topics.join("|")})/})
+  end
+end
