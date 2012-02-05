@@ -1,5 +1,5 @@
 ---
-title: Developing Synestesia
+title: Developing Synesthesia
 date: 2011-01-27
 techne: :done
 episteme: :believed

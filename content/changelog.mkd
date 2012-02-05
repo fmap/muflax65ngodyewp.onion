@@ -31,7 +31,7 @@ All major changes on the site
 
   I've also begun writing an [overview about New Testament][Jesus FAQ] scholarship, mostly to collect interesting theories and keep all the names straight. It will be months until it will actually be useful, but I have time.
 
-  I've moved some stuff from the [Blog][] into proper articles. Content didn't change in case you read them already. The other posts will also be converted once I transition away from the blog. Articles: [Backups][], [Developing Synestesia][], [Dude, Where's My Time?!][], [On Samsara][], [Persinger's Magnetic Field Hypothesis][], [Three Sides][], [Why Can't I See Through This Wall?][], [Why I'm Not a Vegetarian][].
+  I've moved some stuff from the [Blog][] into proper articles. Content didn't change in case you read them already. The other posts will also be converted once I transition away from the blog. Articles: [Backups][], [Developing Synesthesia][], [Dude, Where's My Time?!][], [On Samsara][], [Persinger's Magnetic Field Hypothesis][], [Three Sides][], [Why Can't I See Through This Wall?][], [Why I'm Not a Vegetarian][].
 
   The categories have also changed to accomodate the new writing.
   

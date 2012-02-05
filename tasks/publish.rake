@@ -12,9 +12,9 @@ namespace :publish do
   end
 
   desc "push all files to website"
-  task :deploy => [:compile, "deploy:rsync"] do
+  task :deploy => [:compile, "compress", "deploy:rsync"] do
   end
 end
 
 desc "publish complete site"
-task :publish => ['publish:push', 'compress', 'publish:deploy']
+task :publish => ['publish:push', 'publish:deploy']
