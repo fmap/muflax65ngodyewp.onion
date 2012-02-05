@@ -11,7 +11,7 @@ hosts = [
          "video.google.com",
         ]
 
-urls = `grep -horP 'http://.*(#{hosts.join "|"})[^\"]*\\b' content/ drafts/ | sort -u`
+urls = `grep -horP 'http://.*(#{hosts.join "|"})[^\"]*\\b' content/ | sort -u`
 
 Dir.chdir "video-backup"
 urls.split.each do |url|

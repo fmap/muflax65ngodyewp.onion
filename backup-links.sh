@@ -4,4 +4,4 @@
 
 source ~/.zsh/path.sh
 
-grep -roP "http://.*" content drafts | backup-urls
+grep -roP "http://.*" content | backup-urls
