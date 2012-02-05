@@ -17,6 +17,8 @@ All major changes on the site
 
   Drafts are now semi-integrated into the site. The are reachable if you know the address, but they don't show up on the index pages. That way I can still reference them or let someone read early versions without having to hide them.
 
+  The RSS feed now has a link to each new article as it appears as well as to this changelog. That way I don't have to announce everything manually. 
+
   I'll soon(tm) port the Wordpress [Blog][] over to nanoc as well. Once everything is static content (besides the comments), I'll change hosts to [NFS.net][].
   
   I've begun writing an [Antinatalism Overview][]. It will cover many (all?) arguments for and against bringing life into existence. It's hopefully more approachable than the scattered philosophy material on the topic and will eventually be more rigorous than existing overviews. I got fed up with opponents of antinatalism constantly misrepresenting its arguments, and antinatalists not making all their assumptions explicit.
@@ -29,7 +31,7 @@ All major changes on the site
 
   I've also begun writing an [overview about New Testament][Jesus FAQ] scholarship, mostly to collect interesting theories and keep all the names straight. It will be months until it will actually be useful, but I have time.
 
-  I've moved some stuff from the [Blog][] into proper articles. Content didn't change in case you read them already. Articles: [Why I'm Not a Vegetarian][], [Three Sides][]. The other posts will also be converted once I transition away from the blog.
+  I've moved some stuff from the [Blog][] into proper articles. Content didn't change in case you read them already. The other posts will also be converted once I transition away from the blog. Articles: [Backups][], [Developing Synestesia][], [Dude, Where's My Time?!][], [On Samsara][], [Persinger's Magnetic Field Hypothesis][], [Three Sides][], [Why Can't I See Through This Wall?][], [Why I'm Not a Vegetarian][].
 
   The categories have also changed to accomodate the new writing.
   

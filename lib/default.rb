@@ -18,6 +18,14 @@ class Nanoc3::Item
   def draft?
     self[:techne] == :wip
   end
+
+  def cognitive?
+    !self[:non_cognitive]
+  end
+
+  def article?
+    not self[:is_category] and not draft? and cognitive?
+  end
 end
 
 def category name
