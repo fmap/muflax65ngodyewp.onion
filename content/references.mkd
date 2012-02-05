@@ -130,7 +130,7 @@ is_hidden: true
 [Julian Jaynes]: http://en.wikipedia.org/wiki/Julian_Jaynes
 [Kai Lexx]: http://en.wikipedia.org/wiki/Kai_(Lexx)
 [Kasina]: http://en.wikipedia.org/wiki/Kasina
-[Kerghan]: http://en.wikipedia.org/wiki/Arcanum
+[Kerghan]: http://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura
 [Langton's Ant]: http://en.wikipedia.org/wiki/Langton's_ant
 [Lucid dreaming]: http://en.wikipedia.org/wiki/Lucid_dreaming
 [Marcion]: http://en.wikipedia.org/wiki/Marcion_of_Sinope
