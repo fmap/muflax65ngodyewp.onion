@@ -1,222 +1,136 @@
 ---
 title: "tl;dr: muflax"
-alt_titles: [muflax]
-date: 2011-09-04
+alt_titles: [muflax, about]
+date: 2012-02-05
 techne: :wip
+toc: true
 episteme: :believed
 ---
 
-[muflax][] likes filling out profiles about itself. Maybe it's a signaling thing. Who knows.
+**muflax, n**: information whore, hacker, rationalist, anagami, catharsis junkie, not exactly sane
 
-# Philosophical Background
+A quick overview of various beliefs. Useful as a [belief dump][Core Dump], but really, muflax just likes filling out profiles about itself. Maybe it's a signaling thing. Who knows.
 
-Philosophically, my strongest early influence comes from Satanism and Discordianism. I tried to, but never really got Nietzsche and felt very much at home when reading Robert Anton Wilson. Later on, I picked up many Buddhist influences (Zen at first, later mostly [Theravada][]) and some Taoism. I belong to no school of thought and my belief system is very idiosyncratic, with most pieces coming from Theravada Buddhism, Discordianism and different schools of Rationality (mostly Bayesian, though).
+Epistemology
+============
 
-I was motivated at first by fascinating problems, then making sense of madness, understanding consciousness and fate[^why_fate], and right now, purpose.
+## A priori knowledge?
 
-[^why_fate]:
-    To clarify, I'm not interested in "What is fate?", but "Why do I perceive the world ordered in a way that is consistent with fate?". 
+There is no meaningful distinction between a priori / a posteriori knowledge. There is no such thing as knowledge without experience. Truth is not an independent property of statements, but the ability to use them to anticipate future experiences. In other words, a map is true if I can use it to navigate. It is meaningless to speak about the truth of a map that doesn't have a territory.
 
-For me, the most important non-obvious philosophers are the Buddha (who I believe to be fiction and do not identify with Siddharta Gautama), for the three principles of [Anatta][], [Anicca][] and [Dukkha][], and [Wang Yangming][] for the [Unity of Knowledge and Action][]. Without those, no understanding of the world is ever possible.[^understanding]
+## Abstract objects?
 
-[^understanding]: Interestingly, I don't believe anymore that these 4 are
-    necessarily all correct, but only that they forced me to think about my mind
-    and behaviour in a way to break through very serious misconceptions. I hope
-    to clarify eventually what I think about each of them, once I worked them
-    out in more detail and cleared up several problems I'm having right now.
+Don't exist. Period. Or rather, what do you anticipate either way? Can you point at an abstract object? There isn't even a phenomenon in need of explanation.
 
-Survey
-======
+## External world?
 
-Based on the [PhilPapers Survey][], a bunch of common questions and my position on them.
+There is no distinction between internal / external worlds. It's a bad case of dualism. Look at computationalism: if everything is a program, then there is no such thing as a world outside a program. Input/output are simply features *of* programs. There is no *beyond*. Similarly with our existence.
 
-A priori knowledge?
--------------------
+Religion
+========
 
-No. There is no such thing as knowledge without experience. Truth is not an
-independent property of statements, but the ability to use them to anticipate
-future experiences. In other words, a map is true if I can use it to navigate.
-It is meaningless to speak about the truth of a map that doesn't have a
-territory.
+## Religious affiliation?
 
-Abstract objects: Platonism or nominalism?
-------------------------------------------
+1/3 Buddhist, 1/3 Christian Atheist, 1/3 Discordian.
 
-Neither. Abstract objects don't exist, period. Or rather, what do you anticipate
-either way? Can you even point at an abstract object? There isn't even a
-phenomenon in need of explanation.
+## Is there a God?
 
-Aesthetic value: objective or subjective?
------------------------------------------
+"[No, dear.][Fry God]"
 
-Subjective. See my view on morality.
+## Do you serve the gods?
 
-Analytic-synthetic distinction: yes or no?
-------------------------------------------
+Yes. This is important.
 
-No, as a priori knowledge does not exist.
+Ontology
+========
 
-Epistemic justification: internalism or externalism?
-----------------------------------------------------
+## Free will?
 
-Neither. There is no such thing as a distinction between mind and environment.
+There is no free will. It isn't even a useful illusion. It just isn't there. Says [Susan Blackmore][Blackmore Free Will]:
 
-External world: idealism, skepticism, or non-skeptical realism?
----------------------------------------------------------------
+> It is possible to live happily and morally without believing in free will. As Samuel Johnson said, "All theory is against freedom of the will; all experience for it." With recent developments in neuroscience and theories of consciousness, theory is even more against it than it was in his time. So I long ago set about systematically changing the experience. I now have no feeling of acting with free will, although the feeling took many years to ebb away.
+>
+> But what happens? People say I'm lying! They say it’s impossible and so I must be deluding myself in order to preserve my theory. And what can I do or say to challenge them? I have no idea - other than to suggest that other people try the exercise, demanding as it is.
+> 
+> When the feeling is gone, decisions just happen with no sense of anyone making them, but then a new question arises - will the decisions be morally acceptable? Here I have made a great leap of faith. It seems that when people discard the illusion of an inner self who acts, as many mystics and Buddhist practitioners have done, they generally do behave in ways that we think of as moral or good. So perhaps giving up free will is not as dangerous as it sounds - but this too I cannot prove.
 
-Meaningless distinction.
+## Materialism? {#materialism}
 
-Free will: compatibilism, libertarianism, or no free will?
-----------------------------------------------------------
+Materialism is necessarily dualism and false. There has been a recent ret-con of the term materialism to mean "whatever the scientific consensus says". I oppose this move.
 
-There is no free will. It isn't even a useful illusion. It just isn't there.
+*Materialism* means that all there is, is an interaction of matter. We know this to be false. Gravity can't be accounted for (so far), nor can mathematical claims, nor phenomenal experience.
 
-God: theism or atheism?
------------------------
+An extension of materialism is *physicalism*, which now also includes fields and other ideas from physics. This improves the situation, but not by much. It's also a very ugly ontology.
 
-For a time, I thought that certain concepts could be justifiably believed that
-might be called "god", so that, under certain perspectives, you could call me a
-theist. I now realized that I was never justified in *even asking the question*.
-There is simply no evidence in need of an explanation to bring in the god
-hypothesis, so having any believes in that regard is mistaken, including a
-rejection of god.
+All broadly materialistic approaches are necessarily false. You have to start from idealism, assuming (some) mental events as basic. There is no need to introduce non-mental things like "matter".
 
-Knowledge: empiricism or rationalism?
--------------------------------------
+*Computationalism* is the idea that everything is the computation of an ideal program. This is a much better ontology and it accounts for mathematical claims, all (known) physics and many (all?) anthropic problems. Unfortunately, it doesn't cover phenomenal experience.
 
-Strongly lean towards empiricism. I consider it very important, but it seems to
-be not exhaustive. I'm still open to alternatives.
+Whether computationalism is just incomplete or something entirely new is needed is anyone's guess. I have no strong opinion on the matter.
 
-Knowledge claims: contextualism, relativism, or invariantism?
--------------------------------------------------------------
+## Naturalism?
 
-Meaningless. The concept of "truth" is nonsense. See "a priori knowledge". 
+Naturalism is correct, in the sense that there is no "magic" or fundamental "mystery" that can't be resolved.
 
-Laws of nature: Humean or non-Humean?
--------------------------------------
+## Personal identity?
 
-Humean, in the sense that there are no objective laws of nature. All order is
-fictitious.
+Depends on what you mean by "self". One "self" has a name, a job, status, friends, memories and so on. This one is linguistically constructed. Another has experiences. I have no idea how that one works in detail. If I didn't live in a social context that demanded that I maintain a "self" persona, then I wouldn't even bother at all. I do not have any experience of a "self" in any meaningful way.
 
-Logic: classical or non-classical?
-----------------------------------
+I do not know if it is meaningful to say that a person persists over time or if there are many person-moments who are fundamentally disconnected.
 
-Very strongly non-classical. Classical logic is horribly broken. I'm undecided
-about alternatives. Maybe even just a finitist version of classical knowledge
-might do. Replacing "truth" with "provability" is a good first step. (A
-challenge: if you believe [Trivialism][] is false, find an argument a trivialist
-can't see as support for trivialism.)
+## P-Zombies?
 
-Mental content: internalism or externalism?
--------------------------------------------
+The Zombie position can be separated into two distinct ideas, a strong and a weak one.
 
-Meaningless distinction.
+The strong (and original) position is that of zombies being externally absolutely identical. You couldn't, through no experiment whatsoever, figure out if you are dealing with a zombie or not. Neither could the zombie themselves. This is complete bonkers.
 
-Meta-ethics: moral realism or moral anti-realism?
--------------------------------------------------
+A weaker position, however, is far more interesting. Exactly how necessary is consciousness, really? Could you build something that does more or less the same things as a human, e.g. can reason, use memory, simulate outcomes, talk and so on, but is completely unconscious? Maybe. I strongly suspect that most aspects of the human mind can be implemented in an unconscious way (or already are). As such, assuming all people at all times to be conscious is almost certainly false.  Exactly what role consciousness plays, however, I don't know.
 
-Moral nihilism. There is no such thing as morality and you should abandon the
-very concept. In other words, there are agents, they may or may not have
-preferences, and there are rational ways of negotiating these preferences (via
-decision theory, economics, etc.). That is all there is.
+Morality
+========
 
-Metaphilosophy: naturalism or non-naturalism?
----------------------------------------------
+(See the category [Morality][] for detailed thoughts.)
 
-Naturalism, in the sense that there is no "magic" or fundamental "mystery" that
-is unresolvable. I strongly doubt that proponents of non-naturalism believe it
-or understand what they are saying. As such, the distinction seems to be
-"understands what an explanation is" and "doesn't", so having a position on this
-is probably silly.
+## Meta-Ethics?
 
-Mind: Anti-physicalism or physicalism?
---------------------------------------
+No established position, but closest to deontology or atheistic divine command theory. Yes, I'm aware of the contradiction.
 
-Physicalism, but not necessarily computationalism.
+## Moral Realism?
 
-To further clarify, I fully support that "the mind is what the brain does" and
-there is no such thing as a separate mind floating around somewhere, but I feel
-that a pure algorithmic description of the brain can't explain *all* aspects of
-the mind, regardless of computability.
+Yes. Being Moral is not a personal preference, not a choice, not a confusion. 
 
-Moral judgment: cognitivism or non-cognitivism?
------------------------------------------------
+## Cognitivism?
 
-Varies, but moral statements are generally non-cognitive. But as mentioned, I'm
-a moral nihilist.
+Mostly yes.
 
-Moral motivation: internalism or externalism?
----------------------------------------------
+## Newcomb's problem: one box or two boxes?
 
-Neither. Again, moral nihilism.
+The only two reasons to ever pick two boxes, as I see it, are that you either don't trust the oracle, in which case you don't understand the question, or that you think you can break causality, in which case, good luck with that.
 
-Newcomb's problem: one box or two boxes?
-----------------------------------------
+## Prisoner's Dilemma?
 
-The only two reasons to ever pick two boxes, as I see it, are that you either
-don't trust the oracle, in which case you don't understand the question, or that
-you think you can break causality, in which case, good luck with that and let me
-know if you succeed.
+Very tricky situation, no simple answer.
 
-Normative ethics?
------------------
+## Trolley problem?
 
-None. Again, moral nihilsm. Though I have a lot of sympathy for virtue
-ethics.
+I don't switch. The one has the right to not be harmed by me, regardless of the expected death of the many.
 
-Personal identity?
-------------------
+## Vegetarianism?
 
-Depends on what you mean by "self". One "self" has a name, a job, status,
-friends, memories and so on. This one is linguistically constructed. Another has
-experiences. I have no idea how that one works in detail. If I didn't live in a
-social context that demanded that I maintain a "self" persona, then I wouldn't
-even bother at all. I do not have any experience of a "self" in any meaningful
-way.
+Animals are [not morally relevant][Vegetarian], so no.
 
-Politics?
----------
+Politics
+========
 
-None. All political systems fail. Solving problems through ideology never works.
-Solve them through experiments.
+The Enlightenment was a huge catastrophe and everything after it is worthless (so far). Beyond that, I have no strong opinions (yet).
 
-Teletransporter (new matter): survival or death?
-------------------------------------------------
+Science
+=======
 
-Rebirth. Literally.
+## Favorite Quantum Physics Interpretation?
 
-Time: A-theory or B-theory?
----------------------------
+Anything besides Copenhagen. I am not a physicist, so I don't favor anything besides that.
 
-Tend towards [A-theory][]. [B-theory][] is very elegant, but it's main problem
-is that it suggests a general graph of events. Therefore, if you only knew that
-the universe was B-theoretic, you would expect to find time-loops, but not a
-solid arrow of time. You can introduce a bridging law, but that makes B-theory
-much less elegant.
+## Great Filter?
 
-Trolley problem: switch or don't switch?
-----------------------------------------
-
-Neither, in the sense that there is no such thing as something one "ought" to
-do. Realistically, I would freeze up and let the default happen, just like
-pretty much everyone.
-
-P-Zombies?
-----------
-
-The Zombie position can be separated into two distinct ideas, a strong and a
-weak one.
-
-The strong (and original) position is that of zombies being externally
-absolutely identical. You couldn't, through no experiment whatsoever, figure out
-if you are dealing with a zombie or not. Neither could the zombie themselves.
-This is Chalmers' position and complete bonkers.
-
-A weaker position, however, is far more interesting. Exactly how necessary is
-consciousness, really? Could you build something that does more or less the same
-things as a human, e.g. can reason, use memory, simulate outcomes, talk and so
-on, but is completely unconscious? Maybe. I strongly suspect that most aspects
-of the human mind can be implemented in an unconscious way (or already are). As
-such, assuming all people at all times to be conscious is almost certainly
-false.  Exactly what role consciousness plays, however, I don't know.
-
+Probably valid, probably late, most likely the result of progress being extremly hard.
