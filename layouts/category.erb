@@ -2,8 +2,7 @@
   
 <!-- find category index -->
 
-<% cat_match = %r{^/#{@category}/}
-cat_index = @site.printed_items.find{|i| i.path.match(cat_match) and i[:is_category]} %>
+<% cat_index = @site.printed_items.find{|i| i.is_category? @category and i[:is_category]} %>
 
 <!-- header -->
 
@@ -12,7 +11,7 @@ cat_index = @site.printed_items.find{|i| i.path.match(cat_match) and i[:is_categ
 <!-- find items in category -->
 
 <% items = @site.printed_items.select do |i|
-   i.path.match cat_match and
+     i.is_category? @category and
        not i[:is_category] and
        not i.draft? # hide drafts, but make them reachable
 end %>

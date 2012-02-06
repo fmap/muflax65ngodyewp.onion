@@ -26,6 +26,10 @@ class Nanoc3::Item
   def article?
     not self[:is_category] and not draft? and cognitive?
   end
+
+  def is_category? category
+    !!path.match(%r{^/#{category}/})
+  end
 end
 
 class Nanoc3::Site
