@@ -1,11 +1,15 @@
 ---
 title: 404
 non_cognitive: true
+no_comments: true
 ---
 
 *when candles turn to ashes...*
 
 Page not found. You may have followed an old link. The content is probably still
-there, in some form. Have a look at [the homepage][Lies and Wonderland].
+there, in some form. Have a look at [the homepage][Lies and Wonderland]. Or search the site:
 
-*...tears shall stop*
+<%= google_search %>
+
+<div align="right" markdown="span">*...tears shall stop*</div>
+
