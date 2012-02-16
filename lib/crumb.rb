@@ -1,5 +1,5 @@
 # breadcrumb navigation
-include Nanoc3::Helpers::Breadcrumbs
+include Nanoc::Helpers::Breadcrumbs
 
 def breadcrumbs
   breadcrumbs_for_identifier(@item.identifier).map do |crumb|

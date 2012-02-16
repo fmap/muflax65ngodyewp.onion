@@ -28,7 +28,7 @@ def episteme_cat status
   "[#{episteme status}][Epistemic State]{:.episteme}"
 end
 
-class Nanoc3::Item
+class Nanoc::Item
   def epistemic?
     !!self[:episteme]
   end

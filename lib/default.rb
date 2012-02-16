@@ -1,8 +1,8 @@
 # Helper functions for site-building.
 
-include Nanoc3::Helpers::Rendering
+include Nanoc::Helpers::Rendering
 
-class Nanoc3::Item
+class Nanoc::Item
   def add_content content
     @raw_content += "\n\n#{content}"
   end
@@ -32,7 +32,7 @@ class Nanoc3::Item
   end
 end
 
-class Nanoc3::Site
+class Nanoc::Site
   # only articles that actually get printed
   attr_reader :printed_items
 

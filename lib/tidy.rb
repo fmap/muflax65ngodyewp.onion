@@ -5,7 +5,7 @@
 
 require 'tidy_ffi'
 
-class TidyFilter < Nanoc3::Filter
+class TidyFilter < Nanoc::Filter
   identifier :tidy
   def run(content, params={})
     TidyFFI::Tidy.new(content,

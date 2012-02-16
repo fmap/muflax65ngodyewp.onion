@@ -1,6 +1,6 @@
 require 'org-ruby'
 
-class OrgFilter < Nanoc3::Filter
+class OrgFilter < Nanoc::Filter
   identifier :org
   
   def run(content, params={})

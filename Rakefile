@@ -1,3 +1,3 @@
-require 'nanoc3/tasks'
+require 'nanoc/tasks'
 
 Dir['tasks/**/*.rake'].sort.each { |rakefile| load rakefile}
