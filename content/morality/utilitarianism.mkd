@@ -1,0 +1,42 @@
+---
+title: Why I'm Not a Utilitarian
+alt_titles = [Utilitarian, Utilitarianism]
+date: 2012-02-17
+techne: :wip
+episteme: :believed
+---
+
+This is similar to [Why I'm Not a Vegetarian][]. It's not so much an extensive argument itself as really a collection of arguments to clarify my belief.
+
+# Notation
+
+I'll use "utilitarianism" in the sense of "there is a single, computable utility function that maps states of the world to a single number - the moral worth". This makes it simply a quantified version of consequentialism and so for the most part this could just as well be called "Why I'm Not a Consequentialist".
+
+I don't understand utilitarianism to be limited to only one specific utility function, say "only pleasure counts". This is a general critique. As long as you are only looking at outcomes and reduce everything to a single number in the end, it's utilitarianism. (I follow LW's use of terms here.)
+
+What utilitarianism explicitly does not look at are (among other things) intentions (only the resulting actions) and acts (only the outcomes). This is what puts the "consequences" in "consequentialism", after all.
+
+
+# (Most) Utilitarianism is Non-Local
+
+# Inter-Subjective Comparisons Don't Work
+
+http://lesswrong.com/lw/9oa/against_utilitarianism_sobels_attack_on_judging/
+
+# The Utility Function is Context-Sensitive
+
+http://www.nber.org/~rosenbla/econ311/syllabus/rabincallibration.pdf
+
+# Utilitarianism Ignores Irreparable Harm
+
+This is an immediate consequence of treating benefit and harm as being on the same scale.
+
+# Utilitarians Treat Everything as Means
+
+# Utilitarians are Hypocrites {#calculations}
+
+While not an argument against the philosophical position itself, in my experience, almost no-one who makes claims about utility actually ever calculates it. That's a major problem undermining the whole theory. As long as a distribution of values exists that *could* favor whatever view a particular utilitarian is arguing for, they're happy.
+
+It's really rare to see one actually do the math, and even rarer for one to do the math for *multiple* problems and use the *same* numbers every time. If they don't do the math, how can they claim that it is in their favor? Where does this knowledge come from? If they believe in their theory, why aren't they using it?
+
+If you *have* done a utility calculation, I'd love to hear about it. (Seriously, [Contact][] me. I can't even decide on the rough order of magnitude for many relevant values.) 

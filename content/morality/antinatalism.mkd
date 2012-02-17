@@ -295,7 +295,7 @@ Maybe not everyone is affected by dominating harm. If you are already an upper-c
 
 This is fundamentally an utilitarian argument. You take the probability of *your* child having a sucky life, multiply it with the negative value of all the expected harm, do the same thing with the chance of a good life and compare the two. It's fundamentally like russian roulette, but if the odds are good enough, why not play?
 
-Of course, if you accept this argument, I'd like you to [show me these calculations](#calculations).
+Of course, if you accept this argument, I'd like you to [show me these calculations](/morality/utilitarianism#calculations).
 
 TODO non-utilitarian rebuttals
 
@@ -347,23 +347,7 @@ Of course, if you think that only humans have moral value, then the whole argume
 
 ### Utilitarianism is Wrong
 
-Instead of providing a specific utility calculation for/against antinatalism, one can also attack the underlying assumption of utilitarianism. This is not the right place to fully cover these attacks or their merits, but I shall provide three to demonstrate the non-obviousness of utilitarianism.
-
-#### How do you judge?
-
-http://lesswrong.com/lw/9oa/against_utilitarianism_sobels_attack_on_judging/
-
-#### How do you model risk aversion?
-
-http://www.nber.org/~rosenbla/econ311/syllabus/rabincallibration.pdf
-
-#### Is anyone actually a utilitarian? {#calculations}
-
-A separate argument is the hypocrisy of utilitarians. In my experience, almost no-one who makes claims about utility actually ever calculates it. That's a major problem undermining the whole theory. As long as a distribution of values exists that *could* favor whatever view a particular utilitarian is arguing for, they're happy.
-
-It's really rare to see one actually do the math, and even rarer for one to do the math for *multiple* problems and use the *same* numbers every time. If they don't do the math, how can they claim that it is in their favor? Where does this knowledge come from? If they believe in their theory, why aren't they using it?
-
-If you *have* done a utility calculation, I'd love to hear about it. (Seriously, [Contact][] me. I can't even decide on the rough order of magnitude for many relevant values.) 
+Instead of providing a specific utility calculation for/against antinatalism, one can also attack the underlying assumption of utilitarianism. This is not the right place to fully cover these attacks or their merits, but I am also working on an [overview against utilitarianism][Utilitarian]. Regardless of whether you agree or disagree with these points, at least they should make it clear that utilitarianism is non-obvious and needs a strong case on its own.
 
 Escape from Kaldor Hicks
 ------------------------
