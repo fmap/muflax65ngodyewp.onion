@@ -12,7 +12,8 @@ namespace :publish do
   end
 
   desc "push all files to website"
-  task :deploy => [:compile, "compress", "deploy:rsync"] do
+  task :deploy => [:compile, "compress"] do
+    system "nanoc deploy -t default"
   end
 end
 

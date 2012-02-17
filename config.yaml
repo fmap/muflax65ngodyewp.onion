@@ -63,3 +63,4 @@ deploy:
   default:
     dst: muflax:~/www/static
     options: ['-gpPrtvz', '--delete']
+    kind: rsync
