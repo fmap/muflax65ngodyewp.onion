@@ -4,6 +4,7 @@ alt_titles: [Utilitarian, Utilitarianism]
 date: 2012-02-17
 techne: :wip
 episteme: :believed
+toc: true
 ---
 
 This is similar to [Why I'm Not a Vegetarian][]. It's not so much an extensive argument itself as really a collection of arguments to clarify my belief. However, most of these arguments are somewhat unusual and some, I think, even unique, so this should be interesting nonetheless. 
@@ -55,7 +56,6 @@ As [Rabin][] shows:
 
 > Within expected-utility theory, for any concave utility function, even very little risk aversion over modest stakes implies an absurd degree of risk aversion over large stakes.
 
-[Rabin]: http://www.nber.org/~rosenbla/econ311/syllabus/rabincallibration.pdf
 
 # Utilitarianism has Moral Luck
 

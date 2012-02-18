@@ -70,6 +70,7 @@ is_hidden: true
 [PlaidX torture]: http://lesswrong.com/lw/5ro/what_bothers_you_about_less_wrong/47ph
 [Price Purpose]: http://www.robertmprice.mindvendor.com/zara/april__2007.htm
 [Puredoxyk]: http://www.puredoxyk.com/
+[Rabin]: http://www.nber.org/~rosenbla/econ311/syllabus/rabincallibration.pdf
 [Rational Addiction]: http://www.xtranormal.com/watch/7873033/
 [Redshift]: http://jonls.dk/redshift/
 [Samsara Talk]: http://arobuddhism.org/audio-teachings/samsara-suffering-and-suspicion-the-path-to-endless-enjoyment.html
@@ -115,6 +116,7 @@ is_hidden: true
 [Crocker's Rules]: http://wiki.lesswrong.com/wiki/Crocker%27s_rules
 [DXM]: http://en.wikipedia.org/wiki/DXM
 [Desirism]: http://commonsenseatheism.com/?p=2982
+[Desirism]: http://omnisaffirmatioestnegatio.wordpress.com/2010/04/30/desirism-a-quick-dirty-sketch/
 [Discordianism]: http://en.wikipedia.org/wiki/Discordianism
 [Dukkha]: http://en.wikipedia.org/wiki/Dukkha
 [Dunbar's Number]: http://en.wikipedia.org/wiki/Dunbar's_Number
@@ -129,6 +131,7 @@ is_hidden: true
 [Jhana]: http://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism#Usage_of_jh.C4.81na
 [Julian Jaynes]: http://en.wikipedia.org/wiki/Julian_Jaynes
 [Kai Lexx]: http://en.wikipedia.org/wiki/Kai_(Lexx)
+[Kali]: http://en.wikipedia.org/wiki/Kali
 [Kasina]: http://en.wikipedia.org/wiki/Kasina
 [Kerghan]: http://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura
 [Langton's Ant]: http://en.wikipedia.org/wiki/Langton's_ant
@@ -136,6 +139,7 @@ is_hidden: true
 [Marcion]: http://en.wikipedia.org/wiki/Marcion_of_Sinope
 [Michael Persinger]: http://en.wikipedia.org/wiki/Michael_Persinger
 [Mirror Test]: http://en.wikipedia.org/wiki/Mirror_test
+[Moral Luck]: http://plato.stanford.edu/entries/moral-luck/
 [Multiple Drafts]: http://www.scholarpedia.org/article/Multiple_drafts_model
 [Nagarjuna]: http://en.wikipedia.org/wiki/Nagarjuna
 [Naraka]: http://en.wikipedia.org/wiki/Naraka
@@ -172,9 +176,6 @@ is_hidden: true
 [al-Ghazali]: http://en.wikipedia.org/wiki/Al-Ghazali
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
 [schächten]: http://en.wikipedia.org/wiki/Shechita
-[Kali]: http://en.wikipedia.org/wiki/Kali
-[Moral Luck]: http://plato.stanford.edu/entries/moral-luck/
-[Desirism]: http://omnisaffirmatioestnegatio.wordpress.com/2010/04/30/desirism-a-quick-dirty-sketch/
 
 <!-- internal links -->
 [RSS]: /rss.xml
