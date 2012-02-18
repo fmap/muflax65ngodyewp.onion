@@ -173,7 +173,8 @@ is_hidden: true
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
 [schächten]: http://en.wikipedia.org/wiki/Shechita
 [Kali]: http://en.wikipedia.org/wiki/Kali
-
+[Moral Luck]: http://plato.stanford.edu/entries/moral-luck/
+[Desirism]: http://omnisaffirmatioestnegatio.wordpress.com/2010/04/30/desirism-a-quick-dirty-sketch/
 
 <!-- internal links -->
 [RSS]: /rss.xml
@@ -189,3 +190,9 @@ is_hidden: true
 *[SIA]: Self-Indication Assumption
 *[SRS]: Spaced Repetition Software (e.g. Anki)
 *[SSA]: Self-Sampling Assumption
+*[AvgUtil]: Average Utilitarianism
+*[TotalUtil]: Total Utilitarianism
+*[MaxUtil]: Maximum Utilitarianism
+*[ActUtil]: Act Utilitarianism
+*[RuleUtil]: Rule Utilitarianism
+*[PrefUtil]: Preference Utilitarianism

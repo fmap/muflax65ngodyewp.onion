@@ -1,31 +1,65 @@
 ---
 title: Why I'm Not a Utilitarian
-alt_titles = [Utilitarian, Utilitarianism]
+alt_titles: [Utilitarian, Utilitarianism]
 date: 2012-02-17
 techne: :wip
 episteme: :believed
 ---
 
-This is similar to [Why I'm Not a Vegetarian][]. It's not so much an extensive argument itself as really a collection of arguments to clarify my belief.
+This is similar to [Why I'm Not a Vegetarian][]. It's not so much an extensive argument itself as really a collection of arguments to clarify my belief. However, most of these arguments are somewhat unusual and some, I think, even unique, so this should be interesting nonetheless. 
 
 # Notation
 
-I'll use "utilitarianism" in the sense of "there is a single, computable utility function that maps states of the world to a single number - the moral worth". This makes it simply a quantified version of consequentialism and so for the most part this could just as well be called "Why I'm Not a Consequentialist".
+I'll use "utilitarianism" in the sense of "there is a single, computable utility function that maps worlds to a single number, the moral value of that world". This makes it simply a quantified version of consequentialism and so for the most part this could just as well be called "Why I'm Not a Consequentialist".
 
-I don't understand utilitarianism to be limited to only one specific utility function, say "only pleasure counts". This is a general critique. As long as you are only looking at outcomes and reduce everything to a single number in the end, it's utilitarianism. (I follow LW's use of terms here.)
+I don't understand utilitarianism to be limited to only one specific utility function, say "only pleasure counts". This is a general critique. As long as you are only looking at outcomes and reduce everything to a single number in the end, it's utilitarianism. (I follow LessWrong's use of terms here.)
 
-What utilitarianism explicitly does not look at are (among other things) intentions (only the resulting actions) and acts (only the outcomes). This is what puts the "consequences" in "consequentialism", after all.
+What utilitarianism explicitly does not look at are (among other things) intentions and acts, but only the outcomes. This is what puts the "consequences" in "consequentialism", after all.
 
+One way for utilitarianisms to differ is in their aggregation function. Say you have three beings of utility 5, 10 and 15. What's the total utility of that set? Total Utilitarianism (TotalUtil) says `sum(5,10,15) = 5+10+15 = 30`. Average Utilitarianism (AvgUtil) says `avg(5,10,15) = (5+10+15)/3 = 10`. Maximum Utilitarianism (MaxUtil, my name) says `max(5,10,15) = 15`. There are other ways to aggregate utility, but these three are by far the most common.
+
+Another difference is between act, rule and preference utilitarianism. ActUtil is just standard utilitarianism - look at the outcomes of your actions, order them according to your utility function. RuleUtil incorporates game theory by acknowledging that we can't pragmatically do the full calculation from first principle for every choice we face, so we instead develop utility-maximizing rules which we follow. So fundamentally, ActUtil and RuleUtil are the same thing and only differ in how we end up doing the calculations in practive. PrefUtil, finally, derives most of its utility function from the preferences of beings, saying we should maximize the fulfillment of preferences.
 
 # (Most) Utilitarianism is Non-Local
+
+Says Wiki-sama:
+
+> In physics, the principle of locality states that an object is influenced directly only by its immediate surroundings.
+
+Another way to express the idea of locality is to think in terms of a cellular automaton or Turing machine. Locality simply means that the machine only has to check the values of a limited set of cells (9 for the Game of Life, 1 for a standard TM) to figure out the next value of the current cell for any given step.
+
+Moral theories must make prescriptions. If a moral theory doesn't tell you what to do, it's useless (tautologically so, really). So if after learning Theory X you still don't know what you should do to act according to Theory X, then it's to be discarded. Theory X must be wrong.
+
+Accepting this requirement, we can draw some conclusions. 
+
+For one, AvgUtil is essentially wrong. AvgUtil is non-local - you can't determine the moral effect of any action unless you know the current moral status of the whole universe. Let's say you can bring a 20 utility being into existence. Should you do so? Well, what's the average utility of the universe right now? If half of all beings are <20 utility, do it, otherwise don't. So you need to know the whole universe, which you can't. Sucks to be you. 
+
+You have basically only two options:
+
+1. Only ever do things that are morally neutral, so as to not affect the global average. (Which is an unexpected argument in [Antinatalism][]'s favor, but not a very strong one.)
+2. Act so as to maximize the utility of as few beings as possible, hoping to do as little damage as possible. This way AvgUtil collapses into MaxUtil.
+
+By the principle of locality, AvgUtil is either equivalent to positive MaxUtil (maximize benefit) or negative MaxUtil (minimize harm).
+
+Here's another conclusion: PrefUtil (or it's 2.0 version, [Desirism][]) is at least incomplete. It would require that you know the preferences of all beings so as to find a consensus. Again, this can't be done; it's a non-local action. It is possible to analyze some preferences as to how likely they are to conflict with other preferences, but not for all of them. If I want to be the only being in existence, then I know my preference is problematic. If I want no-one to eat pickle-flavored ice-cream, I need to know if anyone actually wants to do so. If not, my preference is just fine. But knowing this is again a non-local action, so I can't act morally.
+
+So unless you are St. Dovetailer who can know all logical statements at once, your moral theories better be local, or you're screwed.
 
 # Inter-Subjective Comparisons Don't Work
 
 http://lesswrong.com/lw/9oa/against_utilitarianism_sobels_attack_on_judging/
 
-# The Utility Function is Context-Sensitive
+# Expected Utility is Implausible
 
-http://www.nber.org/~rosenbla/econ311/syllabus/rabincallibration.pdf
+As [Rabin][] shows:
+
+> Within expected-utility theory, for any concave utility function, even very little risk aversion over modest stakes implies an absurd degree of risk aversion over large stakes.
+
+[Rabin]: http://www.nber.org/~rosenbla/econ311/syllabus/rabincallibration.pdf
+
+# Utilitarianism has Moral Luck
+
+(And don't try to embrace [Moral Luck][]. That way lies madness.)
 
 # Utilitarianism Ignores Irreparable Harm
 
@@ -40,3 +74,7 @@ While not an argument against the philosophical position itself, in my experienc
 It's really rare to see one actually do the math, and even rarer for one to do the math for *multiple* problems and use the *same* numbers every time. If they don't do the math, how can they claim that it is in their favor? Where does this knowledge come from? If they believe in their theory, why aren't they using it?
 
 If you *have* done a utility calculation, I'd love to hear about it. (Seriously, [Contact][] me. I can't even decide on the rough order of magnitude for many relevant values.) 
+
+# But then what?
+
+If Utilitarianism doesn't work, then what moral theory *do* I believe in? Honestly, as of right now, I don't know. However, deontology seems interesting. For one, it's local, doesn't treat anything as means, has no moral luck, is elegant, consistent, doesn't need intersubjective comparisions, solves the Original Position, Mere Addition Problem and Repugnant Conclusion, and captures the "not just a preference" character of morality. So I'd say it's a good candidate.
