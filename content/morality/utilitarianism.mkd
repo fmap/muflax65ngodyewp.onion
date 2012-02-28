@@ -21,6 +21,8 @@ One way for utilitarianisms to differ is in their aggregation function. Say you 
 
 Another difference is between act, rule and preference utilitarianism. ActUtil is just standard utilitarianism - look at the outcomes of your actions, order them according to your utility function. RuleUtil incorporates game theory by acknowledging that we can't pragmatically do the full calculation from first principle for every choice we face, so we instead develop utility-maximizing rules which we follow. So fundamentally, ActUtil and RuleUtil are the same thing and only differ in how we end up doing the calculations in practive. PrefUtil, finally, derives most of its utility function from the preferences of beings, saying we should maximize the fulfillment of preferences.
 
+Finally, not all arguments apply to all forms of utilitarianism equally. However, all of them taken together cover the whole range of positions, thus leading to a categorical rejection.
+
 # (Most) Utilitarianism is Non-Local
 
 Says Wiki-sama:
@@ -69,12 +71,34 @@ This is an immediate consequence of treating benefit and harm as being on the sa
 
 # Utilitarians are Hypocrites {#calculations}
 
+## Utilitarians Don't Calculate
+
 While not an argument against the philosophical position itself, in my experience, almost no-one who makes claims about utility actually ever calculates it. That's a major problem undermining the whole theory. As long as a distribution of values exists that *could* favor whatever view a particular utilitarian is arguing for, they're happy.
 
 It's really rare to see one actually do the math, and even rarer for one to do the math for *multiple* problems and use the *same* numbers every time. If they don't do the math, how can they claim that it is in their favor? Where does this knowledge come from? If they believe in their theory, why aren't they using it?
 
 If you *have* done a utility calculation, I'd love to hear about it. (Seriously, [Contact][] me. I can't even decide on the rough order of magnitude for many relevant values.) 
 
+## Utilitarians Are Revealed Egoists
+
+(This argument obviously doesn't apply to actual moral egoists. However, many utilitarians claim that fundamentally, all lives are morally equal. They are the targets of this critique.)
+
+It's very simple. (This may involve moving to the US or similar countries first.)
+
+A life insurance drastically increases the amount of money you have available after your death. You can state a charity as the beneficiary of such a policy. Do I have to spell out the rest?
+
+Even assuming you think you can add substantial marginal value to your charity of choice besides donating money (and for most people, this assumption is clearly false), why don't utilitarians all have such a setup? And those that understand their own powers more realistically, why don't they commit suicide? The insurance will still cover them, typically after a short waiting period of 2 years.
+
+What's this? It doesn't feel right? You have procrastination problems? You suddenly think your own life is maybe worth more than some starving child in a war-torn country? There are complex game-theoretical implications why this doesn't work, all of which you obviously have gone through *before* reaching the conclusion of not signing up?
+
+Of course.
+
 # But then what?
 
 If Utilitarianism doesn't work, then what moral theory *do* I believe in? Honestly, as of right now, I don't know. However, deontology seems interesting. For one, it's local, doesn't treat anything as means, has no moral luck, is elegant, consistent, doesn't need intersubjective comparisions, solves the Original Position, Mere Addition Problem and Repugnant Conclusion, and captures the "not just a preference" character of morality. So I'd say it's a good candidate.
+
+
+
+
+
+
