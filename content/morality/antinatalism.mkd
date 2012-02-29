@@ -303,7 +303,7 @@ TODO caution principle
 
 ### Synthetic Happiness is Real Happiness
 
-[Dan Gilbert][Gilbert TED] argues that we fabricate "synthetic happiness" when we don't get what we want, and that this is as good as "real" happiness. Thanks to the [Hedonic Threadmill][], we will adapt to any change in life and go back to our happiness set point.
+[Dan Gilbert][Gilbert TED] argues that we fabricate "synthetic happiness" when we don't get what we want, and that this is as good as "real" happiness. Thanks to the [Hedonic Treadmill][], we will adapt to any change in life and go back to our happiness set point.
 
 If this happiness research is right, then our life circumstances are largely irrelevant when considering how happy we are. Only one thing matters: our happiness set point.[^setpoint] And because most people say they like living, they probably have a sufficiently high set point and weren't harmed by whatever life we forced on them. And if you have a transhumanist bend, you might even think that [modifying the set point][Wireheading] is not too far off.
 

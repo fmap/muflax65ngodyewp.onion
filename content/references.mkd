@@ -14,13 +14,13 @@ is_hidden: true
 [whatiswrongwith.me]: http://whatiswrongwith.me/muflax
 
 <!-- software -->
-[Github]: http://github.com/muflax/
-[Config]: http://github.com/muflax/config
-[Pororo]: http://github.com/muflax/pororo
+[Github]: https://github.com/muflax/
+[Config]: https://github.com/muflax/config
+[Pororo]: https://github.com/muflax/pororo
 [RBS]: https://github.com/muflax/scripts/blob/master/rbs
-[Source]: http://github.com/muflax/muflax.com
-[ashuku]: http://muflax.com/software/ashuku.html
-[backup video]: https://github.com/muflax/muflax.com/blob/master/backup-video.rb
+[Source]: https://github.com/muflax/muflax.com
+[ashuku]: https://github.com/muflax/ashuku
+[backup video]: https://github.com/muflax/muflax.com/blob/master/backup-videos.rb
 [daily screenshot]: https://github.com/muflax/scripts/blob/master/daily_screenshot.sh
 [fume]: https://github.com/muflax/fume
 [fumetrap]: https://github.com/muflax/fumetrap
@@ -124,7 +124,7 @@ is_hidden: true
 [Evil Trope]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTropes
 [Flanging]: http://en.wikipedia.org/wiki/Flanging
 [Frankl]: http://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning
-[Hedonic Threadmill]: http://en.wikipedia.org/wiki/Hedonic_Threadmill
+[Hedonic Treadmill]: http://en.wikipedia.org/wiki/Hedonic_treadmill
 [Hypothetical Consent]: http://simonamey.com/Philosophy/Entry.php?entryid=314
 [Implied Consent]: http://en.wikipedia.org/wiki/Implied_consent
 [Jetpack Hitler]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StupidJetpackHitler
@@ -146,7 +146,7 @@ is_hidden: true
 [Paleo]: http://www.archevore.com/archevore/
 [Paperclipper]: http://wiki.lesswrong.com/wiki/Paperclip_maximizer
 [Pascal's Mugging]: http://lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/
-[Principle of Charity]: http://en.wikipedia.org/wiki/Principle_of_Charity
+[Principle of Charity]: http://en.wikipedia.org/wiki/Principle_of_charity
 [Profiling]: http://en.wikipedia.org/wiki/Profiling_(computer_programming)
 [Repugnant Conclusion]: http://en.wikipedia.org/wiki/Repugnant_Conclusion
 [Risk Aversion]: http://en.wikipedia.org/wiki/Risk_Aversion
