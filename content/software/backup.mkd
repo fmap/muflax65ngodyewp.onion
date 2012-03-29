@@ -5,7 +5,7 @@ techne: :rough
 episteme: :believed
 ---
 
-![](/pigs/backup.jpg)
+<%= image("backup.jpg", "backup ALL THE THINGS!") %>
 
 So, I spent two hours today and further [gwernified][Gwern URL] my life. Seems like a good time to summarize my backup strategy. Maybe it inspires someone to save more of their own data. As the saying goes, nobody wants backup, but everybody wants restore.
 

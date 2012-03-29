@@ -17,7 +17,7 @@ Diet and Drugs
 Caffeine
 --------
 
-![totally safe](/pigs/coffee_cat.jpg)
+<%= image("coffee_cat.jpg", "totally safe") %>
 
 Caffeine drastically improves my concentration. It gives me an indiscriminate,
 but very narrow focus. I can work for hours on basically anything, but find it
@@ -60,7 +60,6 @@ with regards to food.
     sweet stuff, but the good, sour one), kefir or miso and eat it. Every day.
     You can thank me later when most of the problems you just lived with are
     gone.
-
 
 Eating about 50-100g of butter refuels my energy almost completely in less than
 20 minutes and greatly increases concentration. I perform better on all
@@ -158,7 +157,7 @@ with that.
 Tyrosine
 --------
 
-![lolcatecholamines](/pigs/lolcats.jpg)
+<%= image("lolcats.jpg", "lolcatecholamines") %>
 
 Now comes the magic bullet. Seriously, Tyrosine is among my favorite chemicals
 because it fixes a problem without creating new ones. That's quite rare.

@@ -7,7 +7,7 @@ episteme: :believed
 
 Normally, I'd do an introduction who [Michael Persinger][] is, but I'm not in the mood, so let's just say that he is a (awesome!) mind researcher who developed the infamous God Helmet, which induces just the right kind of magnetic field around a brain to trigger, in most people, a sense of wonder and presence of somebody invisible being with them in the room, and in few, a full-blown religious experience. Also, there's his great lecture on drugs:
 
-<div align="center"><object id="VideoPlayback" style="width: 400px; height: 326px;" width="100" height="100" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://video.google.com/googleplayer.swf?docid=4292093832329014323&amp;hl=en&amp;fs=true" /><param name="allowfullscreen" value="true" /><embed id="VideoPlayback" style="width: 400px; height: 326px;" width="100" height="100" type="application/x-shockwave-flash" src="http://video.google.com/googleplayer.swf?docid=4292093832329014323&amp;hl=en&amp;fs=true" allowfullscreen="true" /></object></div>
+<%= google_video "http://video.google.com/googleplayer.swf?docid=4292093832329014323" %>
 
 So, the real point. Persinger once hypothesized that small fluctuations in the Earth's magnetic field might cause changes in the temporal lobe, triggering in extreme cases spiritual experiences, and more typically, raising the rate of reported UFO abductions and so on. He suspected that earth quakes would be sufficient to cause these magnetic fluctuations.
 

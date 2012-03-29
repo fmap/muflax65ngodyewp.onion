@@ -73,7 +73,7 @@ Then comes the flushing.
 The Dark Night of the Soul
 ==========================
 
-![the end of the rabbit-hole](flush.png) 
+image("flush.png", "the end of the rabbit-hole")
 
 > Agent Smith: But I believe that, as a species, human beings define their reality through suffering and misery. The perfect world was a dream that your primitive cerebrum kept trying to wake up from.
 
@@ -96,7 +96,7 @@ But no matter how well he fights, no matter how much Neo tries to beat Smith at 
 
 His only hope of escape destroyed, he is trapped. His back is to the wall, he cannot run away anymore, but he also can't face the problem. The agents are invincible. There is no forwards and no backwards. He is torn apart by his own weakness. He can't flee the Matrix anymore, but he can't deal with his problems, either. Yet he is forced to do so. All his strength was not enough to defeat Smith, all his speed was not enough to escape him. Nowhere left to go, there is only death.
 
-![bang]()
+bang!
 
 Path
 ====

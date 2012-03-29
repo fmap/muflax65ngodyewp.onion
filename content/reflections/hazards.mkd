@@ -34,7 +34,7 @@ A meme is a "unit of cultural transmission", the idea-equivalent of a gene, like
 
 It really clicked upon encountering the concept of the [Langford Basilisk]. Let this neat picture explain it:
 
-![The Parrot](/pigs/parrot.jpg) 
+<%= image("parrot.jpg", "The Parrot") %>
 
 A Langford Basilisk is a genuinely dangerous idea. In its original form, it works through making the brain think an impossible thought - essentially setting off a logic bomb. I don't believe that the human brain is actually susceptible to this kind of attack, but a poorly designed AI might be. Rergardless, there are other forms of Basilisks, some of which I actually know to work (under certain conditions).
 
@@ -58,7 +58,7 @@ approach.
 
 So let's draft a little catalogue of memetic hazards.
 
-![Memetically Active](/pigs/memetically_active.jpg) 
+<%= image("memetically_active.jpg", "Memetically Active") %>
 
 Structural Hijacking
 --------------------

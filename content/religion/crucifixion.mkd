@@ -5,13 +5,7 @@ techne: :rough
 episteme: :broken
 ---
 
-<div align="center"><object width="420" height="315"><param name="movie"
-value="http://www.youtube.com/v/PZBqsqvfj0Y"></param><param
-name="allowFullScreen" value="true"></param><param name="allowscriptaccess"
-value="always"></param><embed
-src="http://www.youtube.com/v/PZBqsqvfj0Y"
-type="application/x-shockwave-flash" width="420" height="315"
-allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+<%= youtube("http://www.youtube.com/v/PZBqsqvfj0Y") %>
 
 We know that the crucifixion of Christ is a myth[^1]. We also know that it isn't
 unique; there are plenty of life-death-rebirth gods. The theme goes back to at
@@ -272,14 +266,7 @@ overcoming of death. In no meaningful way does Jesus die; his body dies, but the
 transformation continues independent of it, as we will see now. In stark
 contrast to Mark, John continues after Jesus' death.  
 
-<div align="center">
-<object width="480" height="327"><param name="movie"
-WWvalue="http://www.dailymotion.com/swf/video/xnryl" /><param
-name="allowFullScreen" value="true" /><param name="allowScriptAccess"
-value="always" /><embed type="application/x-shockwave-flash" width="480"
-height="327" src="http://www.dailymotion.com/swf/video/xnryl"
-allowfullscreen="true" allowscriptaccess="always"></embed></object>
-</div>
+<%= dailymotion("http://www.dailymotion.com/swf/video/xnryl") %>
 
 > Now very early on the first day of the week, while it was still dark, Mary
 > Magdalene came to the tomb and saw that the stone had been moved away from the
@@ -338,7 +325,7 @@ The crucifixion is a Rorschach blot of the psyche.
 > 
 > -- Dr. Malcolm Long, Watchmen
 
-![](/pigs/rorschach.jpg)
+<%= image("rorschach.jpg", "Rorschach") %>
 
 [^1]: [Robert M. Price][], yada yada, Christ myth proponents not convincing? Do
     you also believe in Oz? If not, how about Hercules? If you understand why

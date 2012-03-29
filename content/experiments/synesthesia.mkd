@@ -7,7 +7,7 @@ episteme: :believed
 
 Synesthesia is the automatic connection of different senses. Typical example: perceiving numbers as having a color. Or the LSD version: seeing music.
 
-![](/pigs/cat-lick-funny-stamp.jpg)
+<%= image("cat-lick-funny-stamp.jpg", "I licked a funny stamp") %>
 
 Many years ago, I was fascinated by the idea and really wanted to have this myself. Tasting sound would be awesome! Alas, I didn't seem to have any synesthesia nor did I ever find a way to replicate it.
 

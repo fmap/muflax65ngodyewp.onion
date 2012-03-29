@@ -182,7 +182,7 @@ Here's a thought experiment to question the assumption that absence of certain t
     >
     > If the point you're making really only applies to torture, fine. But otherwise, it tends to read like "Maybe people will understand my point better if I CRANK MY RHETORIC UP TO 11 AND UNCOIL THE FIREHOSE AND HALHLTRRLGEBFBLE"
 
-![](/pigs/pie.jpg)
+<%= image("pie.jpg", "pie hole") %>
 
 There are three different worlds. Let's call them *Defaultia*, *Absencia* and *Lossa*. They are all very similar, except for one little detail. In all three worlds there is a pie shop, and in this pie shop there is a careful pie maker. The pie maker is currently making another delicious pie for a customer. Behind the pie maker are three ingredients in three conspicuously similar pots, yet only one is needed for the pie. The pie maker will blindly grab one of the pots, make sure it is the right one and if so, use it. The pie will be delicious and the customer will be very happy.
 
@@ -422,7 +422,7 @@ Is this just a contrarian position? Are antinatalists merely signalling how deep
 
 ## If life is so horrible, why don't you kill yourself?
 
-![likebeingdead](/pigs/likebeingdead.jpg)
+<%= image("likebeingdead.jpg", "sleep is death") %>
 
 Revealed preference: it's easy to kill yourself, yet only about [0.016%][WHO suicide], or 1 in 63, kill themselves each year. 
 
@@ -436,7 +436,7 @@ TODO Benatar
 
 When, exactly, is the harm done?
 
-![Antinatalist Antelope is Pro-Death](/pigs/prodeath.jpg)
+<%= image("prodeath.jpg", "Antinatalist Antelope is Pro-Death") %>
 
 ## Moral Consequences
 

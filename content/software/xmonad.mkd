@@ -115,7 +115,7 @@ fastest, and most reliable components are those that aren't there.".
 By concentrating not on *how*, but on *what*, false
 desires disappear. By letting go off false desires, suffering ends.
 
-![Guru Meditation](/pigs/guru.png)
+<%= image("guru.png", "Guru Meditation") %>
 
 [^0]: Yeah, I have been reading Buddhist philosophy and history
     again. Can you tell? 
