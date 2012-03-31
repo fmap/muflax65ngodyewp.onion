@@ -75,7 +75,7 @@ is_hidden: true
 [Redshift]: http://jonls.dk/redshift/
 [Samsara Talk]: http://arobuddhism.org/audio-teachings/samsara-suffering-and-suspicion-the-path-to-endless-enjoyment.html
 [Schwitzgebel Ethics]: http://schwitzsplinters.blogspot.com/2007/04/moral-behavior-of-ethics-professors.html
-[Seth Bacteria]: http://www.blog.sethroberts.net/category/umami-hypothesis/
+[Seth Bacteria]: http://blog.sethroberts.net/category/umami-hypothesis/
 [Shinzen Young]: http://www.youtube.com/user/expandcontract
 [Sister Asymmetry]: http://theviewfromhell.blogspot.com/2008/07/austrian-basement-and-beyond.html
 [Sister Y]: http://theviewfromhell.blogspot.com
@@ -86,7 +86,7 @@ is_hidden: true
 [Vipassana]: http://www.dhamma.org
 [WHO suicide]: http://www.who.int/mental_health/prevention/suicide/suicideprevent/en/
 [Wasting The Dawn]: http://www.youtube.com/watch?v=K7PhrPbyIsE
-[Why Did I Sleep So Well?]: http://www.blog.sethroberts.net/2008/09/03/science-in-action-why-did-i-sleep-so-well-part-10-2/
+[Why Did I Sleep So Well?]: http://blog.sethroberts.net/2008/09/03/science-in-action-why-did-i-sleep-so-well-part-10-2/
 [Xmonad Bug]: http://www.reddit.com/r/xmonad/comments/fdp4o/let_focus_follow_mouse_only_on_certain_layouts/
 [bible.org]: http://bible.org/netbible/index.htm
 [f.lux]: http://www.stereopsis.com/flux/
