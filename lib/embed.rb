@@ -1,6 +1,8 @@
 require 'image_size'
 
 def image(name, title="")
+  # all images are stored at content/pigs and only the main site routes them
+
   img = ImageSize.new IO.read("content/pigs/#{name}")
   "<img src='/pigs/#{name}' height='#{img.height}' width='#{img.width}' title='#{title}' alt='#{title}'/>"
 end

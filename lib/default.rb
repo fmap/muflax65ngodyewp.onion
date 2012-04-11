@@ -49,6 +49,10 @@ def route_unchanged
   item.identifier.chop + '.' + item[:extension]
 end
 
+def route_with_new_extension ext
+  item.identifier.chop + '.' + ext
+end
+
 def google_search
   <<EOF
 <div align="center"><form method="get" action="http://www.google.com/search">

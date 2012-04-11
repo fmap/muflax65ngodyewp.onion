@@ -44,7 +44,7 @@ preprocess do
 
   def hide_pages
     @items.each do |item|
-      if item.identifier.match %r{^/(style)/}
+      if item.identifier.match %r{^/(styles)/}
         item[:is_hidden] = true
       end
     end
@@ -56,7 +56,7 @@ preprocess do
   reference_links
 end
 
-compile '/style/' do
+compile '/styles/*' do
   filter :sass, :syntax => :scss
 end
 
@@ -69,6 +69,10 @@ compile '/references' do
 end
 
 compile '/feed/' do
+  filter :erb
+end
+
+compile '/htaccess/' do
   filter :erb
 end
 
@@ -96,7 +100,13 @@ compile '*' do
     end
 
     # layout
-    layout 'default'
+    if blog?
+      layout 'blog'
+    else
+      layout 'default'
+    end
+
+    # clean up
     filter :tidy
   end
 end
@@ -109,15 +119,15 @@ route '/htaccess/' do
   '/.htaccess'
 end
 
-route '/style/' do
-  '/style.css'
+route '/styles/*' do
+  route_with_new_extension "css"
 end
 
 route '/references' do
   # pass
 end
 
-# never compile /stuff
+# never change /stuff
 route '/stuff/*' do
   route_unchanged
 end
