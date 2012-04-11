@@ -132,6 +132,15 @@ route '/stuff/*' do
   route_unchanged
 end
 
+# only include pigs on the main site
+route '/pigs/*' do
+  if main_site?
+    route_unchanged
+  else
+    # pass
+  end
+end
+
 route '*' do
   if item.binary?
     route_unchanged
