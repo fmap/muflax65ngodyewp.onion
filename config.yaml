@@ -61,6 +61,6 @@ watcher:
 # deploying the site
 deploy:
   default:
-    dst: muflax:/home/public/static
+    dst: muflax:/home/public/
     options: ['-gpPrtvz', '--delete']
     kind: rsync
