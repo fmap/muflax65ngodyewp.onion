@@ -29,8 +29,7 @@ module DataSources
       @dtstart = Time.now
     end
     def down
-      @dtend = Time.now
-      puts "Data loaded in #{format('%.2f', @dtend - @dtstart)}s."
+      puts "Data loaded in #{format('%.2f', Time.now - @dtstart)}s."
     end
   end
 end
