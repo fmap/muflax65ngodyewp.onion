@@ -8,35 +8,35 @@ episteme: :speculation
 slug: 2012/03/19/monks-are-awesome/
 ---
 
-*(Based on [Samaññaphala Sutta: The Fruits of the Contemplative Life](http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html).)*
+*(Based on [Samaññaphala Sutta: The Fruits of the Contemplative Life][Pali 02].)*
 
-So there was this badass king, called [Ajatasattu](https://en.wikipedia.org/wiki/Ajatasatru). One day, he wasn't in the mood for some monster-slaying or old-school conquering, so he wanted to try this enlightenment thing people kept talking about.
+So there was this badass king, called [Ajatasattu][]). One day, he wasn't in the mood for some monster-slaying or old-school conquering, so he wanted to try this enlightenment thing people kept talking about.
 
 The king sent for a whole bunch of well-known gurus, asked each of them about their teaching. But Ajatasattu wasn't some lazy philosopher, he didn't just accept some cool stories. Insights might be fun, but the king wanted to be awesome *now*. So he asked the gurus, tell me, what's in it for me *now*? Why should I do the stuff you're talking about?
 
-First came [Purana Kassapa](https://en.wikipedia.org/wiki/Purana_Kassapa), and this dude is a moral nihilist. Tells the king, doesn't matter what you do. [Universe don't care](https://www.youtube.com/watch?v=4r7wHMg5Yjg), universe don't give a shit. So just do whatever you want, it's all the same.
+First came [Purana Kassapa][], and this dude is a moral nihilist. Tells the king, doesn't matter what you do. [Universe don't care][honeybadger], universe don't give a shit. So just do whatever you want, it's all the same.
 
 Ajatasattu isn't convinced, so he puts on his poker face and asks for the next guru.
 
-So [Makkhali Gosala](https://en.wikipedia.org/wiki/Makkhali_Gosala) comes in and says, listen, we all know that determinism is true. The universe follows its laws, nothing you can do. Whoever is destined for enlightenment, will reach enlightenment. Nobody has a say in the matter, it's all just blind laws unfolding. So you see, Makkhali and Purana get along fine, doing whatever.
+So [Makkhali Gosala][] comes in and says, listen, we all know that determinism is true. The universe follows its laws, nothing you can do. Whoever is destined for enlightenment, will reach enlightenment. Nobody has a say in the matter, it's all just blind laws unfolding. So you see, Makkhali and Purana get along fine, doing whatever.
 
 The king still doesn't like these nihilists, so he's ready for another guru.
 
-Next is [Ajita Kesakambali](https://en.wikipedia.org/wiki/Ajita_Kesakambali), and you've seen guys like him everywhere these days 'cause he's a materialist. He goes, enlightenment? What for? So you don't end up in hell or some shit? Look, you're made out of atoms. There's no ghost in the machine, just these atoms. When you die, they scatter and you're gone. [Like Lego](https://xkcd.com/659/). And what's more, and now Ajita gets all economist, there's no karma or anything like that. You have this one life, make the best of it. Doesn't matter who you screw over, have the most fun you can and then goodbye, that's it.
+Next is [Ajita Kesakambali][], and you've seen guys like him everywhere these days 'cause he's a materialist. He goes, enlightenment? What for? So you don't end up in hell or some shit? Look, you're made out of atoms. There's no ghost in the machine, just these atoms. When you die, they scatter and you're gone. [Like Lego][xkcd lego]. And what's more, and now Ajita gets all economist, there's no karma or anything like that. You have this one life, make the best of it. Doesn't matter who you screw over, have the most fun you can and then goodbye, that's it.
 
 Yeah, that's not all that great either. Next?
 
-Up comes [Pakudha Kaccayana](https://en.wikipedia.org/wiki/Pakudha_Kaccayana) (who can pronounce all these names?!), and this dude has two good points to make. So first he says, Ajita was on the right track, but he's not materialist *enough*. So you're made out of atoms? Where's the pain, where the pleasure in these atoms? There isn't any, you know. Just atoms. So how can anyone say they suffer? It's all just a confusion. It's nonsense.
+Up comes [Pakudha Kaccayana][] (who can pronounce all these names?!), and this dude has two good points to make. So first he says, Ajita was on the right track, but he's not materialist *enough*. So you're made out of atoms? Where's the pain, where the pleasure in these atoms? There isn't any, you know. Just atoms. So how can anyone say they suffer? It's all just a confusion. It's nonsense.
 
 But there's more! The universe is large. Not just large, but *infinitely* large. And you know, in an infinite universe, everything repeats. Even if you don't like this suffering thing you're confused about - and you shouldn't, but I know you'll keep on insisting on it - you couldn't do anything anyway. Nothing ever changes. You can't fix what is eternal.
 
 Not much fun either. The king is getting kinda desperate now. Everything's so fatalistic with these gurus. Isn't there someone who has some actual advice?
 
-So the next guy comes up, and it's [Nigantha Nataputta](https://en.wikipedia.org/wiki/Mahavira). You might know him under his name Mahavira, the dude who funded Jainism. You know, "don't even kill an insect" and so on. Nigantha has some advice. Restrain yourself! Don't get involved in this shit. It ain't worth it. Be totally detached, completely harmless.
+So the next guy comes up, and it's [Nigantha Nataputta][Mahavira]. You might know him under his name Mahavira, the dude who funded Jainism. You know, "don't even kill an insect" and so on. Nigantha has some advice. Restrain yourself! Don't get involved in this shit. It ain't worth it. Be totally detached, completely harmless.
 
 Harmless don't fly when you're a badass conqueror. Last guru.
 
-Finally we're getting to [Sanjaya Belatthaputta](https://en.wikipedia.org/wiki/Sanjaya_Belatthaputta), but alas, this is even worse than the rest. Sanjava just says, don't ask me, bro. I have no fucking clue how any of this shit works. I'm just here for the free food.
+Finally we're getting to [Sanjaya Belatthaputta][], but alas, this is even worse than the rest. Sanjava just says, don't ask me, bro. I have no fucking clue how any of this shit works. I'm just here for the free food.
 
 Sigh.
 
@@ -70,7 +70,7 @@ Alright, Ajatasattu is interested. There sure are a lot of "gurus" involved in b
 
 Sure, says the Buddha. Loads! 
 
-First, you'll always be content. And what we call the [Five Hindrances](https://en.wikipedia.org/wiki/Five_hindrances) - craving for pleasure, anger, boredom, anxiety, self-doubt - these disappear, too.
+First, you'll always be content. And what we call the [Five Hindrances][] - craving for pleasure, anger, boredom, anxiety, self-doubt - these disappear, too.
 
 And then the real sweet stuff begins. You'll learn the Jhanas. That's a form of meditation, a high state of concentration, like Flow, only way more intense and fun. And you'll learn how sensations work internally, how they arise, why some stuff hurts. This is tremendously useful, and as a monk, you can master it all.
 

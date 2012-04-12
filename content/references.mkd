@@ -143,6 +143,7 @@ is_hidden: true
 [99 hearts]: http://www.youtube.com/watch?v=dKm_7eOoGFc
 [Paint It Black]: https://www.youtube.com/watch?v=fPVUa29kHu8
 [Final Destination]: https://www.youtube.com/watch?v=O-7gmds2njg
+[xkcd lego]: https://xkcd.com/659/
 
 <!-- Wikipedia articles (and similar) -->
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
@@ -243,6 +244,14 @@ is_hidden: true
 [quadtree]: https://en.wikipedia.org/wiki/Quadtree
 [Faust]: https://en.wikipedia.org/wiki/Goethe%27s_Faust
 [Kant]: https://en.wikipedia.org/wiki/Immanuel_Kant
+[Ajatasattu]: https://en.wikipedia.org/wiki/Ajatasatru
+[Purana Kassapa]: https://en.wikipedia.org/wiki/Purana_Kassapa
+[Makkhali Gosala]: https://en.wikipedia.org/wiki/Makkhali_Gosala
+[Ajita Kesakambali]: https://en.wikipedia.org/wiki/Ajita_Kesakambali
+[Pakudha Kaccayana]: https://en.wikipedia.org/wiki/Pakudha_Kaccayana
+[Mahavira]: https://en.wikipedia.org/wiki/Mahavira
+[Sanjaya Belatthaputta]: https://en.wikipedia.org/wiki/Sanjaya_Belatthaputta
+[Five Hindrances]: https://en.wikipedia.org/wiki/Five_hindrances
 
 <!-- tweets -->
 [Twitter pali]: https://twitter.com/#!/muflax/status/66635052242567168
