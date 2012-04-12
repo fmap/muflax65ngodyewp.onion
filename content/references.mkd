@@ -5,6 +5,11 @@ is_hidden: true
 <!-- personal links -->
 [Antinatalism Tumblr]: http://antinatalism.tumblr.com/
 [Beeminder]: https://www.beeminder.com/muflax/goals/
+[Beeminder anki]: https://www.beeminder.com/muflax/goals/anki
+[Beeminder fitocracy]: https://www.beeminder.com/muflax/goals/fitocracy
+[Beeminder fume]: https://www.beeminder.com/muflax/goals/fume
+[Beeminder daily]: https://www.beeminder.com/muflax/goals/dailylog
+[Beeminder weight]: https://www.beeminder.com/muflax/goals/weight
 [Blog]: http://blog.muflax.com
 [GPG Key]: /muflax.asc          
 [Google+]: https://plus.google.com/105665518912548939532
@@ -59,6 +64,7 @@ is_hidden: true
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
 [LW protect]: http://lesswrong.com/lw/nb/something_to_protect/
 [LW words]: http://lesswrong.com/lw/od/37_ways_that_words_can_be_wrong/
+[LW sequences]: http://wiki.lesswrong.com/wiki/Sequences
 [LessWrong]: http://lesswrong.com
 [Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
 [Moldbug Left Right]: http://unqualified-reservations.blogspot.com/2008/06/olxi-truth-about-left-and-right.html
@@ -97,6 +103,46 @@ is_hidden: true
 [shamus bible]: http://www.shamusyoung.com/twentysidedtale/?p=12768&cpage=1#comment-231273
 [suffering per kg]: http://www.utilitarian-essays.com/suffering-per-kg.html
 [tripzine]: http://www.tripzine.com/listing.php?smlid=268 
+[Wolfire]: http://www.youtube.com/playlist?list=PLA17B3FAA1DA374F3&amp;feature=plcp
+[honeybadger]: http://www.youtube.com/watch?v=4r7wHMg5Yjg
+[AJATT]: http://www.alljapaneseallthetime.com/
+[Technium]: http://www.kk.org/books/what-technology-wants.php
+[PihloBro]: http://www.philosophybro.com/
+[reblog]: http://www.youtube.com/watch?feature=player_detailpage&v=roTrYCUhOu0#t=86s
+[Meaningness]: https://meaningness.wordpress.com/
+[Tao]: http://www.beatrice.com/TAO.txt
+[Good Job]: http://www.youtube.com/watch?v=-yNhl8wT3Pc
+[Jhana Arc]: http://thehamiltonproject.blogspot.com/2011/01/yogi-toolbox-riding-jhanic-arc-via.html
+[Wasteland Kickstarter]: http://www.kickstarter.com/projects/inxile/wasteland-2
+[Howto Jhana]: http://www.leighb.com/jhana3.htm
+[LW luke/ben]: http://lesswrong.com/r/discussion/lw/aw7/muehlhausergoertzel_dialogue_part_1/
+[LeechBlock]: https://addons.mozilla.org/en-US/firefox/addon/leechblock/
+[Pali 02]: http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html
+[Cookie Monster Nom]: https://www.youtube.com/watch?v=Cqz9ZXUoUcE
+[maggots image]: http://www.snopes.com/photos/medical/maggots.asp
+[maggots head]: http://www.liveleak.com/view?i=8d5_1219029078
+[Eva Eat]: https://www.youtube.com/watch?v=rlobzMvkm4w
+[MP comfy]: https://www.youtube.com/watch?v=CSe38dzJYkY
+[Logic Core]: https://www.youtube.com/watch?v=-iAUwamHTM4
+[Sister Epilogue]: http://theviewfromhell.blogspot.de/2010/12/living-in-epilogue-social-policy-as.html
+[bible fault]: http://www.biblegateway.com/passage/?search=John+19%3A6&version=NKJV
+[Harris Free Will]: https://www.youtube.com/watch?v=pCofmZlC72g
+[Unicorn Magic]: https://www.youtube.com/watch?v=qqvRrKcEhD4
+[TreeTagger]: http://www.ims.uni-stuttgart.de/projekte/corplex/TreeTagger/
+[Words dict]: http://users.erols.com/whitaker/words.htm
+[Perseus]: http://www.perseus.tufts.edu/hopper/
+[Schmidhuber Creativity]: http://vimeo.com/7441291
+[verboten]: https://www.youtube.com/watch?v=OfPCfqnQlpM
+[Wasteland Obsidian]: http://www.rockpapershotgun.com/2012/03/30/obisidian-to-co-develop-wasteland-2-on-one-condition/
+[Age of Decadence]: http://www.irontowerstudio.com/
+[Somuncu]: https://www.youtube.com/watch?v=d9qciD3sy2w
+[SMBC death]: https://www.youtube.com/watch?v=ARlTV1ZGJk8
+[Living Prayer]: http://www.godtube.com/watch/?v=7LL7D7NX
+[Assyriche]: https://www.youtube.com/watch?v=EcInBA4FlU8
+[Exorcist]: https://www.youtube.com/watch?v=Jvhl4At6AX8
+[99 hearts]: http://www.youtube.com/watch?v=dKm_7eOoGFc
+[Paint It Black]: https://www.youtube.com/watch?v=fPVUa29kHu8
+[Final Destination]: https://www.youtube.com/watch?v=O-7gmds2njg
 
 <!-- Wikipedia articles (and similar) -->
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
@@ -114,7 +160,7 @@ is_hidden: true
 [Convict Conditioning]: http://www.dragondoor.com/b41/ 
 [Core Dump]: http://en.wikipedia.org/wiki/Core_dump
 [Crocker's Rules]: http://wiki.lesswrong.com/wiki/Crocker%27s_rules
-[DXM]: http://en.wikipedia.org/wiki/DXM
+[DXM]: https://www.erowid.org/chemicals/dxm/faq/dxm_faq.shtml
 [Desirism]: http://commonsenseatheism.com/?p=2982
 [Desirism]: http://omnisaffirmatioestnegatio.wordpress.com/2010/04/30/desirism-a-quick-dirty-sketch/
 [Discordianism]: http://en.wikipedia.org/wiki/Discordianism
@@ -176,6 +222,30 @@ is_hidden: true
 [al-Ghazali]: http://en.wikipedia.org/wiki/Al-Ghazali
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
 [schächten]: http://en.wikipedia.org/wiki/Shechita
+[Pali Canon]: https://en.wikipedia.org/wiki/Pali_canon
+[Nirodha Samapatti]: http://web.mac.com/danielmingram/iWeb/Daniel%20Ingram%27s%20Dharma%20Blog/The%20Blook/2CECD5EA-6058-4428-8DDD-002856C2E28A.html
+[Kenosis]: http://en.wikipedia.org/wiki/Kenosis
+[Stromberg]: http://en.wikipedia.org/wiki/Stromberg_%28TV_series%29
+[A Serious Man]: http://en.wikipedia.org/wiki/A_serious_man
+[subs2srs]: http://rtkwiki.koohii.com/wiki/Subs2srs
+[MCD]: http://www.alljapaneseallthetime.com/blog/series/mcd-revolution
+[Book of the Dead]: https://en.wikipedia.org/wiki/Bardo_Thodol
+[Oreo]: https://en.wikipedia.org/wiki/Oreo
+[Dirk Gently TV]: https://en.wikipedia.org/wiki/Dirk_Gently_%28TV_series%29
+[Aeron]: https://en.wikipedia.org/wiki/Aeron_chair
+[10 Precepts]: https://en.wikipedia.org/wiki/Five_Precepts#Ten_Precepts
+[unsupervised universe]: http://wiki.lesswrong.com/wiki/Unsupervised_universe
+[Missionary Paradox]: http://everything2.com/title/Missionary+Paradox
+[Wu Wei]: https://en.wikipedia.org/wiki/Wu_wei
+[Shangri-la diet]: https://en.wikipedia.org/wiki/The_Shangri-La_Diet
+[Olsenbande]: https://en.wikipedia.org/wiki/Olsen_Gang
+[BG2]: https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn
+[quadtree]: https://en.wikipedia.org/wiki/Quadtree
+[Faust]: https://en.wikipedia.org/wiki/Goethe%27s_Faust
+[Kant]: https://en.wikipedia.org/wiki/Immanuel_Kant
+
+<!-- tweets -->
+[Twitter pali]: https://twitter.com/#!/muflax/status/66635052242567168
 
 <!-- internal links -->
 [RSS]: /rss.xml

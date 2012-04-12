@@ -4,4 +4,4 @@
 
 source ~/.zsh/path.sh
 
-grep -roP "http://.*" content | backup-urls
+./extract_links.sh | backup-urls

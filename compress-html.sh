@@ -4,9 +4,14 @@
 
 setopt RE_MATCH_PCRE
 
-echo "compressing 'out'..."
+if [[ -z $1 ]]; then
+  echo "usage: $0 site"
+  exit 1
+fi
 
-for f in out/**/*(.); do
+echo "compressing site: $1..."
+
+for f in out/$1/**/*(.); do
   if [[ $f =~ "\.(html|css|xml|js)$" ]]; then
     gzip --best -f -v -c "$f" > "$f.gz" 
   fi
