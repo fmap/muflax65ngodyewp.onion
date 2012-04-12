@@ -1,0 +1,37 @@
+---
+title: Non-Local Metaethics
+date: '2012-01-23'
+tags:
+- morality
+- utilitarianism
+techne: :done
+episteme: :speculation
+slug: 2012/01/23/non-local-metaethics/
+---
+
+Says Wiki-sama:
+
+> In physics, the principle of locality states that an object is influenced directly only by its immediate surroundings.
+
+Another way to express the idea of locality is to think in terms of a cellular automaton or Turing machine. Locality simply means that the machine only has to check the values of a limited set of neighbor cells (8 for the Game of Life, 0 for a standard TM) to figure out the next value of the current cell for any given step.
+
+The fact that some interpretations of quantum physics (Many Worlds most notably) are more local than others (Copenhagen) is commonly used as a major argument in their favor. I've [started collecting](http://blog.muflax.com/2012/01/22/unifying-morality/) features of moral theories and noticed that locality also applies to them, but I've never seen anyone make the argument, so here it goes.
+
+Moral theories must make prescriptions. If a moral theory doesn't tell you what to do, it's useless (tautologically so, really). So if after learning Theory X you still don't know what you should do to act according to Theory X, then it's to be discarded. Theory X must be wrong. (And don't try to embrace [moral luck](http://plato.stanford.edu/entries/moral-luck/). That way lies madness.)
+
+Accepting this requirement, we can draw some conclusions. 
+
+For one, Average Utilitarianism (AU) is essentially wrong. One way for utilitarianisms to differ is in their aggregation function. Say you have three beings of utility 5, 10 and 15. What's the total utility of that set? Total Utilitarianism (TU) says sum(5,10,15)=5+10+15=30. AU says avg(5,10,15)=(5+10+15)/3=10. Maximum Utilitarianism (MU, my name) says max(5,10,15)=15.
+
+AU is non-local - you can't determine the moral effect of any action unless you know the current moral status of the whole universe. Let's say you can bring a 20 utility being into existence. Should you do so? Well, what's the average utility of the universe right now? If half of all beings are <20 utility, do it, otherwise don't. So you need to know the whole universe, which you can't. Sucks to be you. 
+
+You have basically only two options:
+
+1. Only ever do things that are morally neutral, so as to not affect the global average. (Which is an unexpected argument in antinatalism's favor, but not a very strong one.)
+2. Act so as to maximize the utility of as few beings as possible, hoping to do as little damage as possible. This way AU collapses into MU. (Which I like, being sympathetic to MU.)
+
+By the principle of locality, AU is either equivalent to positive MU (maximize benefit) or negative MU (minimize harm).
+
+Here's another conclusion: preference utilitarianism (or it's 2.0 version, [desirism](http://omnisaffirmatioestnegatio.wordpress.com/2010/04/30/desirism-a-quick-dirty-sketch/)) is at least incomplete. It would require that you know the preferences of all beings so as to find a consensus. Again, this can't be done. It's a non-local action. It is possible to analyze some preferences as to how likely they are to conflict with other preferences, but not for all of them. If I want to be the only being in existence, then I know my preference is problematic. If I want no-one to eat pickle-flavored ice-cream, I need to know if anyone actually wants to do so. If not, my preference is just fine. But knowing this is again a non-local action, so I can't act morally.
+
+So unless you are St. Dovetailer who can know all logical statements at once, your moral theories better be local, or you're screwed.

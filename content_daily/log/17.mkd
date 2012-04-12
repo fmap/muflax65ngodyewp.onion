@@ -1,0 +1,17 @@
+---
+title: UNTZ UNTZ UNTZ UNTZ UNTZ
+date: '2012-03-24'
+techne: :done
+episteme: :log
+slug: 2012/03/24/untz-untz-untz-untz-untz/
+---
+
+So my Anki reps are underflowing again. Time to add more!
+
+Added 732 French cards. That concludes Michel Thomas, so I'll have to hook up my morphological tagger next. And find French TV I like. That might be the hard part.
+
+... having TV shows is slowly turning into my must-have feature of any language. subs2srs + MorphMan is so vastly superior and so much less work than pretty much any alternative. Manually creating Anki cards is stone-age crap. Ugh.
+
+I tried to add another Latin lesson, but I just *can't*. It's so mind-numbingly boring. I give up, textbooks are over. Forever.
+
+Today, I'll figure out a way to do automatic cards with text-only languages. Any method that doesn't give me >30 cards per minute of conscious effort isn't worth my time anymore.

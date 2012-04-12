@@ -1,0 +1,25 @@
+---
+title: Don't open it!
+date: '2012-04-10'
+techne: :done
+episteme: :log
+slug: 2012/04/10/dont-open-it/
+---
+
+Mind still not functioning properly. This whole "externalizing anxiety" thingy had nasty side-effects. Most importantly, I don't actually get shit done without anxiety. Depend on it to ground me. Overall, the approach might be worth it, but it certainly is much harder and takes more time than I anticipated.
+
+Thanks to otherwise losing 30\$ to Beeminder, I finally developed sufficient stress again to do something, and developed some of the recursive plans I've been talking about. Ideally, I'd use The Perfect Note-Taking And Mind-Mapping Tool for that, but no one has written anything close to it yet, and it's too complex for me to hack one up today, so I resorted to paper and a whiteboard.
+
+'Cause my brain is still essentially mush, I did very little and mostly watched the nothingness inside me eat whatever remains of my soul. I have finished maybe 2 meta levels. More soon, I hope.
+
+Beyond that, I think I have figured out now how to present my views on meta-morality and what the requirements are. I'm also pretty sure that at least some of the preliminary stuff is basilisk-free and so I'll focus on that first. I'm still unsure if actually connecting the dots at the end is a good idea, but I will at least be able to present enough that someone in a similar position as past-me up to a month ago can figure out the rest. Dunno how long that'll take; Outside View says sequences about morality are doomed.
+
+I've also started writing a rant about the mistake I've seen a lot recently, according to which antinatalism implies annihilation, i.e. if antinatalism is correct, then we should destroy all of humanity. This is only the case for one very narrow antinatalist argument out of many, and it's a very weak one at that. If you think that pressing the Big Red Button that vaporizes Earth is good, then you almost certainly haven't understood antinatalism, and you underestimate how fucked up our situation really is.
+
+I've also come to a decision about how to use the various blogs. I like writing in a blog format *much* more than in any other form (except maybe Twitter), so I will move all my active writing there. However, a bunch of blog posts can become hard to read over time, so I'll move decent stuff into big articles on the main site. This way, there's always a "definite" version of my stuff. I'm currently trying to pull several strands together, so having stuff like a big Everything muflax Thinks About Antinatalism article would be good. This also makes it easier to link someone to it. ("See FAQ #23 for why this argument is bullshit.") As such, the main site becomes a cleaned-up and slightly improved version of the blog with maybe monthly updates or so. (I'll also merge the stuff already on there more.)
+
+Blog-wise, I'll keep the current separation: <blog.muflax.com> for full ideas, <daily.muflax.com> for progress/practice/personal rants and *.muflax.com for individual writing projects, which currently consists only of <sutra.muflax.com>, but may expand. They too will be merged with the main site once they're finished.
+
+This means I'll keep on using WordPress, which costs me about 10$ more per year. I think I can live with that. I'll also switch hosts today without any visible changes whatsoever except some likely but very short downtime. I've already setup some of the stuff, should be done in a few hours.
+
+Ultimately, the cult that will inevitably form around my writings after my death and which worships me as their One True Leader can then just use <muflax.com> as their Holy Scripture in the same vein as the [Kritiken][Kant], Das Kapital and Mein Kampf. (Only more fun than the first, better organized than the second, and better written than the third. Also maybe less insane than either, but to be honest, dead Germans don't have a good track record.)

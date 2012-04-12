@@ -1,0 +1,17 @@
+---
+title: Deus Vult!
+date: '2012-03-30'
+techne: :done
+episteme: :log
+slug: 2012/03/30/deus-vult/
+---
+
+(Initially posted this to the wrong blog. I have too many of those. Needs fixing.)
+
+I've thought more about how to present meta-morality properly, and clarified some issues for me. I now have a basic idea what key insights I should be talking about, and which of those are "safe" in the Missionary Paradox sense. Basically, I think that once you have a certain set of ideas in your head, and have the *intention* to be moral, then you *ought* to be able to figure out the rest for yourself without too much effort, but if you don' have the intention, then you won't accidentally stumble over certain conclusions and trap yourself in sin. It's reasonably basilisk-free, but so was Eden. I'll first read *a lot* more existing literature before I talk about it.
+
+Until then, I'll probably first write a few more suggestive thought-experiments, finish the antinatalism overview and talk about a few methodological points (e.g. "always be *as explicit as possible* about what your problems are, and what would constitute a possible solution") that might be enough on their own to plant the seeds of moral enlightenment ("Captain, the pretentiousness readings are off the scale!").
+
+Besides that, I've been fapping all day about Brian Fargo, the true RPG messiah, risen from the grave, [assembling the apostles][Wasteland Obsidian] and preparing to lead us all into the Glorious Wasteland! Together with the very promising [Age of Decadence][] beta, this significantly raises my probability that this is a (semi-)historical simulation and I'm re-living The Coolest Time Ever. Doubled my pledge; guess I really *can't* fail my Beeminder contracts now.
+
+I've also gotten my first tentative answers from the Tao Algorithm, and I'm currently writing it down. (Thinking is more fun if you pretend you're channeling The Mystic Force Of The Universe.) Plan should be done tomorrow.

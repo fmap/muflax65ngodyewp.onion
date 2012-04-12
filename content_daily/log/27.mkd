@@ -1,0 +1,25 @@
+---
+title: Wasn't broken, so I fixed it.
+date: '2012-04-11'
+techne: :done
+episteme: :log
+slug: 2012/04/11/wasnt-broken-so-i-fixed-it/
+---
+
+<%= image("chickendopamine.jpg", "dopamine") %>
+
+So yeah. DNS transfer is still going on, no new site yet.
+
+I'm going to sleep soon. I'm sure the old registrar will complete the transfer just as I go to bed, kick the nameserver and thus kill my site.
+
+I have installed a temporary WordPress setup, so as soon as the transfer is done and I'm awake, the site will be back on. However, I've changed my plans and will transition away from WordPress. Mostly because I hate PHP and don't want dynamic sites anymore. So expensive and bloated and gah.
+
+I've figured out how to convert everything to nanoc and spent about 12 hours today extending my current setup. Logic works fine now, everything's neat and I basically only need to copy the posts and cobble together a simple blog stylesheet. Should all be done tomorrow.
+
+The links, division, feeds and content will remain unchanged, but the layout is currently in flux. Stuff may look shitty for a while. If something's broken, well, wait a few hours, if it's still broken, tell me.
+
+At the end, I'll finally have all my writing in a minimalistic format, stored in a central repo and for about 10-20$ less per year. Totally worth 2 days of work.
+
+I also ordered new clothes. It's only been 2 years and I still have like 3 t-shirts left, so I'm way early. Funny logos are out, roots are back in. Went all black. [Just black][Paint It Black]. I like black. (And one white hoodie. You know, when I feel like Jesus. It happens.)
+
+Now tired.

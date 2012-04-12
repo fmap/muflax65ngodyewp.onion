@@ -1,0 +1,63 @@
+---
+title: Algorithmic Causality and the New Testament
+date: '2012-02-09'
+tags:
+- history
+- I've got 99 problems but N ain't 1
+- kolmogorov complexity
+techne: :done
+episteme: :speculation
+slug: 2012/02/09/algorithmic-causality-and-the-new-testament/
+---
+
+...is what I would name an article I'm seriously considering to write. This is not this article. This is just the idea.
+
+<img alt="" src="http://www.smbc-comics.com/comics/20100512after.gif" class="aligncenter" width="362" height="360" />
+
+What's one of the biggest controversies in New Testament studies? No, not the Jesus myth, we all know he was a [12th century Byzantine emperor](http://en.wikipedia.org/wiki/New_Chronology_%28Fomenko%29#Fomenko.27s_claims). No, more important than that, more fundamental.
+
+When, and in what order, were the texts written? I'm going to ignore the *when* and instead focus on the *in what order*. 
+
+Why is this important at all? Because then we can trace influences, theological and political developments and so on. We can use this information to figure out what the direction of certain developments was (Did they start with a messiah and made him a prophet or the other way around?), can date the texts much better (If Paul's letter were written *after* the gospels, then who the fuck is "Paul"?) and so on. So basically, you can make significant progress on all historical questions about early Christianity.
+
+Of course, this doesn't just apply to Christianity. It works in any textual tradition, but Christianity is the extremely well-documented compared to anything else before basically the Renaissance, so we start there.
+
+You'd think that with such an important question, you'd have good answers by now. If you seriously assume that, you've never *been* in a humanities class. Seriously, these fuckers can't even quantify shit. They are like the little brother who's a bit retarded, but no-one has the to heart to tell them how much they make a fool of themselves when they constantly claim that they don't need "math", "computers" or "machines", they have "dialectic". </rant\>
+
+Anyway, back to text ordering. I had an interesting talk with a statistical learning researcher yesterday and he brought up a really cool idea.
+
+Let's say you have two pieces of data, A and B, and you're trying to figure out if A *causes* B. [Traditionally](http://en.wikipedia.org/wiki/Judea_Pearl), you do this through statistics. You sample and collect some observations, then check if you see conditional probabilities. Basically, if A and B are independent variables, there can't be a causation, but if you can predict B, given A, but not the other way around, then A causes B. (In your face, Popper!)
+
+There's one problem with this - you need a certain amount of samples. It doesn't work with N=1. If you only ever saw A and B once, statistically, you'd be screwed. [But maybe there's another way.](http://arxiv.org/abs/0804.3678)
+
+Let's say your data is actually a sequence of digits, as produced by two volunteers. You put each one of them in an isolated room and then tell them to write down 1000 digits. Afterwards you compare the texts and notice something - *they are almost identical*. What happened? 
+
+Well, one possibility is that one of them copied the other. But you isolated them, this can't have happened. What else? If you thought, "they used the same method to come up with the sequence", then you win. For example, they might both be writing down the prime numbers, but each one made a few minor mistakes. But how does this help use discover causality?
+
+Remember [Kolmogorov complexity](http://blog.muflax.com/2012/01/14/si-kolmogorov-complexity/). K(s) of any sequence s is a measure of how well you can compress s. In other words, it tells you how hard it is to find an algorithm to generate s. The lower K(s), the easier the task. So going back to our two sequences A and B, what's their complexity? Well, K(A) and K(B) will be almost identical. After all, it's just K(prime numbers) + K(a few mistakes). But more importantly, what's the complexity of K(A, B), i.e. of a program that outputs both A and B? In our case, it's almost the same - we just have to remember the additional mistakes. K(prime numbers) can be reused.
+
+So we see that in our example, K(A) + K(B) is significantly larger than K(A,B) because there is so much overlap. What if they had used different methods, say if B was writing down π instead? Then K(A) + K(B) would be basically identical to K(A,B). You couldn't reuse anything.
+
+So what do we conclude? If K(A) + K(B), for any two pieces of data A and B, is significantly larger than K(A,B), then they share the process that generated them. They are *causally linked*. 
+
+Alright, but how does this give us order?
+
+Let's say there is a third sequence, C. We check it and find it has all the errors in A, but a few additional ones. So K(C) = K(A) + K(additional error) and thus K(C,A) is much smaller than K(C) + K(A) and there's a causal link. But there's more than that. If you search for an algorithm that generates C, if you already have one that generates A for free, what's the result? K(C|A) is really small, like trivially small - it's just a few additional errors. 
+
+Enter Markov and his Condition. In a causal graph, any node is determined only by its direct causes. Basically, once you know all the direct causes of something, there's nothing left to learn. Checking any other node won't give you additional information. We say that the direct causes *screen off* the rest of the graph. Everything is nice and local. We can slightly relax this to construct a statistical ordering. Remember the case where B depended on A, but not the other way around. So obviously A must be the cause of B because otherwise you could learn something about B without involving causation. The *strength* of a causal link is then a measure of how much information you can extract from other nodes.
+ 
+So now you can order A, B and C. You know the obvious causal connection A-B, so you put this in your graph. But you also know that the complexity of C is really low if you know A, but if you additionally knew B, it wouldn't buy you anything. So you put A-C in your graph and you have a nice little graph C-A-B.
+
+One problem: you don't have a *direction*. This is a general causal problem. You don't know if A caused C by adding errors or C caused A by removing them. You know the *topology*, but have no arrows. Minor bugger. There may be a solution to that problem. You need to introduce a kind of entropy, but that only complicates this nice and simple approach, so we won't do that here.
+
+The result is already quite nice. Just get out your little [Kolmogorov black box](http://blog.muflax.com/2012/01/15/si-incomputability/) and compute various K(x) and K(y|x) and you know who plagiarized who. ...oh, your Kolmogorov box is in repair? You ran out of hypercomputronium and can't compute K(x)? 
+
+[Well have I got news for you!](http://arxiv.org/abs/1002.4020) Recall that Kolmogorov complexity is fundamentally compression. You can think of picking a compression algorithm to compare sequences like deciding on a Turing Machine, then finding shortest programs. Also, whatever compression you achieve is an upper bound of the real K(s), so they function as good approximations. If only there were runnable compression algorithms...
+
+There are [shit-tons of compression algorithms](http://en.wikipedia.org/wiki/Lossless_data_compression)! Just pick one and compress away. Have fun with your causal graph! Only one little problem - you'll find out that your algorithm is somewhat biased. (The irrational bastard!) You can think of it as a *prior* over your programs-to-be-compressed. For example, if you use run-length encoding (i.e. you save "77777" as "5x7"), then you assume that simple repetition is likely. The more features you build into your algorithm, the more slanted your prior becomes, but typically the better it compresses stuff. For our task of ordering historical texts, we want an algorithm that identifies textual features so it can exploit as much structure as possible (and ideally, in a similar way as humans), but doesn't favor any particular text. (Sorry, I don't yet know what the best choice is. I hear [LZ77](http://en.wikipedia.org/wiki/LZ77_and_LZ78_%28algorithms%29) is nice, but there's still science to do.)
+
+So what do we do now? Gather all texts in their original form and compress the hell out of them. Of course, test the procedure with corpuses that have a known ordering first. Bam, definite answers to problems like the [Markan priority](http://en.wikipedia.org/wiki/Markan_priority). History is uncertain no more.
+
+So yes,  I'm yet another engineer who looked at some field within the humanities and thought, that's all rubbish, I bet I can solve this shit right now.
+
+<img alt="" src="http://scienceblogs.com/pharyngula/upload/2010/08/an_interesting_thread_tangent/philo_engineers.jpeg" class="aligncenter" width="400" height="263" />

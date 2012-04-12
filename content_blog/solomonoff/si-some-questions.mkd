@@ -1,0 +1,31 @@
+---
+title: ! '[SI] Some Questions'
+date: '2012-01-11'
+tags:
+- solomonoff induction
+techne: :done
+episteme: :speculation
+slug: 2012/01/11/si-some-questions/
+---
+
+Let's kick off the thinking process about Solomonoff Induction (SI), Kolmogorov complexity (KC), AIXI and so on. Here's some questions I wanna answer.
+
+1. How do you calculate the KC of a program?
+2. Why are KC and SI incomputable? How bad is this limitation?
+3. Are there alternatives to KC? Are there different variants?
+4. How do you actually predict something with SI?
+5. How does SI work with non-sequential data? (i.e., normally SI completes a sequence of bits, but we also wanna use it for tasks like "Is this sentence part of this language?")
+6. How does AIXI work?
+7. What are computable approximations of KC, SI and AIXI?
+8. Are there existing practical uses for SI? If there are alternative approaches for a use case, how well does SI fare? (Is it as awesome as Bayes?)
+9. What's the relationship to Gödel's Incompleteness Theorem (GIT)?
+10. Can a human use some form of SI? If not, why not? If so, examples? (Compare with Bayes, which is a bit tricky too use for humans with larger data sets, but is still usable, as Carrier's resurrection arguments show.)
+11. Do SI and AIXI mostly rely on brute computation or memory or both? (Or is it unknown?)
+12. SI is a complexity-only prior for Occam's Razor. Are there speed priors? Do they have some obvious disadvantages? (Has SI?)
+13. KC can be used to test a string for its randomness. How does that work?
+14. Using KC, is there a difference between real randomness and pseudo-randomness?
+15. What's some recent stuff that's happening? Is the research making progress? Does anyone care about SI besides some math heads?
+16. Are there some obvious philosophical implications of SI?
+17. (What's up with [Ray Solomonoff's beard](http://www.scholarpedia.org/article/File:RaySolomonoff2001.jpg)? I mean, seriously.) 
+
+This is gonna be an interesting week. As I said, this is my thinking process - I can't answer many of these questions myself yet! Once I have written this stuff and have a clear picture, I'll clean it up and turn it into an article (or short sequence, if it's too long). Then feedback, improvements, karma. Or I end up hating math forever. It's an adventure! (I'm getting my wisdom teeth removed tomorrow, so if this feels particularly incoherent, I blame the meds.)

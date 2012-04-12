@@ -1,0 +1,52 @@
+---
+title: ! '[SI] Kolmogorov Complexity'
+date: '2012-01-14'
+tags:
+- bayes
+- solomonoff induction
+techne: :done
+episteme: :speculation
+slug: 2012/01/14/si-kolmogorov-complexity/
+---
+
+(Teeth went fine, but what's really holding me back: can't use any caffeine or nicotine while my wounds are healing. I'm currently operating at -10 INT.)
+
+# Motivation
+
+Let's get started with KC. Imagine a friend of yours has a coin. They claim it's a fair coin, but you don't trust them, so you arrange for them to flip the coin a 10 times.
+
+They do so and get the following result: HHHHHHHHHH. "Aha!", you say, "A biased coin. I knew it!". But your friend replies, "All possible outcomes are equally likely according to probability theory. No sequence is more likely than another. There are 2^10 different results, and one of them is all heads. It had to come up eventually, and now it just did. The coin is fair.".
+
+You know that technically this is correct, but there's something fishy about it. You might think the problem is the distribution of heads vs. tails. A fair coin should have about 50% frequency for each, but this result is all heads. It's exceedingly unlikely to see such a distribution.
+
+Your friend accepts the criticism and throws the coin again. This time they get HTHTHTHTHT. "Perfectly equal distribution!", they say. You still don't trust them. The result is too regular. Something is still off. But what?
+
+# Enter Kolmogorov
+
+KC is deeply connected with the ideas of randomness and compression. 
+
+Your friend's sequences have an interesting property. Look at the sequence HHHH... and remember the coin. What if your friend claimed the coin produced 1/3 heads? Or 2/3? Or any other distribution? Somehow this probability doesn't seem to affect how random the sequence looks. Higher probabilities of heads make all heads more likely, true, but there seems to be some inherent predictability in the sequence itself. "All heads" is *independently* regular and does not rely on the distribution we draw it from. That's part of the initial criticism after all: "all heads" was certainly a possible result, and all results are equally likely, so why should we be surprised to see it?
+
+The problem is that *results like that* are unlikely.
+
+What makes a certain sequence random? As you play the coin-flipping game with your friend, you notice that you can *predict* the sequence in advance. You see HHHH and you know the next flip will again be H. You don't need to remember the whole sequence, it's just H repeated N times. What about HTHT...? It's just HT repeated N times. And HTHHTHHHTHHHHT...? That's a bit harder, but not much: it's like HT..., but every step you add one more H than in the segment before. But what about TTTHTTHTTTTHHHHTHHHH...? That's really hard. You might have to look much harder to find some rule.
+
+There are some sequences that don't have such compression rules. The shortest way to describe them is just to remember the whole sequence. It never gets any easier. We call such sequences "random". But what about the others? They have what a kind of *algorithmic information content*, an inherent ability to be compressed to a simpler set of instructions. We call this the Kolmogorov Complexity (KC).
+
+But what exactly do we mean with "short" here? After all, "H repeated 2 times" is longer than "HH", isn't it? One has 18 characters, the other two. But what if we increase the number? "H repeated 30 times" is shorter than "HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH". But what if used a different language? In Japanese we can say "Hは30回繰り返す", which has only 9 characters. We could compress a sequence of 10 heads that way. Maybe if we fiddle around with it, we can find even shorter descriptions. Can we make some *definitive* statement here? Is there some ideal way to express an algorithm, a kind of universal language?
+
+Yes there is! Who speaks it? A [Turing Machine](http://en.wikipedia.org/wiki/Turing_machine) (TM). A TM is like the Platonic Ideal of computation. It's the simplest abstract conception of what a computer is - just a tape with numbers on it, a head to read and write it and a motor to move the tape. That's it. [One simple way](http://en.wikipedia.org/wiki/Brainfuck) to encode any kind of algorithm on a TM needs just 6 different characters: ">", "<" (move left/right), "+", "-" (add / subtract 1 to the current number) and "[", "]" (if the current number is 0, skip what is between the brackets, otherwise move to the first instruction within).
+
+The interesting thing is, people have tried to come up with different kinds of models of computation, to build different machines and to design better languages, but so far, all have proven to be equivalent to TMs and their simply languages. It is always possible - with the help of a fairly simple translation function - to express an algorithm in any programming language on a TM. (There is an open question, though: what about Quantum Computers? They might actually be more powerful. That would certainly be a very weird result!)
+
+But back to TMs. Because we can translate them so easily, we don't generally bother to specify which *specific* kind of TM we use, like what exact instructions it has (maybe it has more numerical operators built in?), and instead we simply use an Universal Turing Machine (UTM). That's a modified TM that you first tell which TM you want to use (in an arbitrary but fixed encoding) and then give it the normal input. 
+
+Thus we can express any algorithm as a set of instruction to our UTM. We have a universal programming language that is as powerful as any other language we know!
+
+And that's how we build our KC - we find the shortest possible algorithm on our UTM that would produce this sequence, and the length is the KC of the sequence. For very short, finite sequences (like "HH"), we have a slight problem with all the overhead of the UTM. We need to tell it what "repeats N times" means first, and that set of instructions is longer than just "HH" directly. But once the sequence gets longer - "HHHHHH..." - it eventually hits a point were we save space. If we build a specialized machine we some of these algorithmic parts already in-place (like a modern CPU that has "multiply these numbers" as a single instruction, or the human brain that has built-in agent detection), then we can reduce this overhead for our typical cases. But as mathematicians say, "almost all" problems are so large that our specialization doesn't matter - after all, only a few finite amount of numbers are smaller than 1,000,000,000,000 - "almost all" are larger.
+
+So to recap, we can figure out how random a sequence is by looking at algorithms that would produce them. If there is a short set of instructions - shorter than the sequence itself - than the sequence is not random. It is *compressible*. The shorter the algorithm, the more regular and compressible the sequence is.
+
+This is a good candidate for what your hidden criterion of judging your friend's coin is. You look at the sequence and see if you can predict it, can intuitively find some simple model. If you can, then something's odd about the coin.
+
+(This btw is the root of the Frequentism vs. Bayesianism split in probability theory. Basically, Frequentists say that the probability of an outcome depends on its distribution. A single result doesn't *have* a well-defined probability. You can't flip a coin *once* and say anything about how biased it is. You have to flip it many times and see if the distribution of heads vs. tails converges to some fixed ratio, which is the coins probability. Bayesians instead say that probability is in the *mind*. It's a measure of our ability to *predict* the world. If you don't know anything about the coin, then any algorithm would do, and you expect heads as often as tails - so heads has 50% probability. But then soon patterns emerge and after HHH, you have no problem predicting another H. The probability of an outcome thus depends on all the evidence you have (and changes with it!), and your ability to find simply algorithms to make predictions about future evidence. Which is why frequentists are nuts.)

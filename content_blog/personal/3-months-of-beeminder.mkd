@@ -1,0 +1,48 @@
+---
+title: 3 Months of Beeminder
+date: '2012-02-03'
+tags:
+- beeminder
+techne: :done
+episteme: :speculation
+slug: 2012/02/03/3-months-of-beeminder/
+---
+
+It's been 3 months now, time to do a recap. 
+
+## Setup
+
+I have a separate bank account that I use mostly for book purchases and online services that require credit cards, like my S3 backups. As such, there isn't much money in it, about 50 eurons right now. The idea is that every once in a while when I have some money left over, I put it in there and then freely use it to buy <del datetime="2012-02-01T14:31:51+00:00">the rare book library.nu doesn't have</del> cool books. Beeminder drains this account. That means it's separate from anything important, but it also hurts me the most. I like this setup.
+
+## Anki
+
+I've been using Anki for something like 4 years now. (I started [RTK](http://en.wikipedia.org/wiki/Remembering_the_Kanji) in the fall of 2007 and switched to Anki soon after, but definitely by spring 2008.) So I was quite surprised that I could still get substantial performance improvements. In my 3 months, I had two Beeminder resets, one just 2 days ago due to me totally getting distracted. Despite this, I have *vastly* better Anki performance than ever. Just look at it:
+
+<a href="http://blog.muflax.com/wp-content/uploads/2012/02/selection-2012-02-01153724.png"><img class="aligncenter size-full wp-image-746" title="selection-2012-02-01[15:37:24]" src="http://blog.muflax.com/wp-content/uploads/2012/02/selection-2012-02-01153724.png" alt="" width="637" height="303" /></a>
+
+The big spike about 100 days ago is the first time I used Beeminder. I added a large chunk of Japanese sentences (~8000 cards), so it's a bit unusual, but I've done stuff like that before. What is impressive, though, is the weeks afterwards. It's more consistent *and* has more volume than the rest of the year. I've also made some content changes thanks to that. Now that I *have* to do enough daily reps, I tend to add more easy cards and space out harder cards more. Overall, this is very good.
+
+## Daily Work
+
+The main reason I started using Beeminder was to work more consistently. I have my own GTD system (which I will write about the moment I've got one last bug ironed out) and track my daily use of productive time. I tried commitment contracts on my own, but I always end up cheating. So maybe if someone else had my money, it would work better...
+
+Here's the graph for total logged time / day for 300 days back. Some work is missing 'cause when I have breakdowns, I also tend to stop logging. Beeminder starts at 210:
+
+<a href="http://blog.muflax.com/wp-content/uploads/2012/02/fume.png"><img class="aligncenter size-full wp-image-749" title="fume" src="http://blog.muflax.com/wp-content/uploads/2012/02/fume.png" alt="" width="1432" height="545" /></a>
+
+Overall, Beeminder has *improved* the situation, but not completely fixed it. It's more consistent and has many more ~4h days, but I'm still hoping for more ~8h days.
+
+One major problem: I avoid certain tasks. Case in point: this post. I *should* be making slides for my Occam presentation. I should have finished them *last* week. Yeah. 
+
+I have also had to reset this graph once, almost twice. The first time was psychologically interesting because I gave up almost *half a day* before the deadline. I could've easily prevented the loss of 5 bucks, but I didn't. I just went "fuck it, I'm not doing this, deal with it tomorrow, I'm getting drunk today". I almost did this a second time, but avoided it. I'm not sure if the amount of money was simply too low the first time, but honestly, the moment I gave up, *no* amount of punishment would've changed my mind. I'll reflect on this in the next post.
+
+## The Future
+
+I've recently joined [Fitocracy](http://www.fitocracy.com/profile/muflax/). Basically, it gives you points for exercise. I force a minimum of points [through Beeminder](https://www.beeminder.com/muflax/goals/fitocracy). I'm still experimenting with the parameters and how to grind most efficiently, but it's already getting me to move more, so I'm quite optimistic about it. Two things about the approach seem better than my previous regiments:
+
+1. It's event-based, not time-based. I don't have to remember what day of the week I was supposed to do what. (I barely know what day it is anyway.) I just check how many points I'm lacking and do [something easy](http://xkcd.com/940/). Less thinking required.
+2. It has numbers that go up. I like numbers that go up.
+
+I've gotten stuck with a huge reading list again. Back in 2010, I did a [100 books/year challenge](http://www.librarything.com/topic/82131), which got me to read ~70 books and much of LessWrong. I'm doing it again, but at [50 books/year](http://www.librarything.com/topic/82131) this time because the stuff I'm reading is harder, but I need to finish these [200+ books](http://www.librarything.com/profile/muflax) before the Singularity hits.
+
+**tl;dr**: Beeminder is *awesome*.

@@ -1,0 +1,10 @@
+---
+title: about
+date: 2012-04-12
+techne: :done
+episteme: :believed
+---
+
+**muflax, n**: information whore, hacker, rationalist, anagami, catharsis junkie, not exactly sane
+
+The blog publicly thinks for me. Don't expect anything to make much sense, be organized or represent my actual opinions.

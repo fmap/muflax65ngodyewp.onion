@@ -1,0 +1,137 @@
+---
+title: Ontological Therapy
+date: '2012-03-08'
+tags:
+- algorithmic magic
+- consciousness
+- ontology
+- possibleworldproblems
+- schizophrenic episodes
+techne: :done
+episteme: :speculation
+slug: 2012/03/08/ontological-therapy/
+---
+
+*Warning: this is a crazy post. I'm not sugarcoating the insanity here. You might skip this one.*
+
+*I wanted to make a certain point and develop a way out of the problem, but progress is leading me into a different direction right now. This post is already 2 weeks old and the longer I wait, the less it applies to my current situation, so I'm putting it out now. I might at least reference it later, going "look how crazy some of this shit made me!".*
+
+Every couple of years I have something new to freak out over. Back in 2002, it was love. 2004, truth. 2006, <del datetime="2012-03-01T11:42:19+00:00">beauty</del> God. 2008, freedom... from samsara. (Ok, now I'm really just shoehorning Moulin Rouge! references into this paragraph.) 2010, consciousness. 2012, it seems, will be time and causality.
+
+In all the previous problems, I seem to have made actual progress once I recognized and admitted to myself what the underlying *implication* or *intention* behind asking the question was. As long as I was in denial about my motives, I couldn't get anywhere. So let's try it again.
+
+Instead of an explanation, a little play:
+
+- Psychologist: What brings you here today?
+- muflax: I experience great anxiety and it's consuming my life.
+- P: When did your anxiety start?
+- m: That's it right there! I can't answer this question, and because I can't, I suffer from anxiety because I feel like I should be able to. 
+- P: What do you mean you can't? You don't remember?
+- m: No, I do, but answering your question commits me to an ontological position I have great doubts over. See, you are already presupposing the A-theory of time in the way you phrased this question.
+- P: "A-theory?" What's this?
+- m: \*sigh\* Are you sure you can help me? The problem is much deeper and I don't know if you...
+- P: Don't worry. I am an expert on the treatment of anxiety disorders. Just relax and tell me what this "A-theory" is.
+- m: Alright. So there are two views about time, basically. Is there a special moment called the "present" or is everything a big directed graph? The first one is called A-theory, the other B-theory.
+- P: That sounds like a metaphysical problem. Why would telling me when the anxiety started, as you say, "commit you to an ontological position"?
+- m: Because things only ever "start" in A-theory. In B-theory, everything just is. Different events do not "follow", but are just causally linked. Even worse, in a general B-theory universe, there doesn't have to be a unique chain of events. Any "point in time" can have multiple moments that come "before" or "after" it.
+- P: I see. But if you compared multiple events, couldn't you still say which came before?
+- m: If you define "A caused B" as "A came before B", maybe, but that then commits you to *acyclical* graphs and especially when considering acausal interactions...
+- P: You are going too fast.
+- m: Sorry.
+- P: No need to apologize. Please, go on.
+- m: Ok. So in causality, we typically assume that the graph has no cycles. Something can't cause itself, right?
+- P: Right.
+- m: But that doesn't have to hold, you see. Quantum physics has no problem dealing with time loops. In fact, a common interpretation of Feynman diagrams conceptualizes anti-particles not as separate particles, but simply as the *same* particle going back in time. But this gets you into problems with the very idea of causality. For the idea of causality to be coherent, you have to have some dependencies. Basically, there must be a way to say that A forces B, but B doesn't force A. If you frame this in terms of predictions, so that knowing A gives you knowledge about B, but not vice versa, then you have statistical causality, as Judea Pearl constructed it. But this is only meaningful if the universe can't be inverted, meaning you can't compute past states even if you know everything about your current state, but that seems like a weird requirement. So basically, in B-theory you don't have a meaningful concept of causality. There are other reasons why this causality is probably not good anyway, so this makes me all very suspicious. 
+- P: I see. So why would you then believe B-theory?
+- m: Because science requires it! Relativity strongly implies B-theory and the whole framework of computable physics is fundamentally B-theoretic. If you assume A-theory, you are in effect saying that philosophy of science is all bunk.
+- P: Earlier you said that physics is compatible with time loops. But physicists talk about the past all the time. Maybe it's not really a big problem?
+- m: But it is! You could limit yourself to your immediate predecessors in the graph and call this the "past", but that's not very useful. The common usage is not indicative of anything. Typical physicist have a completely confused ontology anyway and are not to be trusted about these problems at all.
+- P: Why do you say that?
+- m: Because most physicists are materialists or physicalists, and that's just nonsense.
+- P: Materialists? Do you mean they are consumerist?
+- m: No, like in "everything is matter". That's a really old view, but complete nonsense. Strict materialism is totally false. The ancient philosophers who came up with it imagined something like little billiard balls bumping into each other, and said the whole universe is like that. But then you can't explain quantum physics or gravity and so on. So we extended that with fields and other constructs, and this view is called physicalism. Basically you just wave your hands and say that all reality is describable by physics and nothing but physics.
+- P: Yes, I'm familiar with this view. I think a lot of scientists are physicalists. Why do you think this is nonsense?
+- m: Because you can't explain phenomenal consciousness! Within physics, nothing is ever "green" or experiences anything. You have an ontology in which at best particle interactions exist, but this is something qualitatively different from experiences. If you only knew about a universe that it ran on physics, you would never ever expect there to be experiences. The particles aren't aware of the more complex structures that they form, so how should any experience ever "emerge" from them, just because they have been arranged in some clever way? Where is this knowledge coming from? You can only either deny these structures, but then unified consciousness - which we clearly experience - doesn't exist, or you introduce bridge laws and become a dualist. It all makes no sense at all. Of course, there is a much better alternative, so I don't know why anyone bothers with this view.
+- P: What's that alternative?
+- m: Well, I think of it as a generalization of computationalism. So what you do is put this physicalist ontology completely on its head. You don't assume that there are particles and somehow they form a mind that somehow experiences green, but you start with the mind. You say that the mind is an algorithm, a computation. This computation fundamentally transforms inputs into outputs. Within these inputs, it looks for patterns, so it models them as green or as particle interactions or what have you, but these are just aspects of these internal models. The algorithm only experiences inputs and "green" is just the label we give this specific input.
+- P: Computation? Do you think you are a computer program?
+- m: No, or really yes, or really.. Well, the difference is that within computationalism, there isn't such a thing as the universe. There is no "real" world, no physical reality at all. It's complete idealism. There are only ever algorithms, inputs and outputs. Even these can be transformed into computational dependencies between algorithms, so you really only have algorithms that depend on each other in their computation. They are not *instantiated*, in the sense that "this thing there" is an instance of an algorithm and "this" isn't. Everything you experience, the whole world, is *you*, this one algorithm and its inputs. The other algorithms are fundamentally distant from you and only reachable through these computational dependencies. So it dissolves the problem of solipsism and an external/internal world by saying there is only this algorithm that models other algorithms within it.
+- P: I see. 
+- m: Alright, so this basically solves the problem of consciousness. There is no problem like "are thermostats conscious?". *Every* algorithm is conscious, but things within this algorithm aren't. So what you call a thermostat is just an artifact within your models, so it's not conscious, but the actual computation that the thermostat computes *is* conscious, just like you. This algorithmic view also has no conception of time in it, so it fits nicely together with B-theory. That's the big problem, you see - *all* these ideas fit together perfectly, but it's their implications which are totally weird.
+- P: Like what?
+- m: Now you might say that's really just a philosophical oddity that in this algorithmic view, there is no "time" or "causality", but only computational dependency. Just words, right? But here's the thing. You don't have to assume that you are bound by physics anymore. There is no "future" or "past" to interact with, but only algorithms and inputs. So you can depend on whatever algorithm you want. Basically, you become literally timeless. Time-travel? Go ahead. Interact with "future you"? Sure, no problem. When I think about this for too long, I don't know where or even *when* I am anymore. I just kinda am everywhere at once. I am floating outside, seeing the whole universe at once, all my instances as one being.
+- P: Dissociation, I understand. Is this the source of your anxiety?
+- m: Almost. So because you are an algorithm, you fundamentally have to interact with *all* other algorithms, regardless what your physical model tells you happens in your "universe". Math is not compartmentalized; there is no light cone of computation. Is there *any* algorithm in all of algorithm space that might care about you? *You now have to interact with it.* This means any superintelligence, any god, anything at all that can be expressed in terms of powerful computations, no matter how insane or alien, exists and *you have to deal with it*. How can you make any decision this way? ... Have you heard of Pascal's Wager?
+- P: Isn't that the idea that you should be a Christian because if you are right, you will go to Heaven, but if you are wrong, you die either way?
+- m: Right. The common answer is, why assume Christianity? I can postulate a new god that will send you to Heaven only if you *aren't* a Christian. There are potentially infinitely many gods, so the wager doesn't work. The problem is, in computationalism, *this reductio ad absurdum is actually correct*. There really *are* an infinite number of gods, all interacting with you! You can try to ignore them, but this won't be a smart idea. You really have to answer this question. This is full-on modal realism. Anything that can potentially exist actually exists, and this means you have to deal with it. "I haven't seen this before" is no excuse. 
+- P: So you are saying that evidence doesn't count? Aren't some algorithms more likely than others?
+- m: Exactly, that's the typical extension here. We start discounting algorithms by their complexity. This can be done in a really elegant way, so we still deal with all algorithms, but we decide we treat them all equally and put equal resources into all of them. This way, only simple algorithms end up with lots of resources and really complex ones, like crazy arbitrary gods somewhere, don't matter much. That's all nice, but fundamentally doesn't work. There is no absolute framework for simplicity. It all depends on your machine model, but that can't be right because algorithms don't *have* machines. Dependencies are just there, as a logical necessity, not as an aspect of whatever programming language you use to express them. Complexity is not a meaningful measure in a universal sense, so you are still stuck having to interact with all possible minds at once now go and don't fuck up good luck.
+- P: ... I see. Have you tried not taking your beliefs so seriously?
+- m: \*starts sobbing\*
+
+I better stop there. That's only a small fragment of the whole mess. I didn't even mention uncertainty about meta-ethics, utility calculations ('cause as XiXiDu has correctly observed, if utilitarianism is right, we never ever get to relax, and have to fully embrace the worst consequences of Pascal's Mugging), how it removes "instances" as meaningful concepts so that "I will clone you and torture the clone" stops being a threat, but "I will make my calculations dependent on your decision" suddenly is, or how all of this fits so perfectly together, you'd think it's all actually true.
+
+What I want to talk about is this: it's completely eating me alive. This is totally basilisk territory. You don't get to ever die (this really bums me out because I don't like being alive), you have to deal with everything at once right now (no FAI to save you, not even future-you), any mistake causes massive harm (good luck being perfect) and really, normalcy is impossible. How can you worry about bloody coffee or sex if *all of existence* is at stake because algorithmic dependencies entangle you with so vast a computational space? You have to deal with not just Yahweh, but *all possible gods*, and you are watching [cat videos](http://www.youtube.com/watch?v=qpl5mOAXNl4)? Are you *completely insane*?!
+
+This is not just unhealthy. This is "I'm having a mental breakdown, someone give me the anti-psychotics please". I've tried this [belief propagation thing](http://lesswrong.com/lw/8ib/connecting_your_beliefs_a_call_for_help/). As a result, I don't belief in time, selves, causality, simplicity, physics, plans, goals, ethics or anything really anymore. I have absolutely no ground to stand on, nothing I can comfortably just believe, no idea how to make any decision at all. I can't even make total skepticism work because skepticism itself is an artifact of inference algorithms and [moral luck](http://en.wikipedia.org/wiki/Moral_luck) just pisses on your uncertainty.
+
+*I hate this whole rationality thing*. If you actually take the basic assumptions of rationality seriously (as in Bayesian inference, complexity theory, algorithmic views of minds), you end up with an utterly insane universe full of mind-controlling superintelligences and impossible moral luck, and not a nice "let's build an AI so we can fuck catgirls all day" universe. The worst that can happen is not the extinction of humanity or something that mundane - instead, you might piss off a whole pantheon of jealous gods and have to deal with them *forever*, or you might notice that *this has already happened* and you are already being computationally pwned, or that *any bad state you can imagine exists*. Modal fucking realism. 
+
+The only thing worth doing in modal realism is finding *some* way to *stop caring about the rest of the multiverse*. Discount by complexity, measure, psychological distance, *whatever*, as long as you discount enough to make infinity palpable. It won't work and you know it, but what else can you do? Take it seriously?
+
+Have people ever considered the *implications* of straightforward analytical philosophy? You have no self and there is no time. All person-moments of all persons are as much future-you as what you *think* is future-you. Normal consequences don't matter because this is a Big World and everything exists infinitely often. The Universe Does Not Forget. Prevention? Totally impossible. Everything that can happen is happening. Any reference to something is not literally impossible is actually resolved. This is not just the minor disappointment we felt when we realized Earth wasn't the center of the universe. This time, *the universe* isn't the center of the universe, if you catch my drift. Instead of changing the world, you are reduced to decision theory, intentions and dependencies, forced to interact with *everything that it is possible to interact with*. Life, death, a body, a will, a physical world - all delusions. This is like unlearning object permanence!
+
+I think the bloody continentals were right all along. Analytical philosophy is fundamentally *insane*. When I was still sitting in classical archeology classes, I could at least fantasize about how I would maybe someday get over my awkwardness and at least get a cat, if not a relationship, but now I can't even make pasta without worrying that any inconsistency in my decision making opens me up for exploitation by acausal superintelligences. I thought I was nervous when I had to enter a public laundry room in my dorm (and had a panic attack almost every week)? Try not ever dying and knowing that whatever decision you make now will determine all of existence because you are only this decision algorithm right now and nothing ever helps because algorithms don't change. 
+
+You might try the "I am the instantiation of an algorithm" sleight-of-hand, but that's really problematic. Do you also believe God has given you information about the Absolute Encoding Scheme? (If yes, want some of my anti-psychotics?) How can you know what spatial arrangement of particles "encodes" what particular algorithm? This is an unsolvable problem.
+
+But worse than that, even *if* you could do it, I don't think you actually grasp the implications of such a view. Here's [Susan Blackmore](http://www.susanblackmore.co.uk/Articles/JCS2012.htm), giving an eloquent description of how the position is typically envisioned:
+
+> This "me" that seems so real and important right now, will very soon dissipate and be gone forever, along with all its hopes, fears, joys and troubles. Yet the words, actions and decisions taken by this fleeting self will affect a multitude of future selves, making them more or less insightful, moral and effective in what they do, as well as more or less happy. 
+
+"Very soon"? Try *Plank time*. Blackmore is still acting as if this were Memento, where person-moments last seconds, maybe even minutes, as if *any* feature of consciousness *at all* would survive the time scale the universe *actually* runs on. *This is not the case.* Even the most barest of sensation takes milliseconds to unfold. Plank time is *10^41* times faster than that.
+
+Besides, taking the person-moment view completely screws over your sense of subjective anticipation and continuation. Or rather, *there is no continuation*. There is *no* future-you. Morally, *all* future instances of *all* people are in the same reference class. (Unless you want to endorse extreme anti-universalism. Not that I'd mind, but it's not very popular these days.) See how evil your own actions are, shamelessly favoring a very narrow class of people? I honestly don't know if should be more troubled by the insanity of this view, or the implied sociopathy of virtually all actions once you take it seriously.
+
+Breathe. Take an Outside View.
+
+Will Newsome once remarked:
+
+> The prefrontal cortex is exploiting executive oversight to rent-seek in the neural Darwinian economy, which results in egodystonic wireheading behaviors and self-defeating use of genetic, memetic, and behavioral selection pressure (a scarce resource), especially at higher levels of abstraction/organization where there is more room for bureaucratic shuffling and vague promises of "meta-optimization", where the selection pressure actually goes towards the cortical substructural equivalent of hookers and blow.
+
+Exactly. Once you begin taking this whole "analytical thought" thing seriously, it will try to hog as many resources as it can, trying to convert *everything* into analytical problems. And you can't get more analytical than "literally everything is algorithms". Result: massive panic attacks, nothing gets ever done, everything needs to be analyzed to *death*. (Case in fucking point: the whole akrasia mess on LW.) I can't even watch a movie without immediately thinking about what game-theoretic considerations the characters must be making, who is exploiting who, why acting this way will support a monstrosity of hostile memeplexes and screw over whole populations you monster, oh for fuck's sake, you haven't non-ironically enjoyed a movie for years, so shut up already.
+
+But what else can I do? Reject the only worldview that actually makes internal sense?
+
+Consider an alternative. A simple model, one that doesn't actually explain much; it doesn't want to. It's a strength, it claims. It goes like this:
+
+- Alternative: Who are you?
+- muflax: I am the algorithm that outputs "yes" to this query.
+- A: No, you don't believe that. Who are you?
+- m: What do you mean?
+- A: Point at yourself. What is it that is you?
+- m: I am all of existence.
+- A: No, you don't believe that either. This sensation - is that you? Does it feel like you?
+- m: No.
+- A: Good. Then what does? Point at it.
+- m: This observation does. This experiencing-the-sensation. Not the sensation itself, but the experiencing-the-sensation. Not this thought, but the hearing-this-thought. Not the confusion, but the feeling-this-confusion.
+- A: Correct. In a state of pure emptiness, pure equanimity - is there confusion?
+- m: No.
+- A: Confusion is an imposed state. What gives rise to confusion?
+- m: When I experience a situation I cannot understand.
+- A: What is "not understanding"?
+- m: When no correct thought comes up.
+- A: What makes confusion go away?
+- m: Analysis. Thinking a thought that explains a situation, that makes the internal workings transparent.
+- A: How do you know this state has been reached? What makes a thought correct?
+- m: When I no longer feel confused.
+- A: What do you do when you feel confused?
+- m: I facilitate thinking. I plan. I make goals. I divert resource into the solution of the confusion.
+- A: Imagine the same process had the power to generate confusion and make it go away. What could it do?
+- m: A complete power grab.
+
+And with this, muflax felt enlightened.
+
+For a moment, that is.
+
+Because when you doubt your thought processes because you suspect they are emotionally exploiting you... and you reach a conclusion based on an enlightened state of mind you feel when thinking this conclusion... well, then you ain't paying much attention.

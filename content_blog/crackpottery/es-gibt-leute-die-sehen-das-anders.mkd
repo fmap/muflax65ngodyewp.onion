@@ -1,0 +1,141 @@
+---
+title: Es gibt Leute, die sehen das anders.
+date: '2012-01-17'
+tags:
+- contrarian
+- history
+- jesus
+- theology
+- trolling
+- unknown god
+- way too many lists
+techne: :done
+episteme: :speculation
+slug: 2012/01/17/es-gibt-leute-die-sehen-das-anders/
+---
+
+("There are some people who disagree.", [obligatory T-shirt](http://www.katzundgoldt.de/ru_anders.htm))
+
+# The Case For Bias
+
+Coming from a kind of Hansonian and Tantric perspective, there aren't such things as "good" and "bad" goals. We might - for game-theoretic reasons - publicly approve of only some of our goals, but whatever we want, we simply want, and it's wrong to say that "I wish I didn't want X". Embrace your [monstrosity](http://buddhism-for-vampires.com/we-are-all-monsters).
+
+I can't deny that I'm a contrarian. Meta-contrarian, in fact. I *like* to disagree with the intellectual mainstream, and I can't even deny that I derive some of my values solely from the fact that The Establishment(tm) doesn't like them. So I thought... maybe I should try to be a *better* contrarian?
+
+(That doesn't mean that *all* my unusual or controversial views are contrarianism. I really would like meditation to be useful, instrumentally and spiritually, and have spent large chunks of my life trying to make it work. Unfortunately, some stuff simply doesn't work or is [misleading](http://blog.muflax.com/2012/01/04/why-you-dont-want-vipassana/). That I call myself an "atheist divine command theorist" nowadays is not [an attempt to disagree](http://xkcd.com/774/) with *both* atheists and theists, but simply derives from the fact that I *really want* theism to be true, but it just isn't, so I'm trying to salvage as many features as I can without going too crazy in the process.)
+
+Believing only true things just for the sake of truth is mostly a confused value. The reason you should overcome your biases is not so you only believe true things. Instead, false beliefs *on human hardware* have some typical failure modes that will fuck you up. *This* you should avoid. Fundamentally, there are two problems:
+
+1. Truth is entangled with reality. If you only track reality, no evidence will contradict you. If you choose to believe something untrue, you need to maintain *additional* models. This can be seriously difficult. So try to minimize the amount of questionable things you accept.
+
+2. You can't properly compartmentalize. It's not entirely possible for you to be a homeopath and believe in the benefits of modern medicine. Occasionally, you *will* act wrong and this will harm you. So try to be contrarian about inconsequential things. Don't believe in magic healing water, but that Native Americans are really Hebrews.
+
+So how would you try to be contrarian without giving up all your rationality and its benefits? You want to believe unusual things, but not end up praying your cancer away. I think a simple way to do it is to merely adjust your priors. Keep all your Bayes (Peace Be Upon Him), but a priori favor contrarian hypotheses.
+
+Example. There's a pretty famous disagreement if Jesus is a mythological figure or a (heavily distorted) historical failed preacher. Both are reasonable positions and there is good evidence for both. (Other views like the Zombie Jew are all nonsense.) If you were an ideal and unmotivated Bayesian, both positions would probably be reasonably similar in probability, maybe within 20% of each other. Which you favor would depend mostly on your prior. Is a historical religious founder whose message seriously got out of hand more likely than a cult making up mythological being and later historicizing it? There are certainly examples of both and it's not immediately obvious which is better as a general view. This is your chance as a contrarian! Simply adjust your prior slightly so that the more controversial view wins. Keep all the evidence and lines of reasoning in place and simply believe that, all else being equal, a myth-to-history is more likely than a failed-leader-to-hero-myth, at 3:2 odds maybe. Wham, you're a mythicist, don't have to live in a [magical parallel universe](http://en.wikipedia.org/wiki/Biblical_inerrancy) in which most evidence doesn't exist, but still get to be someone who disagrees.
+
+"Isn't this *evil*? You're actively advocating sophistry!" Yes, but it's *efficient* sophistry. You are a monster. Don't feel guilty about it, but do a good job. As a [wise man](http://www.youtube.com/watch?v=9NZDwZbyDus) once said, "Feelins'? Look mate, you know who has a lot of feelings? Blokes what bludgeon their wife to death with a golf trophy. Professionals have standards.". If it makes you feel any better, there is no practical way to choose an unbiased prior in the first place. The only known unbiased prior is the universal prior (explanation soon in the SI series) and it's incomputable, even for very simple examples. You *will* be biased, so why not be explicit about it and be biased in ways that benefit you?
+
+# Skillful Trolling
+
+Being a contrarian and being a troll is closely related. The only real difference is that a contrarian internalizes their trollish views, while a troll drops them outside a debate. But if you aren't trolling someone, why are you a contrarian in the first place? No-one just believes the [Dark Ages never happened](http://en.wikipedia.org/wiki/Phantom_time_hypothesis) in private. They *have* to publicize it and probably start a flame war over it.
+
+It is therefore an integral part of being a contrarian that you are competent in your subject so you can actually debate someone. If you simply represent mainstream views, you can always appeal to authority. (And where the mainstream is usually right, you're certainly justified in doing so. I'm not dissing the mainstream *in general*.) You can do a good job debating an anti-vaccine crank even if you know very little about medicine or biology. You can simply point to studies, a uniform expert consensus and clear results.
+
+But this shit doesn't fly if you think the mainstream is wrong. You *will* get simple citations of mainstream positions as actual arguments and it will be *your* responsibility to show how they are wrong (and how the mainstream came to accept them). Your opponent will *never* have to demonstrate how the argument actually works. (Though they do get bonus points if they do. Someone giving you actual arguments is strong evidence to take them seriously. Remember, *you* are the contrarian. You will be demonstrably wrong from time to time. It's a high-risk/high-reward strategy.)
+
+So you have to put a lot of effort into not just understanding mainstream views, but also deeply understanding your contrarian positions, and how to explain them to outsiders. This is a lot of work. You better be ready to dedicate a serious amount of your time to it. You can't be contrarian about a hundred things. Focus.
+
+(Fortunately all contrarians I know *like* this work and don't face akrasia in these fields. Which btw is good evidence against "akrasia is a general limitation" and "akrasia arises from modularity", and evidence for "akrasia is what being a hypocrite, but not acknowledging it feels from the inside". [Eat your shadow](http://buddhism-for-vampires.com/eating-the-shadow).)
+
+# Let's Talk About Me
+
+Enough general arguments. This is my blog and so let's talk about me. (Why not embrace a certain level of narcissism? If public writing works, but it doesn't seem to depend on feedback (most of my writing I never advocate and is therefore never commented on, which doesn't particularly bother me), then it seems obvious I'm at least partially motivated by potential attention. Might as well acknowledge that and use it to fuel the learning process.)
+
+Recently, I made a series of critical comments on one of [Luke's posts](http://lesswrong.com/lw/99t/can_the_chain_still_hold_you/). I was trying to express a couple of points:
+
+1. Legislation to abolish slavery had questionable effectiveness and mostly moved slavery to the black market where slaves don't have legal representation. It is analogous to the war on drugs.
+
+2. The reduction in proportional slavery is mostly due to economic factors, mainly urbanization and decreasing poverty.
+
+3. Therefore, the shift in moral attitude towards slavery is an afterthought of the real decrease, not the cause. It is mostly ideologically motivated, not a sign of moral change. The example in Luke's post is therefore irrelevant and misleading. (Like most other examples he gives.)
+
+4. I reject the Repugnant Conclusion and find it wrong to justify harm through greater benefit. Population growth is one of the greatest evils ever because it increases the number of people who suffer. It is completely irrelevant that *more* people might live happy lives. Suffering and happiness are probably not comparable quantities.
+
+I also hold the following beliefs (some not too strongly) which I tried to keep out of my comments so as to avoid downvotes:
+
+1. Slavery is not morally wrong. At all. I can find no fault with it. Partial legal property of humans is already acceptable (we call this "being a parent"), so why not of unrelated humans? A state should enforce any contract people want to make, including about buying other humans. I fully support this. (I am less confident about *inheriting* slavery because I'm skeptical of inheritance *in general*. I also find making someone a slave against their will (say through war) problematic (but maybe defensible), but I firmly support the right of people to sell themselves into slavery.)
+
+2. Slaves probably did not suffer *worse* than comparable non-slaves, so from a perspective of harm reduction, slavery is probably not a relevant evil. It gets its bad reputation mostly through [Progressivist](www.corrupt.org/columns/martin_regnen/condensed_moldbuggery) propaganda.
+
+3. The definition of slavery is very conspicuously selective. A Roman owning a personal assistant is slavery, but millions of prisoners worldwide working under forced conditions (and often against their will) is not? Prison labour should definitely be included in modern slavery statistics, but that wouldn't make it look so flattering anymore. Are children legally really different from term-limited slaves? (If you agree with animal rights arguments, what about farm animals? It's as if the institution of slavery per se isn't problematic, just when it applies to certain groups of humans under certain conditions.)
+
+4. Historically, slavery was potentially a useful institution, superior to its alternatives. Condemning it is misguided and ideologically motivated, like blaming Christianity and the Roman Catholic Church for the Dark Ages and Medieval decline, when really they were a force of stability, drastic reform and technological progress. (And I'm not saying this as an apologist. I have little love for Catholicism, but no-one deserves blame for things they *didn't* do.)
+
+5. And as a minor point, Europeans get a lot of hate for slavery when they *weren't even the dominant slave users*. Seriously, Christian Europe has always been the place with the *fewest* slaves. I know hating on poor, oppressed cultures isn't cool, but come on!
+
+So there. As you can see in my comments, I did rather poorly and did not at all do these points justice. Most are currently upvoted, but they were among the most controversial things I ever said on LW. (The other two were my skepticism of akrasia and disliking vaporware artsy games.)
+
+Let's analyze what I can learn from this:
+
+1. It's seriously hard to argue against major moral foundations. "We aren't slavers anymore" is an important myth of modern culture and going up against it is as much a suicide mission as arguing that Hitler maybe wasn't that bad after all.
+
+2. Arguing against the historical mainstream puts *all* the burden of proof on the dissenting voice. It's perfectly understood on LW and similar skeptical sites that someone arguing for the low-fat theory of weight loss, even though it is mainstream, has *some* burden of proof. At least they have to defend themselves against the null hypothesis, and it is perfectly acceptable to ask, if maybe a bit rude because it is easy to google, "Why do you believe that exercise helps with weight loss?". Asking "Why do you think that legislation is responsible for decreases in slavery?" does not deserve an answer and can simply be asserted.
+
+3. I didn't do the research, did not put in much effort and thus could not convincingly argue for my points. I knew this in advance, but hoped that being transparent and honest about my deficiencies, asking others to support *their* views so I wouldn't have to collect *all* the evidence, would at least grant me enough charity so we could have a meaningful conversation. Writing comments, even on LW, doesn't work for learning something new. (Which makes me much less likely to talk about experimental stuff there, which is a shame, but I don't have XiXiDu's patience.)
+
+4. I have repeatedly gotten the comment that I look like I'm signaling cynicism and forcing my arguments. I really wonder if there is a way I could communicate my positions without that impression. Maybe I'm particularly incompetent or calibrated for the wrong communities, but honest inquiry seems really hard to get across. Also, I wonder if I should adopt a different persona for these kinds of discussions. I feel like adopting a much more direct and more confident personality and really accepting the risk of starting a flame war, but I doubt that it would be beneficial, at least on LW. Mostly I feel that this puts *much* more responsibility on me to present my arguments well than on anyone else. No-one has to even cite statistics of, say, medieval and modern slavery, but I have to prove a huge counterfactual, namely that a modern world without progressivist influences and with fully legal slavery would have *less* slaves? I probably really have to choose my battles.
+
+# Troll Invictus
+
+So I was thinking. I love history, and I love all the contrarian views associated with it and the flame wars they incur, so it seems like a good investment of my time to get *good* at these things.
+
+1. What particular kinds of arguments are effective? Should I argue mostly from statistics, from original texts, from plausibility, from ideological bias, or something else? I generally aspire to write the kind of stuff I would love to read myself. Much of my writing is an attempt to create what I wish had existed when I started, and this desire dominates my style and choice of topics. Personally, I find contrarians most effective when they
+  1. debunk the main tools of the mainstream,
+  2. give a plausible, non-evil account how the opposition developed their views,
+  3. make testable predictions or unite previously scattered evidence,
+  4. rely mostly on quantifiable evidence,
+
+  but not when they 
+
+  1. make political arguments, especially when they present themselves as being persecuted (even when true),
+  2. link their beliefs to concrete policy,
+  3. violate [Hanlon's Razor](http://en.wikipedia.org/wiki/Hanlon%27s_Razor).
+
+  I should experiment with different techniques here.
+
+2. What are solid historical methods? I can't rely on the messed-up hodge-podge of modern historians, so I have to justify and accumulate a set of meaningful approaches myself. Only then can I derive meaningful conclusions based on them, and only them. This will also be useful as criticism, by showing that a point is methodologically flawed.
+
+3. I desperately need a good minimalistic framework of history. Only this month have I even added dates of important empires into my Anki deck, and I barely know India's history, for example. I need to branch out for a while and cover some ground. I need to rely much stronger on Anki here. 
+
+4. I really need to get my languages in order. I still can't read Latin. This is seriously not acceptable. I also need to re-evaluate my language priorities. I really wish I could read Akkadian, Russian and Chinese these days. Prof. Arguelles is right, you really need to read 10+ languages to meaningfully appreciate world history and literature. (Speaking them, on the other hand, is as useless as ever. I barely even speak German these days.) Translations are fundamentally bullshit for contrarians. Many good texts *won't* be translated, or translations won't be sufficient to establish the cultural context, or they will even seriously distort the text, as Jaynes has shown.
+
+5. Moral philosophy, theology and political theory are actually useful. (I know! I'm as surprised as you.) As it's list day at muflax' blog today, surprisingly influential on my thought over the last year or two have been:
+  1. Moldbug's resurrection of reactionary thought (Broken as it is, he has shown me that a serious alternative to progressivism *is* possible and that my admiration for... questionable people and institutions has a general moral and historical core and is genuinely worth developing. It does not just derive from [Evil Is Cool](http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilIsCool), but [Strawman Really Has A Point](http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawmanHasAPoint). Many unacceptable views today actually have serious arguments and don't derive from people just being dicks.) 
+  
+  2. Antinatalists' defense of deontological rights (I found all rights-based morality questionable before I read [Sister Y](http://theviewfromhell.blogspot.com/). Now I take it very seriously and consider it a serious contender for Real True Morality, even potentially Objective Morality.)
+  
+  3. Divine Command Theory (It's what I actually *wish* I would operate under, which I only understood when I roleplayed an explicit DCTist.)
+  
+  4. analytical theology (It's surprisingly interesting and relevant as a field, once you reconstruct it from the perspective of computationalism and Turing machines, or as Will Newsome recently called Leibniz' "best of all worlds" argument: "Recursive Universal Dovetailing Measure-Utility Inequality Theorem". Once you accept that the mind might be computation, really weird shit happens as materialist frameworks break down, and you consider acausal interactions and Tegmark universes, and you realize that fundamentally there is no difference between "real" and "hypothetical" scenarios. I may even have found a way to resurrect God. This scares and excites me. At the very least, it might be a strong argument *against* computationalism, which is the only meaningful basis of monist philosophy of mind. Either way, it's very fucked up.)
+  
+  5. non-protestant religions (That's a shitty name, but there's a certain core of protestantism as observed by [David Chapman](http://meaningness.wordpress.com/2011/06/24/protestant-buddhism/) that repeats itself in other contexts. It's characterized by its lack of ritual, sacredness and worship, and it's focus on (pseudo-)rational thought, equality and everyday life. Once I understood that ritual and worship are meaningful practices, I found a lot of value in them and currently try to integrate them more into my life. This seems to be epistemically dangerous, but so far totally worth it. I'm not sure how much of this benefit is specific to my personality, though, nor how influential this really will turn out to be. I feel like no modern construction of this practice exists and I'm stuck with either resurrected an old religion or building everything from scratch. I really hope Chapman makes lots more progress there.)
+
+Luckily I have stopped all AI and math research, now that I believe only in monetary support. I can put almost all my skills behind programming, history and theology. I like that.
+
+Let us close with a prayer to an [unknown god](http://en.wikipedia.org/wiki/Unknown_God):
+
+> I pray to you,  
+> unknown god,  
+> whose commands I have forgotten,  
+> but who eternally I shall serve.  
+>
+> I acknowledge my sins,  
+> and in my ignorance  
+> wish not for mercy,  
+> undeserving as I am.  
+>
+> I accept my penance  
+> and pray to you,  
+> unknown god,  
+> who I eternally shall serve.  

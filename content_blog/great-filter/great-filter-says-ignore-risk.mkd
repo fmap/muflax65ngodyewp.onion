@@ -1,0 +1,35 @@
+---
+title: ! 'Great Filter Says: Ignore Risk'
+date: '2012-01-24'
+tags:
+- great filter
+- prayer
+- saving the world
+techne: :done
+episteme: :speculation
+slug: 2012/01/24/great-filter-says-ignore-risk/
+---
+
+Quick, maybe silly thought.
+
+Assume there is a late Great Filter that kills a civ before it manages to take over the galaxy. For simplicity's sake, say there are only two possible candidates:
+
+1. (*Caution*) Civs are *too cautious*, avoid obvious technological progress out of fear it might harm them and so waste their limited resources and fail to prepare for natural catastrophes like the next meteor.
+2. (*Risk*) Civs are *not cautious enough*, build whatever they can and end up killing themselves with nanotech and 3D printers that for some strange reason always convert their planets into paperclips.
+
+Further assume only one of these candidates is true, but you don't know which. Now some civ arises, sees a Great Filter, reasons (like all civs) that it was following the wrong strategy, switches, kills itself. (Or there wouldn't be a filter.) 
+
+How do you avoid this problem? You can't reason yourself out of it. You can't just go, "I'm not meta enough" and switch a second time. The *other* civs would have done the same. It's a standard coordination problem where all participants run the same decision algorithm.
+
+You can't even go indexical and reason that the *first* few civs wouldn't see a Great Filter. They would see a young universe and correctly assume they just happened to be early and the lack of life has nothing to do with late filtering events, so they would follow the obvious of the two strategies. But as they died out, they must've chosen wrong. We can exploit that! We just *pretend* we never saw a Great Filter and figure out what we would've done, then do the opposite. But again: any late civ would figure this one out, and they *still* die. Everyone is choosing the wrong option because the *algorithm* you're stuck with is broken.
+
+The only sensible strategy, therefore, is to *flip a coin*. You *must* act independently from your decision algorithm so as to maximize your chance of anti-coordinating with the other civs. 50% is the best you've got. But then, the other civs would figure *that* out and *some* would succeed. It only takes 5 coin flips for a >95% chance of victory, after all. 
+
+Some possible solutions: 
+
+1. It is *really hard* to get a civ to adopt a random strategy. Not being random *is* the Great Filter.
+2. There are more than 2 options, such that random chance of picking the right one is pretty low. We can estimate it! Calculate how many civs there should've been up to now and you know an lower bound for the option set.
+3. No civ chooses the right option set, so despite random strategies, they *still* all fail 'cause the real correct option can never come up.
+4. Survival is impossible.
+
+There you have it. As my random strategy to save us from Hansonian Damnation and Happiness Paperclipping (Happyclipping?), I choose Pray To Possibly Dead And/Or Non-Existent Gods. You can thank me later.

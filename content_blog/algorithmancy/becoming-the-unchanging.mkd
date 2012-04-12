@@ -1,0 +1,71 @@
+---
+title: Becoming the Unchanging
+date: '1970-01-01'
+tags:
+- acausal
+- buddhism
+- cessation
+- consciousness
+- morality
+- rationality
+- yangming
+techne: :wip
+episteme: :speculation
+slug: ?p=448
+---
+
+<em>I'm mildly afraid to talk about my thoughts. The moment I present an idea, I begin to strongly believe it. This is of course how evangelism works - its purpose is to convince the missionary, not the heathen. Writing about it, though, doesn't seem to cause this. It forces me to address any holes and assemble a coherent (enough) idea, but often fails to trigger integration. I can write about certain ideas for ages without ever adopting (or rejecting) them. But sometimes, talking about an idea finally causes <em>decompartmentalization. This is an attempt to trace a recent one. </em></em>
+
+So I was having a short discussion about acausal trade. Acausal trade is the idea that agents can cooperate despite not having a direct causal link, but by sharing a decision algorithm. The classical example is <a href="http://en.wikipedia.org/wiki/Newcomb%27s_paradox">Newcomb's box</a>, i.e.:
+<blockquote>A person is playing a game operated by <em>the Predictor</em>, an entity somehow presented as being exceptionally skilled at predicting people's actions. [...] The player of the game is presented with two boxes, one transparent (labeled A) and the other opaque (labeled B). The player is permitted to take the contents of both boxes, or just the opaque box B. Box A contains a visible $1,000. The contents of box B, however, are determined as follows: At some point before the start of the game, the Predictor makes a prediction as to whether the player of the game will take just box B, or both boxes. If the Predictor predicts that both boxes will be taken, then box B will contain nothing. If the Predictor predicts that only box B will be taken, then box B will contain $1,000,000.
+
+By the time the game begins, and the player is called upon to choose which boxes to take, the prediction has already been made, and the contents of box B have already been determined. That is, box B contains either $0 or $1,000,000 before the game begins, and once the game begins even the Predictor is powerless to change the contents of the boxes. [...] The only information withheld from the player is what prediction the Predictor made, and thus what the contents of box B are.</blockquote>
+Of course, your best strategy is to take only box B. You don't strictly need acausal trade for that because you could just run a simple simulation yourself: in one case, 100 agents all take both boxes, in the other, 100 agents take only one. Because the Predictor is so good, most of the 100 first agents would end up with 1,000$, but most of the latter agents win big. So statistically, it's best for you to adopt the one-boxing strategy.
+
+But imagine <em>both</em> boxes were transparent.
+
+Now, you might think that this is trivial. If B is empty, you'd be crazy to one-box. But think about it. How does the Predictor actually make the prediction? What if it runs a simulation? What if <em>you</em> are this simulation? That would mean that your decision now would influence the result your second instance would face. If you two-box given an empty box, then your second self will also get an empty box. This is not profit-maximizing!
+
+It doesn't really matter how the simulation is actually implemented. Maybe the Predictor is a powerful AI and runs an approximation of you as a subroutine. Maybe its a mad scientist who fires a tranquilizer gun at you and wipes your memory after the first run.
+
+But, and this is were acausal trade comes in, let's go back to the first scenario, with an opaque box. You don't know if, maybe, you're the simulation. But you sure wish that <em>if</em> you were, you <em>would</em> one-box. So you would really want to influence another agent, despite not being causally able to do so. You can't communicate with this other agent directly. However, there is a way - because you share a decision algorithm!
+
+Whatever process you use to make decisions, the other agents uses the same one (or something very close to it). So whatever decision <em>you</em> come up with, they will too. This means that simply deciding <em>now</em> that you would one-box, given the choice, is enough. (Even if both boxes are transparent!) As long as this decision is sincere, the other agent will decide the same way and you will benefit. You just engaged in acausal trade.
+
+Anyway. Acausal trade doesn't necessarily have to happen between agents with identical decision algorithms, they merely need to know each other well enough to predict outcomes based on their own decisions. But that's not really my point.
+
+The point is that a general principle that follows from this insight is that agents should act as if they controlled all instances of themselves simultaneously. This is, in a way, a variant of the <a href="http://en.wikipedia.org/wiki/Categorical_imperative">categorical imperative</a>:
+<blockquote>Act only according to that maxim whereby you can, at the same time, will that it should become a universal law.</blockquote>
+However, instead of having to make the assumption all agents <em>in general</em> will be controlled by you (they won't), you merely assume control over agents with similar decision algorithms or decision algorithms that depend on you.
+
+One day in a supermarket, I wished I had a coherent self. I thought, it would be really neat if I could embrace this view. My food preferences would be consistent. I wouldn't want one kind of food and buy another. I would make the same decision for all my instances, so I could easily decide against unhealthy but tasty food. I would have an overarching self of consistent choices. That'd be awesome.
+
+And I began to think, how large is this self? Who, exactly, am I making decisions <em>for</em>? When I discussed this, I went, obviously all future instances of yourself are part of it. Which means that any kind of <a href="http://en.wikipedia.org/wiki/Temporal_discounting">temporal discounting</a> is a bad idea. You should always act as if the consequences of your actions applied <em>right now</em>. In other words, your actions should be consistent over time. This is, of course, part of what Wang Yangming was talking about with regards to moral truths. Once you understand a (moral) principle, you can't <em>not</em> act according to it. A view I myself have <a href="http://blog.muflax.com/2011/03/02/on-studying/">endorsed</a>.
+
+But when I tried acting like this, I realized this was ill-defined. Future instances of myself means what, exactly? Anything that self-identifies as muflax? Anything in this body? I couldn't clearly delimit "myself" in any dimension. Then I remembered that it was weird for me to think in terms of a "self" in the first place. I mean, I dissociate heavily. I have this view of myself as a myriad of slices over time, each representing a tiny aspect of this brain being in control, who are all fundamentally independent agents. They sometimes cooperate when goals happen to match, but essentially, muflax(t+1) isn't muflax(t). Even worse, there isn't even a unifying stream of consciousness, there is merely one moment of consciousness now that through memory falsely believes to have a continual existence.
+
+But I didn't fully internalize this view at the time because I thought it had a consequence I didn't want to embrace - <em>long-term selfishness would be incoherent</em>. Or in other words, it would make no sense to say, I do this so I may benefit from it later. muflax(t+1) is as much me as random_person(t+1). Why would I favor one and not the other? The only coherent scope for muflax(t)'s goals is <em>right now</em> and that is it. Which is what the Buddhists have been telling me for a long time. It didn't surprise me that people holding this view don't get anything done - there is no <em>point</em> in getting anything done! Also, universal altruism seems to follow directly from it. Or, as Eliezer says:
+<blockquote>And the third horn of the <a href="http://lesswrong.com/lw/19d/the_anthropic_trilemma/">trilemma</a> is to reject the idea of the personal future - that there's any <em>meaningful </em>sense in which I can anticipate waking up as <em>myself</em> tomorrow, rather than Britney Spears.  Or, for that matter, that there's any meaningful sense in which I can anticipate being <em>myself</em> in five seconds, rather than Britney Spears.  In five seconds there will be an Eliezer Yudkowsky, and there will be a Britney Spears, but it is meaningless to speak of the <em>current</em> Eliezer "continuing on" as Eliezer+5 rather than Britney+5; these are simply three different people we are talking about.
+
+There are no threads connecting subjective experiences.  There are simply different subjective experiences.  Even if some subjective experiences are highly similar to, and causally computed from, other subjective experiences, they are not <em>connected</em>.
+
+I still have trouble biting that bullet for some reason.  Maybe I'm naive, I know, but there's a sense in which I just can't seem to let go of the question, "What will I see happen next?"  I strive for altruism, but I'm not sure I can believe that subjective selfishness - caring about your own future experiences - is an <em>incoherent</em> utility function; that we are <em>forced</em> to be Buddhists who dare not cheat a neighbor, not because we are kind, but because we anticipate experiencing their consequences just as much as we anticipate experiencing our own.  I don't think that, if I were <em>really</em> selfish, I could jump off a cliff knowing smugly that a different person would experience the consequence of hitting the ground.</blockquote>
+This view, which I previously <em>thought</em> I believed, effectively undermines consciousness-based selfishness. I <a href="http://lesswrong.com/lw/i4/belief_in_belief/">meta-believed </a>that my preferences revolved around my stream of consciousness, going so far as to deny any relevance of phenomena I didn't personally experience. But, and I only got this when working through this, <em>there is no stream of consciousness</em>.
+
+Despite the Buddhists telling me this from day 1. Despite making a great effort to apply meditation techniques specifically designed to understand this. Despite having <a href="http://muflax.com/reflections/quale/">written about it</a>. All not enough to get it. It is one thing to see the visual stream flicker, to see pain waver in and out of existence, but something else to see the sense-of-continued-self disappear. Especially because it is so easy to think of the self as a memeplex, as a psychologically constructed thing, a <em>persona</em>, and to get that this thing isn't continuous or permanent, and then think that realizing this is already the teaching of anatta. It isn't. You can deconstruct all psychology, go into thoughtless trance, and still perceive yourself as having a continuous experience, an ongoing stream of consciousness, a subjective experience spread out over time.
+
+You don't.
+
+I cannot hope to unravel this in writing and won't bother trying, but I can walk through the final process, the analysis that made it click for <em>me</em>. Thinking in terms of algorithms, how does the state transition happen? Does it work something like this: you have one conscious moment now, then the laws of nature are applied, then you have the next conscious moment? What <em>instantiates</em> consciousness? How is a data structure different from running code? If I took all these conscious states and stored them in memory, what would your consciousness look like? How is the order reconstructed from this storage, how do we assemble a stream?
+
+The answer is that we don't. Each conscious moment is self-contained. If you think, but I was conscious before, how do you know that? You have a perception, constructed from memory, that says, "I was conscious before". This <em>feels</em> an awful lot like having been conscious before. But if you believe in a continuation, you are confusing a model of yourself with yourself. So there is only a single conscious experience (and be careful with calling it a <em>moment</em> - time is only a feature of the model). Whenever you try to point to a "self", a subjective sense of existing-over-time, you try to dereference some part of your model to somewhere out of your current perception. In other words, you try to think, "Here is a thought. Here is another. Therefore, I had (at least) two conscious moments, so there is a continuous subjective experience.", but what you really think is the "therefore", which contains simultaneously the perception of remembering having thought two thoughts before. Or in yet another set of words, by thinking this, you confuse the perception of "I remember this" with "I was conscious of this". Try to see yourself as a fully resolved node in a causal graph, not referencing any other node except through causation.[^model]
+
+[^model]: This does not mean that your time horizon is necessarily only <em>now</em>, i.e. that it becomes impossible to plan. Your current blip of experience can certainly contain models of yourself and other things. It is merely your subjective experience that is not spread out over time.
+
+Poetically, the world is destroyed and recreated every instant, each moment-of-consciousness flickering in and out of existence, unconnected, but containing patterns that link them.[^cessation]
+
+<em><em>"In the thinking, just the thought. In the hearing, just the heard. In the seeing, just the seen."</em></em>
+
+[^cessation]: Another consequence of anatta seems to be that the idea of cessation is incoherent. How can you speak of "starting or stopping to exist"? This seems literally incomprehensible. But this is for another time.
+
+So realizing anatta fully, I saw no way to get to a coherent concept of a self-spread-out-over-time, no ideal basis for decision-making. But I really wanted to! It would be fantastic to have this unifying plan, this strong sense of acting-simultaneously-in-time. My optimization power would go way up. It would be the kind of feat I always <a href="http://blog.muflax.com/2011/09/20/a-rationalists-lament/">wanted from rationality</a>. Can it be done?

@@ -1,0 +1,37 @@
+---
+title: ! 'Wake-up! Apineridxlcortrcndyt make up! '
+date: '2012-04-06'
+techne: :done
+episteme: :log
+slug: 2012/04/05/wake-up-apineridxlcortrcndyt-make-up/
+---
+
+<%= image("idea_man.jpg", "idea man") %>
+
+Ok, so I haven't solved the problem, but the other stuff is getting urgent, so yeah. Minimize harm, keep as many options open as possible, fix the rest so I have more cognitive resources available. Sounds good. (Good-ish. I'm really hoping the 2012 thing is real. Would solve *all* my problems.)
+
+First, thought about some guiding meta-strategies.
+
+1. Ratchets are the shizzle. Once I have successfully converted a problem into "do this trivial task, X amounts of time each day and win by default", everything is fine. Like my Anki reps. (Which, btw, benefit *greatly* from Ankidroid. I rarely leave the house, so I thought a phone would be largely useless. Nope! Waiting for water to boil, awake but not enough to get up, on the toilet, whatever - 5 minutes away from my PC, bored, gotta do some reps. Works.) Most of my problems can be converted this way, and what can't mostly doesn't bother me (i.e. it doesn't work with philosophy, but that's the one thing where I'm *not* stuck).
+
+2. Recursive plans. The basic idea is just normal planning, but the extent and cognitive representation is something I never really bothered to apply to *important* problems. Of all things, [BG2][] is where I have perfected this technique. I've played this game so many times now that I'm sure I can accurately draw >90% of the maps just from memory, including item location, monsters and so on.
+
+   When I start a new game, I typically have some idea in my head, generally about party composition. Maybe I wanna play without casters, or as a single monk, or whatever. I then go through a lot of planning in advance, checking things like, "How do I deal with spell protections?", "What about Illithids?", "In what order do I finish chapter 2?" and so on. I easily put in 5-10 hours before I even *start* the game. When I actually do start, I have a recursive plan in my head, and it roughly looks like this:
+
+   I know how to play BG2 because I know what to do in all chapters. In chapter 2, I hook up with Anomen and Jan right away to cover my caster needs, do the Minor Quests to get equipment, then to The Traditional Route. The Minor Quests are Circus, Slavers, ... and so on. The Traditional Route is Trademeet, Keep, Umar, Sphere, Firkraag. Trademeet I can mostly ghost through and rely on Scroll of Fire Elemental to kill the Rakshasa. The Keep...
+
+   You get the idea. This doesn't require a full map. Like a [quadtree][], I start with a highly abstract view, then identify tricky bits, break those down, until no uncertainty remains. The Sphere is barely represented at all because I know there are only two difficult fights in it and they have the same strategy - deal with a protection-heavy mage in thief-friendly terrain. I just find one solution (get Keldorn, bring Protection from Magic scrolls, use a thief with lots of Invisibility Potions, ...) and then I can mentally store it as "Sphere -> Keldorn".
+
+   I don't have to plan all the details (like how to kill skeleton #37), only the uncertain ones. Interestingly, I almost never take any notes. This is entirely in my head, but requires no effort, no concentration and is trivial to remember. Just invoke the recursive structure, traverse it, done. Uncertainty propagates upwards, so I can directly feel what parts are problematic. (Uh-oh, totally item-dependent - how do I deal with Spellhold?) Because it's a sparse tree (or rather, roughly tree-shaped graph) I can keep the whole thing in working memory at a high enough resolution to feel secure. (No flaws; I can totally do that.) 
+
+   In fact, uncertainty is fundamentally represented as *anxiety*. When the whole plan stops freaking me out, I know I'm done. (There's a difference between "uncertain" and "no answer". Uncertainty is when I don't know what to do at all, "no answer" is when a higher meta-level has a complete solution, I just haven't unpacked it yet. Only uncertainty causes anxiety.)
+
+   (I can only give a description of what I kinda do because there is almost no mental experience. No visualization, no movement, no talk, nada. Just a logical/narrative structure and emotional states. Kinda kinetic, but not really. (Though I can *make* it visual with the help of shrooms or DXM. Seeing grammar directly is really awesome, but that's a different story.))
+
+   I have no idea why I'm not using this routinely, but only for games and writing.
+
+Then was bored, tired, mentally dead for a while. Normally, would've watched RiffTrax all day, but as a compromise, decided to read something. Read [Faust][] 'cause it's awesome, and I need to get back into the continental/German style of writing and thinking because I'll soon read Kant, Husserl, Heidegger and other Dead Germans. Again. I think I understand now why I chose the German background in this RPG. You can't translate this stuff.
+
+(Also played Machinarium. Review: The last few puzzles are so awful that they spoiled the whole experience for me. Also, Amanita Design, *fuck you* for using a tone puzzle. You are scum.)
+
+Well, actual solutions next log. Long enough.

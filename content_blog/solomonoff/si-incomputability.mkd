@@ -1,0 +1,39 @@
+---
+title: ! '[SI] Incomputability'
+date: '2012-01-15'
+tags:
+- solomonoff induction
+techne: :done
+episteme: :speculation
+slug: 2012/01/15/si-incomputability/
+---
+
+So far KC looks really nice. Is there a some kind of drawback?
+
+If you know something about TMs, you should expect one right away - the Halting Problem. Talking about all possible programs is really tricky. And you would be right, of course - KC is not computable. You can't actually build a TM that figures out the KC of all possible sequences. Individual ones you can do, but all of them, systematically? Nope.
+
+Here's how it fails. Let's say you have a program KC(s) that takes some sequence s as an input and calculates its KC. Assume this function is computable. I'll show you that this leads to a contradiction.
+
+Look at this simply program: 
+
+    at_least_this_complex(n):
+        for all integers i, starting with i=1:
+            for all sequences s of length i:
+                return s if KC(s) is at least n
+
+This program returns the first string of a given minimal KC. Now obviously the complexity of this program itself is constant, except for the variable n. Let's call this constant C. Encoding n takes log(n) bits. So the total complexity of this program is C + log(n). But there's a problem. We know that logarithms grow slower than linear functions. There is a number X such that log(X) < X. In fact, the distance between log(X) and X gets arbitrarily large. Therefore there is an X such that C + log X < X. Uh oh! 
+
+What does it mean? Well there is a number X such that using the function at_least_this_complex(X) is a *shorter* description than using the number itself. But at_least_this_complex calls KC(s) and by definition finds the shortest sequence of length X! There can't be a shorter one, yet we have it.
+
+You just got paradoxed.
+
+You will probably recognize the general form of the argument. It's basically just a re-statement of the Halting Problem or Gödel's incompleteness theorem. But more directly, there's a much joke about it.
+
+Theorem: There are no boring integers.  
+Proof by Contradiction: Let B be the set of boring integers. Assume B is not empty. (There are boring integers.) Then there is a smallest integer in B. But that's a very interesting property! q.e.d.
+
+So unfortunately, there almost is a universal sense of complexity independent of languages, but really, it doesn't work out. You have to pick *some* encoding, some specific setup, and this setup will have its own specific gaps. A perfect system can't actually be done. Either there are some sequences you *could* compress but won't ever find an algorithm for, or you will compress some things wrongly. Your choice.
+
+Maybe that's not enough reason to despair yet. Hopefully these gaps don't *dominate* our attempts to compress things. Even if there are some gaps, we can still predict *some* things. Almost all possible games are too large to fit on our hard drives, but we can still play Skyrim. Not all limitations are devastating.
+
+So how can we use KC to drive our predictions?

@@ -1,0 +1,120 @@
+---
+title: Why You Don't Want Vipassana
+date: '2012-01-04'
+tags:
+- lesswrong
+- meditation
+- tantra
+techne: :done
+episteme: :speculation
+slug: 2012/01/04/why-you-dont-want-vipassana/
+---
+
+*This is a series of PMs I exchanged with someone on LW asking me why I thought vipassana isn't what most people are looking for and might be actively dangerous. They told me it was good enough to turn it into a dedicated post, but I don't feel like cleaning it up, so I'm just reposting it here for now.*
+
+> Where specifically does it talk about vipassana being set up to break people down? That sounds fairly interesting. Also, I'm usually disappointed by the clarity of presentation in most meditation books. It seems that if you ask questions that are too hard they just say "the map is not the territory" or some koan and expect that to suffice. I prefer a sort of LW-type detailed analysis that taboos words and tries to be precise and clear. Are there any works that you know of that are like that?
+
+Yeah, Ingram calls that the "mushroom culture" - keep 'em in the dark and feed them shit. :)
+
+Buddhists have a pretty bad track record of being open and honest about their own practice. I think there are basically three reasons: 
+
+1. Hardcore practice doesn't sell. Most people seeking meditation, at least in Western contexts, want easy psychotherapy, not enlightenment. If you go all out, you lose most of your paying customers. Sad but true. Teachers in Asian countries tend to be much more hardcore (or so I heard, I've never actually used a teacher, only read their stuff).
+
+2. Real Buddhism isn't "nice". Even if you try to take meditation seriously, as [Goenka's organization](http://www.dhamma.org/) does (their courses are all pretty good and free), you can't actually do what Buddhists have been doing for centuries. For example, try this and see how many students are willing to listen:
+
+   > Furthermore, as if the monk were to see a corpse cast away in a charnel ground - one day, two days, three days dead - bloated, livid and festering, he applies it to this very body, 'This body, too: Such is its nature, such is its future, such its unavoidable fate'...
+   > Or again, as if he were to see a corpse cast away in a charnel ground, picked at by crows, vultures and hawks, by dogs, hyenas and various other creatures... a skeleton smeared with flesh and blood, connected with tendons... (...) decomposed into a powder: He applies it to this very body, 'This body, too: Such is its nature, such is its future, such its unavoidable fate.'
+   > (...) His mindfulness is established, and he lives detached, and clings to nothing in the world.
+
+    Yet corpse meditation (i.e. thinking of one's own body as a rotting corpse, ideally using a fresh corpse for comparison) is an absolute *core* practice in Buddhism. The Satipatthana Sutta and Visuddhimagga, two foundational texts, spend whole chapters discussing them and similar practices. There are Buddhist traditions that don't have so negative values and would be much nicer, but for historical reasons, they never became very influential outside Tibet. [David Chapman](http://meaningness.wordpress.com/2011/07/12/what-got-left-out-of-%E2%80%9Cmeditation%E2%80%9D/) talks a lot about this.
+
+3. Most teachers have no idea what they're talking about. :) Initially, Western teachers (in the 60s-70s) didn't talk about enlightenment because they didn't want to scare away their audience. But if they don't talk, then idiots are indistinguishable from real teachers, and if the audience only wants useless psychotherapy anyway, well, then you get the current situation. (Zen is also partially responsible here. They have a very pragmatic attitude of "don't care about the map or territory, just practice", which means Zen practice has much less bullshit in it, but it's also unnecessarily hard to understand.)
+
+Anyway. About vipassana. Bear in mind that the core technique (pay attention to every sensation and detach from it) is deceptively simple and can be taught even without knowing what it's for, so it ends up a lot in new age and mindfulness bullshit. 
+
+But it's real purpose is the destruction of the self and all desires - and it's pretty good at that (if you keep it up - it's possible to apply it selectively, but that's a lot trickier). But that's not what most people want. They *like* their identity and goals in life, so it fucks them up. This purpose is clear from the history of vipassana. Basically, it was (re-?)invented in the 20th century, based on old texts like the Visuddhimagga (good book btw, very detailed and explicit, but pretty dense and could use an extensive commentary). These texts are very explicit about their goals: life is bad, desires and the self lead to reincarnation and more life, so we must get rid of all attachment to anything in life. All techniques are designed only for this purpose. (For a more detailed history, again [Chapman](http://meaningness.wordpress.com/2011/07/07/theravada-reinvents-meditation/) and the books he mentions.)
+
+Vipassana is a modern reconstruction of these techniques (a pretty close one, I think, having both done vipassana and read the Visuddhimagga), so it's no surprise that it causes breakdowns and plenty of akratics. 
+
+For example, the Visuddhimagga has a chapter "The Benefits of Developing Understanding" that outlines the whole point of Theravada meditation (of which vipassana is the most famous form):
+
+> Briefly, though, its benefits should be understood as these: (A) removal of the various defilements, (B) experience of the taste of the noble fruit (i.e. "the fruits of asceticism"), (C) ability to attain the attainment of cessation (i.e. nirvana), and (D) achievement of worthiness to receive gifts and so on.
+
+What are these defilements?
+
+> Herein, it should be understood that one of the benefits of the [...] is the removal of the various defilements beginning with [mistaken] view of individuality. This starts with the delimitation of mentality-materiality [i.e. dualism]. Then one of the benefits [...] is the removal [...] of the various defilements beginning with the fetters.
+
+The [fetters](http://en.wikipedia.org/wiki/Fetter_%28Buddhism%29) are:
+
+- belief in a self
+- doubt or uncertainty, especially about the teachings
+- attachment to rites and rituals
+- sensual desire
+- ill will
+- lust for material existence, lust for material rebirth
+- lust for immaterial existence, lust for rebirth in a formless realm
+- conceit
+- restlessness
+- ignorance
+
+It then gives this nice poem: 
+
+> With dreadful thump the thunderbolt  
+> Annihilates the rock.  
+> The fire whipped by the driving wind  
+> Annihilates the wood.  
+> The radiant orb of solar flame  
+> Annihilates the dark.  
+> Developed understanding, too,  
+> Annihilates inveterate  
+> Defilements' netted overgrowth,  
+> The source of every woe.  
+> This blessing in this very life  
+> A man himself may know.
+
+It also gives this explanation: 
+
+> What is the difference between one who has attained [cessation] and one who is dead?  
+> This is also given in a sutta, according as it is said: 'When a monk is dead, friend, has completed his term, his bodily formations [i.e. perception of the body] have ceased and are quite still, his verbal formations have ceased and are quite still, his mental formations have ceased and are quite still, his life is exhausted, his heat has subsided, and his faculties [i.e. seeing, hearing, ...] are broken up. When a monk has entered upon the cessation of perception and feeling, his bodily formations have ceased and are quite still, his verbal formations have ceased and are quite still, his mental formations have ceased and are quite still, his life is unexhausted, his heat has not subsided, his faculties are quite whole'.
+
+So the only difference between an ideal monk and a corpse is that the monk still has a beating heart. :) Given these goals, it's no surprise that someone doing a lot of vipassana doesn't get much done. That's the whole point!
+
+So much for the background. For the actual technique, I'll recommend Ingram's [MCTB](http://www.interactivebuddha.com/mctb.shtml) again. No bullshit, direct and honest, doesn't hide any information. It's popular among LW meditators and rightfully so, I think. It does tend to get a bit fuzzy sometimes, but that's really hard to avoid when you're dealing with unusual states of consciousness. There isn't much of a reference frame you can use and so far introspection is the only tool we have, so it's bound to suck occasionally.
+
+Also, Ingram has a whole chapter about different definitions of enlightenment and his thoughts on how they came about. His pet theory is fairly plausible and clearly defined (even has testable criteria!), so you're probably interested in that as well.
+
+Having said all that, vipassana isn't all of meditation or Buddhism, and particularly Tibetan Buddhism has a lot of nice stuff that is quite the opposite of renunciation, but they have major problems with their epistemology. It's all full of demons and shit, and you never know when it's just a useful visualization and when they're quite serious about talking to a god. So unfortunately I can't point you to a no-nonsense introduction there. However, the techniques work regardless of the beliefs (just as in all self-help), so the Zen attitude of "shut up and practice" is useful here. (And you get the typical self-help problem that many people can be simultaneously very precise and rational in some areas, but then also turn out to be homeopaths. So you can either throw away the whole field and do everything from scratch, or you have to ignore your bullshit radar and listen to a lot of crackpots.)
+
+> Also, what is it exactly that you (and Ingram) are trying to get out of meditation?
+
+Good question. I'm not so sure myself. :D Ingram thinks of insight meditation (i.e. vipassana etc.) as a kind of ratchet. There are certain stages where once you reach them, you can't go "back" to a normal life. You are either stuck in an emotionally unstable state or you have to get it over with completely. There's something to it and most hardcore practitioners I know unintentionally crossed this first threshold (often through drugs or lucid dreaming) and then found that only careful meditation made it any better.
+
+I'm not so sure that meditation (and vipassana in particular) is really the best option here, and I suspect that a lot of the problem is one of our own making by using techniques designed for renunciation. So I'm not doing any vipassana anymore.
+
+Basically I tend to think of it this way: there are unmet desires and they will cause a lot of suffering. One way to solve this problem is to remove the desires, but that's like fighting spam by shutting down the internet. It seems much better to transform these desires in such a way that they don't cause suffering anymore. In Buddhism, that's the tantra approach. I'm still fairly new to this, so I can't recommend a specific technique, but generally I found an attitude of embracing all emotions as essential and wholesome (even pain, hate, disgust, ...) more pleasant than trying to get rid of them.
+
+(Another way is to take over the universe and make sure all desires *are* met. That's the transhumanist answer, and I'm way more skeptical of it than the LW mainstream, but it's certainly a clever third option if it ever works out.)
+
+Regardless, vipassana isn't the only form of meditation. Another common form is concentration meditation (or samadhi / samatha), also called [kasina](http://en.wikipedia.org/wiki/Kasina) meditation, after the typical concentration object. Basically, you pick a simple object (a colored disc, a mantra, the breath, a god, ...) and pay attention to it. That's... pretty much it. ([The Attention Revolution](http://www.amazon.com/Attention-Revolution-Unlocking-Power-Focused/dp/0861712765) by B. Alan Wallace is a good detailed explanation, but he's a dualist crank and you know, "sit and watch this disc for as long as you can" isn't really hard to explain.)
+
+The interesting thing is that with enough practice, certain states of concentration arise. MCTB also talks about them, so I won't repeat myself, but they are quite fun and relaxing. I'm a bit skeptical how useful they really are because I suspect most of their benefits are lost the moment you stop meditating, but they certainly are good for relaxation. You might want to look into them and ignore the insight / vipassana stuff.
+
+My main criticism of concentration practice really is just how friggin' hard it is. :) It takes ages to make progress and quite honestly, I don't have the patience for that. It's really blissful, but I got bored of bliss after a while. I like reading more, but it's a matter of taste, I guess.
+
+Also, these hardcore states of concentration don't seem to transfer to anything *else*. Someone who can hold an hour of unwavering concentration on their breath (an impressive feat that takes hundreds of hours to achieve) isn't any better at math, programming, video games or whatever task that requires concentration you can think of. It seems the only way to get better at X is to practice X. There isn't any universal concentration (or intelligence) practice. 
+
+Having said that, I still use it occasionally when I get too nervous and burned out. Smoking a bowl and running for an hour is probably just as good to relax, however. :)
+
+Another technique is typically called metta meditation. Basically, you pick an emotion you would like to cultivate (normally kindness) and expand it. To do so, you think of something particularly joyful (like a cute puppy or someone you love) and concentrate on the feeling. You then try to localize it somewhere in your body (try the heart) and see if you can expand it a bit. You grow the sensation till your whole body, then the room, then all space is filled with kindness. Then you pick a less kind thought (say a neutral acquaintance) and expand the kindness to them. Then to stuff you hate and so on. 
+
+So basically, you grasp onto a strong sensation of whatever emotion you want and begin to associate it with as many things as you can, overriding other emotional responses if necessary. This works pretty well (and is not unique to Buddhism in any way). Jack Kornfield and Pema Chödrön have a lot of good material about it. Personally, I'm quite fond of my emotional landscape nowadays (there are people I *want* to hate) and I have no use for metta practice myself anymore. But it's exactly what it says on the tin and gets fast results, so if you're looking for it, check them out.
+
+> I find your views on metta to be humorous, though why would you want to hate somebody?
+
+Because they are bad people? :) Without getting into any moral or political reasons, I'm not CooperateBot. There are people I defect against in the Prisoner's Dilemma, and hate is an appropriate emotional response (among others) in these cases, I think.
+
+> What have you learned about tantra? I usually associate that with tantric sex. I haven't heard tantra outside of that context.
+
+Yeah, it doesn't get much attention, unfortunately. David Chapman is currently working on a good presentation. [Eating the Shadow](http://buddhism-for-vampires.com/eating-the-shadow) is what characterizes tantra for me. Instead of trying to detach or remove "bad" aspects of yourself, you accept them as your own and integrate them. That's inherently a very messy and personal process, so it doesn't seem to lend itself to such nice models as in vipassana.
+
+Honestly, I've not been doing it for long enough to make any comfortable statements. Any bullshit self-help works for *some* time. Ask me again in 6 months what I think of tantra and I'll be able to give you a decent answer. ;)

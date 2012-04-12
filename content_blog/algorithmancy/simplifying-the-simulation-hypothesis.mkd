@@ -1,0 +1,20 @@
+---
+title: Simplifying the Simulation Hypothesis
+date: '2012-01-28'
+tags:
+- sent from my dreams
+- simulation
+techne: :done
+episteme: :speculation
+slug: 2012/01/28/simplifying-the-simulation-hypothesis/
+---
+
+Just slightly too long for [Twitter](https://twitter.com/#!/muflax): Everyone who has experimented with lucid dreaming knows that a computer the size of a coconut, primarily designed to climb trees, is enough to simulate worlds of sufficient detail to convince a mind that it is in a full world, containing many other minds it can communicate with.
+
+This should dramatically lower our bound of the necessary computational power of a computer simulating *you*.
+
+Ask not how expensive it might be to simulate the whole universe you see with its diameter of 46 billion light years. Ask how expensive it is to fool *you*. 
+
+Also, if it is easier to fool you than to build a whole world, then what evidence do you have of other minds? If there are no other minds, are there still anthropic puzzles? If the reference class is small enough, birth rank stops being surprising.
+
+But do not consider the thought that, like in a dream, it is your own expectation that shapes the world, for then you would have to answer why you would imagine a world like this, so unlikely and wasteful, as if you wanted to distract yourself from solipsism. This thought brings only madness.

@@ -1,0 +1,39 @@
+---
+title: Biste jetz Kommerz-Gandalf oda wat?!
+date: '2012-04-05'
+techne: :done
+episteme: :log
+slug: 2012/04/05/biste-jetz-kommerz-gandalf-oda-wat/
+---
+
+Worked on 220 problems at once.
+
+(I love the sound of that.)
+
+So I first typed them up and grouped them a bit.
+
+Then did nothing for a day besides watching TV, writing stuff and so on. Anyway.
+
+First meta run: How do these problems relate? What are obvious connection, dependencies, sub-problems?
+
+It's clear that some problems are just different instances of the same general case. For example, there are several people I'd like to get in contact with again, or multiple languages I want to learn.
+
+Also, some problems don't look like "real" problems in that they all flow from the same psychological issue, which, if fixed, would make them all disappear. 
+
+Some are also resource problems, in that there's a ton of stuff I *want* to do, but only so little I actually pull off. Similarly, some problems are easy to solve and just require minor attention. For example, there are various software upgrades I ought to do and which would only take 10 minutes or so each. However, I refuse to do anything *yet* because I want a general solution. It does me no good if I fix all those problems only to get swamped again in a month. It sucks now, but I don't want it to suck again and again.
+
+About 15 problem groups, with about 50 sub-groups in total. Better, but still intractable and not sustainable.
+
+Second meta run: What are the motivations? What algorithm produced them? When they are signals, what *value* are they trying to signal? Why do I even care?
+
+Some more meaningful groupings and I'm now able to reduce everything to about 5 main problems with lots of minor instances that I have reasonable attacks for. I know how to do the rest. This actually fixes much of my anxiety and I feel ready to tackle the problems, after I set up some general structures that turn them into ratchets.
+
+Except for one.
+
+Which is the main issue, really. I have no idea how to make any money without, you know, killing myself over it.
+
+For reasons that I really should talk about more, I've done some changes and now find that I actually have very little use for money itself. I currently have like 200 eurons of discretionary income a month, and that's *plenty*. I mean, I buy a book, maybe a game, rarely some hardware. I'm not even trying and I'm already living like a hermit.
+
+I really should look into low-income alternatives. Which I'm doing now.
+
+Also wrote a blog post about why self-help doesn't work and akrasia can't be fixed, not because it's a particularly revolutionary idea, but because I couldn't fit it into a tweet, and because I only recently realized how maximizing difficulty could be *intentional*. This has lots of obvious implications, but because they are so obvious, I won't talk about them.

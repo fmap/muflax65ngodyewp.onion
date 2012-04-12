@@ -1,0 +1,41 @@
+---
+title: Dig through the ditches and burn through the witches...
+date: '2012-03-26'
+techne: :done
+episteme: :log
+slug: 2012/03/26/dig-through-the-ditches-and-burn-through-the-witches/
+---
+
+I've tried to find good subs2srs-equivalent material for Latin texts, but it doesn't exist. (Or is way too short.) Subtitles are this by default, but only Mel Gibson (peace be upon him) makes good movies in dead languages, so alternatives are necessary.
+
+So I make my own.
+
+I wanted to try [MCDs][MCD] anyway, so this looks like a good opportunity. I do it like this:
+
+1. Take an interesting, large Latin text (e.g. De Bello Gallico, Vatican texts, no poetry) with a decent (i.e. readable, close to the text) translation.
+
+2. Divide the texts into short paragraphs and match them up. These paragraphs will be units of learning, roughly corresponding to a scene in a movie.
+
+3. Extract all tokens from the Latin text (inflected and base form, using [TreeTagger][]), remove non-words and calculate word frequencies based on the text. (I dislike predefined frequency lists. They are *always* based on the shittiest texts available. It's like the CIA assassinates you if "dissolution of a contract" doesn't come before "axe".)
+
+4. Translate each word based on the best free dictionary, [Words][Words dict]. (Better than [Perseus][] simply because it's not censored.)
+
+5. Throw away everything not in the dictionary. (Mostly names.)
+
+6. For each word, create up to 5 cards with example usages (see 7)). There are two card versions: 1) replace the word with the translation, 2) simply highlight it. On the first card, the goal is to reproduce the Latin word, given the massive context of the paragraph and the translation (of the paragraph and word). On the second card, simply translate what the word means or does within its context, given only the original paragraph.
+
+7. Examples are constructed from paragraphs. They are sorted so that words are learned in order of frequency (favoring base frequency), and paragraphs are chosen so that they have a minimum amount of unknown morphemes at any given time.
+
+This lacks some of the flexibility of MorphMan, and it really should be based on clauses or phrases, not words, but it's good enough for now. I also read the translation of the text in its entirety first so I don't have to guess the context. There are few incorrect or boring cards, but I just remove them whenever they come up. (Just one key press during reviews.)
+
+The implementation is almost done (and took surprisingly long, mostly because existing tools suck). I should be able to finish this today or tomorrow, and show off some example cards.
+
+Besides Fixing Latin, I've also been thinking about p-zombies again, as a consequence of some meta-morality stuff. I (very tentatively) believe that Chalmers is right about p-zombies, but accepting it seems almost as insane as accepting physicalism, so I'm still very confused.
+
+Also, all thought is merging in my head. I'm becoming *massively* syncretic. I'm desperately trying to keep many different currents straight, but they all just collapse into each other. There's definitely a massive attractor, warping all thought-space around it like a black hole. (Maybe I should follow Will's example and call this attractor God.)
+
+(Also, from checking a few sources, I'm getting a strong impression the "tantric", and particularly Tibetan, schools are *much* closer to Theravada than both sides realize, and the ways in which they differ only matter to lay folk, not advanced practitioners. It's simultaneously cool and disappointing to see the exact same techniques crop up again and again, and I'm beginning to understand why several schools, like Mahasi and Zen, keep ignoring content and talk mostly about methods. There are only 3 or 4 skills, everything else is noise.)
+
+I need A Map. My working memory is too small to keep all the levels straight and I just keep getting stuck in one thread, wasting time, but if I could just look at it all from sufficiently far away, then all these threads would successfully merge and become integrated into one elegant problem-space. (This is like the biggest [compression carrot][Schmidhuber Creativity] ever.)
+
+So I'm now drawing A Map.

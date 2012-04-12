@@ -1,0 +1,35 @@
+---
+title: ! '[SI] Occam and Solomonoff'
+date: '1970-01-01'
+tags:
+- computation
+- occam's razor
+- solomonoff induction
+- theology
+techne: :wip
+episteme: :speculation
+slug: ?p=692
+---
+
+<a href="http://www.smbc-comics.com/index.php?db=comics&amp;id=2386#comic"><img class="aligncenter" src="http://zs1.smbc-comics.com/comics/20111002.gif" alt="" width="576" height="1545" /></a>
+
+The Problem of Induction is a famous philosophical problem. We have some evidence and a hypothesis. We tested the hypothesis, and we might even grant that the world is not a lie and knowledge is in principle possible, but how can we sure that the hypothesis is really true? After all, the sun might not rise tomorrow. Sure, it always did, but why not? Alternative hypotheses that are just as consistent with past data exist. Why not use these?
+
+Many philosophers consider the Problem of Induction unsolved, maybe even unsolvable. This won't do. Here at Muflax Industries, we get shit *done*. "Unsolvable" is not in our dictionary. We declare the problem *solved*.
+
+*Emergency Warning: We advice our customers to not combine thoughts containing Solomonoff Induction and Universal Turing Machines with Universal Dovetailers. We take no responsibility for resulting theological collapses and implied infinities. Muflax Industries only provides support for finite customers.*
+
+The funny thing is... most of the time, Solomonoff Induction is explained as a formalization of Occam's Razor. This brings up the question why Occam's Razor is a good thing in the first place. Sure you can math-ify it, but why use it at all? It might be intuitive, but it's not really obvious why mere simplicity should always be preferable. It's not very satisfying.
+
+I think this the wrong direction. Because what really happens is that Solomonoff Induction comes *first*, as a direct consequence of the theory of computation, and *then* we find out that Occam's Razor is a pretty good approximation of it. Thus we explain why Occam's Razor works at all, and the Problem of Induction disappears in a puff of logic.
+
+
+We know that Bayes (Peace Be Upon Him) is the ideal method of solving conditional probabilities. But Bayesian inference has a major problem - what prior do we use? Give every event the same prior probability? Why? We need a universal prior, one that is properly grounded and achieves optimal solution. The uniform distribution doesn't work, and not just because it would violate Occam's Razor. Remember, we will *derive* Occam's Razor and so can't argue from it. More importantly, it seems implausible that every event should have the same probability at first. Are there maybe some first principles we can work from?
+
+Fortunately for us, we can! There is a universal prior and it's called the Universal Prior. (Very creative, I know.) I like to called it the Computational Anthropic Principle. You'll see why in a second.
+
+# counting argument
+
+# derivation
+
+(But... why computation? [Because fuck you, that's why.](http://www.youtube.com/watch?feature=player_detailpage&v=4u2ZsoYWwJA#t=434s))

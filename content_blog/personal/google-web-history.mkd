@@ -1,0 +1,46 @@
+---
+title: Google Web History
+date: '2012-02-27'
+tags: []
+techne: :done
+episteme: :speculation
+slug: 2012/02/27/google-web-history/
+---
+
+Since 2008-03-04 Google tracks all my searches. Thanks to [XiXiDu](https://plus.google.com/106808239073321070854/posts/HMQmaWaJy3u), I noticed that I could download and analyze the whole data set. There's an existing script, but it didn't work for me, so I wrote my own. It's up on [Github](https://github.com/muflax/scripts/blob/master/google_web_history.rb) and should be fairly self-explanatory for Ruby users.
+
+Anyway, instead of spamming Twitter, here's some interesting results.
+
+The history spans ~1.4k days and has ~132k entries, of which ~37k are searches. The rest are mostly search results I clicked. That makes it ~25 searches per day. Not bad.
+
+My Top 10 search terms, ignoring word order:
+
+1. ezt (23)
+2. read (23)
+3. fefe (18)
+4. pharyngula (15)
+5. reader (15)
+6. 吉井和哉 (13)
+7. nanoc (12)
+8. muflax (11)
+9. squid314 (11)
+10. dexter (10)
+
+Everything except 6), 7) and 10) are failed attempts to enter a (partial) URL and pressing return before Firefox could autocomplete it. (Yeah, I once read Pharyngula. I know.) 6) is one of my favorite musicians, but I'm quite surprised I googled him that much. 7) is the blog engine my main site uses, so no surprise. 10) is probably also an URL, maybe the episode list or something.
+
+The terms are not surprising, but the low frequencies are. Maybe Google misses a lot of terms due to me not being logged in at the time, but I never consciously log out, so still weird.
+
+More results:
+
+- I google a lot of TV shows.
+- I internet-stalk way too many people. I gotta stop that. (Not likely.)
+- I google Drew Carey more than porn. And I thought I liked Ryan more.
+- [Aki Sora](http://en.wikipedia.org/wiki/Aki_Sora) is the porn I google most. Well, since my favorite sites shut down anyway and I have to hunt down my hentai like a damn savage again.
+- Buddhism-related searches and "how the fuck does this totally normal item work" occur about equally often.
+- I only once searched for Jesus. Gotta give the guy a second chance.
+- I have googled "google" 3 times. I regret nothing.
+- Automatic completion is treated like a shortened search, thus "read" and "reader". This probably hides a lot of searches and might explain the low frequencies.
+
+And finally, number of searches for each hour:
+<p style="text-align: center;"><a href="http://blog.muflax.com/wp-content/uploads/2012/02/hours1.png"><img class="aligncenter  wp-image-843" title="hours" src="http://blog.muflax.com/wp-content/uploads/2012/02/hours1.png" alt="" width="412" height="253" /></a></p>
+Well, shit. You can totally [reconstruct my sleep cycle](http://www.gwern.net/Death%20Note%20Anonymity#mistake-2) from that. Totally thought it would be more chaotic. Guess I really *do* have an underlying sleep cycle after all.

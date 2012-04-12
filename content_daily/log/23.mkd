@@ -1,0 +1,97 @@
+---
+title: Instant Jhana, Just Add Music
+date: '2012-04-01'
+techne: :done
+episteme: :log
+slug: 2012/04/01/instant-jhana-just-add-music/
+---
+
+(This site division shit isn't working out. Just noticed I posted the last entry to the wrong blog. I wanted to put developed ideas on muflax.com, but basically the moment something is "done", I already stop believing it because I'm moving towards better new ideas. So "whatever muflax *thought* would be good a year ago, but isn't" would be a better title. Then I wanted character development stuff on blog.muflax.com, but that morphed into "decent ideas and drafts". 
+
+I'm already fucking up the division again and started ranting on a practice log! And I have side projects again. Maybe I should use a binary division: "random stuff I once wrote, but now find boring" and "rants". I have no idea how anyone ever develops complex ideas and writes about them. By the time I have finished one thing, I already don't believe half the stuff anymore! I sometimes hope *eventually*, everything converges and I can just write "muflax solves everything at once forever", without further drift or iterations. I'm literally [worse than Hitler][Somuncu]!
+
+Bayesians argue that despite uncertainty, error is eventually bounded, and progress looks like this:
+
+<%= image("bayes.png", "Bayes") %>
+
+Looking back at the last 10 years, I think it looks more like this:
+
+<%= image("real_progress.png", "Real Progress") %>
+
+And I can't even appeal to authority, find myself a guru who can take care of the Important Questions. Even after 2000 years of thought, and with full dogmatic authority, the Catholic Church hasn't come to any definite conclusion whether Hell is a state or a place. If they can't do it, no one can. Induction is impossible, everyone. Let's just go home and play [Pointless Pursuit of Pleasure IV][SMBC death].
+
+(Meta-note: this rant isn't part of the daily word count.))
+
+Did 35min of music-based pseudo-jhana practice. I was listening to [one of my favorite songs][Living Prayer] (yes, that's a godtube link), but it sounded *off*, not nearly as great as just a few days ago. I tracked down a few error sources until I remembered - I'm *sober* today. And because I don't like the option of getting high every time I want to listen to music, I practiced jhana absorption with the song as object in an attempt to recreate the experience.
+
+First, just frustration. I could shift the musical center (i.e. am I observing the music vs. becoming the music, is it centered on my head or before it or my stomach etc., ...), could replace my mental voice and self with the singer's, but still far from the experience. No matter "where" in my head I put the music, no matter if I'm "inside" or "outside" it, it's still wrong.
+
+After about 10 minutes, my typical mental blindsight stops and the music became visual, then whole scenes appear, fairly elaborate visualizations. I'm unsure if I'm falling asleep and just started dreaming. Some vipassana nanas pop up, notably A&P and Fear. I ignore them. 
+
+I try to notice as many musical aspects at the same time as possible. I have untangled all the instruments, all nuances, everything at once, nada. I can blend out certain aspects, as if I were turning down individual channels. I try the opposite, try to separate nothing, just get the raw experience. Nope.
+
+I focus on the body sensations as I listen, try to tune them out. Feedback weakens, so I try the opposite, intensify them. *Better*. I try to embed as strongly into the emotional state as I can, touch it, tense up. Getting there, but still so distant. It's as if I'm listening through several levels of cotton, and I don't find the right thing to grab on to. This isn't working, I give up.
+
+After that I was tired, so nap and more sleeping meditation, i.e. drop into basic vipassana stance, then refuse to let go of awareness as I fall asleep. It's interesting, and I tend to wake up more alert, but nothing more.
+
+(Repeated at next nap, similar results. I'm seriously doing this "never un-aware" thingy again, it seems...)
+
+<%= image("nothing.jpg", "todo: nothing") %>
+
+Meta-moral issues can't contribute anymore to my anxiety, so why is it still there? It's changed, sure, much less severe, but still there. Some system is still in massive stress, so I tried probing arou.. LOOK AT ALL THIS STUFF YOU AREN'T DOING, DRIFTING OFF INTO METAPHYSICS, YOU DIDN'T ANSWER MAILS OR STUDY OR CODE OR DO ANYTHING OF VALUE BESIDES THINK AND NOW I HAVE TO .. ok, problem identified.
+
+Standard complication - can't go near it without the anxiety hijacking everything, preventing any work at all, thus increasing the problem.
+
+Fortunately, I now have a Happy Place to work with. (Making metaphysics pay rent!) I noted that [Catholics](blog.muflax.com/2012/03/14/catholics-right-again-news-at-11/), like Stoics, advocate using Saints etc. to guide you in your own exploration. (Robert M. Price speculates that this Stoic practice may be why early Gnostics invented Christ.) Someone else's problems are always easier to solve than your own, so it's time for some depersonalization! (Making psychosis pay rent!)
+
+(Stylized excerpt of inner dialog to allow later reconstruction.)
+
+- muflax: I want to start, but everything is chaos, and I can't even see what I'm supposed to do. Does anyone have a [Plan][Olsenbande]?
+- \*silence\*
+- m: Ok, I have an idea. What if I could talk to someone who *doesn't* feel anxiety, who isn't overwhelmed? Maybe they could give meaningful advice. They wouldn't have to be particularly wise or anything, just neutral and distant enough to see obvious patterns in the mess I'm entangled in. 
+- I try to mentally call to some entities, all reject me, are entangled themselves. The anxiety is in the way.
+- m: That didn't work. I suspect none of the agents in a position to help me can do so until I give them some control, some space to work in. Let's try a more active approach: carve out some space of non-reflection, explicitly invoke an entity, surrender to it, see if it answers.
+- I put on [calming music][Assyriche].
+- I get on my knees, declare a certain space in front of me the altar, draw a circle with my left hand.
+- m: Whichever being inhabits this space is given full freedom. It is free from reflection, doubt or any veto. It has full bicameral control. I shall now call out to one such being.
+- I wonder who I should call. Jesus? The Father? Yamantaka? I ponder a bit, until a certain presence decides for me. It bubbles up, shakes me around wildly, tries to place itself in the space, but fails.
+- m: I wonder if I'm doing this the wrong way around. I hereby un-invoke the space.
+- I reverse the previous gesture, switch to my right hand, draw a new circle.
+- m: This is the prison. Whatever being inhabits it, has no control, invokes no emotions, is entirely locked away. I hereby imprison myself, leaving space for a new being to take control.
+- I tap on my forehead, imagine my self concentrated in my finger, draw it out and place it in the prison. It works, something takes over.
+- It doesn't give me its name. It immediately understands that I haven't actually given it full control, mocks me for it, [throws me around a bit][Exorcist]. It forbids me to talk about further details.
+- It leaves, frees me and gives me back control. I un-invoke the prison, get ready to get back up again, work on the two tasks it gave me.
+
+First, write this down. Second, get paper, pen, then get back on knees. I'm about to make something like a confession, only that I'm enumerating all the tasks I believe I *should* fulfill, all the problems I *should* solve, some day. Sins against future-me, maybe.
+
+I want to get back, do the writing, but feel tired, drained. "Just postpone it one more time! I'll write tomorrow!", I think. But I'm afraid, and feel ashamed. What good are my promises if they don't last 5 minutes? I grab my laptop, get back down. I'm going to write down *everything*.
+
+So I did, with no concern for order or much else. Just a complete problem-dump - everything that bothers me must be on these papers *somewhere*, so that if everything on them was be transformed into non-problems and answered questions, I would have *nothing* left to worry about.
+
+Took a lot of writing.
+
+<%= image("problems.jpg", "all my problems") %>
+
+Some interesting things happened. At several points I wondered if this was *all*. Eventually, I hit 190 problems (and [bitches are one][99 hearts]) and then *couldn't think of any more*. I was like:
+
+- meta-muflax: Ok, if I solved *all* of these 190 problems, and ignore for now that this may well seem impossible to you, but *if* I did it, you'd be fine?
+- m: Well... maybe. You said to ignore the impossible... would you mind if I added some problems that I don't realistically expect to ever solve?
+- mm: Go right ahead!
+- m: Even the stuff I don't deserve, or things that aren't in any way my responsibility, or that are almost certainly confusions about how the world works?
+- mm: Yes!
+
+So I did. There may be a few redundancies, and the problems range from utterly trivial to fiendish, but at least they are complete. 
+
+220 problems.
+
+Meh.
+
+Ok, anxiety is getting better, but it's in no way gone. But it's now *external*.
+
+Next step, the one that fixed morality and modal realism for me: meta the shit out of this list. Let's solve some problems!
+
+In other news, hunger suppression from the Shangri-la diet is kicking in. I still hate drinking oil. 
+
+Got bored with running and decided to up my game, so I added Tabata-inspired burpee interval training. Running is more fun if I don't collapse every 5 minutes from exhaustion. Also, doesn't require leaving the house. 2 years ago, I went running regularly (every 2 days, as that was my optimal compromise between healing and not losing the habit) and my running-without-a-pause capacity very consistently increased 1min each run. I'll try interval sessions every 2-3 days (depends on healing rate) for a few weeks and see if they work equally well, running every 7-10 days. (As that's the [DXM][] cooldown I use to avoid certain side-effects (i.e. tolerance, hedonic treadmill, schizophrenic episodes, brain damage).)
+
+(And as those entries are getting longer, I'll up the daily average once I have 20 safe days on Beeminder.)

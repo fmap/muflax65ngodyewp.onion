@@ -1,0 +1,25 @@
+---
+title: It takes the truth to fool me...
+date: '2012-03-14'
+techne: :done
+episteme: :log
+slug: 2012/03/14/it-takes-the-truth-to-fool-me/
+---
+
+Worked more on the app. It's surprisingly annoying to develop for Android, at least when you're used to hacking up a shell script in a few minutes. I actually need to use Java just because I need some background tasks. Wasted an hour setting up a Ruby toolset only to find out it doesn't support notifications. I'm now juggling *three* Eclipse installations. Why can't phones just run Emacs?
+
+(Also noticed that sleep deprivation is making me overly cynical. I'll hold off on commenting on a few things for a bit.)
+
+Meditation. 4x5min kasina, 5min disembedding. My noting skills are pretty much shit and I find it hard to tell what I'm actually embedded in and what not. Basically, everything feels kinda outside, nothing really inside. Dunno if I just lack concentration. 
+
+I'll focus more on jhana for now until I finally get my 4-jhana arc back. In anapana, I already noticed the second jhana again, but I still find it hard to lock on to it without mentally slipping away. The whole concentration task requires a lot of my attention.
+
+Kasina on the other hand is way easy right now, really surprisingly so. It takes almost no effort to arc through it. Still not very stable though, but it's getting there.
+
+It's almost impossible for me *not* to jump into 2nd jhana with a candle flame. The afterimage, and occassionally even the whole room, pulse and blink away, almost Equanimity-like, but I can actually trigger it. (It's kinda like, watch the flame, now see the multiple layers of moving shadows within the flame, now 3D-ify them to a skeleton-like structure, here comes the halo, ignore it, focus on the 3D flame, pull away awareness, wham, another short pulse. (I'm beginning to understand why meditation instructions are hard to follow.))
+
+I have no mood effects at all from the jhanas, expect for a certain fascination with how strong this shit still is after months of not practicing. There is one difference in my practice, though, at least for concentration jhanas: I don't *push against* objects anymore, I *pull them away*, if that makes any sense. Basically, it's a perspective change. Imagine doing push-ups, and either imagining pushing yourself away from the ground, or keeping yourself constant and pushing the whole Earth away from *you*. What I do now is more like the latter.
+
+I stabilize the jhana not by paying closer attention, not by forcing myself on to them, but by pulling myself back, by limiting the force I use, by trying to keep the wobbling field of awareness in which the objects are embedded stable, so that the object does all the concentration work for me, although it's a bit tricky to balance the force so that I neither get distracted by the pulsing field nor smother the object with my attention and drop back into 1st jhana. The whole experience is almost 3rd-jhana-y, except it comes naturally. I remember how hard I fought for 3rd jhana 2 years ago, it can't be that easy now. Something's off.
+
+I'll move on to longer kasina sessions now.

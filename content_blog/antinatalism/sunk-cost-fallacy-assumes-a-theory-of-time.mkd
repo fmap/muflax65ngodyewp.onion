@@ -1,0 +1,34 @@
+---
+title: Sunk Cost Fallacy Assumes A-Theory of Time
+date: '2012-02-15'
+tags:
+- antinatalism
+- b-theory
+- suicide
+techne: :done
+episteme: :speculation
+slug: 2012/02/15/sunk-cost-fallacy-assumes-a-theory-of-time/
+---
+
+Just read this [on LW](http://lesswrong.com/r/discussion/lw/9jg/how_would_you_talk_a_stranger_off_the_ledge/5vgy) (emphasis mine):
+
+> > The treatability of depression, as defined by the likelihood that you eventually get these people to claim they're better, doesn't tell me how much they suffered before getting to this point, whether they would voluntarily go through it again to survive, and what their future risks of recidivism are.
+> 
+> **However much they suffered before that point**, and whether they would go through it again to survive, **are not relevant points to whether they should be glad that they didn't die. They're sunk costs.** A person might be tortured, and have a long life of good quality afterwards (data point, John McCain,) and it's possible that they would not be willing to go through torture again to survive, but this doesn't mean that they won't be glad that after they were tortured, they didn't die, even though they might have killed themselves to escape the torture if they could.
+
+This is a common argument in the context of antinatalism. Basically, it might be the case that the overall utility of a life is not worth living, but when you evaluate a 25 year old living college student (ahem), you don't conclude that this person should be mercy-killed. Benatar himself distinguishes between "lives worth starting" and "lives worth continuing".
+
+This strikes me as really weird because the only way to make sense of this is to presuppose the A-Theory of time, i.e. you have to assume there is a special moment called the "present" and clearly defined "past" and "future". However, as pointed out before, the theory of relativity is not compatible with A-Theory, so especially physicalists shouldn't be making this argument.
+
+There are only two reasonable (as in consistent, comprehensible) views you can take as a B-Theorist:
+
+1. The value of a person-moment depends only on this person-moment.
+2. We define a "person" as a certain set of person-moments (say following psychological or legal identity) and then say the value of a person-moment is the value of this whole person.
+
+1) is very neat and local, but gets you into totally counter-intuitive territory. For example, if you buy categorical antinatalism, then it requires you to commit suicide *now*. It also means that you can never argue that anything at any other point in spacetime ever "makes up" for current circumstances. You can never discount, or accept delayed rewards. (That is not to say that this view isn't correct. I would prefer it strongly over 2).)
+
+More typically people go with 2), but then the moment of evaluation is always irrelevant. The value of a life is always a logical necessity. It doesn't change, regardless of "when" you look at it. It's simply incoherent to say that *now* your life has become worthwhile because there is no special moment "now". You evaluate a cluster in spacetime (or algorithm space, if you are a Tegmarkian) and then say what the value of this cluster is, especially if it's worthwhile as a life. The calculation is fixed and observer-independent, including for the person-moments that make it up. If you would have been better off if you had been aborted, this will remain true no matter how old you are. The query "Am I better off dead?" has only *one* definite answer in B-Theory. *It never changes*.
+
+This generalizes to most sunk cost fallacies of course, not just lives worth continuing. If a project is worth working on, it is always so, or never so. How many resources you put into it or how much progress you have made is irrelevant.
+
+I don't know if this is an important argument *for* antinatalism and suicide or *against* B-Theory. Meh, modus tollens, modus ponens, right?

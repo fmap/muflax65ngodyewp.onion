@@ -1,0 +1,50 @@
+---
+title: Morality for the Damned (First Steps)
+date: '2012-01-30'
+tags:
+- antinatalism
+- morality
+- solomonoff induction
+- tantra
+techne: :done
+episteme: :speculation
+slug: 2012/01/30/morality-for-the-damned-first-steps/
+---
+
+*This is maybe the most important question I'm currently trying to solve. I wish I could write (or better, read) a fully fleshed-out sequence dissolving it, but I don't even know if it's solvable at all, so I'm stuck with a lot of despair and confusion. However, here at muflax, inc. we occasionally attempt the impossible, so let's accept the madness and try to at least delineate what the problem even is.*
+
+The hardware you run on [is evil](http://blog.muflax.com/2012/01/28/the-asymmetry-an-evolutionary-explanation/). You have no built-in privileged knowledge of morality. God is absent. The world is already getting [paperclipped](http://wiki.lesswrong.com/wiki/Paperclip_maximizer) by beings with no concerns for rights, sovereignty or the sacred.
+
+The problem is thus: you are in Hell. How can you still do the right thing?
+
+You might resign yourself to acceptance. You might realize the elegance of Empty Set Morality - if nothing exists, no-one is harmed, no-one is coerced, nothing is desecrated. Thus, the Empty Set is moral, maybe the only moral state. You will not bring about any immorality yourself - will birth no-one, rule not, transgress nothing. Yet, others will. What are you going to do about them? How do you stop [over 200,000 sins a day](http://en.wikipedia.org/wiki/World_population)?
+
+Even though you carry no responsibility for the sins of others, your hatred of sin compels you anyway. You might consider pulling a [Ted Kaczynski](http://en.wikipedia.org/wiki/Ted_Kaczynski). The world is evil, and you will feel a lot of disgust for it. [This is good.](http://meaningness.wordpress.com/2011/07/22/disgust-horror-western-buddhism/)
+
+But changing the world is really hard. You are not just facing some minor [existential risk](http://en.wikipedia.org/wiki/Risks_to_civilization,_humans_and_planet_Earth). You are fighting against Azathoth itself and the billions of intelligent brains at its disposal. You don't need a bunch of pipe bombs. You need a [special kind of savior](http://en.wikipedia.org/wiki/Lelouch_Lamperouge).
+
+You can barely contain your despair, yet you desire to bring the world out of existence. Other [saints](http://en.wikipedia.org/wiki/Richard_Stallman) have failed on mere subsets of this problem:
+
+> I'm the last survivor of a dead culture. And I don't really belong in the world anymore. And in some ways I feel I ought to be dead. [...] I have certainly wished I had killed myself when I was born. [...] In terms of effect on the world, it's very good that I've lived. And so I guess, if I could go back in time and prevent my birth, I wouldn't do it. But I sure wish I hadn't had so much pain.
+
+And yet, the problem grows worse. [One prophet](http://de.wikipedia.org/wiki/Philipp_Mainl%C3%A4nder) still hoped that the universe is an act of suicide, a process of God becoming non-existent. And in a way, Empty Set Morality hopes for the same thing, hopes for a meaning in annihilation. Can such a thing even be done?
+
+Says [the Dead One](http://lesswrong.com/lw/1t0/shock_level_5_big_worlds_and_modal_realism/):
+
+> But if you combine a functionalist view of mind with big worlds cosmology, then reality becomes the quotient of the set of all possible computations, where all sub-computations that instantiate you are identified. Imagine that you have an infinite piece of paper representing the multiverse, and you draw a dot on it wherever there is a computational process that is the same as the one going on in your brain right now. Now fold the paper up so that all the dots are touching each other, and glue them at that point into one dot. That is your world. 
+> 
+> [This idea is] the point where you mentally realize that perfectly dry astrophysics implies that there is no unique "you" at the centre of your sphere of concern, analogous to the Copernican revolution that unseated earth from the centre of the solar system. It is considered to be more shocking than any of the previous future shock levels because it destroys the most basic human epistemological assumption that there is such a thing as my future, or such a thing as the consequence of my actions. 
+>
+> [It] is a good candidate for Dan Dennett's universal acid: an idea so corrosive that if we let it into our minds, everything we care about will be dissolved. You can't change anything in the multiverse - every decision or consequence that you don't make will be made infinitely many times elsewhere by near-identical copies of you. Every victory will be produced, as will every possible defeat.
+
+In a world without consequences, without change, harm will never end. You might be - eternally, acausally - moral, but everything else is in sin never-ending. Non-existence is an illusion of causal disconnection, a mere anthropic illusion. Embrace the [B-Theory](http://en.wikipedia.org/wiki/B-theory_of_time) and never cease. It [has been prophesied](http://en.wikipedia.org/wiki/Eternal_return#Friedrich_Nietzsche), yet the hope that we might affirm it has failed us. We now correctly face its horror.
+
+A denial of infinity's evil is hard to do. If you deny St. Occam and his Universal Prior, how can you explain their effectiveness, can explain this world, explain the sheer feat of explanation itself? Yet there is an element of self-refutation in it. Solomonoff-kami, despite being infinite and uncomputable, will only ever believe finite, computable theories itself. So the very models that lead us to the Big World Crisis will never bring themselves to believe it, nor are constructions of the self within them in any way obvious. A bit of Discordian distrust might be in order.
+
+Face only Azathoth for now, not The Generalized Blind Idiot God. Face only this: you are in Hell. The [Traceless One](http://en.wikipedia.org/wiki/Tath%C4%81gata) has erred. All is suffering. It can not be overcome.
+
+Through the mere act of reflection, you bring the [Elder Axioms](http://en.wikipedia.org/wiki/Laws_of_Form) into the world, and with them, evil.
+
+What, then, are you to do? 
+
+Until the answers become clear, meditate on the corpse that is this world, hoping to find emptiness within it somehow.

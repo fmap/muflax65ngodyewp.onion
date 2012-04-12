@@ -9,7 +9,7 @@ So, what's with these markers of [epistemic][Epistemology] states everywhere?
 
 They signal my attitude towards the content. I wanted a way to show whether I
 still believe something I have written or not. Or only partially, or never at
-all[^fiction]. I didn't want to throw away old texts just because I changed my mind, but I
+all. I didn't want to throw away old texts just because I changed my mind, but I
 also couldn't let them sit around without an annotation or someone might think I
 still endorsed them.
 
@@ -17,9 +17,12 @@ I'm not happy just going around like RAW, claiming I'm agnostic about
 everything. And taking care to notice when you change your mind is very
 valuable. Hence the markers.
 
-[^fiction]: It's complicated in the case of fiction. Generally speaking, *some*
-    aspects of it I do believe. Sometimes it represents a marginalized aspect of
-    me. Some days I just don't want to care about making my reasoning clear; I
-    just want to *write* something. Regardless, don't base your world-view on
-    fiction, please. Fiction is treason.
+Here's a short explanation what each epistemic state roughly means:
 
+- **believed** - I pretty much endorse it as-written
+- **semi-believed** - most of it is fine, but there are some gaps or minor problems; maybe needs a rewrite or two
+- **not believed** - just wrong; I changed my mind since I wrote it
+- **fiction** - It's complicated. Generally speaking, *some*  aspects of it I do believe. Sometimes it represents a marginalized aspect of me. Some days I just don't want to care about making my reasoning clear; I just want to *write* something. Or maybe I felt like trolling. Regardless, don't base your world-view on fiction, please. Fiction is treason.
+- **speculation** - some random idea that I wanted to write more about so I could better understand it; typically not believed
+- **emotional** - some cluster of ideas that got itself entangled with a complex emotional state, and I needed to externalize it to even look at it; in no way endorsed, but occasionally necessary (similar to fiction)
+- **log** - log entries that simply describe what happened without any judgment or reflection

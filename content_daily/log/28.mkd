@@ -1,0 +1,15 @@
+---
+title: In nomine Fargi, Avelloni et Spirito Trolli
+date: '2012-04-12'
+techne: :done
+episteme: :log
+slug: 2012/04/12/in-nomine-fargi-avelloni-et-spirito-trolli/
+---
+
+Had another one of those dreams. You know, "childhood was awesome, I'll never have that much fun ever again, way to rub my nose in it". Others have those too? I hope not. They make everything else seem even more bleak.
+
+The universe, however, trolling grandmaster that it is, has decided to recreate my childhood one piece at a time by throttling my internet connection to 10KB/s. Good old modem speed. So no online work the whole morning, more programming, more thinking. Brain slowly coming back.
+
+At least the DNS transfer is done, and my old host even kept the nameserver intact so I don't have to switch right away. I'll finish the port to nanoc now and then replace the blogs right away. At least there won't be any downtime. Only ugly ad hoc designs.
+
+Oh well. 

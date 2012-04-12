@@ -1,0 +1,31 @@
+---
+title: La sauce d'awesome
+date: '2012-03-11'
+techne: :done
+episteme: :log
+slug: 2012/03/11/la-sauce-dawesome/
+---
+
+(Not sleep-deprived anymore, but still feel wrong and totally overslept. That's gonna take some time to fix...)
+
+Worked on a more elaborate post about my cellular automaton illustration of why materialism is broken.
+
+I'm changing my Anki organisation, mostly so I can finally do reps on my phone (Defy+ shout-out!) and because I'll need to do it anyway once Anki 2 comes around. (The release is nigh! Sinners, review!) I've cleaned up my cards a lot, removed a few dozen near-identical sentences, compressed the audio more (1.4GB media -> 1.1GB) and split my huge mega-deck into a few topic decks. (I still feel bad for not paying Damien for storage, even though it's only ~100MB.)
+
+I still favor "one huge deck for everything", but Anki 2's tree hierarchy is pretty nice and (more importantly) now that I do my reviews in different contexts, I need to have a convenient way to exclude some cards. I can't do audio cards on the train and constantly suspend (even by tag) is slow. So multiple decks it is. Most of my criticism don't apply to Anki 2's implementation and the rest I can live with. Will suck a bit until the release comes out, but oh well.
+
+I have split my 18k card deck into:
+
+- French (862)
+- Japanese (9573)
+- Latin (117)
+- [subs2srs][] (7425) (all Japanese right now)
+- awesomesauce (599) (everything else, will split more in Anki 2)
+
+I've also had to change my Beeminder plugin to support multiple decks. I'm getting to the point where it would be easier if I set up my own sync server that takes data from all my various tools and then pushes it out to Beeminder and so on.
+
+I've looked into [MCD][]. I think Khatz has a point, but damn is he over-selling it. subs2srs + MorphMan is still more awesome than MCD, but it might work well for 漢字 languages. I'll try a few cards soon. 
+
+Also, now that my decks are split, I can see how tiny awesomesauce has become. Time to add more general facts again.
+
+Lastly, meditation. 5min anapana arcing, 2x5min kasina arcing, 5min kenosis. First goal remains getting first 4 jhanas online. Once that happens, I'll focus more on stabilizing everything so I can do more interesting stuff.

@@ -1,0 +1,31 @@
+---
+title: Unifying Morality
+date: '2012-01-22'
+tags:
+- antinatalism
+- morality
+techne: :done
+episteme: :speculation
+slug: 2012/01/22/unifying-morality/
+---
+
+> There are no more elephants.  
+> There is no more unethical treatment of elephants either.  
+> The world is a much better place.  
+> -- Flight of the Conchords, [The Humans Are Dead](http://www.youtube.com/watch?v=WGoi1MSGu64)
+
+One strength of a theory is how much evidence it unifies. If you can show that your idea solves a wide range of problems, especially if they had previously no obvious connection, then you're probably on to something. Ethical philosophy is famously hard to unify. A [standard introduction](http://www.youtube.com/watch?v=kBdfcR-8hEY) starts with the trolley problem and demonstrates how hard it is to come up with an answer that doesn't have obvious but undesirable consequences.
+
+One major reason I take Jaynes' [theory of bicameral minds](http://blog.muflax.com/2012/01/04/some-thoughts-on-bicameral-minds/) seriously - it unifies [a lot of problems](http://www.julianjaynes.org/evidence_summary.php). No competing theory can explain the particular features of auditory hallucinations, command structures and independent but universal importance of spirits/gods in the ancient world. So even though Jaynes' arguments may have some flaws or gaps in their present form, and despite being certainly weird (ancient human had no subjective consciousness, but could write?!), we should still consider it.
+
+Maybe such a line of reasoning would be beneficial in morality. Maybe if one collected a wide range of problems and simply showed in table form how meta-ethical theories fared and how much ground they managed to cover, one could use this as an argument by itself. Like [this table](http://en.wikipedia.org/wiki/Interpretations_of_quantum_mechanics#Comparison) for interpretations of quantum physics. Or like [Battleground God](http://www.philosophersnet.com/games/god.php), simply giving the reader a range of problems and showing them how certain answers interacted with each other. It wouldn't argue any particular position by itself, but it would show how consistent you are. Just a [philosophical health check](http://www.philosophersnet.com/games/check.php).
+
+I think many negative moral theories suffer from bad framing. It's even in the name. Who wants to be a *negative* utilitarian? That's like totally depressing, man. But "negative" really just means that they aren't interested in *adding* something to the world to make it better, but in *removing* something. If we could re-frame these theories according to their strengths, maybe people wouldn't react so badly to them?
+
+Imagine a world without hunger, poverty, broken promises, pain, rape, lies, war, greed, boredom, loneliness, confusion, anger, hatred, depression, torment, shame, disappointment, dying, disgust, mutilation, disease, betrayal and loss. There is such a world. It's the world of antinatalism. 
+
+Maybe we should remind people how bad things really are. If lottery advertisement started with a list of the millions of people *didn't* win, maybe buying a ticket wouldn't look so attractive anymore. If endorsement of life started with a list of [all the bad things](http://en.wikipedia.org/wiki/Child_sexual_abuse) that happen every day, maybe saying stop would sound much more appealing. If people realized what their ethical ideas [actually entailed](http://en.wikipedia.org/wiki/Mere_addition_paradox), maybe they wouldn't endorse them so easily.
+
+It's worth a try.
+
+*(And as an update, I've given up on writing a neutral antinatalism FAQ. I've tried to collect all arguments for and against it, treating them all equally and letting the reader decide, but I just can't do it. I think it's more honest if I make my position explicit, so I can clearly argue _why_ I find certain arguments silly without having to pretend otherwise. So I'm now writing a pro-antinatalism FAQ.)*

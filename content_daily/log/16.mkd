@@ -1,0 +1,20 @@
+---
+title: Normal view! Normal view! Normal view!
+date: '2012-03-23'
+techne: :done
+episteme: :log
+slug: 2012/03/23/normal-view-normal-view-normal-view/
+---
+
+Worked more on the morality post and it's now already 5 meta levels deep and keeps on growing. Writing it as resolved a number of problems for me, and so as a bullshit crackpot teaser, I'll argue that:
+
+1. Terminal values are neither "terminal" nor "fundamental".
+2. In fact, "values" are bullshit.
+3. Finding the correct meta-ethical theory is *easy*, but everyone is Doing It Wrong (except for me, and maybe Kant, but mostly me).
+4. Almost all confusions in moral philosophy stem from a) not going sufficiently meta and b) not keeping the meta levels correctly apart.
+
+(Yes folks, that's what "going down the meta ladder" looks like - writing posts about how going sufficiently meta solves all your problems. I think I *might* be doing this wrong...)
+
+What confuses me is why going meta isn't much more popular. It yields results so ridiculously fast, I'd expect philosophy to be *full* of it. But besides Kant, some theologians and internet crackpots, I can't think of anyone doing much with it. Which makes me skeptical that it actually works out. I have this nagging doubt I'm writing "guys look, I've found a really clever way to build *tons* of paperclips!" and then act surprised the humans don't listen to me.
+
+On the other hand, screw humans.

@@ -1,0 +1,34 @@
+---
+title: The Futility of Translation
+date: '1970-01-01'
+tags: []
+techne: :wip
+episteme: :speculation
+slug: ?p=917
+---
+
+For weeks now I want to quote a certain song. But I can't. It's in German. And I can't translate it. Not in a way that does it any justice, at least.
+
+The song is Die Interimsliebenden by Einstürzende Neubauten. Watch it:
+
+<iframe src="http://player.vimeo.com/video/36592271?portrait=0&amp;color=000000" frameborder="0" width="400" height="320"></iframe> 
+
+(BTW: I love the video. It's so amazingly meta-pretentious.)
+
+The lyrics consist of a massive amount of puns, clever rhymes and idiosyncratic phrases that probably only make sense to someone familiar with German culture. I don't want to pull a Continental here, but it really feels like you first ought to deeply immerse yourself in the *spirit* of a culture before you can *possibly* attempt to understand just this one song.
+
+But maybe it's worth a try anyway.
+
+Translations have one impossibly-to-solve problem, one that classical debates like the subs vs. dubs flame wars tend to ignore. Or at least they don't make it explicit.
+
+Yes, you can translate a layer of communication from one language into another with a reasonable level of accuracy. A textbook has typically only a single layer, only one message it wants to get across at any given time. Thus, textbooks can be translated just fine. 
+
+But you lose once you get to multiple layers. These complex layers won't function the same way in different languages, so even though you can find a fairly good mapping between any two layers, there's one thing you won't be able to preserve - the Schelling points, i.e. the obvious or interesting points of interaction between layers. (Defining "obvious" and "interesting" is left as an exercise to the reader.)
+
+For example, puns exploit non-obvious but powerful interactions between the sound and the meaning of a word. They work by finding a slight alteration that keeps the sound of a word mostly the same (i.e. you don't jump to a different plateau in sound-space), but also adds an association to a new meaning that is unexpected, but still *works*, is still related to the original meaning. 
+
+There will be many such interactions in any human language, but they will be at different *points*. Unless two languages are closely related, or you'll have to rely on luck to find any overlap. Thus, to attempt a translation of a pun in context, you'd have to find a *new* pun that also works in the *same* context and is about *equally clever*. Good luck with that.
+
+But these association themselves might add further layers by adding another meta level, e.g. by referencing the spelling of the word. The more complex they become, the more impressive - and rarer - they will be.
+
+And then you encounter Heidegger or James Joyce.

@@ -1,0 +1,29 @@
+---
+title: Stop doing stuff all the time,  and watch what happens.
+date: '2012-03-29'
+techne: :done
+episteme: :log
+slug: 2012/03/29/stop-doing-stuff-all-the-time-and-watch-what-happens/
+---
+
+30min simple Tao stance, as preparation. Very simple: sit comfortably, do nothing. Intention to observe comes up, watch it, it does something, fizzles out, return to nothing. Intention to move comes up, watch it, it does something, fizzles out, return to nothing. Repeat until done.
+
+You know you're doing it right when "I need to do X!" and "X isn't right, it needs to be changed!" drop away. Everything is just alright, no matter what happens. (This was literally impossible to do with the Dukkha Core in place.) This isn't shikantaza. It's not rigid, doesn't try to be calm. It generally *isn't*. It's just without intention, without goal, without shaping. [Wu wei][Wu Wei].
+
+Afterwards, my instinct was to start drawing up Plans. Use the mental clarity to collect all Open Problems, connect them, devise strategies, set deadlines, quantify everything, ready, set, burnout.
+
+Tao chop!
+
+<%= image("maka_chop.jpg", "Maka Chop!") %>
+
+So I decided to simply get in touch with my inner Wu Wei by not doing anything with any purpose, plan or intent. Eventually, everything will fall into place on its own, solutions will appear and I will simply know what to do. (I speak from experience.) That's the nice thing about Tao magic - effort is [verboten][]. 
+
+(I have no idea whether this reflects some deep wisdom about the universe, or works for anthropic reasons, or reflects memory-faking biases, or is just a signal to engage non-verbal decision algorithms, or reduces internal conflict by letting other (unconscious? bicameral?) agents do what they want. I don't have to know, it just works.)
+
+So I'll just do other stuff until life gets back to me about what I'm supposed to do.
+
+Today is big bug-fixing day. Colleague found a nasty bug and I have to re-structure a lot of code. Plus, some early shortcuts I took don't work anymore and I have to implement even more of the SystemC standard, and I learned today that we finally renewed our licenses and I can <del datetime="2012-03-28T23:36:42+00:00">get fucked in the ass by</del> work with micro-processors and <del datetime="2012-03-28T23:36:42+00:00">stone-age compilers</del> old-school tools again. Shoulda become a Rails dev.
+
+I worked more on porting the Wordpress blogs to nanoc+disqus so I can switch entirely to a static website. My current host (a friend) will kick me out next month (j/k, wanted to switch anyway), so I really have to transition this shit. If the site is occasionally gone, don't worry, just temporary downtime 'cause I broke something.
+
+Also on the [Shangri-la diet][] again. Simply going off carbs and regular ice-cream wasn't enough, and Shangri-la worked perfectly 2 years ago.

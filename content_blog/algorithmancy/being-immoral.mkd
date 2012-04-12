@@ -1,0 +1,81 @@
+---
+title: Being Immoral
+date: '2012-02-03'
+tags:
+- deontology
+- moralism
+techne: :done
+episteme: :speculation
+slug: 2012/02/03/being-immoral/
+---
+
+During my Beeminder experiments, I noticed an odd mental state. A few times I deliberately *ignored* my plan and explicitly gave up. It feels like defecting against Future Me. It's unfortunately somewhat common that I think, "I *could* start this today and keep it up until the deadline, work maybe 1 hour a day, *or* I do nothing for a month, then work my ass off" and then refuse the first option.
+
+Well, one reason is that I am not Future Me and so have the choice between:
+
+1. a small sacrifice now and a small harm to Future Me
+2. no sacrifice, but a large harm to Future Me
+
+I act egoistically, so I choose 2). Now, one could try making arguments how this screws over Future Me, but these are irrelevant. *I don't care*. What needs to be done is an argument why it is wrong *for me* to do this, not why Someone In The Future would like me to change. I don't engage in blackmail, ever. The fact that I'm strongly (acausally) linked to Future Me - and so the decisions will repeat themselves many times - is of no interest, either.
+
+In a draft about personal identity in a computationalist universe, I wrote:
+
+> I have this view of myself as a myriad of slices over time, each representing a tiny aspect of this brain being in control, who are all fundamentally independent agents. They sometimes cooperate when goals happen to match, but essentially, muflax(t+1) isn't muflax(t). Even worse, there isn't even a unifying stream of consciousness, there is merely one moment of consciousness now that through memory falsely believes to have a continual existence.
+> 
+> But I didn't fully internalize this view because I thought it had a consequence I didn't want to embrace - *long-term selfishness would be incoherent*. Or in other words, it would make no sense to say, I do this so I may benefit from it later. muflax(t+1) is as much me as random_person(t+1). Why would I favor one and not the other? The only coherent scope for muflax(t)'s goals is *right now* and that is it. Which is what the Buddhists have been telling me for a long time. It didn't surprise me that people holding this view don't get anything done - there is no *point* in getting anything done! Also, universal altruism seems to follow directly from it. Or, as Eliezer says:
+> 
+> > And the third horn of the [trilemma](http://lesswrong.com/lw/19d/the_anthropic_trilemma/) is to reject the idea of the personal future - that there's any *meaningful* sense in which I can anticipate waking up as *myself* tomorrow, rather than Britney Spears.  Or, for that matter, that there's any meaningful sense in which I can anticipate being *myself* in five seconds, rather than Britney Spears.  In five seconds there will be an Eliezer Yudkowsky, and there will be a Britney Spears, but it is meaningless to speak of the *current* Eliezer "continuing on" as Eliezer+5 rather than Britney+5; these are simply three different people we are talking about.
+> >
+> > There are no threads connecting subjective experiences.  There are simply different subjective experiences.  Even if some subjective experiences are highly similar to, and causally computed from, other subjective experiences, they are not *connected*.
+> >
+> > I still have trouble biting that bullet for some reason.  Maybe I'm naive, I know, but there's a sense in which I just can't seem to let go of the question, "What will I see happen next?"  I strive for altruism, but I'm not sure I can believe that subjective selfishness - caring about your own future experiences - is an *incoherent* utility function; that we are *forced* to be Buddhists who dare not cheat a neighbor, not because we are kind, but because we anticipate experiencing their consequences just as much as we anticipate experiencing our own.  I don't think that, if I were *really* selfish, I could jump off a cliff knowing smugly that a different person would experience the consequence of hitting the ground.
+
+So if I have no coherent self over time, and I don't happen to care, why shouldn't I be jumping off metaphorical cliffs? I don't want to work, so I don't. Future Me may or may not make up for it, but that's not my problem. (One interesting implication I didn't notice back then: suicide is meaningless in such a framework. You are timeless anyway. You don't *end*. You can't *kill* yourself. You can only causally disconnect some instances of almost-you from instances of almost-people-you-know. Algorithms never die.)
+
+It's not really important if this computationalist perspective is correct or even coherent. (I have my doubts.) There does seem to be a major disconnection between Me and Future Me. It may be ontological, it may just be temporal discounting, but it's there. The *real* problem is that my actions are inconsistent with my own stance on antinatalism.
+
+Basically, in my upcoming antinatalism FAQ, I currently mainly argue from two (independent) moral duties:
+
+1. Do no harm.
+2. Do not coerce.
+
+Skipping the actual arguments why birth is always a harm and never consensual, how can I say that I oppose birth because I will never do harm, but then go ahead and screw over Future Me? How is it not ok to bring into existence a child that will experience harm, but an adult is just fine? Person-moments aren't special simply because some have a causal history to other person-moments and others only to a fertilized egg. Pattern-theory-of-identity antinatalists should endorse suicide, always. (Excluding instrumental goals to achieve greater extends of suicide across the population, of course.)
+
+The same goes for coercion. *My* consent *now* is not the consent of Future Me. *I* might be fine with exchanging a benefit now with a harm later, but Future Me isn't, so I'm still enforcing a non-pareto-optimal choice. For births I argue that this is evil, but when it's me doing it, I'm fine with it?
+
+What the fuck, muflax?
+
+This goes back to a different point. *I don't actually want to follow these duties.* Honestly, I *want* to do harm, in certain circumstances. I *want* certain volitions to be imposed. These two principles don't actually model my own preferences. (It's not relevant for now in what specific way I disagree, but as an example, I am awe-struck by the purity of [Lucius Vorenus](http://en.wikipedia.org/wiki/Lucius_Vorenus_%28Rome_character%29) in the TV show Rome. I strongly recommend watching it.)
+
+So I discover some tensions in my ideas about morality:
+
+1. I *really want* antinatalism to be correct.
+2. I want to endorse "do no harm".
+3. I want to endorse actions that are clearly harmful, including outright violence. (For example, warfare.)
+4. I don't want things forced on me, so I don't endorse coercion.
+5. I want to be able to do certain things that are clearly non-consensual, including outright killing. (For example, killing a soldier in warfare.)
+6. I want morality to be ruthless (in the sense that there are no exceptions and no wiggle room), but also easy (in the sense that I don't want to drop any serious preference). The ruthlessness is more important.
+
+This does not work, to put it mildly.
+
+There are multiple ways to resolve this:
+
+1. Give up morality and do what I want. Arguing for "only personal preferences exist" is not unusual, after all. Antinatalism can still be expressed as a preference, but it won't be very convincing for most people.
+2. Overcome my preferences and embrace the kind of radical non-violence dictated by "do no harm".
+3. Combine "do no harm" and "do not coerce".
+
+3) is close to 2), but different in an important way. 2) simply says that no harm is ever good or acceptable, including harm voluntarily chosen for oneself. If I decided to slap myself, I would still be acting immorally. However, I am beginning to think that "do not coerce" is a stronger principle, as harm derives (partially at least) from an agent's volition. 
+
+Essentially, if everyone acts according to their will, they ought not be harmed. In Pareto Heaven, no harm should exist. Thus, "do no harm" is really a clarification of "do not coerce".
+
+"Do not coerce" has several nice properties. It has no [moral luck](http://en.wikipedia.org/wiki/Moral_luck), is strictly [local](http://blog.muflax.com/2012/01/23/non-local-metaethics/), suffers not from the repugnant conclusion or mere addition problem, works in the [Original Position](http://en.wikipedia.org/wiki/Original_position) and implies (almost-)categorical antinatalism because we can't get a child's consent in advance (in practice, though [not in theory](http://blog.muflax.com/2011/12/30/consent-of-the-dead/)). It's also compatible with Buddhist thought, which is nice to have, but certainly not a requirement. It also straightforwardly implies anarchism.
+
+One direct implication of this view is that you *can't* force others to do the right thing. You are fundamentally condemned to watch the world burn, if you are unlucky enough to live in a universe full of immoral forces. There is nothing you can do about it because you can't coerce others into being good. This is outright anti-adaptive, but that will not matter. I find this hopeful, actually. It means you can be good regardless of your surroundings, like [Ksitigarbha](http://en.wikipedia.org/wiki/Ksitigarbha).
+
+Important problems remain. What, exactly, is coercion anyway? (One promising route seems to be the distinction between means and ends. If you treat someone as a means, you are ignoring consent.) Who are the morally relevant agents? (That cursed hard problem of consciousness again.) How do I get rid of my own monstrosity that leads me towards force? (The old ascetics weren't as stupid as I sometimes think.) Coercion doesn't exist in atoms, so you can't have materialism. (This is not a big loss.) Can you still have naturalism? (Maybe.) Computationalism? (I doubt it.) 
+
+But back to the initial problem. How does "do not coerce" apply to Future Me?
+
+Well, it solves the harm problem by allowing *some* harm - self-inflicted harm. It is acceptable to give consent to harm, as long as this harm is to *you*, *now*. You are morally bound to *not* harm future versions of you, unless they would consent (which is unlikely). So you simply *can't* think, "I will do this tomorrow, even though tomorrow I won't like it". You *must* avoid all force against future instances. This does not mean you have to prevent harm per se, only harm that is willingly inflicted. You are not to blame for failing to prevent Future You from tripping, nor are you obligated to make anyone happy (as per Benatar's asymmetry).
+
+This still doesn't seem quite right, but it's a step in the right direction. I shall now accept that I want my slides to be done, and that this will be painful, and that only I, now, can accept this pain. I will now suffer, freely.

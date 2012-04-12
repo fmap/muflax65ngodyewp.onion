@@ -1,0 +1,85 @@
+---
+title: Crackpot Beliefs (The Theory)
+date: '2012-02-20'
+tags:
+- crackpottery
+- discordianism
+- NAMBLA
+techne: :done
+episteme: :speculation
+slug: 2012/02/20/crackpot-beliefs-the-theory/
+---
+
+Says [Wiki-sama](http://en.wikipedia.org/wiki/Crank_%28person%29):
+
+> Crank magnetism is a term popularized by physiologist and blogger Mark Hoofnagle to describe the propensity of cranks to hold multiple irrational, unsupported or ludicrous beliefs that are often unrelated to one another. Crank magnetism may be considered to operate wherever a single person propounds a number of unrelated denialist conjectures, poorly supported conspiracy theories, or pseudoscientific claims.
+
+Furthermore, 
+
+> [...] virtually universal characteristics of cranks include:
+> 
+> 1. Cranks overestimate their own knowledge and ability, and underestimate that of acknowledged experts.
+> 2. Cranks insist that their alleged discoveries are urgently important.
+> 3. Cranks rarely, if ever, acknowledge any error, no matter how trivial.
+> 4. Cranks love to talk about their own beliefs, often in inappropriate social situations, but they tend to be bad listeners, being uninterested in anyone else's experience or opinions.
+
+In other words, we can formulate the three **Axioms of Orthodox Crackpottery**:
+
+- **No Authority Axiom** (NAA): beliefs are not supported by the number or political power of its proponents.
+- **Loyalty Axiom** (LA): revising a belief is betraying a belief.
+- **Propaganda Axiom** (PA): the purpose of discussing a belief is to convince others of it.
+
+Once someone accepts these three axioms, they become a standard crackpot. It becomes clear that once you believe NAA and PA, you will think of the scientific consensus as a conspiracy, in the sense that the only purpose of its unity must be to effectively recruit new members; scientists don't agree because they found the truth, but to form an alliance. Similarly, crank magnetism is the attempt to form a counter-alliance.
+
+From these specific Axioms of Orthodox Crackpottery, we can derive more generalized versions, just as we can derive non-euclidean geometry by dropping the parallel postulate. This will also make clear that LA and PA are not equivalent.
+
+We can relax the No Authority Axiom by taking into account Bayesian evidence and the Aumann agreement theorem, i.e. perfect Bayesians with equal priors will always agree with each other. So if scientists are actually looking for the truth, it should be no surprise that most of them will agree with each other. As such, the existence of mainstream opinions can be taken as normal evidence for a belief. However, this is not a complete rejection of the axiom, as there might be alternative explanations for the existence of a consensus. Dropping the axiom results in Orthodox Religion with Official Doctrines.
+
+Alternatively, we can get rid of the Loyalty Axiom, but keep the Propaganda Axiom. Now we have sophistry - the idea that we should try to convince others, regardless what arguments we make. If this involves contradicting ourselves or changing a belief, so be it. Thus, LA and PA are not equivalent. Similarly, if we drop both of them, we derive Postmodernism.
+
+However, within Postmodernism, a game-theoretically interesting opportunity reveals itself - if most people *believe* PA is true, can arguing in a way that non-openly violates PA be used to *frustrate* them? Thus we derive:
+
+- **Trolling Axiom** (TA): the purpose of discussing a belief is to *entertain* oneself or others.
+
+If we now accept TA over PA, and still reject LA, we arrive at Discordianism. Beliefs are tools used to have fun and/or become enlightened, and can be freely manipulated. As it is written:
+
+> Greater Poop: Is Eris true?  
+> Malaclypse the Younger: Everything is true.  
+> GP: Even false things?  
+> M2: Even false things are true.  
+> GP: How can that be?  
+> M2: I don't know man, I didn't do it.  
+
+Yet, I find a full rejection of the Loyalty Axiom distasteful. Having *no* commitment to beliefs is too weak a position. Maybe there exists a middle path, an improved version, just as the substitution of motives that gets us from [PA](http://en.wikipedia.org/wiki/Laws_of_Form) to TA?
+
+Therefore I propose:
+
+- **Ritual Purity Axiom**: revising a belief is to make it *impure* and unfit for ritual practice.
+
+You can think of RPA as respecting the archetypal ideal of a belief. You can change it, but it must be done in appropriate ways. You can [deconstruct](http://tvtropes.org/pmwiki/pmwiki.php/Main/Deconstruction) a belief, but you must be true to its essence, its core motivation. You can't just make a cynical version and call it a day. You must truly explore the belief.
+
+However, and this is where the ritual aspect comes in, a deconstructed (or revised) belief is not suited for actual use. You must either abandon the practice, or preferably *reconstruct* it, staying true to its innermost motivation and context. Only then can you once again use the belief for its intended purpose. For a clear demonstration of this principle, watch [Hot Fuzz](http://en.wikipedia.org/wiki/Hot_Fuzz).
+
+Thus we arrive at Reformed Crackpottery, the framework for the self-aware crank. Just as Discordianism is calling the Aneristic Bluff, so is Orthodox Crackpottery calling the Meta-Aneristic Bluff. As it is written:
+
+> The Aneristic Principle is that of apparent order; the Eristic Principle is that of apparent disorder. Both order and disorder are man made concepts and are artificial divisions of pure chaos, which is a level deeper than is the level of distinction making.
+> 
+> With our concept-making apparatus called "the brain" we look at reality through the ideas-about-reality which our cultures give us.
+> 
+> The ideas-about-reality are mistakenly labeled "reality" and unenlightened people are forever perplexed by the fact that other people, especially other cultures, see "reality" differently.
+>
+> It is only the ideas-about-reality which differ. Real (capital-T) True reality is a level deeper than is the level of concept.
+> 
+> We look at the world through windows on which have been drawn grids (concepts). Different philosophies use different grids. A culture is a group of people with rather similar grids. Through a window we view chaos, and relate it to the points on our grid, and thereby understand it. The order is in the grid. That is the Aneristic Principle.
+> 
+> Western philosophy is traditionally concerned with contrasting one grid with another grid, and amending grids in hopes of finding a perfect one that will account for all reality and will, hence, (say unenlightened westerners) be true. This is illusory; it is what we Erisians call the Aneristic Illusion. Some grids can be more useful than others, some more beautiful than others, some more pleasant than others, etc., but none can be more True than any other.
+> 
+> Disorder is simply unrelated information viewed through some particular grid. But, like "relation", no-relation is a concept. Male, like female, is an idea about sex. To say that male-ness is "absence of female-ness", or vice versa, is a matter of definition and metaphysically arbitrary. The artificial concept of no-relation is the Eristic Principle.
+> 
+> The belief that "order is true" and disorder is false or somehow wrong, is the Aneristic Illusion. To say the same of disorder, is the Eristic Illusion.
+
+To believe that Some Beliefs Are True is the Aneristic Delusion, to believe that Some Methods Of Belief-Finding Are True the Meta-Aneristic Delusion. However, to therefore conclude that All Beliefs Are False is the Eristic Delusion, and All Beliefs Are Signaling is the Meta-Eristic Delusion.
+
+Reformed Crackpottery calls out both bluffs, by respecting the integrity of beliefs, while making it transparent that they are arbitrary constructs, not reflective of reality. All beliefs are crackpot beliefs, good cranks are just honest about it.
+
+This is the Nondual Delusion.
