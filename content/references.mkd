@@ -17,6 +17,7 @@ is_hidden: true
 [PredictionBook]: http://predictionbook.com/users/muflax
 [Twitter]: http://twitter.com/muflax
 [whatiswrongwith.me]: http://whatiswrongwith.me/muflax
+[Klout]: http://klout.com/#/muflax
 
 <!-- software -->
 [Github]: https://github.com/muflax/
@@ -252,6 +253,7 @@ is_hidden: true
 [Mahavira]: https://en.wikipedia.org/wiki/Mahavira
 [Sanjaya Belatthaputta]: https://en.wikipedia.org/wiki/Sanjaya_Belatthaputta
 [Five Hindrances]: https://en.wikipedia.org/wiki/Five_hindrances
+[Lain]: https://en.wikipedia.org/wiki/Serial_Experiments_Lain
 
 <!-- tweets -->
 [Twitter pali]: https://twitter.com/#!/muflax/status/66635052242567168
