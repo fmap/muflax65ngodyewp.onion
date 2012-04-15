@@ -7,7 +7,7 @@ episteme: :log
 
 (This is actually about 3 days worth of logging due to me not managing to publish it faster.)
 
-Finished the first phase of the transition. All content is now ported over and everything's static. Comments are currently missing because Disqus has some issues, but should come back soon. The RSS feed has been rewritten, sorry about that. There's no new content besides this entry yet. 
+Finished the first phase of the transition. All content is now ported over and everything's static. Comments are now hosted by Disqus. The RSS feed has been rewritten, sorry about that. There's no new content besides this entry yet. 
 
 I've divided the blog into a bunch of categories, but there's still a main stream of content and old links continue to work (though new posts use a different format). Unless I fucked up, nobody should have to change any links or feeds or whatever and nothing is gone. I think navigation is now a bit easier.
 
@@ -21,5 +21,48 @@ Besides coding, fixing links and moving text around, I played some old Need For 
 
 My brain seems to be back online, so everyone waiting for a reply will soon get one, I hope, and I'll get back to my projects and minor stuff like my college degree.
 
-I also thought about a name for my meta-moral position 'cause I don't want to call it "pruning moral localism", "M6-ism" or "What's this?! No moral luck, no uncertainty, agents only, [Final Destination][]!". Oh well, gotta present it first, then worry about a compact name. It's already bad enough that I can't write some posts 'cause no one would understand what I'm trying to say. ("
+I also thought about a name for my meta-moral position 'cause I don't want to call it "pruning moral localism", "M6-ism" or "What's this?! No moral luck, no uncertainty, agents only, [Final Destination][]!". Oh well, gotta present it first, then worry about a compact name.
 
+I experimented with new ways to deal with the nana cycling, particularly because I'm getting annoyed by the Dark Night, but the only established solution for yogis, i.e. ending affect entirely, isn't all that desirable either. I like *most* of the dukkha nanas, and I've even grown fond of Re-Observation, but Dissolution kicks my ass every damn time. The low-level, all-permeating, non-specific Dukkha Field makes *everything* painful, but not painful *enough* for me to do something about it.
+
+Re-Observation kicks my ass in ways I never imagined possible, but at least it gives me something to work with. I know who to kick *back*, so to speak. But Dissolution is just Bleargh all day. 
+
+Traditional advice is just "practice more". Sure, eventually you slip into Fear and Disgust, much nicer states (I think), but that's no solution. Shit will come back soon enough.
+
+Alternatively, I can just go into jhana all day. That's certainly much nicer, but useless. I can't advance jhana in Dissolution (not nearly enough power), and I can't use the jhana for anything useful either besides playing games.
+
+However, the [Actual Freedom][] dudes have proven that massive innovation is still possible. (After all, ending the cycling was considered impossible in practice until they came around.) Maybe I can find a way to fix Dissolution.
+
+First idea, increase the volume. One characteristic of the Dark Night is its 3rd Jhana feature of having no center. You were hanging out in the A&P until very recently and everything was crystal-clear and highly focused, but suddenly Dissolution comes along and smashes your lense and now tons of stuff you didn't see before is illuminated, sure, but everything's vague and distant.
+
+Tried 10 minutes of intensifying the Bleargh. I tried to concentrate the negative sensation somewhere, probing around in my head, stomach, arms, etc., but even though I eventually managed to grab hold of *something*, some ball of pain I could push around, that didn't affect the Dissolution itself. It's like with Three Characteristics and fixing your posture - its the most notable symptome, but not what you should focus on. So I disengaged from the ball, tried to tune into the background.
+
+As somewhat of an analogy, the whole thing feels like a large field of grass, but all the blades are bent. Each individual instance isn't too bad, but the whole field creates massive unease.
+
+Obvious idea now is to un-bend all the blades. That reminds me strongly of AF practice - take each emotion as it comes up, disengage, return to a happy state, repeat, until only happiness remains. But fuck that.
+
+Then I remembered a story I read many years ago about Crowley, about some demon he summoned, so I tried to look it up, but couldn't find it. (Mostly because virtually all results are about some fiction in which Crowley appears, not the actual summoning he claimed to have done.) Basically, it was a report of some ritual involving a particularly nasty and hard-to-control entity, which ended up killing everyone present except Crowley and a student in a different room (who reports the story). (I don't even know where I read it. I have Crowley on my reading list, so maybe I'll recover it eventually.)
+
+Anyway, this story always stuck with me, and while trying to find it, I stumbled on [Choronzon][], a much more important demon. Funny thing, Choronzon is also called the Demon of Dispersion, the Dweller in the Abyss, and they're like *the* personification of Dissolution. I also had a major obsession with Choronzon way back (which teenager hasn't tried summoning a demon or two?), but I was always puzzled by what this "Abyss" was supposed to be. 
+
+Crowley describes it like this:
+
+> [I]t corresponds more or less to the gap in thought between the Real, which is ideal, and the Unreal, which is actual. In the Abyss all things exist, indeed, at least in posse, but are without any possible meaning; for they lack the substratum of spiritual Reality. They are appearances without Law. They are thus Insane Delusions. Now the Abyss being thus the great storehouse of Phenomena, it is the source of all impressions.
+
+That's Dissolution alright. As the [Apocrypha Discordia][] reminds us:
+
+> O worm-eaten necromancer, hear me. A sadistic game you have played with your disciples long enough. You lure the curious down halls of Aleister Crowley statues and Crowley altars at every turn, only to lead the travellers to a mirror at the end of the path, and they realize their god was themselves all the time. BUT BY THAT TIME THEY'VE BOUGHT ALL YOUR BOOKS. Thou art a slick advertiser selling bottled air.
+
+Crowley recommends defeating Choronzon, and everyone except the chaos magicians agrees, but Crowley was also full of shit and I really like Choronzon, so here's the second idea: instead of intensifying the state of Dissolution (i.e. feeling the Abyss), let's try giving it some specificity, and manifest it in the form of Choronzon themselves. Then hang out. You know, just see what happens.
+
+Maybe that makes the state more concrete, not some malignant suckiness in the background.
+
+So for 20min, I try just that. I light a candle so I can use the flame as a starting object, invoke Choronzon, Formless Beast, Dweller in the Abyss, yadda yadda, then immediately realize how silly it is to *command* the Lord of Chaos, to concretify chaos. I blow out the candle and take the *smoke* as object. The *absence* of form. Demand not that Choronzon appear, but that we may become one, for I am just as formless. I ignore any form, ignore "chair", "wall", "candle", focus on the space between things. As the whiteboard dissolves into the wall, I notice that not-taking-things-as-object is *itself* an objectification, only one meta-level up, so I stop doing *that*, focus only on noise, stop all thought, all abstraction, just sit in chaos.
+
+Chaos is pretty, and free of suffering.
+
+It requires no effort to maintain this state, so formal meditation stops (not that *I* do that - *I* have stopped, have become part of the Legion-that-is-Choronzon). "I" can either sit outside the Abyss, and suffer Dissolution, or join Choronzon, let all experience just be, neither-pleasant-nor-unpleasant.
+
+An easy choice. Dissolution doesn't bother me today.
+
+(I strongly suspect I'm actually doing AF the hard way. But I suspect I'm doing *everything* the wrong way around, so whatever.)
