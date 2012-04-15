@@ -17,6 +17,9 @@ module Nanoc::CLI::Commands
       # regenerate site links
       m.call "nanoc references"
 
+      # check for duplicate links
+      m.call "nanoc dups" or raise "Duplicate links found!"
+
       sites_arg(options[:sites]).each do |site|
         puts "publishing site: #{site}"
         
