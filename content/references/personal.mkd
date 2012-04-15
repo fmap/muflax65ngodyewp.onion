@@ -1,0 +1,31 @@
+<!-- personal links -->
+[Antinatalism Tumblr]: http://antinatalism.tumblr.com/
+[Beeminder anki]: https://www.beeminder.com/muflax/goals/anki
+[Beeminder daily]: https://www.beeminder.com/muflax/goals/dailylog
+[Beeminder fitocracy]: https://www.beeminder.com/muflax/goals/fitocracy
+[Beeminder fume]: https://www.beeminder.com/muflax/goals/fume
+[Beeminder weight]: https://www.beeminder.com/muflax/goals/weight
+[Beeminder]: https://www.beeminder.com/muflax/goals/
+[Blog]: http://blog.muflax.com
+[GPG Key]: /muflax.asc          
+[Google+]: https://plus.google.com/105665518912548939532
+[Klout]: http://klout.com/#/muflax
+[LibraryThing]: http://www.librarything.com/profile/muflax
+[PredictionBook]: http://predictionbook.com/users/muflax
+[Twitter]: http://twitter.com/muflax
+[whatiswrongwith.me]: http://whatiswrongwith.me/muflax
+
+<!-- tweets -->
+[Twitter pali]: https://twitter.com/#!/muflax/status/66635052242567168
+
+<!-- software -->
+[Config]: https://github.com/muflax/config
+[Github]: https://github.com/muflax/
+[Pororo]: https://github.com/muflax/pororo
+[RBS]: https://github.com/muflax/scripts/blob/master/rbs
+[Source]: https://github.com/muflax/muflax.com
+[ashuku]: https://github.com/muflax/ashuku
+[backup video]: https://github.com/muflax/muflax.com/blob/master/backup-videos.rb
+[daily screenshot]: https://github.com/muflax/scripts/blob/master/daily_screenshot.sh
+[fume]: https://github.com/muflax/fume
+[fumetrap]: https://github.com/muflax/fumetrap

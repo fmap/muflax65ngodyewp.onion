@@ -1,282 +1,93 @@
-<!-- personal links -->
-[Antinatalism Tumblr]: http://antinatalism.tumblr.com/
-[Beeminder]: https://www.beeminder.com/muflax/goals/
-[Beeminder anki]: https://www.beeminder.com/muflax/goals/anki
-[Beeminder fitocracy]: https://www.beeminder.com/muflax/goals/fitocracy
-[Beeminder fume]: https://www.beeminder.com/muflax/goals/fume
-[Beeminder daily]: https://www.beeminder.com/muflax/goals/dailylog
-[Beeminder weight]: https://www.beeminder.com/muflax/goals/weight
-[Blog]: http://blog.muflax.com
-[GPG Key]: /muflax.asc          
-[Google+]: https://plus.google.com/105665518912548939532
-[LibraryThing]: http://www.librarything.com/profile/muflax
-[PredictionBook]: http://predictionbook.com/users/muflax
-[Twitter]: http://twitter.com/muflax
-[whatiswrongwith.me]: http://whatiswrongwith.me/muflax
-[Klout]: http://klout.com/#/muflax
-
-<!-- software -->
-[Github]: https://github.com/muflax/
-[Config]: https://github.com/muflax/config
-[Pororo]: https://github.com/muflax/pororo
-[RBS]: https://github.com/muflax/scripts/blob/master/rbs
-[Source]: https://github.com/muflax/muflax.com
-[ashuku]: https://github.com/muflax/ashuku
-[backup video]: https://github.com/muflax/muflax.com/blob/master/backup-videos.rb
-[daily screenshot]: https://github.com/muflax/scripts/blob/master/daily_screenshot.sh
-[fume]: https://github.com/muflax/fume
-[fumetrap]: https://github.com/muflax/fumetrap
-
 <!-- external links -->
+[AJATT]: http://www.alljapaneseallthetime.com/
+[Age of Decadence]: http://www.irontowerstudio.com/
 [Alan Dawrst]: http://www.utilitarian-essays.com/suffering-nature.html
-[Animal Rights]: http://en.wikipedia.org/wiki/Animal_rights#Main_philosophical_approaches
-[Berryz工房 - Dschinghis Khan]: http://www.youtube.com/watch?v=b7pui9Q6Vbo
 [Blackmore Free Will]: http://www.susanblackmore.co.uk/Chapters/Brockman2005.htm
 [Breaking the Spell]: http://www.philosophypress.co.uk/?p=1001
 [Bro Epicurus]: http://www.philosophybro.com/2011/03/epicurus-sovran-maxims-summary.html
-[Buddhism for Vampires]: http://buddhism-for-vampires.com
-[Carlin Sanctity]: http://www.youtube.com/watch?feature=player_embedded&v=AvF1Q3UidWM
 [Carrier Vegetarianism]: http://freethoughtblogs.com/carrier/archives/87
-[Chapman Disgust]: http://meaningness.wordpress.com/2011/07/22/disgust-horror-western-buddhism/
-[Ching Chong]: http://www.youtube.com/watch?v=zulEMWj3sVA
-[Creative Commons]: http://creativecommons.org/licenses/by-nc-sa/3.0/de
 [Dawrst Wildlife]: http://www.utilitarian-essays.com/suffering-nature.html
 [Dawrst]: http://www.utilitarian-essays.com/
 [Devil Pascal]: http://squid314.livejournal.com/301735.html
-[Eduardo Sousa]: http://www.ted.com/talks/dan_barber_s_surprising_foie_gras_parable.html
-[Egoism]: http://en.wikipedia.org/wiki/Ethical_egoism
-[Enlightenment, Self and the Brain]: http://video.google.com/videoplay?docid=5474604744218568426
-[Expanding Circle]: http://en.wikipedia.org/wiki/Peter_Singer
 [Eyercize]: http://www.eyercize.com
 [Find the Bug]: http://www.findthebug.com
 [Francois Caplan]: http://francoistremblay.wordpress.com/2011/12/07/bryan-caplan-repeats-same-nonsense-but-this-time-with-more-arrogance/
-[Fry God]: http://www.youtube.com/watch?feature=player_detailpage&v=kKOS4I6pUuY#t=45s
 [Fyfe Purpose]: http://atheistethicist.blogspot.com/2009/07/purpose-to-life-choosing-purpose.html
-[Gilbert TED]: http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy.html
-[Gwern URL]: http://www.gwern.net/Archiving%20URLs
 [Happiness Stochastic]: http://www.psych.umn.edu/psylabs/happness/happy.htm
 [Hell Employee]: http://feelafraidcomic.com/60.php
-[How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
-[Kerghan Speech]: http://www.youtube.com/watch?v=IkBrIrQikWY
-[LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
-[LW protect]: http://lesswrong.com/lw/nb/something_to_protect/
-[LW words]: http://lesswrong.com/lw/od/37_ways_that_words_can_be_wrong/
-[LW sequences]: http://wiki.lesswrong.com/wiki/Sequences
-[LW trilemma]: http://lesswrong.com/lw/19d/the_anthropic_trilemma/
-[LessWrong]: http://lesswrong.com
+[Howto Jhana]: http://www.leighb.com/jhana3.htm
+[Jhana Arc]: http://thehamiltonproject.blogspot.com/2011/01/yogi-toolbox-riding-jhanic-arc-via.html
+[LeechBlock]: https://addons.mozilla.org/en-US/firefox/addon/leechblock/
 [Look, Ma; No Hands!]: http://www.semanticrestructuring.com/lookma.php
-[Moldbug Left Right]: http://unqualified-reservations.blogspot.com/2008/06/olxi-truth-about-left-and-right.html
 [NFS.net]: https://www.nearlyfreespeech.net/
 [NOAA]: http://www.n3kl.org/sun/noaa.html
-[Narrowing Circle]: http://www.gwern.net/Notes#the-narrowing-circle
-[Nose Snail]: http://www.youtube.com/watch?v=vk_eljpPGMM
+[Pali 02]: http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html
 [PhilPapers Survey]: http://philpapers.org/surveys/
-[PlaidX torture]: http://lesswrong.com/lw/5ro/what_bothers_you_about_less_wrong/47ph
+[PihloBro]: http://www.philosophybro.com/
 [Price Purpose]: http://www.robertmprice.mindvendor.com/zara/april__2007.htm
 [Puredoxyk]: http://www.puredoxyk.com/
 [Rabin]: http://www.nber.org/~rosenbla/econ311/syllabus/rabincallibration.pdf
-[Rational Addiction]: http://www.xtranormal.com/watch/7873033/
 [Redshift]: http://jonls.dk/redshift/
-[Samsara Talk]: http://arobuddhism.org/audio-teachings/samsara-suffering-and-suspicion-the-path-to-endless-enjoyment.html
 [Schwitzgebel Ethics]: http://schwitzsplinters.blogspot.com/2007/04/moral-behavior-of-ethics-professors.html
 [Seth Bacteria]: http://blog.sethroberts.net/category/umami-hypothesis/
-[Shinzen Young]: http://www.youtube.com/user/expandcontract
-[Sister Asymmetry]: http://theviewfromhell.blogspot.com/2008/07/austrian-basement-and-beyond.html
-[Sister Y]: http://theviewfromhell.blogspot.com
 [Spreeder]: http://www.spreeder.com
 [Swartz Dennett]: http://www.aaronsw.com/weblog/dennettdumb
-[The View from Hell]: http://theviewfromhell.blogspot.com
-[Using Neuroscience for Spiritual Practice]: http://video.google.com/videoplay?docid=1030598948823323439
+[Tao]: http://www.beatrice.com/TAO.txt
+[Technium]: http://www.kk.org/books/what-technology-wants.php
 [Vipassana]: http://www.dhamma.org
 [WHO suicide]: http://www.who.int/mental_health/prevention/suicide/suicideprevent/en/
-[Wasting The Dawn]: http://www.youtube.com/watch?v=K7PhrPbyIsE
+[Wasteland Kickstarter]: http://www.kickstarter.com/projects/inxile/wasteland-2
+[Wasteland Obsidian]: http://www.rockpapershotgun.com/2012/03/30/obisidian-to-co-develop-wasteland-2-on-one-condition/
 [Why Did I Sleep So Well?]: http://blog.sethroberts.net/2008/09/03/science-in-action-why-did-i-sleep-so-well-part-10-2/
 [Xmonad Bug]: http://www.reddit.com/r/xmonad/comments/fdp4o/let_focus_follow_mouse_only_on_certain_layouts/
+[bible fault]: http://www.biblegateway.com/passage/?search=John+19%3A6&version=NKJV
 [bible.org]: http://bible.org/netbible/index.htm
-[f.lux]: http://www.stereopsis.com/flux/
-[fuzzyfinder]: http://codeulate.com/2010/02/installing-fuzzyfinder_textmate-textmates-cmdt-in-vim/
 [jbr changelog]: http://www.xibalba.demon.co.uk/jbr/log/
-[nanoc]: http://nanoc.stoneship.org
+[maggots image]: http://www.snopes.com/photos/medical/maggots.asp
 [puredoxyk]: http://www.puredoxyk.com
 [shamus bible]: http://www.shamusyoung.com/twentysidedtale/?p=12768&cpage=1#comment-231273
 [suffering per kg]: http://www.utilitarian-essays.com/suffering-per-kg.html
 [tripzine]: http://www.tripzine.com/listing.php?smlid=268 
-[Wolfire]: http://www.youtube.com/playlist?list=PLA17B3FAA1DA374F3&amp;feature=plcp
-[honeybadger]: http://www.youtube.com/watch?v=4r7wHMg5Yjg
-[AJATT]: http://www.alljapaneseallthetime.com/
-[Technium]: http://www.kk.org/books/what-technology-wants.php
-[PihloBro]: http://www.philosophybro.com/
-[reblog]: http://www.youtube.com/watch?feature=player_detailpage&v=roTrYCUhOu0#t=86s
-[Meaningness]: https://meaningness.wordpress.com/
-[Tao]: http://www.beatrice.com/TAO.txt
-[Good Job]: http://www.youtube.com/watch?v=-yNhl8wT3Pc
-[Jhana Arc]: http://thehamiltonproject.blogspot.com/2011/01/yogi-toolbox-riding-jhanic-arc-via.html
-[Wasteland Kickstarter]: http://www.kickstarter.com/projects/inxile/wasteland-2
-[Howto Jhana]: http://www.leighb.com/jhana3.htm
-[LW luke/ben]: http://lesswrong.com/r/discussion/lw/aw7/muehlhausergoertzel_dialogue_part_1/
-[LeechBlock]: https://addons.mozilla.org/en-US/firefox/addon/leechblock/
-[Pali 02]: http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html
-[Cookie Monster Nom]: https://www.youtube.com/watch?v=Cqz9ZXUoUcE
-[maggots image]: http://www.snopes.com/photos/medical/maggots.asp
-[maggots head]: http://www.liveleak.com/view?i=8d5_1219029078
-[Eva Eat]: https://www.youtube.com/watch?v=rlobzMvkm4w
-[MP comfy]: https://www.youtube.com/watch?v=CSe38dzJYkY
-[Logic Core]: https://www.youtube.com/watch?v=-iAUwamHTM4
-[Sister Epilogue]: http://theviewfromhell.blogspot.de/2010/12/living-in-epilogue-social-policy-as.html
-[bible fault]: http://www.biblegateway.com/passage/?search=John+19%3A6&version=NKJV
-[Harris Free Will]: https://www.youtube.com/watch?v=pCofmZlC72g
-[Unicorn Magic]: https://www.youtube.com/watch?v=qqvRrKcEhD4
-[TreeTagger]: http://www.ims.uni-stuttgart.de/projekte/corplex/TreeTagger/
-[Words dict]: http://users.erols.com/whitaker/words.htm
-[Perseus]: http://www.perseus.tufts.edu/hopper/
-[Schmidhuber Creativity]: http://vimeo.com/7441291
-[verboten]: https://www.youtube.com/watch?v=OfPCfqnQlpM
-[Wasteland Obsidian]: http://www.rockpapershotgun.com/2012/03/30/obisidian-to-co-develop-wasteland-2-on-one-condition/
-[Age of Decadence]: http://www.irontowerstudio.com/
-[Somuncu]: https://www.youtube.com/watch?v=d9qciD3sy2w
-[SMBC death]: https://www.youtube.com/watch?v=ARlTV1ZGJk8
-[Living Prayer]: http://www.godtube.com/watch/?v=7LL7D7NX
-[Assyriche]: https://www.youtube.com/watch?v=EcInBA4FlU8
-[Exorcist]: https://www.youtube.com/watch?v=Jvhl4At6AX8
-[99 hearts]: http://www.youtube.com/watch?v=dKm_7eOoGFc
-[Paint It Black]: https://www.youtube.com/watch?v=fPVUa29kHu8
-[Final Destination]: https://www.youtube.com/watch?v=O-7gmds2njg
 [xkcd lego]: https://xkcd.com/659/
 
-<!-- Wikipedia articles (and similar) -->
-[A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
-[Adolf Hitler]: http://en.wikipedia.org/wiki/Adolf_Hitler
-[Anatta]: http://en.wikipedia.org/wiki/Anatta
-[Anhedonia]: http://en.wikipedia.org/wiki/Anhedonia
-[Anicca]: http://en.wikipedia.org/wiki/Anicca
-[Antinatalism]: http://en.wikipedia.org/wiki/Antinatalism
-[Arising and Passing Away]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/The%20Arising%20and%20Passing%20Away?p_r_p_185834411_title=The%20Arising%20and%20Passing%20Away
-[Astronomical Waste]: http://www.nickbostrom.com/astronomical/waste.html
-[B-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
-[Benatar]: http://en.wikipedia.org/wiki/David_Benatar
-[Better Never to Have Been]: http://www.amazon.com/Better-Never-Have-Been-Existence/dp/0199296421
-[Catuskoti]: http://en.wikipedia.org/wiki/Catu%E1%B9%A3ko%E1%B9%ADi
-[Convict Conditioning]: http://www.dragondoor.com/b41/ 
-[Core Dump]: http://en.wikipedia.org/wiki/Core_dump
-[Crocker's Rules]: http://wiki.lesswrong.com/wiki/Crocker%27s_rules
-[DXM]: https://www.erowid.org/chemicals/dxm/faq/dxm_faq.shtml
-[Desirism]: http://commonsenseatheism.com/?p=2982
-[Discordianism]: http://en.wikipedia.org/wiki/Discordianism
-[Dukkha]: http://en.wikipedia.org/wiki/Dukkha
-[Dunbar's Number]: http://en.wikipedia.org/wiki/Dunbar's_Number
-[Epistemology]: http://en.wikipedia.org/wiki/Epistemology
-[Evil Trope]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTropes
-[Flanging]: http://en.wikipedia.org/wiki/Flanging
-[Frankl]: http://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning
-[Hedonic Treadmill]: http://en.wikipedia.org/wiki/Hedonic_treadmill
-[Hypothetical Consent]: http://simonamey.com/Philosophy/Entry.php?entryid=314
-[Implied Consent]: http://en.wikipedia.org/wiki/Implied_consent
-[Jetpack Hitler]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StupidJetpackHitler
-[Jhana]: http://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism#Usage_of_jh.C4.81na
-[Julian Jaynes]: http://en.wikipedia.org/wiki/Julian_Jaynes
-[Kai Lexx]: http://en.wikipedia.org/wiki/Kai_(Lexx)
-[Kali]: http://en.wikipedia.org/wiki/Kali
-[Kasina]: http://en.wikipedia.org/wiki/Kasina
-[Kerghan]: http://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura
-[Langton's Ant]: http://en.wikipedia.org/wiki/Langton's_ant
-[Lucid dreaming]: http://en.wikipedia.org/wiki/Lucid_dreaming
-[Marcion]: http://en.wikipedia.org/wiki/Marcion_of_Sinope
-[Michael Persinger]: http://en.wikipedia.org/wiki/Michael_Persinger
-[Mirror Test]: http://en.wikipedia.org/wiki/Mirror_test
-[Moral Luck]: http://plato.stanford.edu/entries/moral-luck/
-[Multiple Drafts]: http://www.scholarpedia.org/article/Multiple_drafts_model
-[Nagarjuna]: http://en.wikipedia.org/wiki/Nagarjuna
-[Naraka]: http://en.wikipedia.org/wiki/Naraka
-[Paleo]: http://www.archevore.com/archevore/
-[Paperclipper]: http://wiki.lesswrong.com/wiki/Paperclip_maximizer
-[Pascal's Mugging]: http://lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/
-[Principle of Charity]: http://en.wikipedia.org/wiki/Principle_of_charity
-[Profiling]: http://en.wikipedia.org/wiki/Profiling_(computer_programming)
-[Repugnant Conclusion]: http://en.wikipedia.org/wiki/Repugnant_Conclusion
-[Risk Aversion]: http://en.wikipedia.org/wiki/Risk_Aversion
-[Robert M. Price]: http://robertmprice.mindvendor.com
-[Satan]: http://en.wikipedia.org/wiki/Satan
-[Sathya Sai Baba]: http://en.wikipedia.org/wiki/Sathya_Sai_Baba
-[Satipatthana Sutta]: http://en.wikipedia.org/wiki/Satipatthana_Sutta
-[Scope Insensitivity]: http://lesswrong.com/lw/hw/scope_insensitivity/
-[Sensates]: http://mimir.net/psmush/sensates.shtml
-[Serotonin Syndrome]: http://en.wikipedia.org/wiki/Serotonin_syndrome
-[Simon Magus]: http://en.wikipedia.org/wiki/Simon_Magus
-[Sisyphus]: http://en.wikipedia.org/wiki/The_Myth_of_Sisyphus
-[Sutrayana]: http://en.wikipedia.org/wiki/Sutrayana
-[Tathagata]: http://en.wikipedia.org/wiki/Tath%C4%81gata
-[Theravada]: http://en.wikipedia.org/wiki/Theravada
-[Trivialism]: http://en.wikipedia.org/wiki/Trivialism
-[Unity of Knowledge and Action]: http://www.iep.utm.edu/wangyang/#H4
-[VHEMT]: http://en.wikipedia.org/wiki/Voluntary_human_extinction_movement
-[Vajrayana]: http://en.wikipedia.org/wiki/Vajrayana
-[Vampire RPG]: http://en.wikipedia.org/wiki/Vampire:_The_Masquerade
-[Vilayanur S. Ramachandran]: http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran
-[Visuddhimagga]: http://en.wikipedia.org/wiki/Visuddhimagga
-[Wang Yangming]: http://www.iep.utm.edu/wangyang/
-[Wireheading]: http://www.wireheading.com/
-[Yamantaka]: http://en.wikipedia.org/wiki/Yamantaka
-[Yotsuba]: http://en.wikipedia.org/wiki/Yotsuba&!
-[al-Ghazali]: http://en.wikipedia.org/wiki/Al-Ghazali
-[quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
-[schächten]: http://en.wikipedia.org/wiki/Shechita
-[Pali Canon]: https://en.wikipedia.org/wiki/Pali_canon
-[Nirodha Samapatti]: http://web.mac.com/danielmingram/iWeb/Daniel%20Ingram%27s%20Dharma%20Blog/The%20Blook/2CECD5EA-6058-4428-8DDD-002856C2E28A.html
-[Kenosis]: http://en.wikipedia.org/wiki/Kenosis
-[Stromberg]: http://en.wikipedia.org/wiki/Stromberg_%28TV_series%29
-[A Serious Man]: http://en.wikipedia.org/wiki/A_serious_man
-[subs2srs]: http://rtkwiki.koohii.com/wiki/Subs2srs
-[MCD]: http://www.alljapaneseallthetime.com/blog/series/mcd-revolution
-[Book of the Dead]: https://en.wikipedia.org/wiki/Bardo_Thodol
-[Oreo]: https://en.wikipedia.org/wiki/Oreo
-[Dirk Gently TV]: https://en.wikipedia.org/wiki/Dirk_Gently_%28TV_series%29
-[Aeron]: https://en.wikipedia.org/wiki/Aeron_chair
-[10 Precepts]: https://en.wikipedia.org/wiki/Five_Precepts#Ten_Precepts
-[unsupervised universe]: http://wiki.lesswrong.com/wiki/Unsupervised_universe
-[Missionary Paradox]: http://everything2.com/title/Missionary+Paradox
-[Wu Wei]: https://en.wikipedia.org/wiki/Wu_wei
-[Shangri-la diet]: https://en.wikipedia.org/wiki/The_Shangri-La_Diet
-[Olsenbande]: https://en.wikipedia.org/wiki/Olsen_Gang
-[BG2]: https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn
-[quadtree]: https://en.wikipedia.org/wiki/Quadtree
-[Faust]: https://en.wikipedia.org/wiki/Goethe%27s_Faust
-[Kant]: https://en.wikipedia.org/wiki/Immanuel_Kant
-[Ajatasattu]: https://en.wikipedia.org/wiki/Ajatasatru
-[Purana Kassapa]: https://en.wikipedia.org/wiki/Purana_Kassapa
-[Makkhali Gosala]: https://en.wikipedia.org/wiki/Makkhali_Gosala
-[Ajita Kesakambali]: https://en.wikipedia.org/wiki/Ajita_Kesakambali
-[Pakudha Kaccayana]: https://en.wikipedia.org/wiki/Pakudha_Kaccayana
-[Mahavira]: https://en.wikipedia.org/wiki/Mahavira
-[Sanjaya Belatthaputta]: https://en.wikipedia.org/wiki/Sanjaya_Belatthaputta
-[Five Hindrances]: https://en.wikipedia.org/wiki/Five_hindrances
-[Lain]: https://en.wikipedia.org/wiki/Serial_Experiments_Lain
-[Choronzon]: https://en.wikipedia.org/wiki/Choronzon
-[Apocrypha Discordia]: http://appendix.23ae.com/apocrypha/index.html
-[Actual Freedom]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/Actualism
-[Lucius Vorenus]: http://en.wikipedia.org/wiki/Lucius_Vorenus_%28Rome_character%29
-[Original Position]: http://en.wikipedia.org/wiki/Original_position
-[Ksitigarbha]: http://en.wikipedia.org/wiki/Ksitigarbha
+<!-- LessWrong -->
+[LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
+[LW luke/ben]: http://lesswrong.com/r/discussion/lw/aw7/muehlhausergoertzel_dialogue_part_1/
+[LW protect]: http://lesswrong.com/lw/nb/something_to_protect/
+[LW sequences]: http://wiki.lesswrong.com/wiki/Sequences
+[LW trilemma]: http://lesswrong.com/lw/19d/the_anthropic_trilemma/
+[LW words]: http://lesswrong.com/lw/od/37_ways_that_words_can_be_wrong/
+[LessWrong]: http://lesswrong.com
+[PlaidX torture]: http://lesswrong.com/lw/5ro/what_bothers_you_about_less_wrong/47ph
 
-<!-- tweets -->
-[Twitter pali]: https://twitter.com/#!/muflax/status/66635052242567168
+<!-- software -->
+[Creative Commons]: http://creativecommons.org/licenses/by-nc-sa/3.0/de
+[Perseus]: http://www.perseus.tufts.edu/hopper/
+[TreeTagger]: http://www.ims.uni-stuttgart.de/projekte/corplex/TreeTagger/
+[Words dict]: http://users.erols.com/whitaker/words.htm
+[f.lux]: http://www.stereopsis.com/flux/
+[fuzzyfinder]: http://codeulate.com/2010/02/installing-fuzzyfinder_textmate-textmates-cmdt-in-vim/
+[nanoc]: http://nanoc.stoneship.org
+
+<!-- gwern -->
+[Gwern URL]: http://www.gwern.net/Archiving%20URLs
+[Narrowing Circle]: http://www.gwern.net/Notes#the-narrowing-circle
+
+<!-- Sister Y -->
+[Sister Asymmetry]: http://theviewfromhell.blogspot.com/2008/07/austrian-basement-and-beyond.html
+[Sister Epilogue]: http://theviewfromhell.blogspot.de/2010/12/living-in-epilogue-social-policy-as.html
+[Sister Y]: http://theviewfromhell.blogspot.com
+[The View from Hell]: http://theviewfromhell.blogspot.com
+
+<!-- Moldbug -->
+[How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
+[Moldbug Left Right]: http://unqualified-reservations.blogspot.com/2008/06/olxi-truth-about-left-and-right.html
+
+<!-- Meaningness -->
+[Buddhism for Vampires]: http://buddhism-for-vampires.com
+[Chapman Disgust]: http://meaningness.wordpress.com/2011/07/22/disgust-horror-western-buddhism/
+[Meaningness]: https://meaningness.wordpress.com/
 
 <!-- internal links -->
 [RSS]: /rss.xml
 
-<!-- abbreviations -->
-*[AGI]: Artificial General Intelligence (aka Strong AI)
-*[AI]: Artificial Intelligence
-*[GAI]: General Artificial Intelligence (aka Strong AI)
-*[LW]: LessWrong
-*[PCT]: Perceptual Control Theory
-*[RAW]: Robert Anton Wilson
-*[SIAI]: Singularity Institute for Artificial Intelligence
-*[SIA]: Self-Indication Assumption
-*[SRS]: Spaced Repetition Software (e.g. Anki)
-*[SSA]: Self-Sampling Assumption
-*[AvgUtil]: Average Utilitarianism
-*[TotalUtil]: Total Utilitarianism
-*[MaxUtil]: Maximum Utilitarianism
-*[ActUtil]: Act Utilitarianism
-*[RuleUtil]: Rule Utilitarianism
-*[PrefUtil]: Preference Utilitarianism

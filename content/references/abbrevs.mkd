@@ -1,0 +1,17 @@
+<!-- abbreviations -->
+*[AGI]: Artificial General Intelligence (aka Strong AI)
+*[AI]: Artificial Intelligence
+*[GAI]: General Artificial Intelligence (aka Strong AI)
+*[LW]: LessWrong
+*[PCT]: Perceptual Control Theory
+*[RAW]: Robert Anton Wilson
+*[SIAI]: Singularity Institute for Artificial Intelligence
+*[SIA]: Self-Indication Assumption
+*[SRS]: Spaced Repetition Software (e.g. Anki)
+*[SSA]: Self-Sampling Assumption
+*[AvgUtil]: Average Utilitarianism
+*[TotalUtil]: Total Utilitarianism
+*[MaxUtil]: Maximum Utilitarianism
+*[ActUtil]: Act Utilitarianism
+*[RuleUtil]: Rule Utilitarianism
+*[PrefUtil]: Preference Utilitarianism
