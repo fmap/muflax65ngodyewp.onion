@@ -14,12 +14,15 @@ module Nanoc::CLI::Commands
       # push changes to github
       m.call "git push origin"
 
+      # regenerate site links
+      m.call "nanoc references"
+
       sites_arg(options[:sites]).each do |site|
         puts "publishing site: #{site}"
         
         # clean unneeded files
         m.call "nanoc prune -s #{site} --yes"
-      
+
         # compile site to ensure a usable state
         m.call "nanoc compile -s #{site}"
 
