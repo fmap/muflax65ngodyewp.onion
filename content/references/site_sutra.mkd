@@ -1,5 +1,0 @@
-<!-- (auto-generated) internal links for site: sutra -->
-[Blogchen]: /
-[about blogchen]: /about/
-[Monks Are Awesome]: /pali/monks-are-awesome/
-[FAQ]: /faq/

@@ -2,6 +2,10 @@
 .#*
 .sass-cache
 
+# generated files
 tmp/
 out/
+content/references/site_*.mkd
+
+# backup
 video-backup
