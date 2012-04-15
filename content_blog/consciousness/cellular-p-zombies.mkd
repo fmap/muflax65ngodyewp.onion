@@ -1,6 +1,6 @@
 ---
 title: Cellular P-Zombies
-date: '1970-01-01'
+date: 1970-01-01
 tags:
 - cellular automatons
 - materialism

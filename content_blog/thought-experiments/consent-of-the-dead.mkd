@@ -1,6 +1,6 @@
 ---
 title: Consent of the Dead
-date: '2011-12-30'
+date: 2011-12-30
 tags:
 - antinatalism
 - consent

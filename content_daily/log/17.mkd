@@ -1,6 +1,6 @@
 ---
 title: UNTZ UNTZ UNTZ UNTZ UNTZ
-date: '2012-03-24'
+date: 2012-03-24
 techne: :done
 episteme: :log
 slug: 2012/03/24/untz-untz-untz-untz-untz/

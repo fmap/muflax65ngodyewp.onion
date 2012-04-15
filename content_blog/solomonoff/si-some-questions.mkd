@@ -1,6 +1,6 @@
 ---
 title: ! '[SI] Some Questions'
-date: '2012-01-11'
+date: 2012-01-11
 tags:
 - solomonoff induction
 techne: :done

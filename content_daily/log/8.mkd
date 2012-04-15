@@ -1,6 +1,6 @@
 ---
 title: M is for Monkey
-date: '2012-03-15'
+date: 2012-03-15
 techne: :done
 episteme: :log
 slug: 2012/03/15/m-is-for-monkey/

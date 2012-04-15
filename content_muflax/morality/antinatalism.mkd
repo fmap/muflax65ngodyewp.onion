@@ -1,6 +1,6 @@
 ---
 title: Antinatalism Overview
-alt_titles: [Antinatalism]
+alt_titles: [Antinatalism FAQ]
 date: 2012-02-02
 techne: :wip
 episteme: :believed

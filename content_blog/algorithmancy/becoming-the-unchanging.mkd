@@ -1,6 +1,6 @@
 ---
 title: Becoming the Unchanging
-date: '1970-01-01'
+date: 2012-04-15
 tags:
 - acausal
 - buddhism
@@ -11,7 +11,6 @@ tags:
 - yangming
 techne: :wip
 episteme: :speculation
-slug: ?p=448
 ---
 
 <em>I'm mildly afraid to talk about my thoughts. The moment I present an idea, I begin to strongly believe it. This is of course how evangelism works - its purpose is to convince the missionary, not the heathen. Writing about it, though, doesn't seem to cause this. It forces me to address any holes and assemble a coherent (enough) idea, but often fails to trigger integration. I can write about certain ideas for ages without ever adopting (or rejecting) them. But sometimes, talking about an idea finally causes <em>decompartmentalization. This is an attempt to trace a recent one. </em></em>

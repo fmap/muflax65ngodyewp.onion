@@ -1,6 +1,6 @@
 ---
 title: Biste jetz Kommerz-Gandalf oda wat?!
-date: '2012-04-05'
+date: 2012-04-05
 techne: :done
 episteme: :log
 slug: 2012/04/05/biste-jetz-kommerz-gandalf-oda-wat/

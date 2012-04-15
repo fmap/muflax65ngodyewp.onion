@@ -1,6 +1,6 @@
 ---
 title: Evangelium Teutonicum
-date: '2012-03-01'
+date: 2012-03-01
 tags: []
 techne: :wip
 episteme: :speculation

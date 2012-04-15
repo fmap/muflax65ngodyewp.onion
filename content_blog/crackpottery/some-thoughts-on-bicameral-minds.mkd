@@ -1,6 +1,6 @@
 ---
 title: Some Thoughts on Bicameral Minds
-date: '2012-01-04'
+date: 2012-01-04
 tags:
 - bicameral
 - consciousness

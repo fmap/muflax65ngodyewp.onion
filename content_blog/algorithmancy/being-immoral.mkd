@@ -1,11 +1,11 @@
 ---
 title: Being Immoral
-date: '2012-02-03'
+date: 2012-02-03
 tags:
 - deontology
 - moralism
 techne: :done
-episteme: :speculation
+episteme: :personal
 slug: 2012/02/03/being-immoral/
 ---
 
@@ -24,7 +24,7 @@ In a draft about personal identity in a computationalist universe, I wrote:
 > 
 > But I didn't fully internalize this view because I thought it had a consequence I didn't want to embrace - *long-term selfishness would be incoherent*. Or in other words, it would make no sense to say, I do this so I may benefit from it later. muflax(t+1) is as much me as random_person(t+1). Why would I favor one and not the other? The only coherent scope for muflax(t)'s goals is *right now* and that is it. Which is what the Buddhists have been telling me for a long time. It didn't surprise me that people holding this view don't get anything done - there is no *point* in getting anything done! Also, universal altruism seems to follow directly from it. Or, as Eliezer says:
 > 
-> > And the third horn of the [trilemma](http://lesswrong.com/lw/19d/the_anthropic_trilemma/) is to reject the idea of the personal future - that there's any *meaningful* sense in which I can anticipate waking up as *myself* tomorrow, rather than Britney Spears.  Or, for that matter, that there's any meaningful sense in which I can anticipate being *myself* in five seconds, rather than Britney Spears.  In five seconds there will be an Eliezer Yudkowsky, and there will be a Britney Spears, but it is meaningless to speak of the *current* Eliezer "continuing on" as Eliezer+5 rather than Britney+5; these are simply three different people we are talking about.
+> > And the third horn of the [trilemma][LW trilemma] is to reject the idea of the personal future - that there's any *meaningful* sense in which I can anticipate waking up as *myself* tomorrow, rather than Britney Spears.  Or, for that matter, that there's any meaningful sense in which I can anticipate being *myself* in five seconds, rather than Britney Spears.  In five seconds there will be an Eliezer Yudkowsky, and there will be a Britney Spears, but it is meaningless to speak of the *current* Eliezer "continuing on" as Eliezer+5 rather than Britney+5; these are simply three different people we are talking about.
 > >
 > > There are no threads connecting subjective experiences.  There are simply different subjective experiences.  Even if some subjective experiences are highly similar to, and causally computed from, other subjective experiences, they are not *connected*.
 > >
@@ -45,7 +45,7 @@ The same goes for coercion. *My* consent *now* is not the consent of Future Me. 
 
 What the fuck, muflax?
 
-This goes back to a different point. *I don't actually want to follow these duties.* Honestly, I *want* to do harm, in certain circumstances. I *want* certain volitions to be imposed. These two principles don't actually model my own preferences. (It's not relevant for now in what specific way I disagree, but as an example, I am awe-struck by the purity of [Lucius Vorenus](http://en.wikipedia.org/wiki/Lucius_Vorenus_%28Rome_character%29) in the TV show Rome. I strongly recommend watching it.)
+This goes back to a different point. *I don't actually want to follow these duties.* Honestly, I *want* to do harm, in certain circumstances. I *want* certain volitions to be imposed. These two principles don't actually model my own preferences. (It's not relevant for now in what specific way I disagree, but as an example, I am awe-struck by the purity of [Lucius Vorenus][] in the TV show Rome. I strongly recommend watching it.)
 
 So I discover some tensions in my ideas about morality:
 
@@ -68,9 +68,9 @@ There are multiple ways to resolve this:
 
 Essentially, if everyone acts according to their will, they ought not be harmed. In Pareto Heaven, no harm should exist. Thus, "do no harm" is really a clarification of "do not coerce".
 
-"Do not coerce" has several nice properties. It has no [moral luck](http://en.wikipedia.org/wiki/Moral_luck), is strictly [local](http://blog.muflax.com/2012/01/23/non-local-metaethics/), suffers not from the repugnant conclusion or mere addition problem, works in the [Original Position](http://en.wikipedia.org/wiki/Original_position) and implies (almost-)categorical antinatalism because we can't get a child's consent in advance (in practice, though [not in theory](http://blog.muflax.com/2011/12/30/consent-of-the-dead/)). It's also compatible with Buddhist thought, which is nice to have, but certainly not a requirement. It also straightforwardly implies anarchism.
+"Do not coerce" has several nice properties. It has no [Moral Luck][], is strictly [local][Non-Local Metaethics], suffers not from the repugnant conclusion or mere addition problem, works in the [Original Position][] and implies (almost-)categorical antinatalism because we can't get a child's consent in advance (in practice, though [not in theory][Consent of the Dead]. It's also compatible with Buddhist thought, which is nice to have, but certainly not a requirement. It also straightforwardly implies anarchism.
 
-One direct implication of this view is that you *can't* force others to do the right thing. You are fundamentally condemned to watch the world burn, if you are unlucky enough to live in a universe full of immoral forces. There is nothing you can do about it because you can't coerce others into being good. This is outright anti-adaptive, but that will not matter. I find this hopeful, actually. It means you can be good regardless of your surroundings, like [Ksitigarbha](http://en.wikipedia.org/wiki/Ksitigarbha).
+One direct implication of this view is that you *can't* force others to do the right thing. You are fundamentally condemned to watch the world burn, if you are unlucky enough to live in a universe full of immoral forces. There is nothing you can do about it because you can't coerce others into being good. This is outright anti-adaptive, but that will not matter. I find this hopeful, actually. It means you can be good regardless of your surroundings, like [Ksitigarbha][].
 
 Important problems remain. What, exactly, is coercion anyway? (One promising route seems to be the distinction between means and ends. If you treat someone as a means, you are ignoring consent.) Who are the morally relevant agents? (That cursed hard problem of consciousness again.) How do I get rid of my own monstrosity that leads me towards force? (The old ascetics weren't as stupid as I sometimes think.) Coercion doesn't exist in atoms, so you can't have materialism. (This is not a big loss.) Can you still have naturalism? (Maybe.) Computationalism? (I doubt it.) 
 

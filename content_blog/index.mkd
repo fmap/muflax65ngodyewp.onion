@@ -1,5 +1,6 @@
 ---
-title: Blogchen
+title: muflax' mindstream
+short_title: blog
 non_cognitive: true
 no_comments: true
 ---

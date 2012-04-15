@@ -1,5 +1,6 @@
 ---
-title: about
+title: about the daily log
+alt_titles: [about dlog]
 date: 2012-04-12
 techne: :done
 episteme: :believed

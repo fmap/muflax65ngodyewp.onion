@@ -1,6 +1,6 @@
 ---
 title: La sauce d'awesome
-date: '2012-03-11'
+date: 2012-03-11
 techne: :done
 episteme: :log
 slug: 2012/03/11/la-sauce-dawesome/

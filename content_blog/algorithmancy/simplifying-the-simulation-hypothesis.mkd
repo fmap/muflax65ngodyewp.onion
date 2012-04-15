@@ -1,6 +1,6 @@
 ---
 title: Simplifying the Simulation Hypothesis
-date: '2012-01-28'
+date: 2012-01-28
 tags:
 - sent from my dreams
 - simulation

@@ -1,6 +1,6 @@
 ---
 title: In nomine Fargi, Avelloni et Spirito Trolli
-date: '2012-04-12'
+date: 2012-04-12
 techne: :done
 episteme: :log
 slug: 2012/04/12/in-nomine-fargi-avelloni-et-spirito-trolli/

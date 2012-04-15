@@ -1,4 +1,3 @@
-# add list of all sites so that this file does something useful
 usage       'compress'
 summary     'compresses site(s)'
 description 'Compresses all web files in given site(s).'

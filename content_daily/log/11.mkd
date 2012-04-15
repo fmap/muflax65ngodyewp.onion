@@ -1,6 +1,6 @@
 ---
 title: Down The Meta Ladder
-date: '2012-03-19'
+date: 2012-03-19
 techne: :done
 episteme: :log
 slug: 2012/03/19/down-the-meta-ladder/

@@ -1,6 +1,6 @@
 ---
 title: Meditation on Hate
-date: '1970-01-01'
+date: 1970-01-01
 tags:
 - dark stance
 - meditation

@@ -1,6 +1,6 @@
 ---
 title: Self-Help is Killing the Status Industry
-date: '2012-04-04'
+date: 2012-04-04
 tags:
 - akrasia
 - signaling

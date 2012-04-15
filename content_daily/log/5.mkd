@@ -1,6 +1,6 @@
 ---
 title: omg hax!!1!
-date: '2012-03-13'
+date: 2012-03-13
 techne: :done
 episteme: :log
 slug: 2012/03/13/omg-hax1/

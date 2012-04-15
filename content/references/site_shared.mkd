@@ -1,0 +1,5 @@
+<!-- (auto-generated) internal links for shared content -->
+[404]: /404/
+[contact muflax]: /contact/
+[Contact]: /contact/
+[Epistemic State]: /episteme/

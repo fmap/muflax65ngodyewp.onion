@@ -1,6 +1,6 @@
 ---
 title: Non-Local Metaethics
-date: '2012-01-23'
+date: 2012-01-23
 tags:
 - morality
 - utilitarianism

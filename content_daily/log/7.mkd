@@ -1,6 +1,6 @@
 ---
 title: Pay attention. Keep breathing.
-date: '2012-03-15'
+date: 2012-03-15
 techne: :done
 episteme: :log
 slug: 2012/03/15/pay-attention-keep-breathing/

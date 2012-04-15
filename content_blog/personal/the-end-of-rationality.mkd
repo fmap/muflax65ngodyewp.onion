@@ -1,6 +1,6 @@
 ---
 title: The End of Rationality
-date: '2012-02-22'
+date: 2012-02-22
 tags:
 - buddhism
 - consciousness

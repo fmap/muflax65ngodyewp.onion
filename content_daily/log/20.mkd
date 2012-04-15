@@ -1,6 +1,6 @@
 ---
 title: Dig through the ditches and burn through the witches...
-date: '2012-03-26'
+date: 2012-03-26
 techne: :done
 episteme: :log
 slug: 2012/03/26/dig-through-the-ditches-and-burn-through-the-witches/

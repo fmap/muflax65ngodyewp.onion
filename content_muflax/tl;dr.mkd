@@ -1,6 +1,6 @@
 ---
 title: "tl;dr: muflax"
-alt_titles: [muflax, about]
+alt_titles: [muflax, about muflax]
 date: 2012-02-05
 techne: :wip
 toc: true

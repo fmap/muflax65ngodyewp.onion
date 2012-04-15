@@ -1,6 +1,6 @@
 ---
 title: And we'll all come praise the Infanta
-date: '2012-03-10'
+date: 2012-03-10
 techne: :done
 episteme: :log
 slug: 2012/03/10/and-well-all-come-praise-the-infanta/

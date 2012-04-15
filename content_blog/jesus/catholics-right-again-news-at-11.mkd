@@ -1,6 +1,6 @@
 ---
 title: Catholics Right Again, News At 11
-date: '2012-03-14'
+date: 2012-03-14
 tags:
 - buddhism
 - catholicism

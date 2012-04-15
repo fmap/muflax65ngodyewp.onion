@@ -1,6 +1,6 @@
 ---
 title: Instant Jhana, Just Add Music
-date: '2012-04-01'
+date: 2012-04-01
 techne: :done
 episteme: :log
 slug: 2012/04/01/instant-jhana-just-add-music/

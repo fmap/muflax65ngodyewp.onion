@@ -1,6 +1,6 @@
 ---
 title: Dammit, Hardison!
-date: '2012-03-09'
+date: 2012-03-09
 techne: :done
 episteme: :log
 slug: 2012/03/09/dammit-hardison/

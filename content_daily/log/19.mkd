@@ -1,6 +1,6 @@
 ---
 title: credo in remissionem peccatorum
-date: '2012-03-26'
+date: 2012-03-26
 techne: :done
 episteme: :log
 slug: 2012/03/26/credo-in-remissionem-peccatorum/

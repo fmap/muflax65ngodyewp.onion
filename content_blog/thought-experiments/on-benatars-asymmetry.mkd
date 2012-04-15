@@ -1,6 +1,6 @@
 ---
 title: On Benatar's Asymmetry
-date: '2011-12-30'
+date: 2011-12-30
 tags:
 - antinatalism
 - doctor deontology

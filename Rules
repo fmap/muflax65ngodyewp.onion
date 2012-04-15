@@ -16,27 +16,17 @@
 
 preprocess do
   def reference_links
-    # find reference item
-    reference = @items.find{|item| item.identifier == '/references/'}
+    # find reference items
+    references = @items.select{|item| item.identifier.start_with? '/references/'}
 
-    # add automatic content to reference
-    page_links = ["<!-- automatic content -->"]
-    @site.printed_items.each do |i|
-      page_links << "[#{i[:title]}]: #{i.identifier}"
-   
-      unless i[:alt_titles].nil?
-        i[:alt_titles].each do |title|
-          page_links << "[#{title}]: #{i.identifier}"
-        end
-      end
-    end
-    reference.add_content(page_links.join("\n"))
-    
-    unless reference.nil?
-      # add references to every markdown item
+    # load references
+    ref_content = references.map{|r| File.open(r[:filename]).readlines}.join("\n\n")
+
+    # add references to every markdown item
+    unless references.nil?
       @site.printed_items.each do |item|
         if item[:extension] == "mkd"
-          item.add_references reference.raw_content
+          item.add_references ref_content
         end
       end
     end
@@ -44,7 +34,7 @@ preprocess do
 
   def hide_pages
     @items.each do |item|
-      if item.identifier.match %r{^/(styles)/}
+      if item.identifier.match %r{^/(styles|references)/}
         item[:is_hidden] = true
       end
     end
@@ -52,7 +42,6 @@ preprocess do
 
   hide_pages # must be first
   @site.find_printed_items
-
   reference_links
 end
 
@@ -64,7 +53,7 @@ compile '/stuff/*' do
   # pass
 end
 
-compile '/references' do
+compile '/references/*' do
   # link references are only added to other files
 end
 
@@ -123,7 +112,7 @@ route '/styles/*' do
   route_with_new_extension "css"
 end
 
-route '/references' do
+route '/references/*' do
   # pass
 end
 

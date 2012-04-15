@@ -1,6 +1,6 @@
 ---
 title: Straight Outta Bückeburg
-date: '2012-03-21'
+date: 2012-03-21
 techne: :done
 episteme: :log
 slug: 2012/03/21/straight-outta-buckeburg/

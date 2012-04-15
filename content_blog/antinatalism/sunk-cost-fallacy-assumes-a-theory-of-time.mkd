@@ -1,6 +1,6 @@
 ---
 title: Sunk Cost Fallacy Assumes A-Theory of Time
-date: '2012-02-15'
+date: 2012-02-15
 tags:
 - antinatalism
 - b-theory

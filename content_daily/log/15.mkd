@@ -1,6 +1,6 @@
 ---
 title: Mindfully Bored
-date: '2012-03-22'
+date: 2012-03-22
 techne: :done
 episteme: :log
 slug: 2012/03/22/mindfully-bored/

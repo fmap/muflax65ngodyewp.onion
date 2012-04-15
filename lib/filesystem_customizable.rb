@@ -26,10 +26,6 @@ module DataSources
     def up
       @sources = ['content'] + (config[:source_dir] || [])
       @layouts = ['layouts'] + (config[:layout_dir] || [])
-      @dtstart = Time.now
-    end
-    def down
-      puts "Data loaded in #{format('%.2f', Time.now - @dtstart)}s."
     end
   end
 end

@@ -1,6 +1,6 @@
 ---
 title: Monks Are Awesome
-date: '2012-03-19'
+date: 2012-03-19
 tags:
 - pali
 techne: :done

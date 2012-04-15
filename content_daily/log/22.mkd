@@ -1,6 +1,6 @@
 ---
 title: Deus Vult!
-date: '2012-03-30'
+date: 2012-03-30
 techne: :done
 episteme: :log
 slug: 2012/03/30/deus-vult/

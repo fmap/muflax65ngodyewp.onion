@@ -1,6 +1,6 @@
 ---
 title: Wasn't broken, so I fixed it.
-date: '2012-04-11'
+date: 2012-04-11
 techne: :done
 episteme: :log
 slug: 2012/04/11/wasnt-broken-so-i-fixed-it/

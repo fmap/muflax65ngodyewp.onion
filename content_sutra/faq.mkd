@@ -1,3 +1,10 @@
+---
+title: FAQ
+date: 2012-04-15
+techne: :done
+episteme: :believed
+---
+
 - Q: What's the tl;dr?
   
   A: Buddhist texts, retold by an internet crackpot / lolcat enthusiast.

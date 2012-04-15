@@ -1,6 +1,6 @@
 ---
 title: Stop doing stuff all the time,  and watch what happens.
-date: '2012-03-29'
+date: 2012-03-29
 techne: :done
 episteme: :log
 slug: 2012/03/29/stop-doing-stuff-all-the-time-and-watch-what-happens/

@@ -15,6 +15,11 @@ class Nanoc::Item
     identifier.split("/").last
   end
 
+  # shared content or not?
+  def shared?
+    self[:filename].start_with? "content/"
+  end
+  
   def draft?
     self[:techne] == :wip
   end

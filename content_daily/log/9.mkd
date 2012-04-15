@@ -1,6 +1,6 @@
 ---
 title: Manjusri/Kukai OTP
-date: '2012-03-16'
+date: 2012-03-16
 techne: :done
 episteme: :log
 slug: 2012/03/16/manjusrikukai-otp/

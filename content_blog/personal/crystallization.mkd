@@ -1,6 +1,6 @@
 ---
 title: Crystallization
-date: '2012-01-11'
+date: 2012-01-11
 tags:
 - ai
 - personal crap

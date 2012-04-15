@@ -1,6 +1,6 @@
 ---
 title: ! 'Great Filter Says: Ignore Risk'
-date: '2012-01-24'
+date: 2012-01-24
 tags:
 - great filter
 - prayer

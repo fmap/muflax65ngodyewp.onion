@@ -1,10 +1,9 @@
 ---
 title: An Acausal App
-date: '1970-01-01'
+date: 2012-04-15
 tags: []
 techne: :wip
 episteme: :speculation
-slug: ?p=903
 ---
 
 I've been practicing acausal magic for a while now. In fact, I'm been juggling so many spells lately, I'm having trouble remembering them all. So I wrote an app.

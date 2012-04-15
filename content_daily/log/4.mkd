@@ -1,6 +1,6 @@
 ---
 title: What if hypotheticals were all meaningless?
-date: '2012-03-12'
+date: 2012-03-12
 techne: :done
 episteme: :log
 slug: 2012/03/12/what-if-hypotheticals-were-all-meaningless/

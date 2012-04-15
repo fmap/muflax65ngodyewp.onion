@@ -1,6 +1,6 @@
 ---
 title: ! '[SI] Universal Prior and Anthropic Reasoning'
-date: '2012-01-19'
+date: 2012-01-19
 tags:
 - great filter
 - solomonoff induction

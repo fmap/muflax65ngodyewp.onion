@@ -1,5 +1,5 @@
 ---
-title: about
+title: about blogchen
 date: 2012-04-12
 techne: :done
 episteme: :believed

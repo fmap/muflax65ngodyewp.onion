@@ -1,6 +1,6 @@
 ---
 title: Why This World Might Be A Simulation
-date: '2012-01-01'
+date: 2012-01-01
 tags:
 - deontology
 - higher criticism

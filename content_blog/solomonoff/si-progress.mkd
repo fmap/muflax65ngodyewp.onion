@@ -1,6 +1,6 @@
 ---
 title: ! '[SI] Progress'
-date: '2012-02-06'
+date: 2012-02-06
 tags: []
 techne: :done
 episteme: :speculation

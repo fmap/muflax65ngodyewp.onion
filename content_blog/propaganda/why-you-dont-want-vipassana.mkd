@@ -1,6 +1,6 @@
 ---
 title: Why You Don't Want Vipassana
-date: '2012-01-04'
+date: 2012-01-04
 tags:
 - lesswrong
 - meditation

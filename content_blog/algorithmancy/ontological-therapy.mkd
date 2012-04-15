@@ -1,6 +1,6 @@
 ---
 title: Ontological Therapy
-date: '2012-03-08'
+date: 2012-03-08
 tags:
 - algorithmic magic
 - consciousness

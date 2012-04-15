@@ -12,6 +12,43 @@ site_cmds = [
              'watch',
             ]
 
+# load site-specific config
+module ::Nanoc
+  class Site
+    def extended_build_config(dir_or_config_hash, site)
+      puts "load extended config..."
+
+      @config[:output_dir] = "out/#{site}"
+
+      @config[:data_sources] = [{
+                                  type: "filesystem_customizable",
+                                  source_dir: ["content_#{site}"],
+                                  items_root: "/",
+                                  layouts_root: "/",
+                                  config: {},
+                                }]
+      @config[:data_sources].map! { |ds| ds.symbolize_keys }
+
+      ssh =
+        if site == "muflax"
+          site
+        else
+          "muflax-#{site}"
+        end
+      
+      @config[:deploy] = {
+        default: {
+          dst: "#{ssh}:/home/public",
+          options: ['-gpPrtvz', '--delete'],
+          kind: "rsync"
+        }
+      }
+
+      @config[:watcher][:dirs_to_watch] << "content_#{site}"
+    end
+  end
+end
+
 # add option to all nanoc commands that operate on sites
 Nanoc::CLI.root_command.commands.select do |cmd|
   cmd.name =~ /^(#{site_cmds.join("|")})/
@@ -22,7 +59,7 @@ end.each do |cmd|
 
       # make site globally accessibly
       $site = site
-      
+
       module ::Nanoc
         class Site
           alias old_build_config build_config
@@ -30,36 +67,8 @@ end.each do |cmd|
           def build_config(dir_or_config_hash)
             # build default
             old_build_config(dir_or_config_hash)
-
-            puts "extending config..."
-
-            @config[:output_dir] = "out/#{$site}"
-            
-            @config[:data_sources] = [{
-                                        type: "filesystem_customizable",
-                                        source_dir: ["content_#{$site}"],
-                                        items_root: "/",
-                                        layouts_root: "/",
-                                        config: {},
-                                      }]
-            @config[:data_sources].map! { |ds| ds.symbolize_keys }
-
-            ssh =
-              if $site == "muflax"
-                $site
-              else
-                "muflax-#{$site}"
-              end
-            
-            @config[:deploy] = {
-              default: {
-                dst: "#{ssh}:/home/public",
-                options: ['-gpPrtvz', '--delete'],
-                kind: "rsync"
-              }
-            }
-
-            @config[:watcher][:dirs_to_watch] << "content_#{$site}"
+            # build extended config
+            extended_build_config(dir_or_config_hash, $site)
           end
         end
       end

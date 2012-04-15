@@ -1,6 +1,6 @@
 ---
 title: Normal view! Normal view! Normal view!
-date: '2012-03-23'
+date: 2012-03-23
 techne: :done
 episteme: :log
 slug: 2012/03/23/normal-view-normal-view-normal-view/

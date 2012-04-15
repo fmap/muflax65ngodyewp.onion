@@ -1,6 +1,6 @@
 ---
 title: 3 Months of Beeminder
-date: '2012-02-03'
+date: 2012-02-03
 tags:
 - beeminder
 techne: :done
