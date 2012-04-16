@@ -4,7 +4,6 @@ date: 1970-01-01
 tags: []
 techne: :wip
 episteme: :speculation
-slug: ?p=872
 ---
 
 So I recently read about someone's Ayahuasca experience. Because the person is reasonably familiar with meditation techniques and not a [17-year-old idiot](http://blog.muflax.com/2012/01/03/how-my-brain-broke/), I thought it might be of interest.

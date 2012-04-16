@@ -1,11 +1,11 @@
 ---
-title: ! '[SI] Kolmogorov Complexity'
+title: Kolmogorov Complexity
 date: 2012-01-14
 tags:
 - bayes
 - solomonoff induction
 techne: :done
-episteme: :speculation
+episteme: :believed
 slug: 2012/01/14/si-kolmogorov-complexity/
 ---
 
@@ -35,7 +35,7 @@ There are some sequences that don't have such compression rules. The shortest wa
 
 But what exactly do we mean with "short" here? After all, "H repeated 2 times" is longer than "HH", isn't it? One has 18 characters, the other two. But what if we increase the number? "H repeated 30 times" is shorter than "HHHHHHHHHHHHHHHHHHHHHHHHHHHHHH". But what if used a different language? In Japanese we can say "Hは30回繰り返す", which has only 9 characters. We could compress a sequence of 10 heads that way. Maybe if we fiddle around with it, we can find even shorter descriptions. Can we make some *definitive* statement here? Is there some ideal way to express an algorithm, a kind of universal language?
 
-Yes there is! Who speaks it? A [Turing Machine](http://en.wikipedia.org/wiki/Turing_machine) (TM). A TM is like the Platonic Ideal of computation. It's the simplest abstract conception of what a computer is - just a tape with numbers on it, a head to read and write it and a motor to move the tape. That's it. [One simple way](http://en.wikipedia.org/wiki/Brainfuck) to encode any kind of algorithm on a TM needs just 6 different characters: ">", "<" (move left/right), "+", "-" (add / subtract 1 to the current number) and "[", "]" (if the current number is 0, skip what is between the brackets, otherwise move to the first instruction within).
+Yes there is! Who speaks it? A [Turing Machine][] (TM). A TM is like the Platonic Ideal of computation. It's the simplest abstract conception of what a computer is - just a tape with numbers on it, a head to read and write it and a motor to move the tape. That's it. [One simple way][Brainfuck] to encode any kind of algorithm on a TM needs just 6 different characters: ">", "<" (move left/right), "+", "-" (add / subtract 1 to the current number) and "[", "]" (if the current number is 0, skip what is between the brackets, otherwise move to the first instruction within).
 
 The interesting thing is, people have tried to come up with different kinds of models of computation, to build different machines and to design better languages, but so far, all have proven to be equivalent to TMs and their simply languages. It is always possible - with the help of a fairly simple translation function - to express an algorithm in any programming language on a TM. (There is an open question, though: what about Quantum Computers? They might actually be more powerful. That would certainly be a very weird result!)
 

@@ -8,17 +8,19 @@ tags:
 - guys i'm totally going with this doctor deontology thing
 - thougt experiment
 techne: :done
-episteme: :speculation
+episteme: :fiction
 slug: 2011/12/30/consent-of-the-dead/
 ---
 
-<a href="http://theviewfromhell.blogspot.com/2011/01/pareto-kaldor-hicks-and-deserving.html">Sister Y observes</a>:
-<blockquote>A market or social system may provide for individual choice in any given transaction, but a participant cannot decide <em>whether to be part of a market economy</em>. It's not <a href="http://en.wikipedia.org/wiki/Turtles_all_the_way_down">consent all the way down</a>, you might say.</blockquote>
+[Sister Y observes][Sister Kaldor]:
+
+> A market or social system may provide for individual choice in any given transaction, but a participant cannot decide *whether to be part of a market economy*. It's not [consent all the way down][Turtles], you might say.
+
 The lack of consent is the strongest case for the immorality of bringing someone into existence, I think. Morality must be grounded in contracts (among other things, perhaps) and without consent, you have no Rule of Law, but tyranny. It might be a super-happy tyranny of fun, though. Evil has its upsides.
 
 Assuming the necessity of consent, can there ever be a moral way to bring someone into existence? Maybe. Consider this simple thought experiment.
 
-<img class="aligncenter" src="http://upload.wikimedia.org/wikipedia/en/6/6d/Detective_Comics_818_2nd_print_coverart.jpg" alt="" width="250" height="206" />
+<%= image("twoface.jpg", "Two-Face") %>
 
 The evil Doctor Deontology is trying to assemble his crew of supervillains. He has recently gotten his hands on a cryogenically frozen Two-Face and now considers reviving him. He knows that Two-Face always makes his important decisions by flipping a coin. Fortunately for him, Doctor Deontology also obtained this coin, and deontologist that he is, he wants Two-Face's consent first before he goes through with the procedure.
 

@@ -8,7 +8,6 @@ tags:
 - vipassana
 techne: :wip
 episteme: :speculation
-slug: ?p=785
 ---
 
 New article: a [Meditation on Hate]().

@@ -5,12 +5,13 @@ tags:
 - antinatalism
 - i do what i must because i can
 techne: :done
-episteme: :speculation
+episteme: :fiction
 slug: 2012/01/19/introducing-antinatalist-antelope/
 ---
 
-<img alt="" src="http://25.media.tumblr.com/tumblr_ly1vbmddTG1rndvvro1_400.jpg" class="aligncenter" width="400" height="400" />
+<%= image("tumblr_ly1vbmddTG1rndvvro1_400.jpg", "Antinatalist Antelope") %>
+<img alt="" src="" class="aligncenter" width="400" height="400" />
 
-(go to [my tumblr](http://antinatalism.tumblr.com/) for more)
+(go to [my tumblr][Antinatalism Tumblr] for more)
 
 Somebody had to do it, and that somebody might as well be me.

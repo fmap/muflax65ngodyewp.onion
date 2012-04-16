@@ -1,10 +1,9 @@
 ---
-title: ! '[SI] Solomonoff Induction'
+title: Solomonoff Induction
 date: 1970-01-01
 tags: []
 techne: :wip
 episteme: :speculation
-slug: ?p=680
 ---
 
 # Last time on Kolmogorov and Friends...
@@ -25,11 +24,9 @@ So there are many different algorithms that continue a sequence, but we don't wa
 
 Well, we have something that almost looks right - KC. But that measures *sequences*, not *algorithms*. Almost the same thing (an algorithm is just is a sequence of instructions for a given machine), but not quite. So we need to modify it slightly.
 
-
-
 ## How good is "optimal"?
 
-Of course, some sequences can be ambiguous, especially very short ones. German usenet (I'm not 60, I swear!) often got math questions like "my teacher asked me to complete this sequence and I said X, but they said I'm wrong" and there was a standard reply to demonstrate how problematic these questions can be:
+Of course, some sequences can be ambiguous, especially very short ones. German Usenet (I'm not 60, I swear!) often got math questions like "my teacher asked me to complete this sequence and I said X, but they said I'm wrong" and there was a standard reply to demonstrate how problematic these questions can be:
 
 > Which of these animals doesn't belong?  
 > 1. Bee
@@ -37,4 +34,6 @@ Of course, some sequences can be ambiguous, especially very short ones. German u
 > 3. Fly
 > 4. Wasp
 
-It's obviously the bee - it's the only farm animal. It's obviously the zebra - it's not an insect. It's obviously the fly - it has no stripes. It's obviously the wasp - it's the only predator. You get the idea. Sometimes data just sucks and you have to guess. Acting optimally doesn't mean you always win. It just means that there is no better rule you could've followed that would have done any better. The universe even kills people who did absolutely everything right. Tough luck.
+It's obviously the bee - it's the only domesticated animal. It's obviously the zebra - it's not an insect. It's obviously the fly - it has no stripes. It's obviously the wasp - it's the only predator. You get the idea.
+
+Sometimes data just sucks and you have to guess. Acting optimally doesn't mean you always win. It just means that there is no better rule you could've followed that would have done any better. The universe sometimes kills even people who did absolutely everything right. Tough luck.

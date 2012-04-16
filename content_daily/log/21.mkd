@@ -22,7 +22,7 @@ So I decided to simply get in touch with my inner Wu Wei by not doing anything w
 
 So I'll just do other stuff until life gets back to me about what I'm supposed to do.
 
-Today is big bug-fixing day. Colleague found a nasty bug and I have to re-structure a lot of code. Plus, some early shortcuts I took don't work anymore and I have to implement even more of the SystemC standard, and I learned today that we finally renewed our licenses and I can <del datetime="2012-03-28T23:36:42+00:00">get fucked in the ass by</del> work with micro-processors and <del datetime="2012-03-28T23:36:42+00:00">stone-age compilers</del> old-school tools again. Shoulda become a Rails dev.
+Today is big bug-fixing day. Colleague found a nasty bug and I have to re-structure a lot of code. Plus, some early shortcuts I took don't work anymore and I have to implement even more of the SystemC standard, and I learned today that we finally renewed our licenses and I can <del>get fucked in the ass by</del> work with micro-processors and <del>stone-age compilers</del> old-school tools again. Shoulda become a Rails dev.
 
 I worked more on porting the Wordpress blogs to nanoc+disqus so I can switch entirely to a static website. My current host (a friend) will kick me out next month (j/k, wanted to switch anyway), so I really have to transition this shit. If the site is occasionally gone, don't worry, just temporary downtime 'cause I broke something.
 

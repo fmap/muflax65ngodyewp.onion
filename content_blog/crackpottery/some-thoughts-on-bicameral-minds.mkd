@@ -10,12 +10,17 @@ episteme: :speculation
 slug: 2012/01/04/some-thoughts-on-bicameral-minds/
 ---
 
-<em>This is a reply to wallowinmaya's comment on my last article. I noticed I kinda wrote an article in disguise, so I'm posting it as one.</em>
-<blockquote>The multiple-personality thing is really fascinating. Do you think it’s been a feature or a bug, all things considered? It seems to me that basically everyone has multiple personalities but only one of them is conscious. Your deep acquaintance with your subconsciousness also explains that you endorse wireheading because most usually “subconscious parts” probably find it good. It’s only our conscious, ideal and altruistic self that is against it. Am I totally wrong about this? And if our multiple personalities really have conflicting values that would probably render solutions to moral problems like CEV void, right?</blockquote>
+*This is a reply to wallowinmaya's comment on my last article. I noticed I kinda wrote an article in disguise, so I'm posting it as one.*
+
+> The multiple-personality thing is really fascinating. Do you think it’s been a feature or a bug, all things considered? It seems to me that basically everyone has multiple personalities but only one of them is conscious. Your deep acquaintance with your subconsciousness also explains that you endorse wireheading because most usually “subconscious parts” probably find it good. It’s only our conscious, ideal and altruistic self that is against it. Am I totally wrong about this? And if our multiple personalities really have conflicting values that would probably render solutions to moral problems like CEV void, right?
+
 I tend to think of it as a feature, but I'm really used to it, so I'm not exactly an impartial judge. Maybe I'm even less functional and inconsistent than the average person, I don't know. I also don't know if it's really the feature that's unusual or just the way I think about it.
 
-There's a really fascinating book called "The Origin of Consciousness in the Breakdown of the Bicameral Mind" by Julian Jaynes (actually really accessible despite its title and available on library.nu). Basically, he proposes that originally both brain hemispheres were independent minds and that one (the right) commanded the other (the left) through hallucinations, mostly voices. Quote Wiki:
-<blockquote>According to Jaynes, ancient people in the bicameral state of mind would have experienced the world in a manner that has some similarities to that of a schizophrenic. Rather than making conscious evaluations in novel or unexpected situations, the person would hallucinate a voice or "god" giving admonitory advice or commands and obey without question: one would not be at all conscious of one's own thought processes per se.</blockquote>
+There's a really fascinating book called "The Origin of Consciousness in the Breakdown of the Bicameral Mind" by Julian Jaynes (actually really accessible despite its title and available on library.nu). Basically, he proposes that originally both brain hemispheres were independent minds and that one (the right) commanded the other (the left) through hallucinations, mostly voices.
+
+Quote Wiki:
+> According to Jaynes, ancient people in the bicameral state of mind would have experienced the world in a manner that has some similarities to that of a schizophrenic. Rather than making conscious evaluations in novel or unexpected situations, the person would hallucinate a voice or "god" giving admonitory advice or commands and obey without question: one would not be at all conscious of one's own thought processes per se.
+
 The main problem with this Bicameral Mode is that you can't really self-reflect and function outside of rigid hierarchies. So once civilizations got too large, these bicameral minds collapsed and merged into the modern subjective consciousness. So basically, the evolution goes:
 
 1. monkeys want to track other monkeys, so they develop monkey-simulating hardware
@@ -35,9 +40,11 @@ Anyway. If some basic form of this is true, then there really is no "unified" mi
 Back to Jaynes' idea, the difference between a "self" and an "other" is really just the level of personal associations and names. They are both hallucinations, in the sense that they run as simulated monkeys on the brain. Making a decision is just simulating a monkey that does something and then seeing what happens, only that we recognize that the simulated monkey is us. (Sometimes we fail the mirror test and that's called "I spoke to someone in a dream". When you have a lucid dream, try switching which person you control.)
 
 This association process is not perfectly reliable. Particularly schizophrenics and people on certain drugs have it fail on them. Quote two schizophrenics in Jaynes' book:
-<blockquote>Gradually I can no longer distinguish how much of myself is in me, and how much is already in others. I am a conglomerate, a monstrosity, modeled anew each day.
 
-My ability to think and decide and will to do, is torn apart by itself. Finally, it is thrown out where it mingles with every other part of the day and judges what it has left behind. Instead of wishing to do things, they are done by something that seems mechanical and frightening ... the feeling that should dwell within a person is outside longing to come back and yet having taken with it the power to return.</blockquote>
+> Gradually I can no longer distinguish how much of myself is in me, and how much is already in others. I am a conglomerate, a monstrosity, modeled anew each day.
+> 
+> My ability to think and decide and will to do, is torn apart by itself. Finally, it is thrown out where it mingles with every other part of the day and judges what it has left behind. Instead of wishing to do things, they are done by something that seems mechanical and frightening ... the feeling that should dwell within a person is outside longing to come back and yet having taken with it the power to return.
+
 Jaynes argues pretty convincingly that the left hemisphere, which is normally in charge of interacting with the outside world, can't *refuse* orders in Bicameral Mode. The right side says *anything* and the left side does it. It can't veto orders at all. That would obviously be easy to exploit, so you need to distinguish between "this is a command" and "this is just talk". One heuristic the left side uses is to only recognizes something as an order when it comes from someone higher up in the status hierarchy. So the right side impersonates high-status figures (gods, kings, parents). (There are almost no cases of someone hallucinating low-status characters! No-one thinks they are hearing voices that belong to a random beggar. It's always gods, kings or something equivalent.)
 
 And that's how Bicameral Consciousness works. Both hemispheres already have extensive hardware to simulate people. They need it just to keep up with local status and tribe associations. So they can re-use this hardware by creating fictitious people (often direct copies of real people at first), run them for a bit and see what results they get. They can even interact with these people (i.e. talk with hallucinations). These simulations then ultimately give a direct order and the brain executes it. Achievement unlocked: complex decision making.
@@ -63,9 +70,11 @@ So based on this, the connection between "consciousness" and "goals" is fairly q
 On a related note, I don't know how I feel about wireheading anymore. Some days, I think it's the greatest idea ever, on others it looks like an ethical nightmare. I also don't like that AIXI wireheads itself and so screws up our attempts to enslave it. Makes wireheading look like a huge bug from the outside.
 
 Also:
-<blockquote>Your deep acquaintance with your subconsciousness also explains that you endorse wireheading because most usually “subconscious parts” probably find it good. It’s only our conscious, ideal and altruistic self that is against it. Am I totally wrong about this? And if our multiple personalities really have conflicting values that would probably render solutions to moral problems like CEV void, right?</blockquote>
+
+> Your deep acquaintance with your subconsciousness also explains that you endorse wireheading because most usually “subconscious parts” probably find it good. It’s only our conscious, ideal and altruistic self that is against it. Am I totally wrong about this? And if our multiple personalities really have conflicting values that would probably render solutions to moral problems like CEV void, right?
+
 Conflicting values aren't necessarily a big problem in general, I think. The universe is pretty big and there's enough space to satisfy a lot of values at the same time. It would be bad if there were multiple fundamentalists who couldn't accept that anyone else might disagree with them, ever, anywhere.
 
 That's one way I currently think about objective morality - it's an attempt to enforce values when you don't have much power. If my values are Objective(tm), then I have an easy way to force others to comply against their will. (Or at least I can tell myself that, if they only thought rationally, they would have the same values as me.) If all value is subjective and accidental, well, how can I stop someone from eating the wrong kind of ice cream, short of building a Jupiter-sized AI and taking over the universe? So if I were not so insecure, maybe I wouldn't feel so bad about morality.
 
-<em>Anyway. That's the still-in-process thinking I'm currently going through. I'm not sure if I said everything I wanted, but this will have to do for now.</em>
+*Anyway. That's the still-in-process thinking I'm currently going through. I'm not sure if I said everything I wanted, but this will have to do for now.*

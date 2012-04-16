@@ -4,7 +4,6 @@ date: 1970-01-01
 tags: []
 techne: :wip
 episteme: :speculation
-slug: ?p=934
 ---
 
 > Ich stampfe durch den Dreck bedeutender Metaphern,  

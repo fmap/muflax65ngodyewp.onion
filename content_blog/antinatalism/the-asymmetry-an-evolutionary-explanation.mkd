@@ -1,5 +1,6 @@
 ---
 title: The Asymmetry, an Evolutionary Explanation
+alt_titles: [Asymmetry Evolutionary]
 date: 2012-01-28
 tags:
 - antinatalism
@@ -10,7 +11,7 @@ episteme: :speculation
 slug: 2012/01/28/the-asymmetry-an-evolutionary-explanation/
 ---
 
-> [W]e think it is wrong to bring into the world a child whose prospects for a happy, healthy life are poor, but we don't usually think the fact that a child is likely to have a happy, healthy life is a reason for bringing the child into existence. This has come to be known among philosophers as "the asymmetry" and it is not easy to justify. -- [source](http://opinionator.blogs.nytimes.com/2010/06/06/should-this-be-the-last-generation/)
+> [W]e think it is wrong to bring into the world a child whose prospects for a happy, healthy life are poor, but we don't usually think the fact that a child is likely to have a happy, healthy life is a reason for bringing the child into existence. This has come to be known among philosophers as "the asymmetry" and it is not easy to justify. -- [source][last generation]
 
 It just hit me how *obvious* an evolutionary explanation for the asymmetry is. Azathoth doesn't give a shit about children's well-being and has no interest at all to make *us* care. But what the Mad Designer *does* care about is a worthwhile investment. Having children is expensive, especially for the mother. If resources are short, it might well be worth it to abort a child instead of bringing it to term. (This happens all the time.) If we think a child is particularly likely to be sick, it will just impose a cost on us and no benefit. So we feel bad about it, so that we may do something about it. No such feedback is necessary to make children in general.
 
@@ -18,4 +19,4 @@ The asymmetry isn't about *potential people*. It's about *how we can benefit fro
 
 We should therefore suspect that the asymmetry is stronger when the potential people have reduced fitness, but not when they are simply dissatisfied. As far as I can tell, this is the case. People seem more willing to be apathetic about someone being born into a dead-end career than about someone being very sick, even though poverty creates much more suffering.
 
-I suspect more and more that *any* talk of harm and benefit is wrong and has nothing to do with true morality. We are not just running on [corrupted hardware](http://lesswrong.com/lw/uv/ends_dont_justify_means_among_humans/), but *evil* hardware.
+I suspect more and more that *any* talk of harm and benefit is wrong and has nothing to do with true morality. We are not just running on [corrupted hardware][LW corrupted], but *evil* hardware.

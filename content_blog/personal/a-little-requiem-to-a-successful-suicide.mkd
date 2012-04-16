@@ -6,7 +6,6 @@ tags:
 - suicide
 techne: :wip
 episteme: :speculation
-slug: ?p=666
 ---
 
 Back in early 2010, I already attempted to work through my experiences with mysticism. Some traces of that can be seen in my [writing at the time](http://muflax.com/reflections/con_exp/). [Recently](http://blog.muflax.com/2012/01/03/how-my-brain-broke/), I actually finished this project and found closure. But I noticed an odd thing. Back then, I was still able to work from memory. I could still *feel* what it was like, still had the old persona linger around in my mind.

@@ -1,9 +1,9 @@
 def main_site?
-  true
+  $site == "muflax"
 end
 
 def blog?
-  false
+  $site =~ /^(blog|daily)$/
 end
 
 def sites

@@ -6,7 +6,7 @@ tags:
 - meditation
 - tantra
 techne: :done
-episteme: :speculation
+episteme: :broken
 slug: 2012/01/04/why-you-dont-want-vipassana/
 ---
 
@@ -26,13 +26,13 @@ Buddhists have a pretty bad track record of being open and honest about their ow
    > Or again, as if he were to see a corpse cast away in a charnel ground, picked at by crows, vultures and hawks, by dogs, hyenas and various other creatures... a skeleton smeared with flesh and blood, connected with tendons... (...) decomposed into a powder: He applies it to this very body, 'This body, too: Such is its nature, such is its future, such its unavoidable fate.'
    > (...) His mindfulness is established, and he lives detached, and clings to nothing in the world.
 
-    Yet corpse meditation (i.e. thinking of one's own body as a rotting corpse, ideally using a fresh corpse for comparison) is an absolute *core* practice in Buddhism. The Satipatthana Sutta and Visuddhimagga, two foundational texts, spend whole chapters discussing them and similar practices. There are Buddhist traditions that don't have so negative values and would be much nicer, but for historical reasons, they never became very influential outside Tibet. [David Chapman](http://meaningness.wordpress.com/2011/07/12/what-got-left-out-of-%E2%80%9Cmeditation%E2%80%9D/) talks a lot about this.
+    Yet corpse meditation (i.e. thinking of one's own body as a rotting corpse, ideally using a fresh corpse for comparison) is an absolute *core* practice in Buddhism. The Satipatthana Sutta and Visuddhimagga, two foundational texts, spend whole chapters discussing them and similar practices. There are Buddhist traditions that don't have so negative values and would be much nicer, but for historical reasons, they never became very influential outside Tibet. [David Chapman][Chapman left out] talks a lot about this.
 
 3. Most teachers have no idea what they're talking about. :) Initially, Western teachers (in the 60s-70s) didn't talk about enlightenment because they didn't want to scare away their audience. But if they don't talk, then idiots are indistinguishable from real teachers, and if the audience only wants useless psychotherapy anyway, well, then you get the current situation. (Zen is also partially responsible here. They have a very pragmatic attitude of "don't care about the map or territory, just practice", which means Zen practice has much less bullshit in it, but it's also unnecessarily hard to understand.)
 
 Anyway. About vipassana. Bear in mind that the core technique (pay attention to every sensation and detach from it) is deceptively simple and can be taught even without knowing what it's for, so it ends up a lot in new age and mindfulness bullshit. 
 
-But it's real purpose is the destruction of the self and all desires - and it's pretty good at that (if you keep it up - it's possible to apply it selectively, but that's a lot trickier). But that's not what most people want. They *like* their identity and goals in life, so it fucks them up. This purpose is clear from the history of vipassana. Basically, it was (re-?)invented in the 20th century, based on old texts like the Visuddhimagga (good book btw, very detailed and explicit, but pretty dense and could use an extensive commentary). These texts are very explicit about their goals: life is bad, desires and the self lead to reincarnation and more life, so we must get rid of all attachment to anything in life. All techniques are designed only for this purpose. (For a more detailed history, again [Chapman](http://meaningness.wordpress.com/2011/07/07/theravada-reinvents-meditation/) and the books he mentions.)
+But it's real purpose is the destruction of the self and all desires - and it's pretty good at that (if you keep it up - it's possible to apply it selectively, but that's a lot trickier). But that's not what most people want. They *like* their identity and goals in life, so it fucks them up. This purpose is clear from the history of vipassana. Basically, it was (re-?)invented in the 20th century, based on old texts like the Visuddhimagga (good book btw, very detailed and explicit, but pretty dense and could use an extensive commentary). These texts are very explicit about their goals: life is bad, desires and the self lead to reincarnation and more life, so we must get rid of all attachment to anything in life. All techniques are designed only for this purpose. (For a more detailed history, again [Chapman][Chapman theravada] and the books he mentions.)
 
 Vipassana is a modern reconstruction of these techniques (a pretty close one, I think, having both done vipassana and read the Visuddhimagga), so it's no surprise that it causes breakdowns and plenty of akratics. 
 
@@ -44,7 +44,7 @@ What are these defilements?
 
 > Herein, it should be understood that one of the benefits of the [...] is the removal of the various defilements beginning with [mistaken] view of individuality. This starts with the delimitation of mentality-materiality [i.e. dualism]. Then one of the benefits [...] is the removal [...] of the various defilements beginning with the fetters.
 
-The [fetters](http://en.wikipedia.org/wiki/Fetter_%28Buddhism%29) are:
+The [fetters][Fetter] are:
 
 - belief in a self
 - doubt or uncertainty, especially about the teachings
@@ -79,7 +79,7 @@ It also gives this explanation:
 
 So the only difference between an ideal monk and a corpse is that the monk still has a beating heart. :) Given these goals, it's no surprise that someone doing a lot of vipassana doesn't get much done. That's the whole point!
 
-So much for the background. For the actual technique, I'll recommend Ingram's [MCTB](http://www.interactivebuddha.com/mctb.shtml) again. No bullshit, direct and honest, doesn't hide any information. It's popular among LW meditators and rightfully so, I think. It does tend to get a bit fuzzy sometimes, but that's really hard to avoid when you're dealing with unusual states of consciousness. There isn't much of a reference frame you can use and so far introspection is the only tool we have, so it's bound to suck occasionally.
+So much for the background. For the actual technique, I'll recommend Ingram's [MCTB][] again. No bullshit, direct and honest, doesn't hide any information. It's popular among LW meditators and rightfully so, I think. It does tend to get a bit fuzzy sometimes, but that's really hard to avoid when you're dealing with unusual states of consciousness. There isn't much of a reference frame you can use and so far introspection is the only tool we have, so it's bound to suck occasionally.
 
 Also, Ingram has a whole chapter about different definitions of enlightenment and his thoughts on how they came about. His pet theory is fairly plausible and clearly defined (even has testable criteria!), so you're probably interested in that as well.
 
@@ -95,7 +95,7 @@ Basically I tend to think of it this way: there are unmet desires and they will 
 
 (Another way is to take over the universe and make sure all desires *are* met. That's the transhumanist answer, and I'm way more skeptical of it than the LW mainstream, but it's certainly a clever third option if it ever works out.)
 
-Regardless, vipassana isn't the only form of meditation. Another common form is concentration meditation (or samadhi / samatha), also called [kasina](http://en.wikipedia.org/wiki/Kasina) meditation, after the typical concentration object. Basically, you pick a simple object (a colored disc, a mantra, the breath, a god, ...) and pay attention to it. That's... pretty much it. ([The Attention Revolution](http://www.amazon.com/Attention-Revolution-Unlocking-Power-Focused/dp/0861712765) by B. Alan Wallace is a good detailed explanation, but he's a dualist crank and you know, "sit and watch this disc for as long as you can" isn't really hard to explain.)
+Regardless, vipassana isn't the only form of meditation. Another common form is concentration meditation (or samadhi / samatha), also called [kasina][Kasina] meditation, after the typical concentration object. Basically, you pick a simple object (a colored disc, a mantra, the breath, a god, ...) and pay attention to it. That's... pretty much it. ([The Attention Revolution][] by B. Alan Wallace is a good detailed explanation, but he's a dualist crank and you know, "sit and watch this disc for as long as you can" isn't really hard to explain.)
 
 The interesting thing is that with enough practice, certain states of concentration arise. MCTB also talks about them, so I won't repeat myself, but they are quite fun and relaxing. I'm a bit skeptical how useful they really are because I suspect most of their benefits are lost the moment you stop meditating, but they certainly are good for relaxation. You might want to look into them and ignore the insight / vipassana stuff.
 
@@ -115,6 +115,6 @@ Because they are bad people? :) Without getting into any moral or political reas
 
 > What have you learned about tantra? I usually associate that with tantric sex. I haven't heard tantra outside of that context.
 
-Yeah, it doesn't get much attention, unfortunately. David Chapman is currently working on a good presentation. [Eating the Shadow](http://buddhism-for-vampires.com/eating-the-shadow) is what characterizes tantra for me. Instead of trying to detach or remove "bad" aspects of yourself, you accept them as your own and integrate them. That's inherently a very messy and personal process, so it doesn't seem to lend itself to such nice models as in vipassana.
+Yeah, it doesn't get much attention, unfortunately. David Chapman is currently working on a good presentation. [Eating the Shadow][BFV shadow] is what characterizes tantra for me. Instead of trying to detach or remove "bad" aspects of yourself, you accept them as your own and integrate them. That's inherently a very messy and personal process, so it doesn't seem to lend itself to such nice models as in vipassana.
 
 Honestly, I've not been doing it for long enough to make any comfortable statements. Any bullshit self-help works for *some* time. Ask me again in 6 months what I think of tantra and I'll be able to give you a decent answer. ;)

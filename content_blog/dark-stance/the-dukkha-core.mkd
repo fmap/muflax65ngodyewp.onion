@@ -3,8 +3,7 @@ title: The Dukkha Core
 date: 1970-01-01
 tags: []
 techne: :wip
-episteme: :speculation
-slug: ?p=863
+episteme: :emotional
 ---
 
 This is dukkha.

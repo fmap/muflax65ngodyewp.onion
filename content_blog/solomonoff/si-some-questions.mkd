@@ -1,5 +1,5 @@
 ---
-title: ! '[SI] Some Questions'
+title: Some Questions
 date: 2012-01-11
 tags:
 - solomonoff induction
@@ -26,6 +26,6 @@ Let's kick off the thinking process about Solomonoff Induction (SI), Kolmogorov 
 14. Using KC, is there a difference between real randomness and pseudo-randomness?
 15. What's some recent stuff that's happening? Is the research making progress? Does anyone care about SI besides some math heads?
 16. Are there some obvious philosophical implications of SI?
-17. (What's up with [Ray Solomonoff's beard](http://www.scholarpedia.org/article/File:RaySolomonoff2001.jpg)? I mean, seriously.) 
+17. (What's up with [Ray Solomonoff's beard][Solomonoff beard]? I mean, seriously.) 
 
 This is gonna be an interesting week. As I said, this is my thinking process - I can't answer many of these questions myself yet! Once I have written this stuff and have a clear picture, I'll clean it up and turn it into an article (or short sequence, if it's too long). Then feedback, improvements, karma. Or I end up hating math forever. It's an adventure! (I'm getting my wisdom teeth removed tomorrow, so if this feels particularly incoherent, I blame the meds.)

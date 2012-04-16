@@ -12,7 +12,7 @@
 [Klout]: http://klout.com/#/muflax
 [LibraryThing]: http://www.librarything.com/profile/muflax
 [PredictionBook]: http://predictionbook.com/users/muflax
-[Twitter]: http://twitter.com/muflax
+[Twitter]: https://twitter.com/#!/muflax
 [whatiswrongwith.me]: http://whatiswrongwith.me/muflax
 
 <!-- tweets -->
@@ -29,3 +29,4 @@
 [daily screenshot]: https://github.com/muflax/scripts/blob/master/daily_screenshot.sh
 [fume]: https://github.com/muflax/fume
 [fumetrap]: https://github.com/muflax/fumetrap
+[github web history]: https://github.com/muflax/scripts/blob/master/google_web_history.rb

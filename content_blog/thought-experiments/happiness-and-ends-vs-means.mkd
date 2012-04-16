@@ -12,13 +12,13 @@ episteme: :speculation
 slug: 2012/03/22/happiness-and-ends-vs-means/
 ---
 
-Doctor Deontology has [previously](http://blog.muflax.com/2011/12/30/consent-of-the-dead/) shown that it might be possible to get a person's consent even when that person doesn't (currently) exist. Not satisfied by this victory, our villain returns to attack the idea of consent more directly.
+Doctor Deontology has [previously][Consent of the Dead] shown that it might be possible to get a person's consent even when that person doesn't (currently) exist. Not satisfied by this victory, our villain returns to attack the idea of consent more directly.
 
-<a href="http://dresdencodak.com/2009/01/27/advanced-dungeons-and-discourse/"><img src="http://blog.muflax.com/wp-content/uploads/2012/03/selection-2012-03-22174857.png" alt="" title="selection-2012-03-22[17:48:57]" width="429" height="253" class="aligncenter size-full wp-image-936" /></a>
+<%= image("dark_kantian.png", "Dark Kantian", "http://dresdencodak.com/2009/01/27/advanced-dungeons-and-discourse/") %>
 
-This time, Doctor Deontology has recruited [Evil Immanuel Kant](http://www.raikoth.net/Stuff/ddis/dsong_kant.html) from a [parallel universe](http://squid314.livejournal.com/306912.html). Together, and using old blueprints of [Nozick's Experience Machine](https://en.wikipedia.org/wiki/Experience_machine), they have build a true masterpiece of Evil Engineering - the Sudden Suffering Reversal Instrument, conveniently shaped like a laser gun.
+This time, Doctor Deontology has recruited [Evil Immanuel Kant][Kant Song]) from a [parallel universe][King in the Mountain]. Together, and using old blueprints of [Nozick's Experience Machine][Experience Machine], they have build a true masterpiece of Evil Engineering - the Sudden Suffering Reversal Instrument, conveniently shaped like a laser gun.
 
-Anyone hit by the SSRI beam will be transmogrified into an [unbreakable](http://diabasis.com/2011/06/18/could-there-be-beings-that-are-not-wrong-to-make/) superbeing, incapable of feeling any suffering. This transformation does not otherwise negatively affect the person or their decision-making; they remain perfectly aware of any harm to themselves or others, and are capable of acting on that knowledge just like before. It merely replaces the *feeling* of suffering with that of pleasure, but without any addictive potential or other side-effect.
+Anyone hit by the SSRI beam will be transmogrified into an [unbreakable][Unbreakable] superbeing, incapable of feeling any suffering. This transformation does not otherwise negatively affect the person or their decision-making; they remain perfectly aware of any harm to themselves or others, and are capable of acting on that knowledge just like before. It merely replaces the *feeling* of suffering with that of pleasure, but without any addictive potential or other side-effect.
 
 Evil Immanuel Kant has introduced a catch, however, and that's the reason the SSRI has "sudden" in its name - it will *only* work if the recipient *doesn't* agree to be shot. You may sneak up on them and shoot them in the back, or lie and tell them it's an anti-cancer gun, or use it in any other way, as long as your target has *not* given their consent to what you're about to do.
 

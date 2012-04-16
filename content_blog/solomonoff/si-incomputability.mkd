@@ -1,10 +1,10 @@
 ---
-title: ! '[SI] Incomputability'
+title: Incomputability
 date: 2012-01-15
 tags:
 - solomonoff induction
 techne: :done
-episteme: :speculation
+episteme: :believed
 slug: 2012/01/15/si-incomputability/
 ---
 

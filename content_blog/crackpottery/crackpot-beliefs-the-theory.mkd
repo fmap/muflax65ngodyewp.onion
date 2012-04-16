@@ -6,11 +6,11 @@ tags:
 - discordianism
 - NAMBLA
 techne: :done
-episteme: :speculation
+episteme: :believed
 slug: 2012/02/20/crackpot-beliefs-the-theory/
 ---
 
-Says [Wiki-sama](http://en.wikipedia.org/wiki/Crank_%28person%29):
+Says [Wiki-sama][Crank]:
 
 > Crank magnetism is a term popularized by physiologist and blogger Mark Hoofnagle to describe the propensity of cranks to hold multiple irrational, unsupported or ludicrous beliefs that are often unrelated to one another. Crank magnetism may be considered to operate wherever a single person propounds a number of unrelated denialist conjectures, poorly supported conspiracy theories, or pseudoscientific claims.
 
@@ -50,7 +50,7 @@ If we now accept TA over PA, and still reject LA, we arrive at Discordianism. Be
 > GP: How can that be?  
 > M2: I don't know man, I didn't do it.  
 
-Yet, I find a full rejection of the Loyalty Axiom distasteful. Having *no* commitment to beliefs is too weak a position. Maybe there exists a middle path, an improved version, just as the substitution of motives that gets us from [PA](http://en.wikipedia.org/wiki/Laws_of_Form) to TA?
+Yet, I find a full rejection of the Loyalty Axiom distasteful. Having *no* commitment to beliefs is too weak a position. Maybe there exists a middle path, an improved version, just as the substitution of motives that gets us from [PA][Laws of Form] to TA?
 
 Therefore I propose:
 
@@ -58,7 +58,7 @@ Therefore I propose:
 
 You can think of RPA as respecting the archetypal ideal of a belief. You can change it, but it must be done in appropriate ways. You can [deconstruct](http://tvtropes.org/pmwiki/pmwiki.php/Main/Deconstruction) a belief, but you must be true to its essence, its core motivation. You can't just make a cynical version and call it a day. You must truly explore the belief.
 
-However, and this is where the ritual aspect comes in, a deconstructed (or revised) belief is not suited for actual use. You must either abandon the practice, or preferably *reconstruct* it, staying true to its innermost motivation and context. Only then can you once again use the belief for its intended purpose. For a clear demonstration of this principle, watch [Hot Fuzz](http://en.wikipedia.org/wiki/Hot_Fuzz).
+However, and this is where the ritual aspect comes in, a deconstructed (or revised) belief is not suited for actual use. You must either abandon the practice, or preferably *reconstruct* it, staying true to its innermost motivation and context. Only then can you once again use the belief for its intended purpose. For a clear demonstration of this principle, watch [Hot Fuzz][].
 
 Thus we arrive at Reformed Crackpottery, the framework for the self-aware crank. Just as Discordianism is calling the Aneristic Bluff, so is Orthodox Crackpottery calling the Meta-Aneristic Bluff. As it is written:
 

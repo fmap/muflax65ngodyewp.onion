@@ -7,10 +7,9 @@ tags:
 - non-dualism
 techne: :wip
 episteme: :speculation
-slug: ?p=885
 ---
 
-Cellular automaton implies no green, but green, therefore no mind. [Checkmate](http://24.media.tumblr.com/tumblr_lv1atyRcpy1qj9k6oo1_500.png), materialists!
+Cellular automaton implies no green, but green, therefore no mind. [Checkmate][checkmate], materialists!
 
 Ok, that was the short version, now the long version.
 
@@ -22,11 +21,11 @@ The argument is fundamentally very similar to Chalmers P-Zombie argument. (Wait!
 
 You can build some interesting patterns in GoL:
 
-<img alt="" src="http://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif" class="aligncenter" width="250" height="180" />
+<%= image("Gospers_glider_gun.gif", "Glider Gun") %>
 
 But wait, there's more! GoL is actually turing-complete. You can run any kind of computation on the board. Here's an actual Turing machine implementation:
 
-<a href="http://upload.wikimedia.org/wikipedia/commons/0/05/Turing_Machine_in_Golly.png"><img alt="" src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Turing_Machine_in_Golly.png/379px-Turing_Machine_in_Golly.png" class="aligncenter" width="379" height="212" /></a>
+<%= image("Turing_Machine_in_Golly.png", "TM") %>
 
 Don't underestimate these little automatons. They are seriously powerful. Anything your PC can do, they can do. (Well, not always fast, but sure.) They have some cool specific uses in biology, cryptography and so on. They aren't just pretty toys.
 
@@ -40,7 +39,7 @@ We have a discrete, infinite, 2-dimensional space. Each point in that space has 
 
 What neat properties can we see? Well, it's all deterministic. No probabilities involved at all. Furthermore, there are no hidden variables or unique histories. You can just take the board at any point in time you want and start running it from there. You don't need to know anything about its past at all. The computations are all nicely local, both in space and time.
 
-There are also no individual particles. In fact, there are no particles at all. (You could say there are *relations between particles*, without there being any actual particles.) You only have a space that consists of points that have possible states. That's all. There is no "on particle" traveling over the board. It might look like that, as patterns get propagated, but that's only an additional abstraction you might use to understand what's going on. The board has no movement, only state changes. ([Zeno made that point a long time ago.](http://en.wikipedia.org/wiki/Zeno%27s_paradoxes#The_arrow_paradox))
+There are also no individual particles. In fact, there are no particles at all. (You could say there are *relations between particles*, without there being any actual particles.) You only have a space that consists of points that have possible states. That's all. There is no "on particle" traveling over the board. It might look like that, as patterns get propagated, but that's only an additional abstraction you might use to understand what's going on. The board has no movement, only state changes. ([Zeno made that point a long time ago.][Arrow Paradox])
 
 Furthermore, one could eliminate time by thinking of the possible states of the whole board as arranged in a directed graph, like so:
 
@@ -48,7 +47,7 @@ Furthermore, one could eliminate time by thinking of the possible states of the 
 
 If you think about it that way, then there isn't an objective time and no privileged board. There are just ((in)finitely many) board configurations, and they are causally linked, as determined by the transition rule we decided on. So you can look at any board and decide, if I apply this rule, which boards can I reach, and which boards can reach me? (Why would you prefer a timeless setup over a timed one? Because it's algorithmically simpler. You don't have to specify "these are the rules, and only *this* board and its descendants exist", you just say "all boards exist". The downside is, you now have all boards flying around and they require many more resources. But the rules are simpler. It's a trade-off. For our purposes, both approaches are fine. This argument works either way.)
 
-Are we missing anything? No. I can totally run this now. This is literally all I need to know to write a program that runs the Game of Life. I could also run it using a Go board or [rocks in the desert](http://xkcd.com/505/). Causally speaking, we're *done*.
+Are we missing anything? No. I can totally run this now. This is literally all I need to know to write a program that runs the Game of Life. I could also run it using a Go board or [rocks in the desert][xkcd rocks]. Causally speaking, we're *done*.
 
 Now where's the conscious awareness?
 
@@ -64,25 +63,25 @@ It could be an aspect of the rules. But the rules are extremely simple. "If 3 or
 
 We have one last remaining thing - all of state-space. The whole board could have mental states. Certainly a plausible guess. But then, wouldn't you expect mental phenomena to always be global? And unless you are the solipsist, you probably think there is more than one mind in the universe. So that's not good either. 
 
-It's as if minds would be constrained to a certain subset of cells, a certain section on the board. But where do these borders come from? They are not in the rules. The cells don't know them. Where are they coming from? There would have to be a *separate* set of rules, *additional* to everything we know, that determine what states are mental and what aren't. That's property dualism. (Chalmers defends it. Many physicalists are property dualists in denial. I'm not particularly fond of it, personally. I don't like [dualisms](http://en.wikipedia.org/wiki/Non-dualism).)
+It's as if minds would be constrained to a certain subset of cells, a certain section on the board. But where do these borders come from? They are not in the rules. The cells don't know them. Where are they coming from? There would have to be a *separate* set of rules, *additional* to everything we know, that determine what states are mental and what aren't. That's property dualism. (Chalmers defends it. Many physicalists are property dualists in denial. I'm not particularly fond of it, personally. I don't like [dualisms][Non-Dualism].)
 
 Or you simply deny mental states. It's the obvious implication, really. If you didn't know that consciousness existed, if you were some computer scientist from a P-Zombie universe without mental phenomena, would you ever suspect any? Probably not. And just as naturally, why not dismiss all this talk about "experience" as confused. Take a thorough third-person perspective and get rid of consciousness. (Dennett seems to try this, though I can't make sense of half the stuff he says.)
 
-There's one last possibility. You might say that the mental states are in the *computation*. It's not the actual machine that matters, it's the causal entanglement in the software that runs on it. But if you take this view, then what do you need the machine for? You really don't. You don't need instances, don't need worlds at all. You just need raw math, just dependencies. It's all there in the decision theory. [And as much sympathy as I have for this position](http://blog.muflax.com/2012/03/08/ontological-therapy/), that's still no physicalism, certainly no materialism. It's algorithmic idealism.
+There's one last possibility. You might say that the mental states are in the *computation*. It's not the actual machine that matters, it's the causal entanglement in the software that runs on it. But if you take this view, then what do you need the machine for? You really don't. You don't need instances, don't need worlds at all. You just need raw math, just dependencies. It's all there in the decision theory. [And as much sympathy as I have for this position][Ontological Therapy], that's still no physicalism, certainly no materialism. It's algorithmic idealism.
 
 Here's another way to look at it. Imagine an infinite board filled with a properly random arrangement of cells. Any sub-pattern you can think of occurs *somewhere* on the board. If (non-eliminative) materialism is right, we should be able to do the following:
 
 We pick a specific location and zoom in. In this snapshot, there is no conscious mind.
 
-<a href="http://blog.muflax.com/wp-content/uploads/2012/03/1.png"><img src="http://blog.muflax.com/wp-content/uploads/2012/03/1.png" alt="" title="1" width="500" height="500" class="aligncenter size-full wp-image-895" /></a>
+<%= image("gol_1.png", "1") %>
 
 But then as we zoom out more (and this is slightly misleading because we would have to zoom out *a lot*), eventually we would observe a conscious mind.
 
-<a href="http://blog.muflax.com/wp-content/uploads/2012/03/2.png"><img src="http://blog.muflax.com/wp-content/uploads/2012/03/2.png" alt="" title="2" width="500" height="500" class="aligncenter size-full wp-image-896" /></a>
+<%= image("gol_2.png", "2") %>
 
 And as we zoom out *even more*, other minds would appear, separate from the first one.
 
-<a href="http://blog.muflax.com/wp-content/uploads/2012/03/3.png"><img src="http://blog.muflax.com/wp-content/uploads/2012/03/3.png" alt="" title="3" width="500" height="500" class="aligncenter size-full wp-image-897" /></a>
+<%= image("gol_3.png", "3") %>
 
 What property *in the cellular automaton* do we use to draw these boundaries? Is there any reason to say *these* boundaries are conscious, but if we shift them all one cell to the left, they aren't? Excuse me, but I'm invoking the argument from incredulity here.
 
@@ -91,3 +90,4 @@ Now *if* there were a way to connect certain cells, if they shared a common stat
 And if you haven't been screaming "But muflax, you overlooked obvious feature X!" for a couple of paragraphs (and if so, please let me know), then I'm done. Case closed.
 
 Abandon materialism all ye who experience green.
+

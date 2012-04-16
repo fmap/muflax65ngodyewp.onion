@@ -10,7 +10,7 @@ episteme: :speculation
 slug: 2012/02/15/sunk-cost-fallacy-assumes-a-theory-of-time/
 ---
 
-Just read this [on LW](http://lesswrong.com/r/discussion/lw/9jg/how_would_you_talk_a_stranger_off_the_ledge/5vgy) (emphasis mine):
+Just read this [on LW][LW suicide] (emphasis mine):
 
 > > The treatability of depression, as defined by the likelihood that you eventually get these people to claim they're better, doesn't tell me how much they suffered before getting to this point, whether they would voluntarily go through it again to survive, and what their future risks of recidivism are.
 > 

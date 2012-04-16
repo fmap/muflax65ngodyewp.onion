@@ -9,7 +9,7 @@ episteme: :speculation
 slug: 2012/01/28/simplifying-the-simulation-hypothesis/
 ---
 
-Just slightly too long for [Twitter](https://twitter.com/#!/muflax): Everyone who has experimented with lucid dreaming knows that a computer the size of a coconut, primarily designed to climb trees, is enough to simulate worlds of sufficient detail to convince a mind that it is in a full world, containing many other minds it can communicate with.
+Just slightly too long for [Twitter][]: Everyone who has experimented with lucid dreaming knows that a computer the size of a coconut, primarily designed to climb trees, is enough to simulate worlds of sufficient detail to convince a mind that it is in a full world, containing many other minds it can communicate with.
 
 This should dramatically lower our bound of the necessary computational power of a computer simulating *you*.
 

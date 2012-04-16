@@ -1,10 +1,15 @@
 require 'image_size'
 
-def image(name, title="")
+def image(name, title="", link=nil)
   # all images are stored at content/pigs and only the main site routes them
 
   img = ImageSize.new IO.read("content/pigs/#{name}")
-  "<img src='/pigs/#{name}' height='#{img.height}' width='#{img.width}' title='#{title}' alt='#{title}'/>"
+  ret = ""
+
+  ret += "<a href='#{link}'>" unless link.nil?
+  ret += "<img src='/pigs/#{name}' height='#{img.height}' width='#{img.width}' title='#{title}' alt='#{title}'/>"
+  ret += "</a>" unless link.nil?
+  ret
 end
 
 def youtube(url)

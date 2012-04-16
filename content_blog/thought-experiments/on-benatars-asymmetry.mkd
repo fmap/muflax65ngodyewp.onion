@@ -7,7 +7,7 @@ tags:
 - doctor deontology is a totally awesome villain
 - thought experiment
 techne: :done
-episteme: :speculation
+episteme: :fiction
 slug: 2011/12/30/on-benatars-asymmetry/
 ---
 
@@ -21,9 +21,9 @@ David Benatar uses the following asymmetry in his arguments for antinatalism:
 
 4. The absence of benefit is not bad unless there is somebody for whom this absence is a deprivation.
 
-I'm increasingly skeptical of this asymmetry. Here's a thought experiment to illustrate why. And don't worry, it doesn't involve any torture, rape or murder! What am I, an ethicist?[1] It's only about pie.
+I'm increasingly skeptical of this asymmetry. Here's a thought experiment to illustrate why. And don't worry, it doesn't involve any torture, rape or murder! What am I, an ethicist?[^1] It's only about pie.
 
-<img class="aligncenter" src="http://images.wikia.com/pushingdaisies/images/6/6f/The_Pie_Hole_at_Day2.jpg" alt="" width="400" height="225" />
+<%= image("pie_hole.jpg", "Pie Hole") %>
 
 There are three different worlds. Let's call them *Defaultia*, *Absencia* and *Lossa*. They are all very similar, except for one little detail. In all three worlds there is a pie shop, and in this pie shop there is a careful pie maker. The pie maker is currently in the process of making another delicious pie for a customer. Behind the pie maker are three ingredients in three conspicuously similar pots, yet only one is needed for the pie. The pie maker will blindly grab one of the pots, make sure it is the right one and if so, use it. The pie will be delicious and the customer will be very happy.
 
@@ -35,21 +35,30 @@ In *Absencia*, the pie maker is not so lucky and takes the wrong ingredient at f
 
 And finally in *Lossa*, the pie maker again picks the wrong pot. (What's up with that anyway? Maybe the pie maker should consider looking next time! Sheesh.) But it is not the pie-ruining ingredient this time, but unbeknownst to the pie maker, it would make the pie even more delicious! It is a totally weird coincidence and no-one in the whole world knows of this connection, so the pie maker again puts back the pot and picks the intended ingredient. As usual, the same pie as in Defaultia results. Sunshine, end scene.
 
-<img class="aligncenter" src="http://imgc.allpostersimages.com/images/P-473-488-90/17/1723/GS53D00Z/posters/philip-enticknap-sonnenblumenfeld-umbrien.jpg" alt="" width="473" height="354" />
+<%= image("philip-enticknap-sonnenblumenfeld-umbrien.jpg", "Sonnenblumen") %>
 
 Thus ends the thought experiment. And here is the question: which of these worlds is *better*? Remember that in all three of them, the exact same pie is produced, and both pie maker and customer are just as happy every time.
 
 Yet if we believed the asymmetry, then there would be a clear winner - namely *Absencia*! In Absencia, there was a potential for great harm. Had the pie maker not noticed the wrong pot, then the customer's day would've been ruined. But fortunately, this harm was avoided and so, says the asymmetry, an additional good was produced for the customer. Ergo, Absencia is the best.
 
-There is a certain position (typically brought forth by transhumanists) that rejects the asymmetry in an unusual way. It's closely related to what Nick Bostrom calls <a href="http://www.nickbostrom.com/astronomical/waste.html">Astronomical Waste</a>. In his words:
-<blockquote><span style="font-family: Times New Roman,Times,serif;"><span style="font-family: Times New Roman,Times,serif;">With very advanced technology, a very large population of people living happy lives could be sustained in the accessible region of the universe.</span> For every year that development of such technologies and colonization of the universe is delayed, there is therefore an opportunity cost: a potential good, lives worth living, is not being realized.</span></blockquote>
+There is a certain position (typically brought forth by transhumanists) that rejects the asymmetry in an unusual way. It's closely related to what Nick Bostrom calls [Astronomical Waste][]. In his words:
+
+> With very advanced technology, a very large population of people living happy lives could be sustained in the accessible region of the universe.</span> For every year that development of such technologies and colonization of the universe is delayed, there is therefore an opportunity cost: a potential good, lives worth living, is not being realized.
+
 So this position says that the absence of benefits, even when there is no existing person being deprived, is still bad. Proponents of this view look at the universe and are disappointed by all the matter that *isn't* used for making people happy (or making happy people). It follows then, if the absence of pleasure causes a harm, then *Lossa* is clearly worse than Defaultia! After all, Lossa almost included a super-pie and super-happy customer, but then didn't after all.
 
 In a third approach, we could ask Hardcore Consequentialist Robot 9000 what it thinks about these worlds. It would correctly reason that the pie makers initial choice of ingredients was truly random and that the resulting pie was already determined before picking anything. The pie maker will always end up using the intended ingredient and the same pie will be made. Thus, the state of the world is always the same, and as paths to a state don't matter to HCR 9000, all worlds are exactly equal in value. (This scenario is particularly frustrating for HCR 9000's evil archenemy Doctor Deontology. Paths matter, he says, but only random chance was involved this time, so he still has to choose. But how?)
 
 So who's right? Or is everyone wrong and there's a fourth option?
 
-<em>\[1\]: As <a href="http://lesswrong.com/lw/5ro/what_bothers_you_about_less_wrong/47ph">PlaidX observes</a>:</em>
-<blockquote><em>The use of torture in these hypotheticals generally seems to have less to do with ANALYZING cognitive algorithms, and more to do with "getting tough" on cognitive algorithms. Grinding an axe or just wallowing in self-destructive paranoia.</em>
+[^1]: As [PlaidX observes][PlaidX torture]:
+    > The use of torture in these hypotheticals generally seems to have less to do with ANALYZING cognitive algorithms, and more to do with "getting tough" on cognitive algorithms. Grinding an axe or just wallowing in self-destructive paranoia.
+    >
+    > If the point you're making really only applies to torture, fine. But otherwise, it tends to read like "Maybe people will understand my point better if I CRANK MY RHETORIC UP TO 11 AND UNCOIL THE FIREHOSE AND HALHLTRRLGEBFBLE"
 
-<em>If the point you're making really only applies to torture, fine. But otherwise, it tends to read like "Maybe people will understand my point better if I CRANK MY RHETORIC UP TO 11 AND UNCOIL THE FIREHOSE AND HALHLTRRLGEBFBLE"</em></blockquote>
+
+
+
+
+
+

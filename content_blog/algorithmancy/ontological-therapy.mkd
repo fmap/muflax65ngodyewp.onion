@@ -5,10 +5,10 @@ tags:
 - algorithmic magic
 - consciousness
 - ontology
-- possibleworldproblems
+- #possibleworldproblems
 - schizophrenic episodes
 techne: :done
-episteme: :speculation
+episteme: :emotional
 slug: 2012/03/08/ontological-therapy/
 ---
 
@@ -71,9 +71,9 @@ Instead of an explanation, a little play:
 
 I better stop there. That's only a small fragment of the whole mess. I didn't even mention uncertainty about meta-ethics, utility calculations ('cause as XiXiDu has correctly observed, if utilitarianism is right, we never ever get to relax, and have to fully embrace the worst consequences of Pascal's Mugging), how it removes "instances" as meaningful concepts so that "I will clone you and torture the clone" stops being a threat, but "I will make my calculations dependent on your decision" suddenly is, or how all of this fits so perfectly together, you'd think it's all actually true.
 
-What I want to talk about is this: it's completely eating me alive. This is totally basilisk territory. You don't get to ever die (this really bums me out because I don't like being alive), you have to deal with everything at once right now (no FAI to save you, not even future-you), any mistake causes massive harm (good luck being perfect) and really, normalcy is impossible. How can you worry about bloody coffee or sex if *all of existence* is at stake because algorithmic dependencies entangle you with so vast a computational space? You have to deal with not just Yahweh, but *all possible gods*, and you are watching [cat videos](http://www.youtube.com/watch?v=qpl5mOAXNl4)? Are you *completely insane*?!
+What I want to talk about is this: it's completely eating me alive. This is totally basilisk territory. You don't get to ever die (this really bums me out because I don't like being alive), you have to deal with everything at once right now (no FAI to save you, not even future-you), any mistake causes massive harm (good luck being perfect) and really, normalcy is impossible. How can you worry about bloody coffee or sex if *all of existence* is at stake because algorithmic dependencies entangle you with so vast a computational space? You have to deal with not just Yahweh, but *all possible gods*, and you are watching [cat videos][])? Are you *completely insane*?!
 
-This is not just unhealthy. This is "I'm having a mental breakdown, someone give me the anti-psychotics please". I've tried this [belief propagation thing](http://lesswrong.com/lw/8ib/connecting_your_beliefs_a_call_for_help/). As a result, I don't belief in time, selves, causality, simplicity, physics, plans, goals, ethics or anything really anymore. I have absolutely no ground to stand on, nothing I can comfortably just believe, no idea how to make any decision at all. I can't even make total skepticism work because skepticism itself is an artifact of inference algorithms and [moral luck](http://en.wikipedia.org/wiki/Moral_luck) just pisses on your uncertainty.
+This is not just unhealthy. This is "I'm having a mental breakdown, someone give me the anti-psychotics please". I've tried this [belief propagation thing][LW belief propagation]. As a result, I don't belief in time, selves, causality, simplicity, physics, plans, goals, ethics or anything really anymore. I have absolutely no ground to stand on, nothing I can comfortably just believe, no idea how to make any decision at all. I can't even make total skepticism work because skepticism itself is an artifact of inference algorithms and [moral luck][Moral Luck] just pisses on your uncertainty.
 
 *I hate this whole rationality thing*. If you actually take the basic assumptions of rationality seriously (as in Bayesian inference, complexity theory, algorithmic views of minds), you end up with an utterly insane universe full of mind-controlling superintelligences and impossible moral luck, and not a nice "let's build an AI so we can fuck catgirls all day" universe. The worst that can happen is not the extinction of humanity or something that mundane - instead, you might piss off a whole pantheon of jealous gods and have to deal with them *forever*, or you might notice that *this has already happened* and you are already being computationally pwned, or that *any bad state you can imagine exists*. Modal fucking realism. 
 
@@ -85,7 +85,7 @@ I think the bloody continentals were right all along. Analytical philosophy is f
 
 You might try the "I am the instantiation of an algorithm" sleight-of-hand, but that's really problematic. Do you also believe God has given you information about the Absolute Encoding Scheme? (If yes, want some of my anti-psychotics?) How can you know what spatial arrangement of particles "encodes" what particular algorithm? This is an unsolvable problem.
 
-But worse than that, even *if* you could do it, I don't think you actually grasp the implications of such a view. Here's [Susan Blackmore](http://www.susanblackmore.co.uk/Articles/JCS2012.htm), giving an eloquent description of how the position is typically envisioned:
+But worse than that, even *if* you could do it, I don't think you actually grasp the implications of such a view. Here's [Susan Blackmore][Blackmore no-self], giving an eloquent description of how the position is typically envisioned:
 
 > This "me" that seems so real and important right now, will very soon dissipate and be gone forever, along with all its hopes, fears, joys and troubles. Yet the words, actions and decisions taken by this fleeting self will affect a multitude of future selves, making them more or less insightful, moral and effective in what they do, as well as more or less happy. 
 

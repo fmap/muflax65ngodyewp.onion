@@ -4,14 +4,13 @@ date: 1970-01-01
 tags: []
 techne: :wip
 episteme: :speculation
-slug: ?p=917
 ---
 
 For weeks now I want to quote a certain song. But I can't. It's in German. And I can't translate it. Not in a way that does it any justice, at least.
 
 The song is Die Interimsliebenden by Einstürzende Neubauten. Watch it:
 
-<iframe src="http://player.vimeo.com/video/36592271?portrait=0&amp;color=000000" frameborder="0" width="400" height="320"></iframe> 
+<%= vimeo("http://player.vimeo.com/video/36592271") %>
 
 (BTW: I love the video. It's so amazingly meta-pretentious.)
 

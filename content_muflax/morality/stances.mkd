@@ -1,6 +1,6 @@
 ---
 title: Three Sides
-alt_titles: [Stances]
+alt_titles: [Stances, Dark Stance]
 date: 2011-07-18
 techne: :done
 episteme: :broken

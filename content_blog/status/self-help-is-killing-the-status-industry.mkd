@@ -18,15 +18,15 @@ Let's say you find yourself in a strange land and your goal is to reach the high
 
 The black dot is your current position. Seeing all, you know that you should go for the peak on the right.
 
-<a href="http://blog.muflax.com/wp-content/uploads/2012/04/hill1.png"><img src="http://blog.muflax.com/wp-content/uploads/2012/04/hill1.png" alt="" title="hill1" width="399" height="203" class="aligncenter size-full wp-image-962" /></a>
+<%= image("hill1.png", "hill1") %>
 
 Unfortunately, you don't have a map and your vision is limited. 
 
-<a href="http://blog.muflax.com/wp-content/uploads/2012/04/hill21.png"><img src="http://blog.muflax.com/wp-content/uploads/2012/04/hill21.png" alt="" title="hill2" width="399" height="203" class="aligncenter size-full wp-image-965" /></a>
+<%= image("hill2.png", "hill2") %>
 
 A very simple and often effective solution is to follow the *steepest* path. This approach is guaranteed to get you to *some* peak, but unfortunately, it may not be the highest one.
 
-<a href="http://blog.muflax.com/wp-content/uploads/2012/04/hill22.png"><img src="http://blog.muflax.com/wp-content/uploads/2012/04/hill22.png" alt="" title="hill2" width="399" height="203" class="aligncenter size-full wp-image-967" /></a>
+<%= image("hill22.png", "hill3") %>
 
 In our landscape, you might notice that there are two steep paths, but you can't tell how good they are from the bottom. So you first climb one for a bit, then go back down and try the other. You will soon notice that the path to the left becomes flat. The other path stays steep for much longer and looks more promising.
 
@@ -34,9 +34,9 @@ There is a crucial trade-off between *exploration* and *exploitation*. If you tr
 
 Ok, what does that have to do with self-help? 
 
-Arguably, the primary purpose of human psychology is the desire for high [status](http://wiki.lesswrong.com/wiki/Status). Unfortunately, it is really hard to reliably communicate the relevant features to others. There are no easy and reliable ways to read someone's reproductive or social value. 
+Arguably, the primary purpose of human psychology is the desire for high [status][Status]. Unfortunately, it is really hard to reliably communicate the relevant features to others. There are no easy and reliable ways to read someone's reproductive or social value. 
 
-The solution is called [signaling](http://wiki.lesswrong.com/wiki/Signaling) - you do things that *correlate* with your true values, but are easy to check. For example, if you have lots of access to food, and you want to advertise that fact, you could become fat. If you are very confident in your ability to fight, you might self-handicap by wearing impractical clothes.
+The solution is called [signaling][Signaling] - you do things that *correlate* with your true values, but are easy to check. For example, if you have lots of access to food, and you want to advertise that fact, you could become fat. If you are very confident in your ability to fight, you might self-handicap by wearing impractical clothes.
 
 Generally speaking, a signal is only worth something if it is *costly*. If everyone can do it, then it provides no useful information. Signals must be inherently hard to do so that only those with powerful abilities can pull them off.
 

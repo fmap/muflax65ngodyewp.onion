@@ -6,7 +6,7 @@ tags:
 - crap
 - god
 techne: :done
-episteme: :speculation
+episteme: :emotional
 slug: 2012/01/03/how-my-brain-broke/
 ---
 
@@ -22,13 +22,13 @@ There are two things I wanna talk about.
 
 # Ayahuasca
 
-Some basic background. <a href="http://en.wikipedia.org/wiki/Ayahuasca">Ayahuasca</a> is a pretty strong hallucinogen. I prefer(ed) the term <a href="http://en.wikipedia.org/wiki/Entheogen">entheogen</a> because Ayahuasca was the only drug I ever took that I felt had an independent personality. You aren't taking Ayahuasca - you are meeting Ayahuasca and it will do whatever the fuck it wants with you. Which is also why I like the translation "vine with a soul", even though it's probably bogus.
+Some basic background. [Ayahuasca][] is a pretty strong hallucinogen. I prefer(ed) the term [entheogen][Entheogen] because Ayahuasca was the only drug I ever took that I felt had an independent personality. You aren't taking Ayahuasca - you are meeting Ayahuasca and it will do whatever the fuck it wants with you. Which is also why I like the translation "vine with a soul", even though it's probably bogus.
 
 Ayahuasca is a bit tricky to prepare. You're basically interested in DMT, but your can't ingest it orally 'cause your stomach destroys it. You need a MAO inhibitor to stop it from doing so. So you are really taking two drugs. There are clever ways to get both MAO-I and DMT without many side-effects. But if you're a 17-year-old teenager with no previous drug experience, then you don't care and do things the stupid way. (You read that right. Ayahuasca was my first drug, even before alcohol. Never did things half-assedly.)
 
-So I boiled a simple, way-too-acidic preparation in my parents kitchen without them noticing, took my MAO-I, waited half an hour, filled my Ayahuasca in a pot and took it too my room, ready to drink it all. I put on <a href="http://www.youtube.com/watch?v=oHTFmJk7fH0">múm</a>, sat on my bed and started drinking half a liter of psychedelics.
+So I boiled a simple, way-too-acidic preparation in my parents kitchen without them noticing, took my MAO-I, waited half an hour, filled my Ayahuasca in a pot and took it too my room, ready to drink it all. I put on [múm][], sat on my bed and started drinking half a liter of psychedelics.
 
-Ayahuasca looks like purple wine with some liquid metal on top. Not too healthy, but you can always close your eyes. It smells kind of  like the jungle, like some fresh dirt. Not too unpleasant, actually, if you never took it and don't associate the smell with anything yet. But there's one thing you never forget.
+Ayahuasca looks like purple wine with some liquid metal on top. Not too healthy, but you can always close your eyes. It smells kind of like the jungle, like some fresh dirt. Not too unpleasant, actually, if you never took it and don't associate the smell with anything yet. But there's one thing you never forget.
 
 The fucking taste.
 
@@ -44,13 +44,13 @@ Not that it would've helped me. The physical vomiting isn't so bad. It's really 
 
 Then Ayahuasca reminded me that I had paid for the whole night and that it had no intention of holding anything back. Suddenly there were colors everywhere, everything became blurry and space itself accelerated. Waves were drifting through my room, but I could barely pay any attention because the swirl of colors got faster and faster. It kinda looked like this:
 
-<a href="http://blog.muflax.com/wp-content/uploads/2012/01/spaceballs.jpg"><img class="aligncenter size-full wp-image-633" title="spaceballs" src="http://blog.muflax.com/wp-content/uploads/2012/01/spaceballs.jpg" alt="" width="610" height="315" /></a>
+<%= image("spaceballs.jpg", "spaceballs") %>
 
 I realized I couldn't keep up, couldn't look anywhere without starting to vomit again. My thoughts were blending with the wallpaper and the room transformed into various scenes, the music itself was throwing waves, tracks merged, everything became way too intense for me. I closed my eyes and surrendered, because I was going straight to hell.
 
 Just me and my mind. Doable. It was even faster, the visions even more intense, but more focused less complicated. Just intricate geometric patterns and a long, long tunnel I fell through.
 
-<object width="560" height="315" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/gagR2_Yi8wE?version=3&amp;hl=en_US" /><param name="allowfullscreen" value="true" /><embed width="560" height="315" type="application/x-shockwave-flash" src="http://www.youtube.com/v/gagR2_Yi8wE?version=3&amp;hl=en_US" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object>
+<%= youtube("http://www.youtube.com/v/gagR2_Yi8wE") %>
 
 (That is only accurate depiction of Ayahuasca ever, btw. The director is a big fan and you can see it.)
 
@@ -96,7 +96,7 @@ I read the Bible. Parts of it, anyway. I started talking to God. (He never answe
 
 God was a mystery, but mystery was good. It was something to retreat into, something that you could probe and that didn't go away. It *stayed* mysterious. It was unchanging. It was ever-lasting. It was full of love.
 
-<object width="560" height="315" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/yzqTFNfeDnE?version=3&amp;hl=en_US" /><param name="allowfullscreen" value="true" /><embed width="560" height="315" type="application/x-shockwave-flash" src="http://www.youtube.com/v/yzqTFNfeDnE?version=3&amp;hl=en_US" allowFullScreen="true" allowscriptaccess="always" allowfullscreen="true" /></object>
+<%= youtube("http://www.youtube.com/v/yzqTFNfeDnE") %>
 
 There actually isn't much to say about God. I didn't have much of a belief system. God has no personality. It's really just an extremely powerful emotion. A sense of true peace and belonging. Something only an eternal divine being could grant.
 

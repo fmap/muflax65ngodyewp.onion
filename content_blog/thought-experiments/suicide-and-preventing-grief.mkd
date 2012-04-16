@@ -7,23 +7,23 @@ tags:
 - suicide
 - thought experiment
 techne: :done
-episteme: :speculation
+episteme: :fiction
 slug: 2012/03/21/suicide-and-preventing-grief/
 ---
 
-In an underground bunker, deep under the Cartesian Plains, trapped in a cage, sits the great [Mahavira](https://en.wikipedia.org/wiki/Mahavira). He is the latest victim of [Doctor Deontology](http://blog.muflax.com/tag/doctor-deontology/), once again on a mission to spread chaos amongst all who vow to protect morality.
+In an underground bunker, deep under the Cartesian Plains, trapped in a cage, sits the great [Mahavira][]. He is the latest victim of [Doctor Deontology][tag doctor deontology], once again on a mission to spread chaos amongst all who vow to protect morality.
 
-Mahavira defends the duty that one should [never do harm](https://en.wikipedia.org/wiki/Ahimsa). It is never acceptable to be violent or knowingly cause others to suffer. Doctor Deontology, mad ethicist that he is, wants to test this notion.
+Mahavira defends the duty that one should [never do harm][Ahimsa]. It is never acceptable to be violent or knowingly cause others to suffer. Doctor Deontology, mad ethicist that he is, wants to test this notion.
 
-Doctor Deontology presents Mahavira with a choice. In his cage are two buttons. The first button will release a deadly neurotoxin that will kill Mahavira instantly and without pain. The second button will flood the cage with a [nutrient-rich sludge](http://www.penny-arcade.com/comic/2010/1/25/) that can be absorbed through the skin and will nurture and heal anyone immersed in it for another day, but will also, as an unfortunate side-effect, cause them tremendous pain. 
+Doctor Deontology presents Mahavira with a choice. In his cage are two buttons. The first button will release a deadly neurotoxin that will kill Mahavira instantly and without pain. The second button will flood the cage with a [nutrient-rich sludge][] that can be absorbed through the skin and will nurture and heal anyone immersed in it for another day, but will also, as an unfortunate side-effect, cause them tremendous pain. 
 
 If Mahavira presses the second button regularly every day, he would be able to live indefinitely, but also be in constant, unbearable pain. He can escape this fate at any time by pressing the first button and so kill himself. So far, Mahavira agrees that Doctor Deontology has not done anything evil, and that he intends to press the suicide button soon.
 
 But the ascetic has underestimated the mad ethicist. Behold Doctor Deontology's latest creation - the Grief Monster!
 
-<a href="http://blog.muflax.com/wp-content/uploads/2012/03/grief.jpg"><img src="http://blog.muflax.com/wp-content/uploads/2012/03/grief.jpg" alt="" title="grief" width="225" height="225" class="aligncenter size-full wp-image-923" /></a>
+<%= image("grief.jpg", "Grief Monster") %>
 
-Engineered from the DNA of a wild [Utility Monster](https://en.wikipedia.org/wiki/Utility_monster), the Grief Monster is perfectly content maintaining Doctor Deontology's underground bunker, but should it learn that Mahavira has died under anything but natural circumstances, it will feel the most horrible grief imaginable and suffer greatly as a consequence.
+Engineered from the DNA of a wild [Utility Monster][], the Grief Monster is perfectly content maintaining Doctor Deontology's underground bunker, but should it learn that Mahavira has died under anything but natural circumstances, it will feel the most horrible grief imaginable and suffer greatly as a consequence.
 
 Thus, should Mahavira commit suicide, then the Grief Monster would suffer immensely. But if he does not, if he chooses the food, then *he* will suffer indefinitely.
 

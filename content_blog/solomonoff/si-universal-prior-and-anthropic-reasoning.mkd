@@ -1,5 +1,5 @@
 ---
-title: ! '[SI] Universal Prior and Anthropic Reasoning'
+title: Universal Prior and Anthropic Reasoning
 date: 2012-01-19
 tags:
 - great filter
@@ -11,7 +11,7 @@ slug: 2012/01/19/si-universal-prior-and-anthropic-reasoning/
 
 *(This is not really part of my explanation of Solomonoff Induction, just a crazy idea. But it overlaps and does explain some things, so yeah.)*
 
-Bayes theorem is awesome. We all know that. It is the optimal way to reason from a given set of evidence. Well, almost. There's one little flaw - what's your prior? What initial probability do you assign your hypotheses before you got any evidence?
+Bayes theorem is awesome. We all know that. It is the optimal way to reason from a given set of evidence. Well, almost. There's one little flaw - what's your prior? What initial probability do you assign to your hypotheses before you got any evidence?
 
 There is one approach, which I might talk about more when I explain Solomonoff Induction, that is called the Universal Prior. (How original.) The UP is really easy: for every hypothesis, you find all programs consistent with the data and assign them a weight proportional to their Kolmogorov Complexity, favoring short programs.
 

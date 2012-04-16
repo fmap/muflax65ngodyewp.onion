@@ -1,5 +1,5 @@
 ---
-title: ! '[SI] Remark about Finitism'
+title: Remark about Finitism
 date: 2012-01-15
 tags:
 - solomonoff induction

@@ -3,6 +3,7 @@
 [Age of Decadence]: http://www.irontowerstudio.com/
 [Alan Dawrst]: http://www.utilitarian-essays.com/suffering-nature.html
 [Blackmore Free Will]: http://www.susanblackmore.co.uk/Chapters/Brockman2005.htm
+[Blackmore no-self]: http://www.susanblackmore.co.uk/Articles/JCS2012.htm
 [Breaking the Spell]: http://www.philosophypress.co.uk/?p=1001
 [Bro Epicurus]: http://www.philosophybro.com/2011/03/epicurus-sovran-maxims-summary.html
 [Carrier Vegetarianism]: http://freethoughtblogs.com/carrier/archives/87
@@ -49,6 +50,28 @@
 [suffering per kg]: http://www.utilitarian-essays.com/suffering-per-kg.html
 [tripzine]: http://www.tripzine.com/listing.php?smlid=268 
 [xkcd lego]: https://xkcd.com/659/
+[last generation]: http://opinionator.blogs.nytimes.com/2010/06/06/should-this-be-the-last-generation/
+[checkmate]: https://s3.amazonaws.com/data.tumblr.com/tumblr_lv1atyRcpy1qj9k6oo1_500.png
+[xkcd rocks]: http://xkcd.com/505/
+[Anders Shirt]: http://www.katzundgoldt.de/ru_anders.htm
+[xkcd atheist]: http://xkcd.com/774/
+[Jack Torrent]: http://bakabt.com/154403-jack-and-the-beanstalk-jack-to-mame-no-ki.html
+[Breaking Dawn]: http://www.rifftrax.com/rifftrax/twilight-saga-breaking-dawn-pt-1
+[Causal Inference]: http://arxiv.org/abs/0804.3678
+[Causal Markov]: http://arxiv.org/abs/1002.4020
+[Catholic Meditation]: http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-cristiana_en.html
+[Jaynes Evidence]: http://www.julianjaynes.org/evidence_summary.php
+[philosophical health check]: http://www.philosophersnet.com/games/check.php
+[xkcd fitocracy]: http://xkcd.com/940/
+[LibraryThing challenge]: http://www.librarything.com/topic/82131
+[onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
+[The Attention Revolution]: http://www.amazon.com/Attention-Revolution-Unlocking-Power-Focused/dp/0861712765
+[Solomonoff beard]: http://www.scholarpedia.org/article/File:RaySolomonoff2001.jpg
+[Turtles]: http://en.wikipedia.org/wiki/Turtles_all_the_way_down
+[Kant Song]:http://www.raikoth.net/Stuff/ddis/dsong_kant.html
+[King in the Mountain]: http://squid314.livejournal.com/306912.html
+[Unbreakable]: http://diabasis.com/2011/06/18/could-there-be-beings-that-are-not-wrong-to-make/
+[nutrient-rich sludge]: http://www.penny-arcade.com/comic/2010/1/25/
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
@@ -59,6 +82,26 @@
 [LW words]: http://lesswrong.com/lw/od/37_ways_that_words_can_be_wrong/
 [LessWrong]: http://lesswrong.com
 [PlaidX torture]: http://lesswrong.com/lw/5ro/what_bothers_you_about_less_wrong/47ph
+[LW belief propagation]: http://lesswrong.com/lw/8ib/connecting_your_beliefs_a_call_for_help/
+[LW suicide]: http://lesswrong.com/r/discussion/lw/9jg/how_would_you_talk_a_stranger_off_the_ledge/5vgy
+[LW corrupted]: http://lesswrong.com/lw/uv/ends_dont_justify_means_among_humans/
+[LW chain]: http://lesswrong.com/lw/99t/can_the_chain_still_hold_you/
+[LW impossible]: http://lesswrong.com/lw/up/shut_up_and_do_the_impossible/
+[LW not great]: http://lesswrong.com/lw/9p/rationality_its_not_that_great/
+[LW emergence]: http://lesswrong.com/lw/iv/the_futility_of_emergence/
+[LW group selection]: http://lesswrong.com/lw/kw/the_tragedy_of_group_selectionism/
+[LW button]: http://lesswrong.com/lw/59j/how_many_of_me_are_there/3y3u
+[LW deontology incomprehension]: http://lesswrong.com/lw/435/what_is_eliezer_yudkowskys_metaethical_theory/3fnj
+[LW praise]: http://lesswrong.com/lw/5p2/people_who_want_to_save_the_world/497p
+[LW values fulfilled]: http://lesswrong.com/lw/59j/how_many_of_me_are_there/3y2h
+[LW wireheading request]: http://lesswrong.com/lw/5ym/natural_wireheadings_formal_request/4a3t
+[LW SL5]: http://lesswrong.com/lw/1t0/shock_level_5_big_worlds_and_modal_realism/
+[LW date]: http://lesswrong.com/r/discussion/lw/980/singularity_institute_executive_director_qa_2/
+[LW minecraft]: http://lesswrong.com/lw/8n9/rationality_quotes_december_2011/5dal
+[LW leverage]: http://lesswrong.com/lw/9ar/on_leverage_researchs_plan_for_an_optimal_world/5n74
+
+<!-- Hanson -->
+[Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
 
 <!-- software -->
 [Creative Commons]: http://creativecommons.org/licenses/by-nc-sa/3.0/de
@@ -72,21 +115,36 @@
 <!-- gwern -->
 [Gwern URL]: http://www.gwern.net/Archiving%20URLs
 [Narrowing Circle]: http://www.gwern.net/Notes#the-narrowing-circle
+[Gwern anonymity]: http://www.gwern.net/Death%20Note%20Anonymity#mistake-2
 
 <!-- Sister Y -->
 [Sister Asymmetry]: http://theviewfromhell.blogspot.com/2008/07/austrian-basement-and-beyond.html
 [Sister Epilogue]: http://theviewfromhell.blogspot.de/2010/12/living-in-epilogue-social-policy-as.html
 [Sister Y]: http://theviewfromhell.blogspot.com
 [The View from Hell]: http://theviewfromhell.blogspot.com
+[Sister golem]: http://theviewfromhell.blogspot.com/2010/09/pathetic-golem.html
+[Sister Kaldor]: http://theviewfromhell.blogspot.com/2011/01/pareto-kaldor-hicks-and-deserving.html
 
 <!-- Moldbug -->
 [How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
 [Moldbug Left Right]: http://unqualified-reservations.blogspot.com/2008/06/olxi-truth-about-left-and-right.html
+[Moldbug Condensed]: http://www.corrupt.org/columns/martin_regnen/condensed_moldbuggery
 
 <!-- Meaningness -->
 [Buddhism for Vampires]: http://buddhism-for-vampires.com
 [Chapman Disgust]: http://meaningness.wordpress.com/2011/07/22/disgust-horror-western-buddhism/
 [Meaningness]: https://meaningness.wordpress.com/
+[BFV Monsters]: http://buddhism-for-vampires.com/we-are-all-monsters
+[BFV shadow]: http://buddhism-for-vampires.com/eating-the-shadow
+[Protestant Buddhism]: http://meaningness.wordpress.com/2011/06/24/protestant-buddhism/
+[Chapman Fiction]: http://meaningness.com/metablog/ken-wilber-boomeritis-artificial-intelligence
+[Chapman left out]: http://meaningness.wordpress.com/2011/07/12/what-got-left-out-of-%E2%80%9Cmeditation%E2%80%9D/
+[Chapman theravada]: http://meaningness.wordpress.com/2011/07/07/theravada-reinvents-meditation/
+
+<!-- XiXiDu -->
+[XiXiDu]: http://kruel.co/
+[xixidu search]: https://plus.google.com/106808239073321070854/posts/HMQmaWaJy3u
+[xixidu utilitarian]: http://kruel.co/2011/07/24/open-problems-in-ethics-and-rationality/
 
 <!-- internal links -->
 [RSS]: /rss.xml

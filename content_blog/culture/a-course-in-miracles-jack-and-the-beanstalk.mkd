@@ -6,17 +6,17 @@ tags:
 - miracles
 - monsters
 techne: :done
-episteme: :speculation
+episteme: :believed
 slug: 2012/02/27/a-course-in-miracles-jack-and-the-beanstalk/
 ---
 
-There are some movies that are amazing and widely recognized as such, like [Moulin Rouge!](http://en.wikipedia.org/wiki/Moulin_Rouge!) or [秒速5センチメートル](http://en.wikipedia.org/wiki/5_Centimeters_Per_Second) (5 Centimeters Per Second).
+There are some movies that are amazing and widely recognized as such, like [Moulin Rouge!][] or [秒速5センチメートル][] (5 Centimeters Per Second).
 
-Then there are movies that are unjustly ignored; yet more victims of the intrinsic evil that is our universe. Let's talk about one such movie - [ジャックと豆の木](http://en.wikipedia.org/wiki/Jack_and_the_Beanstalk_%281974_film%29), aka the 1974 anime version of Jack and the Beanstalk.
+Then there are movies that are unjustly ignored; yet more victims of the intrinsic evil that is our universe. Let's talk about one such movie - [ジャックと豆の木][]), aka the 1974 anime version of Jack and the Beanstalk.
 
-<img alt="" src="http://upload.wikimedia.org/wikipedia/en/f/f3/JackandtheBeanstalk1974.jpg" class="aligncenter" width="300" height="421" />
+<%= image("JackandtheBeanstalk1974.jpg", "Jack poster") %>
 
-Like me, you may have seen it as a child. If not, [BakaBT has a good torrent](http://bakabt.com/154403-jack-and-the-beanstalk-jack-to-mame-no-ki.html) and it's up on TPB and so on as well. Normally I'd advise you to get the original version, but this time I highly recommend the English dub (or the German one if you prefer, as it's about equally good). It's one of the few very rare movies where the English translation is an actual improvement, at least as far as the songs are concerned.
+Like me, you may have seen it as a child. If not, [BakaBT has a good torrent][Jack Torrent] and it's up on TPB and so on as well. Normally I'd advise you to get the original version, but this time I highly recommend the English dub (or the German one if you prefer, as it's about equally good). It's one of the few very rare movies where the English translation is an actual improvement, at least as far as the songs are concerned.
 
 Now go and watch it. I'll wait.
 
@@ -28,7 +28,7 @@ Before we get to this awesome segment, it's time for a quick first lesson. *Magi
 
 But enough of that, because it's time for the first great song of the movie - the miracle song.
 
-<div align="center"><object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/Y6JGfeOfYCo?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Y6JGfeOfYCo?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+<%= youtube("http://www.youtube.com/v/Y6JGfeOfYCo") %>
 
 The beans open and the beanstalk grows, a huge tower reaching up into the heavens. But that's not the cool part. It's the *lyrics*.
 
@@ -46,7 +46,7 @@ The beans open and the beanstalk grows, a huge tower reaching up into the heaven
 
 This fundamental dilemma - both the skeptic and the gnostic being right at the same time - is exactly the dilemma of my life. All religions are false, the prophets delusional, lying or even fictitious, yet somehow, *some of the stuff actually works*. Not in the way it's advertised, mind you, nor is there any informed consent involved. Jack didn't know what the beans would do or where the stalk would lead. Nor did we drug-using meditators know what the stuff would do to our minds. 
 
-But miracles do happen. Weird, unexpected, uncontrollable miracles, but miracles nonetheless. If you never trust the beans, judge only the people who sell them, you will never find out. This is why the tarot deck starts with [the fool](http://en.wikipedia.org/wiki/The_Fool_%28Tarot_card%29). It takes reckless stupidity to ever attempt any magic. No wise man would ever do it.
+But miracles do happen. Weird, unexpected, uncontrollable miracles, but miracles nonetheless. If you never trust the beans, judge only the people who sell them, you will never find out. This is why the tarot deck starts with [the fool][Tarot Fool]. It takes reckless stupidity to ever attempt any magic. No wise man would ever do it.
 
 Jack, fortunately, is not particularly wise.
 
@@ -56,7 +56,7 @@ After a night of climbing, they finally reach the top, as the beanstalk connects
 
 Here's her song.
 
-<div align="center"><object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/-UruF7vu3JM?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-UruF7vu3JM?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+<%= youtube("http://www.youtube.com/v/-UruF7vu3JM") %>
 
 It's hard for me not to gush about how wonderful this movie is. But this song? Seriously takes the cake. It perfectly captures everything-is-perfect-I'm-so-high-right-now happiness, and even better than that, it shows the fundamentally *delusional* and *creepy* nature of this happiness.
 
@@ -68,7 +68,7 @@ Putting deep-seated distrust of happiness, love and marriage into children's hea
 
 Margaret takes Jack and Crosby to meet Madame Hecuba, Prince Tulip's mother. As you probably have guessed, she's the evil witch. And Prince Tulip? A monstrous, man-eating giant.
 
-<img alt="" src="http://www.alibaba.kz/uploads/posts/2011-04/nlamnqf7jg.jpg" class="aligncenter" width="500" height="375" />
+<%= image("nlamnqf7jg.jpg", "Tulip and Hecuba") %>
 
 Immediately, Hecuba decides she's gonna eat this boy. Heck, that's what witches *do*, can't blame them for that. So she tries to be as charming and friendly as she can be with a Level 15 Fear Aura following her everywhere, and invites Jack to lunch. Unfortunately for her, her son Tulip comes home early, smells the boy and wants in on the action. Evil not being all that much into sharing, Hecuba tries to hide Jack, but fails. Other mice, who we now recognize as the transformed former court of the castle, help the protagonists flee in the ensuing chaos and they all make it to the castle's treasury.
 
@@ -88,15 +88,15 @@ Yes, seriously. Jack gives them a little number how he's just a farmer's boy and
 
 Another valuable life lesson: heroes are *stupid*. People who charge evil Gryffindor-style are fundamentally insane. The whole kingdom couldn't take on the witch and her son, but a poor boy with no training whatsoever and a bunch of friendly animals are gonna do it? Nonsense!
 
-And if you can't save the world, you can at least be filthy rich and escape poverty forever. And despite the obvious change-of-mind that will bring Jack back to the castle, the wealth *stays with him*. He and his mother will never go hungry again. This is what heroes always forget in their great adventures - the suffering of the common people that get to inhabit their worlds. It's a lot easier to [smile](http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html) when you have a goose that lays golden eggs. Purpose fills no stomach.
+And if you can't save the world, you can at least be filthy rich and escape poverty forever. And despite the obvious change-of-mind that will bring Jack back to the castle, the wealth *stays with him*. He and his mother will never go hungry again. This is what heroes always forget in their great adventures - the suffering of the common people that get to inhabit their worlds. It's a lot easier to [smile][Hanson smile] when you have a goose that lays golden eggs. Purpose fills no stomach.
 
 So Jack makes it back home and it's big celebratin' time. After a night of dancing and bragging, Jack finally hears his friend Crosby's pleas to go back and save the princess. The two climb the beanstalk again and prepare their assault. They consult the talking harp in the treasury, who (after some enhanced interrogation) tells them the secret behind the curse. If someone truly brave and courageous kisses the princess, the spell will be broken and the princess will be free again. (Note please that it's about courage, *not* love!) 
 
 With Jack still wondering if he is courageous enough to try, Hecuba proceeds with her plan to legally annex the kingdom by marrying her son to the only living heir, Margaret, which brings us to the creepiest wedding ceremony in a children's story.
 
-<div align="center"><object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/LMr1nSHDtmk?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/LMr1nSHDtmk?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+<%= youtube("http://www.youtube.com/v/LMr1nSHDtmk") %>
 
-Take that, unholy vampire marriage scene in [Breaking Dawn](http://www.rifftrax.com/rifftrax/twilight-saga-breaking-dawn-pt-1)! This is how it's done! The manipulation clearly shown, the couple revealed as completely delusional (both thinking the other loves them!), the fake nature of [asking someone if they're really happy](http://theviewfromhell.blogspot.com/2010/09/pathetic-golem.html) plain as day.
+Take that, unholy vampire marriage scene in [Breaking Dawn][]! This is how it's done! The manipulation clearly shown, the couple revealed as completely delusional (both thinking the other loves them!), the fake nature of [asking someone if they're really happy][Sister golem] plain as day.
 
 I can't add anything to this fantastic scene, so let's just admire it for a bit and move on.
 
@@ -112,11 +112,11 @@ Jack and Margaret use the distraction to meet up with the rest of the gang. Jack
 
 The only thing left to do is kill the giant. 
 
-A frontal assault, however, doesn't work, so Jack comes up with a plan. He taunts Tulip until he is consumed by rage again, then climbs down the beanstalk. [Jack is much nimbler](http://www.youtube.com/watch?v=e9XKVTNs1g4), of course, so he descends at a much faster pace and reaches the ground first.
+A frontal assault, however, doesn't work, so Jack comes up with a plan. He taunts Tulip until he is consumed by rage again, then climbs down the beanstalk. [Jack is much nimbler][Jack nimble], of course, so he descends at a much faster pace and reaches the ground first.
 
 And after one last hesitation, one last goodbye to a world of magic that will never return, he gets the axe, and with the force of true inevitability, cuts down the beanstalk.
 
-<div align="center"><object width="420" height="315"><param name="movie" value="http://www.youtube.com/v/U35c-uY7GgM?version=3&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/U35c-uY7GgM?version=3&amp;hl=en_US" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+<%= youtube("http://www.youtube.com/v/U35c-uY7GgM") %>
 
 There is no happy ending for monsters, not even ones that love and only wish to be happy. Redemption is a miracle, one that Tulip is not granted. With no stalk to support him, he merely falls to his death. The world is not a fair place.
 

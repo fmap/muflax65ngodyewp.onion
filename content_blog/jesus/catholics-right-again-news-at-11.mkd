@@ -6,13 +6,13 @@ tags:
 - catholicism
 - vipassana
 techne: :done
-episteme: :speculation
+episteme: :discredited
 slug: 2012/03/14/catholics-right-again-news-at-11/
 ---
 
-So I've [said](http://blog.muflax.com/2012/01/04/why-you-dont-want-vipassana/) [repeatedly](http://blog.muflax.com/2012/02/22/the-end-of-rationality/) now that I have serious problems with vipassana and the whole Theravada soup it emerged from. It's not just a technical problem, but a deep rejection of the assumptions, goals and interpretations of that framework, at least in its current form. I still like them enough that I'm not interested in taking my stuff and going home. I merely believe that vipassana, as it exists today in its numerous incarnations, is in serious need of repair, but still worthwhile. But before we start with the fixing, let's have a look at what's *broken*.
+So I've [said][Why You Don't Want Vipassana] [repeatedly][The End of Rationality] now that I have serious problems with vipassana and the whole Theravada soup it emerged from. It's not just a technical problem, but a deep rejection of the assumptions, goals and interpretations of that framework, at least in its current form. I still like them enough that I'm not interested in taking my stuff and going home. I merely believe that vipassana, as it exists today in its numerous incarnations, is in serious need of repair, but still worthwhile. But before we start with the fixing, let's have a look at what's *broken*.
 
-Interestingly enough, I found that the Catholic Church[1] had already written my criticism for me, in their [Letter to the Bishops of the Catholic Church on some aspects of Christian Meditation](http://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_19891015_meditazione-cristiana_en.html), and I only need to comment on some minor aspects of it and maybe translate some it back into Buddhist lingo. In contrast to the glorious [Visuddhimagga](http://en.wikipedia.org/wiki/Visuddhimagga) (and Theravada scripture in general), the Catholic maps are much less detailed and are plagued by important holes and mistakes due to doctrinal commitments, but what they lack in precision, they make up in interpretation. The Catholic [vehicle](http://en.wikipedia.org/wiki/Yana_%28Buddhism%29) may have inferior engineering compared to the [Causal vehicle](http://www.rigpawiki.org/index.php?title=Sutrayana), but it has one major advantage - it's driving in the right direction. 
+Interestingly enough, I found that the Catholic Church[1] had already written my criticism for me, in their [Letter to the Bishops of the Catholic Church on some aspects of Christian Meditation][Catholic Meditation], and I only need to comment on some minor aspects of it and maybe translate some it back into Buddhist lingo. In contrast to the glorious [Visuddhimagga][] (and Theravada scripture in general), the Catholic maps are much less detailed and are plagued by important holes and mistakes due to doctrinal commitments, but what they lack in precision, they make up in interpretation. The Catholic [vehicle][Yana] may have inferior engineering compared to the [Causal vehicle][Sutrayana], but it has one major advantage - it's driving in the right direction. 
 
 The Church says (emphasis mine):
 
@@ -62,7 +62,7 @@ The main problem I have is the lack of reason for a practice. So I know how Maha
 > 
 > In these apparently negative moments, it becomes clear what the person who is praying really seeks: is he indeed looking for God who, in his infinite freedom, always surpasses him; or is he only seeking himself, without managing to go beyond his own "experiences", whether they be positive "experiences" of union with God or negative "experiences" of mystical "emptiness."
 
-Unconditional acceptance, despite the full understanding of one's own sinful nature. And I thought was the only person to [get this](http://muflax.com/morality/stances/). 
+Unconditional acceptance, despite the full understanding of one's own sinful nature. And I thought was the only person to [get this][Dark Stance]. 
 
 This provides a different solution to the Dark Night nanas. Don't overcome them - embrace them. They teach you what you're really looking for - actual emptiness. Don't work around them.
 
