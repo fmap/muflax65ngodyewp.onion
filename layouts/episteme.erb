@@ -1,0 +1,14 @@
+<!-- epistemic and technical state -->
+<% if @item.epistemic? %>
+  <div id="episteme">
+    <p><span class="align_left">
+        Last modified: <%= @item[:date] %> (<%= techne @item[:techne] %>).
+      </span>
+      <span class="align_right">
+        Epistemic state:
+        <a class='episteme' href='/episteme/'>
+          <%= episteme @item[:episteme] %></a>.
+      </span>
+    </p>
+  </div>
+<% end %>

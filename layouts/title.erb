@@ -1,0 +1,8 @@
+<!-- page title -->
+<% if @item[:title] %>
+  <div id="title"><h1 class="title">
+      <a class="title" href="/">
+        <%= @item[:is_category] ? "Category Index" : @item[:title] %>
+      </a>
+    </h1></div>
+<% end %>

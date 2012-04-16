@@ -1,0 +1,6 @@
+<!-- breadcrumb navigation -->
+<div id="crumb">
+  <%= breadcrumbs.map do |crumb|
+        "<a class='crumb' href='#{crumb[:link]}'>#{crumb[:title].downcase}</a>"
+      end.join(" » ") %>
+</div>
