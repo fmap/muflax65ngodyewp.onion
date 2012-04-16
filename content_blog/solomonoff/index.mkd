@@ -1,0 +1,6 @@
+---
+title: Algorithmic Induction
+is_category: true
+---
+
+<%= category :solomonoff %>

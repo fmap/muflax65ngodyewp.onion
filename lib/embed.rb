@@ -50,3 +50,11 @@ def google_video(url)
 EOL
 end
 
+def vimeo(url)
+  <<EOL
+<div align="center">
+  <iframe src="#{url}?portrait=0&amp;color=000000" frameborder="0" width="400" height="320">
+  </iframe> 
+</div>
+EOL
+end

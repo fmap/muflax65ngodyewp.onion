@@ -1,0 +1,6 @@
+---
+title: Personal Crap
+is_category: true
+---
+
+<%= category :personal %>

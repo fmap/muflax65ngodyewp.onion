@@ -22,7 +22,7 @@ The black dot is your current position. Seeing all, you know that you should go 
 
 Unfortunately, you don't have a map and your vision is limited. 
 
-<%= image("hill2.png", "hill2") %>
+<%= image("hill21.png", "hill2") %>
 
 A very simple and often effective solution is to follow the *steepest* path. This approach is guaranteed to get you to *some* peak, but unfortunately, it may not be the highest one.
 

@@ -1,0 +1,6 @@
+---
+title: (Meta-)Morality
+is_category: true
+---
+
+<%= category :morality %>

@@ -1,0 +1,6 @@
+---
+title: Algorithmancy
+is_category: true
+---
+
+<%= category :algorithmancy %>

@@ -12,9 +12,14 @@ RewriteEngine on
 # don't alienate people who use the old feed
 RewriteRule ^feed/? /rss.xml
 
-<% unless main_site? %>
 # store pigs in central site
+<% unless main_site? %>
 RewriteRule ^pigs/(.+)$ http://muflax.com/pigs/$1 [L]
+<% end %>
+
+# redirect old wordpress links
+<% @site.slug_items.each do |item|  %>
+RewriteRule ^<%= item[:slug].chop %> <%= item.identifier.strip %> 
 <% end %>
 
 # serve gzipped files if available

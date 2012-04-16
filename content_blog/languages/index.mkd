@@ -1,0 +1,6 @@
+---
+title: Languages
+is_category: true
+---
+
+<%= category :languages %>

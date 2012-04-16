@@ -14,7 +14,6 @@
 [Anhedonia]: http://en.wikipedia.org/wiki/Anhedonia
 [Anicca]: http://en.wikipedia.org/wiki/Anicca
 [Animal Rights]: http://en.wikipedia.org/wiki/Animal_rights#Main_philosophical_approaches
-[Antinatalism]: http://en.wikipedia.org/wiki/Antinatalism
 [Apocrypha Discordia]: http://appendix.23ae.com/apocrypha/index.html
 [Arising and Passing Away]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/The%20Arising%20and%20Passing%20Away?p_r_p_185834411_title=The%20Arising%20and%20Passing%20Away
 [Arrow Paradox]: http://en.wikipedia.org/wiki/Zeno%27s_paradoxes#The_arrow_paradox
@@ -175,4 +174,4 @@
 [subs2srs]: http://rtkwiki.koohii.com/wiki/Subs2srs
 [unsupervised universe]: http://wiki.lesswrong.com/wiki/Unsupervised_universe
 [ジャックと豆の木]: http://en.wikipedia.org/wiki/Jack_and_the_Beanstalk_%281974_film%29
-[秒速５センチメートル]: http://en.wikipedia.org/wiki/5_Centimeters_Per_Second
+[秒速5センチメートル]: http://en.wikipedia.org/wiki/5_Centimeters_Per_Second

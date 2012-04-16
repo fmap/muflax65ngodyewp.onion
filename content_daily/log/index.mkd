@@ -1,0 +1,6 @@
+---
+title: Daily Log
+is_category: true
+---
+
+<%= category :log %>

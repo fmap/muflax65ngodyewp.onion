@@ -1,0 +1,6 @@
+---
+title: Crackpottery
+is_category: true
+---
+
+<%= category :crackpottery %>

@@ -44,6 +44,10 @@ class Nanoc::Site
   def find_printed_items
     @printed_items = @items.select { |i| not i[:is_hidden] and not i.binary? }
   end
+
+  def slug_items
+    @printed_items.select {|i| not i[:slug].nil?}
+  end
 end
 
 def category name

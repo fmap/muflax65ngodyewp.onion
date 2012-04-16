@@ -1,0 +1,6 @@
+---
+title: Culture
+is_category: true
+---
+
+<%= category :culture %>

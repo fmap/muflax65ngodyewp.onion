@@ -11,7 +11,7 @@ episteme: :fiction
 slug: 2012/03/21/suicide-and-preventing-grief/
 ---
 
-In an underground bunker, deep under the Cartesian Plains, trapped in a cage, sits the great [Mahavira][]. He is the latest victim of [Doctor Deontology][tag doctor deontology], once again on a mission to spread chaos amongst all who vow to protect morality.
+In an underground bunker, deep under the Cartesian Plains, trapped in a cage, sits the great [Mahavira][]. He is the latest victim of [Doctor Deontology][Thought Experiments], once again on a mission to spread chaos amongst all who vow to protect morality.
 
 Mahavira defends the duty that one should [never do harm][Ahimsa]. It is never acceptable to be violent or knowingly cause others to suffer. Doctor Deontology, mad ethicist that he is, wants to test this notion.
 
