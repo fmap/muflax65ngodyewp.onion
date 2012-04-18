@@ -20,6 +20,9 @@ module Nanoc::CLI::Commands
       # check for duplicate links
       m.call "nanoc dups"
 
+      # prepare images
+      m.call "nanoc images"
+
       sites_arg(options[:sites]).each do |site|
         puts "publishing site: #{site}"
         
