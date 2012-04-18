@@ -1,17 +1,18 @@
 require 'image_size'
+require 'set'
 
 def image(name, title="", link=nil)
   # all images are stored at content/pigs and only the main site routes them
   ret = ""
 
   # read image size
-  img = ImageSize.new IO.read("content/pigs/#{name}")
-
+  img = ImageSize.new IO.read("content_#{$site}/pigs/#{name}")
+  
   # if it's too large, redirect to smaller version (which is generated with 'nanoc images')
   if img.width > 400 and not name.end_with? ".gif"
     link = "/pigs/#{name}" if link.nil? # link to big version
     name.gsub! /^(.+)\.(\w+)$/, '\1_small.\2'
-    img = ImageSize.new IO.read("content/pigs/#{name}") # re-read image
+    img = ImageSize.new IO.read("content_#{$site}/pigs/#{name}") # re-read image
   end
 
   ret += "<a href='#{link}'>" unless link.nil?
