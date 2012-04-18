@@ -11,6 +11,10 @@ All major changes on the site
 =============================
 
 {:#changelog}
+- 2012/04/18: Major site redesign.
+
+  No content changes, lots of internal stuff, integration of old stuff. See [the daily log entry][Losing is Fun] for details.
+
 - 2012/02/04: Finally pushed some changes.
 
   Also improved the site's design somewhat. Larger articles now have a table of contents and general navigation is more visible. The main column moved to the left to accomodate for the new navigation bar. To make feedback easier, I've added a comment box. (Web 2.0! We still care about this, right guys? Guys?) I also accept [anonymous feedback][whatiswrongwith.me] about anything. (Yes, anything.)
