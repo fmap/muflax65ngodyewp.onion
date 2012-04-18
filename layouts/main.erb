@@ -23,6 +23,8 @@
     <!-- navigation sidebar -->
     <div id="nav">
 
+    <h1 class="title">Navigation</h1>
+
       <% if @search %>
         <%= google_search %>
       <% end %>
@@ -32,7 +34,7 @@
       <% end %>
 
       <% if @categories %>
-        <%= render 'cat-nav' %>
+        <%= render 'cat-nav', :item => @item %>
       <% end %>
       
     </div>

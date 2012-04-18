@@ -42,16 +42,14 @@ div#main {
   margin-bottom: 3em;
 }
 
-div#title {
-  h1 {
-    background: $crumb-bg;
-    color: $crumb-fg;
-    line-height: 1.3em;
-    font-size: 1.7em;
-    font-weight: normal;
-    margin-top: 0;
-    text-align: center;
-  }
+h1.title {
+  background: $crumb-bg;
+  color: $crumb-fg;
+  line-height: 1.3em;
+  font-size: 1.7em;
+  font-weight: normal;
+  margin-top: 0;
+  text-align: center;
 }
 
 a:link.title, a:hover.title, a:visited.title, a:active.title {
@@ -84,6 +82,13 @@ div#nav {
   float: left;
   width: $right-col - $margin;
   margin-left: $margin;
+  text-align: left;
+
+  h2, h3, h4, h5, h6 {
+    font-weight: normal;
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 /* toc */
@@ -96,7 +101,10 @@ div#toc {
     font-weight: normal;
     margin-top: 0;
   }
-  text-align: left;
+}
+
+div#cat-nav {
+  line-height: 1.5em;
 }
 
 div#crumb {
@@ -117,9 +125,8 @@ div#crumb {
   margin: 0 auto;
 }
 
-div.nextprev {
+div#next_prev {
   border-top: 10px solid $h1;
-  text-align: center;
 }
 
 div.footnotes {
@@ -234,7 +241,7 @@ div.figure {
 h1 {
   background: $h2;
   color: #000;
-  font-size: 1.7em;
+  font-size: 1.5em;
   line-height: 1.3;
   text-align: center;
 

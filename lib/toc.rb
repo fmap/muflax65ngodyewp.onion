@@ -11,7 +11,7 @@ class Nanoc::Item
     max_levels = 3
 
     # begin toc
-    res = '<h1>Content</h1>'
+    res = '<h2>Content</h2>'
 
     # iterate through the body, find headers and build toc as we go along
     level = 0

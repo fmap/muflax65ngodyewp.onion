@@ -1,13 +1,26 @@
-<div id="next-prev">
-  <p><span class="align_left">
-      <a class='nextprev' href='<%= @item.path %>'>
-        ‹ <%= @item[:title] %>
-      </a>
-    </span>
-    <span class="align_right">
-      <a class='nextprev' href='<%= @item.path %>'>
-        <%= @item[:title] %> ›
-      </a>
-    </span>
-  </p>
-</div>
+<% if @item.article? %>
+  <div id="next_prev">
+    <p>
+      <% items = @site.items_by_date @category
+         index = items.index(@item)
+         next_item = items[index + 1]
+         prev_item = index > 0 ? items[index - 1] : nil %>
+
+      <% unless prev_item.nil? %>
+        <span class="align_left">
+          <a class='next_prev' href='<%= prev_item.path %>'>
+            ‹ <%= prev_item[:title] %>
+          </a>
+        </span>
+      <% end %>
+
+      <% unless next_item.nil? %>
+        <span class="align_right">
+          <a class='next_prev' href='<%= next_item.path %>'>
+            <%= next_item[:title] %> ›
+          </a>
+        </span>
+      <% end %>
+    </p>
+  </div>
+<% end %>

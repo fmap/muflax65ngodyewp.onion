@@ -1,6 +1,6 @@
 # Helper functions for epistemic states.
 
-def techne status
+def techne_title status
   case status
   when :rough
     "needs revisiting"
@@ -13,7 +13,7 @@ def techne status
   end
 end
 
-def episteme status
+def episteme_title status
   case status
   when :broken
     "semi-believed"
@@ -25,7 +25,7 @@ def episteme status
 end
 
 def episteme_cat status
-  "[#{episteme status}][Epistemic State]{:.episteme}"
+  "<a class='episteme' href='/episteme/'>#{episteme_title status}</a>"
 end
 
 class Nanoc::Item

@@ -1,3 +1,23 @@
 <div id="cat-nav">
-  <%= @item.toc %>
+  <h2>Categories</h2>
+  <ul>
+    <% @site.categories.each do |cat| %>
+      <li><%= cat.link true %></li>
+
+      <% if @item.category == cat %>
+        <ul>
+          <% @item.category.members.each do |i| %>
+            <%= render 'list-item', :item => i, :episteme => false %>
+          <% end %>
+        </ul>
+      <% end %>
+    <% end %>
+  </ul>
+
+  <h2>All Posts</h2>
+  <ul>
+    <li><a href='/categories/'>All Posts By Category</a></li>
+    <li><a href='/date/'>All Posts By Date</a></li>
+    <li><a href='/rss.xml'>RSS feed</a></li>
+  </ul>
 </div>

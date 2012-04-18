@@ -4,6 +4,7 @@ alt_titles: [about dlog]
 date: 2012-04-12
 techne: :done
 episteme: :believed
+non_cognitive: true
 ---
 
 I like talking about ideas. I like logging stuff. Writing this blog has vastly increased my thinking output. (Which is good, and unexpected.) I see people use daily logs of what they did and these people kick my ass when it comes to achievements, even though for each individual day, they don't do more than I can. It's just the pure, raw consistency. They still do the same shit 6 months from now and by then, they utterly outperform me.

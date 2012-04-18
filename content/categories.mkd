@@ -1,13 +1,11 @@
 ---
-title: All Posts
+title: All Posts By Category
 non_cognitive: true
 no_comments: true
 ---
 
-All posts from the [blog][].
+All posts by category.
 
 <% @site.categories(false).each do |cat| %>
 <%= category cat %>
 <% end %>
-
-

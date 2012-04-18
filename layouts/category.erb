@@ -1,24 +1,14 @@
 <!-- print all items in a category, nicely formatted -->
 
 <!-- find category index -->
-
 <% cat = @site.category @category %>
 
 <!-- header -->
-
-# [<%= cat.item[:title] %>][]
+<h1><%= cat.link %></h1>
 
 <!-- print items in nice list -->
-
-<% cat.members.sort_by{|i| i[:date]}.reverse.each do |i|
-  techne = "<span class='techne_#{i[:techne]}'>#{i[:date]}</span>"
-  status = "(#{episteme_cat i[:episteme]}) (#{techne})"
-%>
-
-{:.table}
-- <span class='align_left'>[<%= i[:title]%>][]</span>
-  <span class='align_right'><%= status %></span>
-
-<div style='clear: both'></div>
-
-<% end %>
+<ul class="table">
+  <% cat.members.sort_by{|i| i[:date]}.reverse.each do |i| %>
+    <%= render 'list-item', :item => i, :episteme => true %>
+  <% end %>
+</ul>

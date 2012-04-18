@@ -1,0 +1,11 @@
+---
+title: All Posts By Date
+non_cognitive: true
+no_comments: true
+---
+
+All posts by date.
+
+<% @site.items_by_date.reverse.each do |item| %>
+<%= render 'list-item', :item => item %>
+<% end %>

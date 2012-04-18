@@ -7,28 +7,15 @@ required :s, :sites, 'sites'
 module Nanoc::CLI::Commands
   class References < ::Nanoc::CLI::CommandRunner
 
-    # load data from site
-    def load_site(site=nil)
-      self.require_site
-      @current_site = self.site
-
-      # load site-specific config
-      @current_site.extended_build_config('.', site) unless site.nil?
-      
-      # load site data (including plugins)
-      @current_site.load
-
-      # find relevant items
-      @current_site.find_printed_items
-    end
-
     # collect links in site
     def extract_links site=nil
+      current_site = load_site site
+
       shared = site.nil?
       
       page_links = ["<!-- (auto-generated) internal links for #{shared ? "shared content" : "site: #{site}"} -->"]
       
-      @current_site.printed_items.each do |i|
+      current_site.printed_items.each do |i|
         # don't include shared content with sites
         unless shared
           next if i.shared?
@@ -57,8 +44,6 @@ module Nanoc::CLI::Commands
           puts "loading: #{site}"
         end
         
-        load_site site
-
         page_links = extract_links site
         puts "#links: #{page_links.size}"
 

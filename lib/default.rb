@@ -1,8 +1,11 @@
 # Helper functions for site-building.
 
 include Nanoc::Helpers::Rendering
+include Nanoc::Helpers::XMLSitemap
 
 class Nanoc::Item
+  attr_accessor :category
+  
   def add_content content
     @raw_content += "\n\n#{content}"
   end
@@ -32,7 +35,7 @@ class Nanoc::Item
     not self[:is_category] and not draft? and cognitive?
   end
 
-  def category
+  def category_slug
     if m = self.identifier.match(%r{^\/(?<cat>.+?)/})
       m[:cat]
     else
@@ -46,8 +49,10 @@ class Category
 
   def initialize item, members=[]
     @item = item
-    @slug = item.category
+    @slug = @item.category_slug
     @members = members
+
+    @members.each {|i| i.category = self}
   end
 
   def includes? item
@@ -60,6 +65,17 @@ class Category
     else
       @members.reject{|i| i.draft?}
     end
+  end
+
+  def title
+    @item[:title]
+  end
+
+  def link count=false
+    desc = title
+    desc += " (#{@members.size})" if count
+    
+    "<a href='#{@item.identifier}'>#{desc}</a>"
   end
 end
 
@@ -97,7 +113,7 @@ class Nanoc::Site
   def find_categories
     # find categories
     cats = @printed_items.select {|i| i[:is_category]}.map do |c|
-      members = @printed_items.select{|i| not i[:is_category] and i.category == c.category}
+      members = @printed_items.select{|i| not i[:is_category] and i.category_slug == c.category_slug}
       Category.new(c, members)
     end
 
@@ -110,7 +126,7 @@ class Nanoc::Site
     end
 
     # sort by title
-    @categories = cats.sort_by {|c| c[:cat].item[:title]}
+    @categories = cats.sort_by {|c| c[:cat].title}
   end
 
   def categories all=true

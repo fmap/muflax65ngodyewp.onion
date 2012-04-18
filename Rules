@@ -61,10 +61,6 @@ compile '/feed/' do
   filter :erb
 end
 
-compile '/htaccess/' do
-  filter :erb
-end
-
 compile '*' do
   if item.binary?
     # don't filter binary items
@@ -87,17 +83,21 @@ compile '*' do
       filter :colorize_syntax, :default_colorizer => :pygmentize
     when "org" # org-mode pages
       filter :org
+    when "erb" # general erb files
+      filter :erb
     end
 
     # layout
-    if @site.blog?
-      layout 'blog'
-    else
-      layout 'default'
-    end
+    unless @item[:is_hidden]
+      if @site.blog?
+        layout 'blog'
+      else
+        layout 'default'
+      end
 
-    # clean up
-    filter :tidy
+      # clean up
+      filter :tidy
+    end
   end
 end
 
@@ -107,6 +107,14 @@ end
 
 route '/htaccess/' do
   '/.htaccess'
+end
+
+route '/robots/' do
+  '/robots.txt'
+end
+
+route '/sitemap/' do
+  '/sitemap.xml'
 end
 
 route '/styles/*' do

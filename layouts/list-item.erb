@@ -1,0 +1,15 @@
+<li>
+  <span class='align_left'>
+    <a href="<%= @item.identifier %>">
+      <%= @item[:title]%>
+    </a>
+  </span>
+
+  <% if @episteme %>
+    <span class='align_right'>
+      <%= "(#{episteme_cat @item[:episteme]}) (<span class='techne_#{@item[:techne]}'>#{@item[:date]}</span>)" %>
+    </span>
+  <% end %>
+
+  <div style='clear: both'></div>
+</li>

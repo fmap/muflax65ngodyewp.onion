@@ -12,7 +12,7 @@ site_cmds = [
              'watch',
             ]
 
-# load site-specific config
+# site-specific config
 module ::Nanoc
   class Site
     def extended_build_config(dir_or_config_hash, site)
@@ -50,6 +50,56 @@ module ::Nanoc
       end
 
       @config[:watcher][:dirs_to_watch] << "content_#{site}"
+
+      @config[:base_url] = self.url
+    end
+
+    def main_site?
+      $site == "muflax"
+    end
+
+    def blog?
+      !main_site? # everything is a blog except for the main site
+    end
+
+    def disqus_site
+      # TODO merge them all?
+      # site -> disqus shortname
+      case $site
+      when "muflax"
+        "muflax"
+      when "sutra"
+        "muflaxsutra"
+      when "daily"
+        "dailymuflax"
+      when "blog"
+        "muflaxblog"
+      else # put 'em on the main site
+        "muflax"
+      end
+    end
+
+    def url
+      "http://#{main_site? ? "" : "#{$site}."}muflax.com"
+    end
+    
+    def disqus_url item
+      url + item.identifier
+    end
+
+    def title
+      case $site
+      when "muflax"
+        "lies and wonderland"
+      when "sutra"
+        "Blogchen"
+      when "daily"
+        "muflax becomes a saint"
+      when "blog"
+        "muflax' mindstream"
+      else # placeholder
+        "muflaxia"
+      end
     end
   end
 end
@@ -91,6 +141,29 @@ module Nanoc::CLI
     # lots of commands use -s now, so simplify its use
     def sites_arg sites
       sites.nil? ? all_sites : sites.split(",")
+    end
+
+    # load data from site
+    def load_site site=nil
+      self.require_site
+      current_site = self.site
+
+      # load site-specific config
+      current_site.extended_build_config('.', site) unless site.nil?
+      
+      # load site data (including plugins)
+      current_site.load
+
+      current_site
+    end
+
+    def daily_logs
+      dir = "content_daily/log"
+      pattern = /\/(\d+).mkd$/
+      
+      Dir["#{dir}/*.mkd"].select{|l| l.match(pattern)}.sort_by do |l|
+        l.match(pattern)[1].to_i
+      end
     end
   end
 end
