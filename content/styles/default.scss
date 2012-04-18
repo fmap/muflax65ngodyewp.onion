@@ -31,7 +31,7 @@ div#body {
 }
 
 /* wider body with toc */
-div#body-toc {
+div#body-nav {
   width: $left-col + $right-col;
   margin: 0 auto;
 }
@@ -116,6 +116,12 @@ div#crumb {
   width: 100%; 
   margin: 0 auto;
 }
+
+div.next-prev {
+  border-top: 10px solid $h1;
+  text-align: center;
+}
+
 
 div.footnotes {
   border-top: 10px solid $h1;

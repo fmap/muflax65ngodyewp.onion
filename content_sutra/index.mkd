@@ -3,3 +3,26 @@ title: Blogchen
 non_cognitive: true
 no_comments: true
 ---
+
+It started with a [simple observation back][Twitter pali] in 2011:
+
+> I just realized that the [Pali Canon][] is essentially an offline blog.
+
+[Many][AJATT] [blogs][Technium] focus on certain ideas and, over time, accumulate enough posts that people start thinking of them as (loosely-)connected units. Over on [LessWrong][], they call these [Sequences][LW sequences].
+
+The Pali Canon is just that - a collection of Buddhist Sequences.
+
+There's only one problem - they wrote them Before Internet. Heck, some of them are completely hipster - they did this before everyone was into this newfangled "writing" thing.
+
+This shit is seriously old is what I'm saying. And long. *Boy* are these sutras long. And there is a shockingly low amount of cat pictures in the canon as well.
+
+Maybe that can be fixed.
+
+It's time for a [Bro][PhiloBro]dhisattva to step forward and [reblog][] Buddhist scripture.
+
+(I do a lot of [other stuff][main]. There is a [FAQ][] and an [RSS feed][RSS].)
+
+Thus have I heard:
+
+<%= render "content-embed", :item => @site.items_by_date.last %>
+

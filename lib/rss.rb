@@ -7,35 +7,35 @@ def rss_feed
   log = @items.find{|i| i.identifier.match %r{/changelog/}}
   
   content = RSS::Maker.make(version) do |rss|
-    rss.channel.title = "Lies and Wonderland"
-    rss.channel.link = "http://muflax.com"
+    rss.channel.title = @site.title
+    rss.channel.link = @site.url
     rss.channel.author = "mail@muflax.com"
-    rss.channel.description = "Lies and Wonderland"
+    rss.channel.description = @site.title
     rss.items.do_sort = true # sort items by date
 
-    # add changelog
-    changes(log).each do |change|
-      i = rss.items.new_item
-      i.title = "muflax hath written unto you..."
-      i.link = "http://muflax.com/changelog/"
-      i.date = Time.parse(change[:date])
-      i.description = change[:description]
+    # add changelog, if available
+    unless log.nil?
+      changes(log).each do |change|
+        i = rss.items.new_item
+        i.title = "muflax hath written unto you..."
+        i.link = "#{@site.url}/changelog/"
+        i.date = Time.parse(change[:date])
+        i.description = change[:description]
+      end
     end
 
-    # add all non-draft articles once
-    articles = @site.printed_items.select{|i| i.article?}
-    
-    articles.each do |item|
+    # add all non-draft articles
+    @site.items_by_date.last(5).each do |item|
       i = rss.items.new_item
       i.title = "#{item[:title]}"
-      i.link = "http://muflax.com" + item.path
+      i.link = "#{@site.url}" + item.path
       i.date = item[:date].to_time
-      i.description = "New Page: <a href='#{i.link}'>#{i.title}</a>"
+      i.description = item.compiled_content
     end
 
     # mod date is newest article / entry in log
-    rss.channel.date = [articles.map{|i| i[:date].to_time}, log.mtime].flatten.max
-
+    last_article = @site.items_by_date.last[:date].to_time
+    rss.channel.date = log.nil? ? last_article : [last_article, log.mtime].max
   end
 
   content

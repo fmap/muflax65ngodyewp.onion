@@ -3,9 +3,9 @@
   <div id="disqus">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
-      var disqus_shortname = '<%= disqus_site %>';
+      var disqus_shortname = '<%= @site.disqus_site %>';
       var disqus_identifier = '<%= @item.identifier %>';
-      var disqus_url = '<%= disqus_url @item %>';
+      var disqus_url = '<%= @site.disqus_url @item %>';
 
       (function() {
       var dsq = document.createElement('script')

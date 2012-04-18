@@ -35,6 +35,6 @@ class Nanoc::Item
 
   def mindkiller?
     topics = %w{history}
-    !!self[:mindkiller] || !!topics.any?{|t| is_category? t}
+    !!self[:mindkiller]
   end
 end

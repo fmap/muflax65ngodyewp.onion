@@ -10,7 +10,6 @@ slug: 2012/01/19/introducing-antinatalist-antelope/
 ---
 
 <%= image("tumblr_ly1vbmddTG1rndvvro1_400.jpg", "Antinatalist Antelope") %>
-<img alt="" src="" class="aligncenter" width="400" height="400" />
 
 (go to [my tumblr][Antinatalism Tumblr] for more)
 

@@ -1,31 +1,23 @@
 <!-- print all items in a category, nicely formatted -->
-  
+
 <!-- find category index -->
 
-<% cat_index = @site.printed_items.find{|i| i.is_category? @category and i[:is_category]} %>
+<% cat = @site.category @category %>
 
 <!-- header -->
 
-# [<%= cat_index[:title] %>][]
-
-<!-- find items in category -->
-
-<% items = @site.printed_items.select do |i|
-     i.is_category? @category and
-       not i[:is_category] and
-       not i.draft? # hide drafts, but make them reachable
-end %>
+# [<%= cat.item[:title] %>][]
 
 <!-- print items in nice list -->
 
-<% items.sort_by{|i| i[:date]}.reverse.each do |i|
+<% cat.members.sort_by{|i| i[:date]}.reverse.each do |i|
   techne = "<span class='techne_#{i[:techne]}'>#{i[:date]}</span>"
   status = "(#{episteme_cat i[:episteme]}) (#{techne})"
 %>
 
 {:.table}
 - <span class='align_left'>[<%= i[:title]%>][]</span>
-  <span class='align_right'><%=status%></span>
+  <span class='align_right'><%= status %></span>
 
 <div style='clear: both'></div>
 

@@ -6,7 +6,6 @@
 [Beeminder fume]: https://www.beeminder.com/muflax/goals/fume
 [Beeminder weight]: https://www.beeminder.com/muflax/goals/weight
 [Beeminder]: https://www.beeminder.com/muflax/goals/
-[Blog]: http://blog.muflax.com
 [GPG Key]: /muflax.asc          
 [Google+]: https://plus.google.com/105665518912548939532
 [Klout]: http://klout.com/#/muflax

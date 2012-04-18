@@ -60,5 +60,5 @@ So what do we do now? Gather all texts in their original form and compress the h
 
 So yes,  I'm yet another engineer who looked at some field within the humanities and thought, that's all rubbish, I bet I can solve this shit right now.
 
-<%= image("philo_engineers.jpeg", "SMBC engineer bann") %>
+<%= image("philo_engineers.jpg", "SMBC engineer ban") %>
 

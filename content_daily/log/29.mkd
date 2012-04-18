@@ -1,23 +1,27 @@
 ---
 title: Losing is Fun
-date: 2012-04-12
+date: 2012-04-18
 techne: :done
 episteme: :log
 ---
 
-(This is actually about 3 days worth of logging due to me not managing to publish it faster.)
+(This is actually several days worth of logging due to me not managing to publish it faster.)
 
-Finished the first phase of the transition. All content is now ported over and everything's static. Comments are now hosted by Disqus. The RSS feed has been rewritten, sorry about that. There's no new content besides this entry yet. 
+<%= image("geeks-vs-nongeeks-repetitive-tasks.png", "Geeks vs. Non-Geeks") %>
 
-I've divided the blog into a bunch of categories, but there's still a main stream of content and old links continue to work (though new posts use a different format). Unless I fucked up, nobody should have to change any links or feeds or whatever and nothing is gone. I think navigation is now a bit easier.
+Finished most of the transition. All content is now ported over and everything's static. Comments are now hosted by Disqus. The RSS feed has been rewritten, sorry about that. It now includes the whole article, but is limited to the last 5 posts to limit its size. (Use Google Reader etc. if you care about longer feeds. I don't publish that often anyway.)
 
-I also didn't want to setup a new CSS design, so the blogs all use the same as the main site for now.
+There's no new content besides this entry yet (and some minor clean-ups).
+
+I've divided the blog into a bunch of categories, but there's still a main stream of content and old links continue to work (though new posts use a different format). Unless I fucked up, nobody should have to change any links or feeds or whatever and nothing is gone. I think navigation is now a bit easier. (Tags are gone, but who cares. I only used them for puns anyway.)
+
+I also didn't want to setup a new CSS design, so the blogs all use the same one as the main site for now.
 
 The layout is usable, I think, but I'm still improving it. If anyone is bothered by anything, just say so, I'll fix it. I did plan to move away from the violet/green/yellow look, but now that Google+ looks even *more* like gray-ish fog, I'm disgusted by anything black-and-white for a while.
 
 I'll improve the current look, but this may take some time and inspiration first. I'll also hack up some mobile-compatible version soon 'cause text-only sites that are hard to read on phones actually annoy me now. (\*cough\*LW\*cough\*)
 
-Besides coding, fixing links and moving text around, I played some old Need For Speed, filed some paperwork, listened to Michel Thomas and tweeted a lot. ([Klout][] says I'm a "conversationalist", sometimes a "socializer". This is [Lain][] all over again!)
+Besides coding, fixing links and moving text around, I played some old Need For Speed, filed some paperwork, listened to Michel Thomas and tweeted a lot. ([Klout][] says I'm a "socializer". This is [Lain][] all over again!)
 
 My brain seems to be back online, so everyone waiting for a reply will soon get one, I hope, and I'll get back to my projects and minor stuff like my college degree.
 

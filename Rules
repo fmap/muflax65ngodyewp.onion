@@ -41,7 +41,7 @@ preprocess do
   end
 
   hide_pages # must be first
-  @site.find_printed_items
+  @site.initialize_items
   reference_links
 end
 
@@ -90,7 +90,7 @@ compile '*' do
     end
 
     # layout
-    if blog?
+    if @site.blog?
       layout 'blog'
     else
       layout 'default'
@@ -122,13 +122,8 @@ route '/stuff/*' do
   route_unchanged
 end
 
-# only include pigs on the main site
 route '/pigs/*' do
-  if main_site?
-    route_unchanged
-  else
-    # pass
-  end
+  route_unchanged
 end
 
 route '*' do

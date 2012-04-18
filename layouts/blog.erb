@@ -1,21 +1,10 @@
 <%= render 'header' %>
 
-  <%= render 'main-header', :toc => true %>
-
-    <%= render 'title' %>
-    
-    <%= render 'mindkiller' %>
-
-    <%= render 'episteme' %>
-
-    <% render 'content' do %>
-      <%= yield %>
-    <% end %>
-    
-    <%= render 'comments' %>
-
-  <%= render 'main-footer', :toc => true %>
-    
-  <%= render 'breadcrumb' %>
+<% render 'main',
+   :navbar => true,
+   :search => true,
+   :breadcrumbs => true do %>
+  <%= yield %>
+<% end %>
 
 <%= render 'footer' %>

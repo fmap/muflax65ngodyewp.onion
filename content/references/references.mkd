@@ -147,5 +147,9 @@
 [xixidu utilitarian]: http://kruel.co/2011/07/24/open-problems-in-ethics-and-rationality/
 
 <!-- internal links -->
+[main]: http://muflax.com
+[blog]: http://blog.muflax.com
+[sutra]: http://sutra.muflax.com
+[dlog]: http://daily.muflax.com
 [RSS]: /rss.xml
 

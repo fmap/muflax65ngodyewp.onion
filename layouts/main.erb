@@ -1,0 +1,45 @@
+<div id="<%= @navbar ? "body-nav" : "body" %>">
+
+  <!-- main part -->
+  <div id="main">
+    <%= render 'title' %>
+  
+    <%= render 'mindkiller' %>
+
+    <%= render 'episteme' %>
+
+    <% render 'content' do %>
+         <%= yield %>
+    <% end %>
+
+    <% if @site.blog? %>
+    <%= render 'next-prev' %>
+    <% end %>
+
+    <%= render 'comments' %>
+  </div>
+
+  <% if @navbar %>
+    <!-- navigation sidebar -->
+    <div id="nav">
+
+      <% if @search %>
+        <%= google_search %>
+      <% end %>
+
+      <% if @toc and @item[:toc] %>
+        <%= render 'toc' %>
+      <% end %>
+
+      <% if @categories %>
+        <%= render 'cat-nav' %>
+      <% end %>
+      
+    </div>
+  <% end %>
+
+</div>
+
+<% if @breadcrumbs %>
+  <%= render 'breadcrumb' %>
+<% end %>

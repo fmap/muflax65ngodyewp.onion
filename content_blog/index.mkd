@@ -4,3 +4,13 @@ short_title: blog
 non_cognitive: true
 no_comments: true
 ---
+
+Memetic hazards and brainwashing.
+
+The point of this blog is to iteratively develop certain ideas until they are ready to be merged with the [main site][main]. Smaller thoughts go to [Twitter][]. I also have a [daily practice/activity log][dlog].
+
+Feel free to comment or [contact][Contact] me directly. There is an [RSS feed][RSS].
+
+Latest post:
+
+<%= render "content-embed", :item => @site.items_by_date.last %>

@@ -4,6 +4,7 @@ alt_titles: [Contact]
 episteme: :believed
 techne: :done
 date: 2011-09-04
+non_cognitive: true
 ---
 
 Contact
@@ -25,9 +26,9 @@ Rules].)
 Feel free to contact me in English or German. You may also try Japanese or any
 Romance language, but I can't guarantee that I will understand you.
 
-You can also use my [GPG Key] (md5 hash: a499 2cbb 4a5d 48dd 4188 f7e4 9cfc
+You can also use my [GPG Key][] (md5 hash: a499 2cbb 4a5d 48dd 4188 f7e4 9cfc
 3a3d), if you want.
 
-All content is under a [Creative Commons] Attribution Noncommercial Share Alike
+All content is under a [Creative Commons][] Attribution Noncommercial Share Alike
 3.0 license. You can do with it whatever the fuck you want, as long as you don't
-sell it or make it unfree. You can also get the [Source], if you want.
+sell it or make it unfree. You can also get the [Source][], if you want.

@@ -32,27 +32,101 @@ class Nanoc::Item
     not self[:is_category] and not draft? and cognitive?
   end
 
-  def is_category? category
-    !!path.match(%r{^/#{category}/})
+  def category
+    if m = self.identifier.match(%r{^\/(?<cat>.+?)/})
+      m[:cat]
+    else
+      ""
+    end
+  end
+end
+
+class Category
+  attr_reader :item, :slug
+
+  def initialize item, members=[]
+    @item = item
+    @slug = item.category
+    @members = members
+  end
+
+  def includes? item
+    !!item.identifier.match(%r{^/#{@slug}/})
+  end
+
+  def members drafts=false
+    if drafts
+      @members
+    else
+      @members.reject{|i| i.draft?}
+    end
   end
 end
 
 class Nanoc::Site
-  # only articles that actually get printed
-  attr_reader :printed_items
+  # items
+  attr_reader :printed_items # all items that end up on the site
+  
+  # slugs for wordpress links
+  attr_reader :slug_items
+  
+  def initialize_items
+    find_printed_items
+    find_slug_items
+    find_categories
+  end
 
+  def category name
+    categories.find{|c| c.slug == name.to_s}
+  end
+  
   def find_printed_items
     @printed_items = @items.select { |i| not i[:is_hidden] and not i.binary? }
   end
 
-  def slug_items
-    @printed_items.select {|i| not i[:slug].nil?}
+  def find_slug_items
+    @slug_items = @printed_items.select {|i| not i[:slug].nil?}
+  end
+
+  def items_by_date category=nil
+    (category.nil? ? @printed_items : category.members).
+      select{|i| i.article? and not i.draft?}. # exclude drafts etc.
+      reject{|i| i[:date].nil?}.sort_by {|i| i[:date]} # sort by date
+  end
+
+  def find_categories
+    # find categories
+    cats = @printed_items.select {|i| i[:is_category]}.map do |c|
+      members = @printed_items.select{|i| not i[:is_category] and i.category == c.category}
+      Category.new(c, members)
+    end
+
+    # remove categories with no shown items
+    cats = cats.map do |c|
+      not_empty = @printed_items.any? do |i|
+        c.includes? i and i.article? and not i.draft?
+      end
+      { cat: c, not_empty: not_empty}
+    end
+
+    # sort by title
+    @categories = cats.sort_by {|c| c[:cat].item[:title]}
+  end
+
+  def categories all=true
+    @categories.select{|c| c[:not_empty] or all}.map{|c| c[:cat]}
   end
 end
 
-def category name
+def category name_or_cat
+  name = if name_or_cat.is_a? Category
+           name_or_cat.slug
+         else
+           name_or_cat.to_s
+         end
   render "category", :category => name
 end
+
 
 def route_unchanged
   item.identifier.chop + '.' + item[:extension]
@@ -64,12 +138,14 @@ end
 
 def google_search
   <<EOF
-<div align="center"><form method="get" action="http://www.google.com/search">
-  <input type="text" name="q" maxlength="255" />
-  <input type="submit" value="Google Search" />
-  <input type="hidden" name="domains" value="muflax.com" />
-  <input style="visibility:hidden" type="radio" name="sitesearch" value="muflax.com" checked="checked" />
-</form></div>
+<div align="center" class="search">
+  <form method="get" action="http://www.google.com/search">
+    <input type="text" name="q" maxlength="255" />
+    <input type="submit" value="Search" />
+    <input type="hidden" name="domains" value="muflax.com" />
+    <input style="visibility:hidden" type="radio" name="sitesearch" value="muflax.com" checked="checked" />
+  </form>
+</div>
 EOF
 end
 

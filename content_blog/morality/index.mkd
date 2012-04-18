@@ -1,5 +1,5 @@
 ---
-title: (Meta-)Morality
+title: Meta-Morality
 is_category: true
 ---
 

@@ -1,0 +1,18 @@
+<div id="main-embed">
+    <%= render 'title', :item => @item, :link => @item.identifier %>
+    
+    <%= render 'mindkiller' %>
+
+    <%= render 'episteme' %>
+    
+    <!-- compiled content -->
+    <div id="content-embed">
+      <%= @item.compiled_content %>
+    </div>
+
+    <%= render 'next-prev', :item => @item %>
+
+    <%= render 'comments' %>
+</div>
+
+

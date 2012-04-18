@@ -44,6 +44,11 @@ module ::Nanoc
         }
       }
 
+      # only upload pigs for main site
+      unless $site == "muflax"
+        @config[:deploy][:default][:options] << "--exclude pigs/"
+      end
+
       @config[:watcher][:dirs_to_watch] << "content_#{site}"
     end
   end

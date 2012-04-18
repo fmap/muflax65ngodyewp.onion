@@ -4,3 +4,11 @@ short_title: dlog
 non_cognitive: true
 no_comments: true
 ---
+
+Because death doesn't conquer itself, you know.
+
+([More details what this is about.][about] See the [main site][main] or [blog][] for real content. There's also an [RSS feed][RSS].)
+
+Latest entry:
+
+<%= render "content-embed", :item => @site.items_by_date.last %>

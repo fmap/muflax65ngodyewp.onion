@@ -17,16 +17,16 @@ run do |opts, args, cmd|
     end
   end
 
-  ret = 0
+  dups = false
   last_ref = nil
   references.sort_by{|x| x[:link]}.each do |ref|
     if not last_ref.nil? and ref[:link] == last_ref[:link]
       puts "Duplicate link '#{ref[:link]}' in '#{ref[:file]}' <-> '#{last_ref[:file]}'!"
-      ret = 1
+      dups = true
     end
 
     last_ref = ref
   end
 
-  exit ret
+  raise "Duplicate links found!" if dups
 end
