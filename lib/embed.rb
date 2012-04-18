@@ -15,8 +15,9 @@ def image(name, title="", link=nil)
   end
 
   ret += "<a href='#{link}'>" unless link.nil?
-  ret += "<img src='/pigs/#{name}' height='#{img.height}' width='#{img.width}' title='#{title}' alt='#{title}'/>"
+  ret += "<img src='/pigs/#{name}' height='#{img.height}' width='#{img.width}' title=\"#{title}\" alt=\"#{title}\"/>"
   ret += "</a>" unless link.nil?
+  
   ret
 end
 

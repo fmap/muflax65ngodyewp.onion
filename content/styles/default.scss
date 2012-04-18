@@ -1,5 +1,5 @@
 /* colors */
-$bg: #ffffcc;
+$bg: #fff;
 $fg: #222;
 $h1: #7D9B3E;
 $h2: #AAd398;
@@ -117,11 +117,10 @@ div#crumb {
   margin: 0 auto;
 }
 
-div.next-prev {
+div.nextprev {
   border-top: 10px solid $h1;
   text-align: center;
 }
-
 
 div.footnotes {
   border-top: 10px solid $h1;

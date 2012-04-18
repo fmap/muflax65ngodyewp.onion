@@ -13,13 +13,11 @@ Finished most of the transition. All content is now ported over and everything's
 
 There's no new content besides this entry yet (and some minor clean-ups).
 
-I've divided the blog into a bunch of categories, but there's still a main stream of content and old links continue to work (though new posts use a different format). Unless I fucked up, nobody should have to change any links or feeds or whatever and nothing is gone. I think navigation is now a bit easier. (Tags are gone, but who cares. I only used them for puns anyway.)
+I've divided the blog into a bunch of categories, but there's still a main stream of content and old links continue to work (though new posts use a different format). Unless I fucked up, nobody should have to change any links or feeds or whatever and nothing is gone. I think navigation is now a bit easier. (Tags are gone, but who cares. I only used them for puns anyway.) The layout is usable, I think, but I'm still improving it. If anyone is bothered by anything, just say so, I'll fix it. 
 
-I also didn't want to setup a new CSS design, so the blogs all use the same one as the main site for now.
+I also didn't want to setup a new CSS design, so the blogs all use the same one as the main site for now. I did plan to move away from the violet/green/yellow look, but now that Google+ looks even *more* like gray-ish fog, I'm disgusted by anything black-and-white for a while. Nonetheless, I've switched to a white background for now, mostly 'cause the yellow one really bothered me, and images look better on white. Also, (temporary?) new logo on the main site. (That's [Yamantaka][]. Great guy.)
 
-The layout is usable, I think, but I'm still improving it. If anyone is bothered by anything, just say so, I'll fix it. I did plan to move away from the violet/green/yellow look, but now that Google+ looks even *more* like gray-ish fog, I'm disgusted by anything black-and-white for a while.
-
-I'll improve the current look, but this may take some time and inspiration first. I'll also hack up some mobile-compatible version soon 'cause text-only sites that are hard to read on phones actually annoy me now. (\*cough\*LW\*cough\*)
+I'll likely improve the current look, but this may take some time and inspiration first. I'll also hack up some mobile-compatible version soon 'cause text-only sites that are hard to read on phones actually annoy me now. (\*cough\*LW\*cough\*)
 
 Besides coding, fixing links and moving text around, I played some old Need For Speed, filed some paperwork, listened to Michel Thomas and tweeted a lot. ([Klout][] says I'm a "socializer". This is [Lain][] all over again!)
 
