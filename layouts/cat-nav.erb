@@ -6,7 +6,7 @@
 
       <% if @item.category == cat %>
         <ul>
-          <% @item.category.members.each do |i| %>
+          <% @site.items_by_date(@item.category).reverse.each do |i| %>
             <%= render 'list-item', :item => i, :episteme => false %>
           <% end %>
         </ul>
