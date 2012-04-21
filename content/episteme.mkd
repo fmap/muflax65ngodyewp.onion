@@ -8,15 +8,9 @@ non_cognitive: true
 
 So, what's with these markers of [epistemic][Epistemology] states everywhere?
 
-They signal my attitude towards the content. I wanted a way to show whether I
-still believe something I have written or not. Or only partially, or never at
-all. I didn't want to throw away old texts just because I changed my mind, but I
-also couldn't let them sit around without an annotation or someone might think I
-still endorsed them.
+They signal my attitude towards the content. I wanted a way to show whether I still believe something I have written or not. Or only partially, or never at all. I didn't want to throw away old texts just because I changed my mind, but I also couldn't let them sit around without an annotation or someone might think I still endorsed them.
 
-I'm not happy just going around like RAW, claiming I'm agnostic about
-everything. And taking care to notice when you change your mind is very
-valuable. Hence the markers.
+I'm not happy just going around like RAW, claiming I'm agnostic about everything. And taking care to notice when you change your mind is very valuable. Hence the markers.
 
 Here's a short explanation what each epistemic state roughly means:
 
