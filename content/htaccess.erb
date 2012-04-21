@@ -13,7 +13,7 @@ RewriteEngine on
 RewriteRule ^feed/? /rss.xml
 
 # redirect old wordpress links
-<% @site.slug_items.each do |item| %>RewriteRule ^<%= item[:slug].chop %> <%= item.identifier%>
+<% @site.slug_items.each do |item| %>RewriteRule ^<%= item[:slug].chop %> <%= item.identifier%> [R=301]
 <% end %>
 
 # serve gzipped files if available
