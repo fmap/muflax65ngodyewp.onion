@@ -17,9 +17,6 @@ module Nanoc::CLI::Commands
       # regenerate site links
       m.call "nanoc references"
 
-      # check for duplicate links
-      m.call "nanoc dups"
-
       # prepare images
       m.call "nanoc images"
 

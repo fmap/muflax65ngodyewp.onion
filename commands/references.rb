@@ -32,6 +32,35 @@ module Nanoc::CLI::Commands
 
       page_links
     end
+
+    def duplicate_links
+      references = []
+      
+      Dir["content/references/*.mkd"].each do |ref|
+        File.open(ref).each_line do |l|
+          if m = l.match(/^ \*? \[ (?<link>.+?) \] : /x)
+            references << {
+              link: m[:link],
+              full_link: l.strip,
+              file: ref,
+            }
+          end
+        end
+      end
+
+      dups = false
+      last_ref = nil
+      references.sort_by{|x| x[:link]}.each do |ref|
+        if not last_ref.nil? and ref[:link] == last_ref[:link]
+          puts "Duplicate link '#{ref[:link]}' in '#{ref[:file]}' <-> '#{last_ref[:file]}'!"
+          dups = true
+        end
+
+        last_ref = ref
+      end
+
+      raise "Duplicate links found!" if dups
+    end
     
     def run
       ([nil] + sites_arg(options[:sites])).each do |site|
@@ -52,6 +81,8 @@ module Nanoc::CLI::Commands
         puts "saving to: #{ref_file}"
         File.open(ref_file, "w").write(page_links.join("\n"))
       end
+
+      duplicate_links
     end
   end
 end
