@@ -1,0 +1,74 @@
+---
+title: One True Morality
+date: 2012-04-22
+techne: :done
+episteme: :believed
+---
+
+When a tree falls in the forest, does it make a sound? Depends on what you mean by "sound" - a sensate experience or a wave through air.[^sound]
+
+[^sound]: Although you shouldn't make the mistake and think that the answer to the tree in the forest is obvious once you have unambiguous terms. After all, if panpsychism or certain forms of functionalism are right, then the wave through air *is* a sensate experience.
+
+Luke has made some progress towards this problem already in his [Pluralistic Moral Reductionism][]:
+
+> Is morality objective or subjective? It depends which moral reductionism you have in mind, and what you mean by 'objective' and 'subjective'.
+> 
+> Here are some common uses of the objective/subjective distinction in ethics:
+>
+> - Moral facts are objective\_1 if they are made true or false by mind-independent facts, otherwise they are subjective\_1.
+> - Moral facts are objective\_2 if they are made true or false by facts independent of the opinions of sentient beings, otherwise they are subjective\_2.
+> - Moral facts are objective\_3 if they are made true or false by facts independent of the opinions of humans, otherwise they are subjective\_3.
+
+That's nice, but not enough, so I'll try a different breakdown. I'll also give each idea a different name so I can stop talking in misleadingly ambiguous terms (and because it's time I pull a Heidegger and invent my own strange vocabulary). The terms are deliberately somewhat unusual to avoid unfortunate connotations. Additionally, the ideas aren't generally mutually exclusive, but capture certain features meta-ethics might have.
+
+The most universal form of a theory would be one that all agents share. Literally everyone agrees with it - in fact, it is impossible to find any kind of disagreement to it. Let's call this **Water Morality**. (Just like fish are blind to water.[^fact])
+
+[^fact]: Statement not based on facts or reason.
+
+Water Morality seems like a true lost cause. As the saying goes, for every philosopher there is an equal and opposite philosopher. No matter what statement you want to pick, we already know someone who disagrees with it.[^formal]
+
+[^formal]: Formal proof: There is at least one [trivialist][]. Trivialism entails that every statement is true, including its negation (if it exists). Therefore, for every statement there is at least one person who believes it, and at least one person (the same, in fact) who believes its negation.
+
+We could divide morality further into a statement about **actual** and **potential** agents. We might not care that some hypothetical philosopher disagrees with us, but we could hope that all the actually existing people don't. Some arguing for *Actual Morality* wouldn't be bothered if somewhere out in mind-space there is reasonable dissent, only if that mind really exists in our universe. (And of course, in Modal Realism the actual and the potential are identical.)
+
+Furthermore, I think no one really expects complete agreement already in place. Rather, agents should *become* moral after applying some ethical procedure, say moral philosophy or some ritual. Let's call this (broad) category of ideas **reachable**. You may not be moral right away, but you can *become* moral.
+
+When talking about *Reachable Morality*, it matters a lot under what circumstances and for whom morality is actually doable.
+
+If *every* mind under *every* initial condition can refine itself, we speak of **Unrestricted Morality**. This seems to be a common assumption, but we have to wonder about how this would work in practice. How does, say, a Demon in Hell (or something equivalent) figure out the right thing to do, even assuming it cares about it? Where does it get this moral guiding light *from*? Especially considering the vastness of mind-space, there will be (potential) agents in sufficiently screwed-up situations that will find this an incredibly hard task.
+
+Of course, an *Unrestricted Morality* might still exists. For example, the algorithm "do what muflax would do in your place" would lead everyone to the same place, but it highlights another important feature: how built-in into the fabric of reality is this algorithm?
+
+It could be **circumstantial**, in the sense that a sufficiently shitty hell-hole would prevent you from morality. Cultural relativists affirm this possibility - if you're born an Aztec priest, you won't come to the conclusion that human sacrifice is wrong. Within a culture there might be agreement, but there is still a component of luck. (Of course, if this *circumstantial* is only hypothetical, not *actual*, then you're effectively also denying this position.)
+
+Or it could be **predestined**, the way the Calvinists understood it - some agents are blessed with some kind of moral grace, but other agents, no matter how good their circumstances, just can't be good. 
+
+This shows how "become muflax" isn't really *unrestricted*, but more accurately *predestined*. If you don't know what muflax would do, you can't *become* muflax, so under sufficient ignorance, you're just screwed. But certain agents (namely muflax themselves) would always do right, no matter what.
+
+A milder form of **restricted** moral theories would only be concerned with the **majority**. Sure, *some* agents might be a lost cause, but at least *most* aren't.
+
+I think this is why many forms of utilitarianism (particularly preference utilitarianism) can seem simultaneously "objective" and "subjective". Sure, if you already know that e.g. pain is bad, then anyone can act accordingly. But get born under (maybe fairly plausible!) circumstances and you wouldn't figure it out, even if you really tried to do the right thing and were perfectly rational. (That's a distinction overlooked by Luke and one big reason his (and similar) meta-ethical approaches still get called "subjective", even though they match all his definitions of objectivity.)
+
+Beyond just discovering morality, circumstances may also affect its implementation. If morality is **referential**, then you'd have something of the form "whatever muflax *currently* thinks is right", and you could just change my mind (if necessary via neuro-surgery) and *make* things right that way. With *Referential Morality*, [wireheading][] is effectively always the right thing to do.
+
+Finally, morality might require participants. Or as Robin Hanson said it:
+
+> [L]et me suggest a moral axiom with apparently very strong intuitive support, no matter what your concept of morality: [morality should exist][Hanson exist]. That is, there should exist creatures who know what is moral, and who act on that. So if your moral theory implies that in ordinary circumstances moral creatures should exterminate themselves, leaving only immoral creatures, or no creatures at all, well that seems a sufficient reductio to solidly reject your moral theory.
+
+Let's call that **Active Morality**. Is morality about a certain state of affairs (in a broad sense), or does it need *active* agents who actually *do* something? If I pressed the Big Red Button That Wipes Out Everyone, or maybe if I look at the universe before the evolution of life, does it still make sense to speak about morality? Is there still a definite state of affairs that makes the universe moral or not?
+
+For example, if morality is a certain set of interactions between agents, then it might get called "subjective" because without those agents, suddenly the whole theory would be meaningless.
+
+Finally, assuming *Reachable Morality*, are there multiple optima or just one, in other words, is morality **unique**? If you and I applied reason correctly, maybe the order of arguments would change our conclusions. The results might still be both correct (like two different but equally efficient routes), but would fundamentally differ.
+
+Alright, that covers all the distinctions *I* care about. So what's possible? How "objective" is morality?
+
+*Water Morality* is obviously false, but I still think that morality itself exists.[^nihilist] Furthermore, because I think that all potential worlds are real[^modal realism], morality is definitely *actual*. I'm strongly convinced that it is *predestined* and *not circumstantial*, i.e. good agents can always figure out the right thing (and will do so in all worlds), but some agents[^noevil] are irredeemably evil. (In fact, the fear that morality would be *circumstantial* was the worst thing about meta-ethics for me.) Also, I agree with Hanson that morality is necessarily *active*. It is inherently tied up with agents - no agents, no morality. (But also no evil. This wouldn't necessarily a *bad* state of affairs, merely a *not good* one.) Lastly, I'm unconvinced that morality is necessarily unique. *Multiple* One True Moralities might exist.
+
+And because I'm a horrible tease, I won't actually present any further argument for my beliefs (yet). But at least it should clarify what I mean when I say that One True Morality exists, and how some theories fail to meet it.
+
+[^noevil]: Although there exists a delightful argument that evil agents are imaginable but don't actually exist, but the argument is inherently unverifiable (think p-zombies). I still give it some credibility, but it has little effect on me.
+
+[^nihilist]: Moral nihilism, i.e. morality doesn't exist, heavily depends on those distinctions. Depending on what features you want, some theories to fulfill them might or might not exist. Nihilists should be clear about *what* they think doesn't exist. For example, if you think that, hypothetically, one could be moral, but actual humans can't pull it off (say because we aren't living under Utopian Communism), then you're an Actual Nihilist, but a Potential Realist.
+
+[^modal realism]: Modal realism can be true in two ways. Either, there are different possible worlds, which are all real. "Actual" is a purely indexical marker. Or, there are *no* possible worlds except ours. We are necessarily the only world. Any other setup (aka "arbitrary subset realism") strikes me as deeply absurd. I currently assume the existence of different possible worlds, but mostly out of methodological modal realism. If an idea works with *all* worlds, then it will always work with our world as well. No need to be unnecessarily restrictive.

@@ -72,6 +72,7 @@
 [xkcd fitocracy]: http://xkcd.com/940/
 [xkcd lego]: https://xkcd.com/659/
 [xkcd rocks]: http://xkcd.com/505/
+[trivialist]: http://www.paulkabay.com/
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
@@ -99,9 +100,11 @@
 [LW date]: http://lesswrong.com/r/discussion/lw/980/singularity_institute_executive_director_qa_2/
 [LW minecraft]: http://lesswrong.com/lw/8n9/rationality_quotes_december_2011/5dal
 [LW leverage]: http://lesswrong.com/lw/9ar/on_leverage_researchs_plan_for_an_optimal_world/5n74
+[Pluralistic Moral Reductionism]: http://lesswrong.com/lw/5u2/pluralistic_moral_reductionism/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
+[Hanson exist]: http://www.overcomingbias.com/2012/04/morality-should-exist.html
 
 <!-- software -->
 [Creative Commons]: http://creativecommons.org/licenses/by-nc-sa/3.0/de
@@ -111,6 +114,8 @@
 [f.lux]: http://www.stereopsis.com/flux/
 [fuzzyfinder]: http://codeulate.com/2010/02/installing-fuzzyfinder_textmate-textmates-cmdt-in-vim/
 [nanoc]: http://nanoc.stoneship.org
+[wcheck]: http://emacswiki.org/emacs/WcheckMode
+[Awesome]: http://awesome.naquadah.org/
 
 <!-- gwern -->
 [Gwern URL]: http://www.gwern.net/Archiving%20URLs

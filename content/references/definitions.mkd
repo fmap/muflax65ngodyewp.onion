@@ -175,3 +175,4 @@
 [unsupervised universe]: http://wiki.lesswrong.com/wiki/Unsupervised_universe
 [ジャックと豆の木]: http://en.wikipedia.org/wiki/Jack_and_the_Beanstalk_%281974_film%29
 [秒速5センチメートル]: http://en.wikipedia.org/wiki/5_Centimeters_Per_Second
+[_why]: https://en.wikipedia.org/wiki/Why_the_lucky_stiff

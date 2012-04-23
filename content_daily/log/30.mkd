@@ -1,0 +1,34 @@
+---
+title: Ad Maiorem Dei Gloriam
+date: 2012-04-22
+techne: :done
+episteme: :log
+---
+
+So yeah. Transition seems to have worked, though the DNS change took longer than I wanted. Also, comments are *finally* because because Disqus was fucking with me. Sorry about that. But everything is fine now, I think.
+
+At least the site's down to a whopping 12MB now. (Previously almost 100MB due to several WP installs.) I'm currently paying about 2-3 cents a day. That's acceptable.
+
+Another advantage: I can finally do all my writing in Emacs. Much nicer than the stupid WordPress editor. Even hooked up a [spell-checker][wcheck]. Fancy shit.[^footnote]
+
+[^footnote]: And I can finally put proper footnotes in blog posts so I don't have to use parentheses so much. Soon I'll write my articles as pseudo-code and you'll all be forced to adapt my exact thinking style! Then I'll rule the world!
+
+I also merged all my various mail accounts, filters etc. into one Gmail account and finally uninstalled Thunderbird. So it's all Webmail (+ local backup). 2006, baby, here I come!
+
+Unfortunately, that leaves me without mail notification 'cause I don't have a system tray (or taskbar or any of that other fancy "desktop environment" crap). So I decided to bite the bullet and finally began the switch from [Xmonad][] to [Awesome][] (again). Porting over all my configs will take ages, but oh well, it's time. Worked some hours (literally) on that.
+
+I started a short overview of several conceptions of "self", mostly so that I can use it as a kind of checklist in the future for the various no-self arguments. "Please show me in this list what it is you think I don't have.", basically. (Of course, I also believe that most of those conceptions are wrong.) Also, because it finally clicked how rebirth in (Theravada) Buddhism works, and  how the use of anatta by certain Neo-Buddhists is quite misleading.
+
+Then wrote a [overview about "universality" of morality][One True Morality]. That's not really ground-breaking, but should be helpful once I get around to claiming some things "are" and "aren't" universal, as I understand it. I want to just introduce a bunch of new terms 'cause "objective" and "universal" are horribly overloaded, but I feel makes me sound unnecessarily cranky. Introduced them anyway, fuck signalling, yay understanding.
+
+<%= image("hanson_writing.jpg", "Hanson on Writing") %>
+
+Then I read the kind of stuff I didn't want to engage for a while (oh well), then thought for a long time about it.
+
+It's not so much the topics that worry me these days, but arguments about them. I'm increasingly getting entangled in discussions (including indirectly by getting quoted / read), and I feel that everything I ever wrote is vastly inadequate, and that I really wish I could first a clarify a hundred things before anyone ever even thinks about me or those topics again.
+
+I feel simultaneously responsible for any kind of misinterpretation/misunderstanding, and stupid for talking about stuff I don't understand nearly as well as I wished. Then I thought even longer about whether I should continue, and under what circumstances, and even wrote a long-ish post, and for the first time in like ever, I decided to *not* share it, and remain silent about certain ideas, at least for a while. (He who knows Aumann, let him update!)
+
+I'm also wondering how much my inexperience with strategy games and "if I do X, they'll do Y"-style thinking is hurting me. However, Will Newsome keeps on recommending it, and I reached much the same territory almost entirely without it, so maybe sufficiently strong narrative (as in tropes) / elegant (as in Lisp) thinking makes it obsolete (because the multiverse is optimized), but dunno. Might try getting into a serious strategy game for practice, though not sure which. Don't want to solve Go with Anki, for example. (Though that seems easily doable.)
+
+(Also, really liking the Beeminder-induced habit of "minimal effort, on average", and the new habit, "only increase the average if you have 20 safe days". Has prevented me from several regression-to-the-mean screw-ups already.)

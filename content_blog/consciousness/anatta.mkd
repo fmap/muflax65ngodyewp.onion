@@ -1,0 +1,66 @@
+---
+title: Those Things You Don't Have
+alt_titles: [Anattas, No-Selves]
+date: 2012-04-19
+techne: :wip
+episteme: :speculation
+---
+
+No-self arguments are fairly common those days. Buddhists, eliminative materialists, new-age hippies alike argue that "you" don't exist.
+
+Problem is, there's a lot of different positions out there, all subtly different about what self is, and to improve future discourse, I wanted a way to make those arguments less ambiguous.
+
+I also wanted to understand how "no-self" and "rebirth" can exist in the same belief-system that is Buddhism. I think my guess is a pretty good reconstruction of a not unreasonable position.
+
+Generally speaking, I'm merely *presenting* positions here, not *endorsing* them. I think there's some useful insight or intuition behind all of them. Neither am I giving any decent arguments for or against any of them, merely quick overviews. The point is not to explore them, but to show ways in which the word "self" can refer to very different things, and that it's important to be clear about what level one is thinking about.
+
+So here's a catalogue of all[^all] the things that may be called a "self", and ways how one might not have it.
+
+[^all]: All positions that I could think of, that is. The only missing thingy might be a kind of essentialist soul, but I don't understand what that really means, beyond the concepts already described.
+
+# Psychology
+
+Construction from psychological traits. "I am a 
+
+That way, someone on a mood stabilizer might not "be themselves". They are still the same human, have the same name, but their emotional and psychological states have changed, and they act in a-typical ways.
+
+These attributes, however, are tied to a specific person. If someone is strongly defined by their narcissism, for example, then that doesn't mean that they identify with *all* narcissism out there in the world. Therefore, this view overlaps somewhat with the Value and Narrative category.
+
+# Values
+
+Values, i.e. preferences about the world. This way, you'd think of the self as a specific optimization pressure on the world. Alternatively, you might look at decision theory and identify with certain decision algorithms, and basically say that a complex set of things like "choosing vanilla over strawberry ice cream" is the self.
+
+One rejection might try to argue that there is no coherent or consistent set of values in humans. Our preferences could be largely random or contradictory, for example.
+
+From the value perspective, there is no inherent reason to limit a self to one specific human. The same value might easily be shared be large groups, or even very un-person-like processes like evolution itself, and one might choose a more inclusive identity. In that sense, one might say that there is no simple "individual" self living in only one brain, but a complex and changing self, one that might not even be alive in the usual way.
+
+# Narrative
+
+
+
+Nihilism is a common criticism, the rejection of any meaning in the world, including in stories. 
+
+# Sensations
+
+There are basically four different conceptions of how sensations relate to the self. And because images improve everything, here's a quick drawing made beautiful through the magic that is Instagram.
+
+<%= image("anatta.jpg", "Anatta Sensations") %>
+
+The geometric shapes are sensations, the eye-like thingies are observers, and time flows from left to right.
+
+The first view is the Cartesian Theatre (sequence 1). Basically, there is a continuous observer or fundamentally connected series of person-moments, and as a separate kind of thing, there are connected sensations which are observed.
+
+Conceptually, this is a fairly intuitive view. "You" are like an empty theatre, something persistent that can become aware of various things over time.
+
+One way to reject this view is to take away the connectedness (sequence 2). Things are still observed, but there is no flow of time. This is straight-forward [B-Theory][] of time. This idea may arise as a consequence of taking parallel worlds seriously (e.g. through the [Many-Worlds Interpretation][MWI]) or by thinking of time as [concrete][], not continuous. Additionally, many meditation techniques, especially [vipassana][], lead to flickering experiences during which reality seems fundamentally disconnected.
+
+In that sense, there is no "you" because "you" is not continuous and any extended self is an additional construction.
+
+An additional criticism would be to reject a separate observer (sequence 3). There is no thing-which-observes sensations, they are in a sense self-observed, they just happen. One common intuition behind this idea is to simply try to "find" an observer, but failing to do so. Wherever you look, there will be sensations[^neither], but you won't observe an observer, the argument goes.
+
+[^neither]: Although it is problematic to say that there are always sensations in consciousness. Highly [jhanic][Jhana] states, especially the appropriately named Neither Perception Nor Yet Non-Perception, don't seem to have any sensate experience any more, no objects at all, yet are still conscious. 
+
+In this view, it is difficult to see how there can be any coherent persons. Sensations are not inherently connected, they share no content, no observer, so at best, persons are narrative devices, agreed-upon constructs, but not in any way fundamental. From a sensate level, this is a strong eliminative no-self position.
+
+However, if one brings back the connectedness of sensations in some non-observer way (sequence 4), one arrives at what I believe is the traditional Buddhist view. There is still an objective flow of time, but nothing beyond the sensations themselves. In that sense, one can have a conception of rebirth (by expanding this connection between human lives) without having to assert some shared psychological traits. Past lives were you (from an experiential level) and not you (from a psychological, narrative level). Or without the mystical mumbo-jumbo, one might simply assert the [A-Theory][] of time and identify sensations with brain-states, for example, so that they don't need an additional observer or location to happen in.
+
