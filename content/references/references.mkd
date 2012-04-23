@@ -73,6 +73,7 @@
 [xkcd lego]: https://xkcd.com/659/
 [xkcd rocks]: http://xkcd.com/505/
 [trivialist]: http://www.paulkabay.com/
+[CCC baptism]: http://www.vatican.va/archive/ccc_css/archive/catechism/p2s2c1a1.htm
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
