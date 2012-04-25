@@ -1,0 +1,56 @@
+---
+title: If and Only If
+date: 2012-04-23
+techne: :done
+episteme: :log
+---
+
+Tried new prayers using [rigid designators][Rigid Designator], as in "I pray to the unique God who it is not wrong to address, the meta of metas, the Omega of Omegas, if and only if it is the wish of this God to receive my prayer, and if and only if it is the right thing to do, and I consent to any beneficial interaction, even if I don't understand them as such, if and only if my consent is required, ..." and so on. I'm really beginning to understand why the Church focused so fucking much on logic and debates throughout history. (Also, the Communion of Saints is totally a TDT-style hivemind.)
+
+Also, weight loss failed me and I find it hard to get myself to do Shangri-la properly because I have no routine whatsoever anymore. I wake up at irregular hours and have a constant intake of caffeine, so I find it hard to pick 1-2 hours of "no taste". I looked into ECA stacks, but that would cost me about 100 eurons, which is a bit expensive.[^expensive] I'm trying Shangri-la for another 2 weeks, and if I can't make it work, I'm buying the stack.
+
+I've also dug through some old threads and was surprised that Ingram claims that (assuming certain attainments) high states of concentration can be reached in *days* using a candle flame kasina. [He says so explicitly][Ingram flame]:
+
+> Stare at the flame, feel a shift, close eyes, see the afterimage, stabilize on that, turn it into the red dot, stabilize and perfect that, see the spinning star in it, shift to the black disk eventually, see the out of phase stuff around that, expand that out wide, really wide, then figure out how to shift to the 4th jhana stuff, which is anything you want it to be if you get this good.
+>
+> Whenever you lose it entirely, re-open your eyes and stare at the flame and repeat and go as high as you can.
+>
+> ...
+>
+> A few days of that and most people will be into some seriously powerful concentration territory.
+>
+> A week or two of that and if you have any concentration skills at all you will be able to get into really wild stuff, and if your skills are strong, anything you turn your mind to at that point it will just do, like the old books say. It is truly, truly amazing to take concentration to that level, as worlds of stuff open up that are just there for the asking, and when you get there, you really can play in amazing ways: jump out of body straight off the cushion, duplicate yourself, hear things far away, see whatever you wish, feel and see the energy channels, see "past lives" (in quotes as the validity of those in some absolute sense is unknown, but the experiences sure can feel like that), true formless realms, feel metta flowing through you like a firehose, whatever: it will all be there if you get it strong enough, just like that, full blown, more real than "real", with that vibrant hyper-intensity that only that level of territory has.
+
+As a contrast, B Alan Wallace talks about *months* of practice merely to get into basic solid jhana. Which seems reasonable *if* you're doing this without stream entry. If Ingram is right, then stream entry would make a *huge* difference. (And is *faster* to attain. With very solid practice and nothing else, a *week* is about typical. More relaxed "at home" stuff seems to be a 1-3 months. Shingon uses 100 days.)
+
+So I'm trying this, though I can't throw all hours at it. Did 2x10min of kasina. Flame as object, focus until the afterimage appears, close eyes, wait until the fog clears and the image comes up, follow it, watch the fog disappear entirely, only the flame in deep blackness, then the whirl of color in it, the blue/black waves around it, the colors change and the flame turns into a rift, a tiny window to a moving background of forms I can't quite make out, then rarely, it drifts and transforms into a 3D object. Then gone.
+
+Open eyes, everything fades in and out. Room goes away sometimes, whatever. I focus, eventually I can see the flame again, clearly, repeat until eyes hurt.
+
+Got bored, noticed we have a [K5 day][NOAA], decided to take some DXM, 210mg.[^note] (All the cool kids are doing it. Also, Mad Men had a wonderful LSD episode yesterday. Positive and realistic portrayals of psychedelic drugs are coming back. Awesome!)
+
+[^note]: Note to self: become for DXM what Leary was for LSD. Meta-note to self: remember that Leary ended up in prison. Don't do that.
+
+While waiting for onset, I worked more on the Latin tool. So basically, overture2112 is currently rewriting the MorphMan plugin, adding new features, and so I thought about <del>stealing</del> implementing some of his ideas. The major problem right now is getting reliable sentence pairs. Thought more about solutions, then the drugs kicked in.
+
+So kasina, on DXM. Surprisingly, I haven't actually done that before. I've done a lot of anapana, some noting, but no kasina. (I'm such a faker.) So tried it.
+
+15min with a lit room. Much easier. Almost skips the second jhana, just jumps into the rift. Which is now central in my vision, not of to some corner that hurts my eyes, and larger. Not a huge change, but helps.
+
+Gave it a short rest, let DXM peak. Until that happens, I think more about Latin. If I do MCD, then I don't need exact translations, just matching paragraphs. And any source material will do. But for good MorphMan stuff, I'd operate on whole sentences. Which is easier, but that means you need short sentence pairs (which is why subtitles are perfect). Catholic texts have sentence-based translations for most of their stuff, but they also have long sentences. That makes finding i+1 units really hard. Thought about that for a while, gave up. There simply aren't good sentence pairs in sufficient quantity.[^quantity]
+
+[^quantity]: Poetry *might* work, but there's not enough of it and the translations suck. If you had a bunch of cheap workers with basic fluency in Latin (classics students, say), you could generate pairs by manually picking apart a large corpus. You'd line up texts with translations, split it automatically into sentence pairs, remove all long ones, then you throw all pairs at your workers and they tell you if they match up or not. Most of the time they should, so you'd get >50 pairs/hour/person easily. Decent, but not doable alone.
+
+I tried lining up paragraphs, but even that takes way too long and must be done by hand. I tried several similar approaches, but I just can't get sufficiently many full-sentence translation pairs, so I give up. My Japanese methods can't be used here. (If I were an entrepreneur, I'd crowd-source it. Again, you only need a few hundred hours of student labour, and only once.)
+
+Fortunately, Latin is reasonably easy, so maybe I don't *need* translations. After all, [Lingua Latina][] is already monolingual and works just fine. So I'm trying to generate my own Lingua Latina style texts.
+
+Experimented with some approaches, still not quite satisfied with the results. But basically, I extract an optimal word (form) learning order (using a vaguely Solomonoff-ish prior), then build a minimal sentence corpus that introduces those words. The sentences have some redundancy (so no individual sentence is crucial and you can delete it if it's boring / broken), and variants of the same word (e.g. singular vs. plural) are treated as already partially known.
+
+Peak. Trying kasina again in a dark room. Before I even start, I already float around in something jhanic, maybe 1st or 2nd. It seems easier to go into equanimity and work from there, but actual kasina practice doesn't seem easier. I have like a weird 2nd jhana "background is flickering too hard" effect that constantly distracts me. Will try again soon with higher dose.
+
+Decided to spend the rest of the evening in delightful bliss, mostly coding.
+
+[^expensive]: You need about 50mg ephedrine, 200mg caffeine, 200mg aspirin per day and will lose weight at around 0.5-1kg per week. I want to lose about 10kg, so 70 pills of each. Caffeine and aspirin cost about 10-20 eurons each for 100 pills. Silk Road price for ephedrine is 0.8-1 euro per pill, so in total about 100 eurons. I checked for trustworthy semi-legal European sources, but couldn't find anything cheaper. (If you *do* have a cheaper source or want to buy in bulk, well, you know my [mail address][contact].)
+
+[Ingram flame]: http://www.dharmaoverground.org/web/guest/discussion/-/message_boards/message/2880527
