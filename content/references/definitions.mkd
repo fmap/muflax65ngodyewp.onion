@@ -179,3 +179,4 @@
 [Pascal's Wager]: https://en.wikipedia.org/wiki/Pascal%27s_Wager
 [Rigid Designator]: https://en.wikipedia.org/wiki/Rigid_designator
 [conditional baptism]: https://en.wikipedia.org/wiki/Conditional_baptism
+[Lingua Latina]: http://www.lingua-latina.dk/index2.htm
