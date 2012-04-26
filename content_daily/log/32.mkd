@@ -7,7 +7,7 @@ episteme: :log
 
 So worked even more[^reuse] on the Latin thing, tried a different approach.
 
-[^reuse]: All those hours are justified because I will re-use these tools[^reuse] later for more languages, many of them in similar situations as Latin.
+[^reuse]: All those hours are justified because I will re-use these tools later for more languages, many of them in similar situations as Latin.
 
 I couldn't quite solve the word ordering (without boring labour), so I thought about a different Latin problem, namely how and when I'm ever getting to read all those texts. I mean, I'm not just learning Latin for shits and giggles (well partially), but because I want to read stuff *in* Latin.
 
