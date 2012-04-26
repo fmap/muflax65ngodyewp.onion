@@ -1,0 +1,24 @@
+---
+title: Generic Title #32
+date: 2012-04-25
+techne: :done
+episteme: :log
+---
+
+So worked even more[^reuse] on the Latin thing, tried a different approach.
+
+[^reuse]: All those hours are justified because I will re-use these tools[^reuse] later for more languages, many of them in similar situations as Latin.
+
+I couldn't quite solve the word ordering (without boring labour), so I thought about a different Latin problem, namely how and when I'm ever getting to read all those texts. I mean, I'm not just learning Latin for shits and giggles (well partially), but because I want to read stuff *in* Latin.
+
+And my reading list is already enormous.
+
+So even if I could solve the first problem (how to learn words and grammar), I'd still have to solve the second (when to read the texts). Confused for a while, watched some of [Prof Arguelles'][Arguelles] stuff again, bing!
+
+I don't need MorphMan + subs2srs + MCD for texts. I *also* need shadowing and incremental reading! It's weird how *adding* problems can sometimes make stuff *easier*. (Maybe because it forces you into more meta, makes you look for generalizations.)
+
+But I'm too lazy right now to describe how it works, and how it's set up (future blog post bla bla), but basically, one card per sentence (reading), two cloze cards per new word (Latin -> understand and translation -> Latin), with the expectation of deleting a lot during reviews, keeping the cool stuff.
+
+(Also, I analysed several texts and I now agree with Steve Kaufmann about inflection. In some video, he mentioned that he learns each form of a word separately, which I thought was crazy. He was talking about Russian, so I thought that would add like 5x the work load! After some time, you'd pick up the grammatical rules and then you can group all the tenses and so on. But I went through several large texts in Latin, and most words appear in only 1 or 2 forms, and you have a standard power law. Even if you group very aggressively, it just doesn't buy you much. So I make a vocab card for every single form. The few "obvious" variants I can just delete during review.)
+
+Gonna do my 14k cards now. (Yes, seriously. And that's only the first batch.)
