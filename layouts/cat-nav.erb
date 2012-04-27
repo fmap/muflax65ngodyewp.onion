@@ -1,7 +1,7 @@
 <div id="cat-nav">
   <h2>Categories</h2>
   <ul>
-    <% @site.categories.each do |cat| %>
+    <% @site.categories(false).each do |cat| %>
       <li><%= cat.link true %></li>
 
       <% if @item.category == cat %>
