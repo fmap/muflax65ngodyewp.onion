@@ -75,6 +75,8 @@
 [trivialist]: http://www.paulkabay.com/
 [CCC baptism]: http://www.vatican.va/archive/ccc_css/archive/catechism/p2s2c1a1.htm
 [Ingram flame]: http://www.dharmaoverground.org/web/guest/discussion/-/message_boards/message/2880527
+[Rhetological Fallacies]: http://www.informationisbeautiful.net/visualizations/rhetological-fallacies/
+[Logical Fallacies Poster]: http://yourlogicalfallacyis.com/
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
