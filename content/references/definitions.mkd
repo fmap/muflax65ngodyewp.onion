@@ -181,3 +181,4 @@
 [conditional baptism]: https://en.wikipedia.org/wiki/Conditional_baptism
 [Lingua Latina]: http://www.lingua-latina.dk/index2.htm
 [Arguelles]: http://foreignlanguageexpertise.com/
+[neti]: https://en.wikipedia.org/wiki/Neti_neti
