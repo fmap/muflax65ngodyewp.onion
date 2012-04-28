@@ -17,9 +17,9 @@ Worked on a blog post about (against?) logical fallacies, as the first half of m
 
 [^stop]: Three Laws of the Internet:
 
-1. You cannot get rid of stupidity, only move it around.
-2. The rantropy of any closed community tends towards a maximum.
-3. You cannot have zero idiots; perfect moderation is impossible.
+    1. You cannot get rid of stupidity, only move it around.
+    2. The rantropy of any closed community tends towards a maximum.
+    3. You cannot have zero idiots; perfect moderation is impossible.
 
 (And an additional very minor rant: I think instead of the constant "oh noes we're a cult!!1!" meme, LW should worry about becoming even more of a circlejerk. Many recent threads are alarmingly close to r/atheism with some fairly minor word substitutions. Eliezer correctly realized that rationality wasn't cool due to some retarded memes, but I'm beginning to suspect his propaganda (and the one he directly caused) was the wrong way to go. Not to blame him, though; not sure he could've seen it coming. Instrumental values hijacking your real values is way more dangerous than people realize.)
 
