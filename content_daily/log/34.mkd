@@ -7,7 +7,7 @@ episteme: :log
 
 Cleaned all my stuff. (That shouldn't be a major accomplishment, but you know how it is.)
 
-Wrote an [fairly extensive][comment Church] about my view on the temporal vs. timeless Church, though it really just re-states the problem, and doesn't solve anything, which is why I'm not turning it into a post.
+Wrote an [fairly extensive comment][comment Church] about my view on the temporal vs. timeless Church, though it really just re-states the problem, and doesn't solve anything, which is why I'm not turning it into a post.
 
 (I feel like *everything* I'm engaging with these days are problem statements and clarifications how certain things *don't* work. RAW would be proud. Though more seriously, I'm *eventually* going to arrive at some answers, I'm just <del>slow, stupid and lazy</del> careful, thorough and obsessed with basics.)
 
