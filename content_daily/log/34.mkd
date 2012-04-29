@@ -1,0 +1,18 @@
+---
+title: Messes and People Who Make Them
+date: 2012-04-29
+techne: :done
+episteme: :log
+---
+
+Cleaned all my stuff. (That shouldn't be a major accomplishment, but you know how it is.)
+
+Wrote an [fairly extensive][comment Church] about my view on the temporal vs. timeless Church, though it really just re-states the problem, and doesn't solve anything, which is why I'm not turning it into a post.
+
+(I feel like *everything* I'm engaging with these days are problem statements and clarifications how certain things *don't* work. RAW would be proud. Though more seriously, I'm *eventually* going to arrive at some answers, I'm just <del>slow, stupid and lazy</del> careful, thorough and obsessed with basics.)
+
+Also added an RSS feed for comments to each site, and fixed some minor bugs. And wrote a post about range_math.
+
+Beyond that, much thinking, nothing much to show.
+
+(And played CK2, finally absorbed the Serbian and Kärntener counties into the Glorious Croatian Kingdom, unified the two feuding family branches (a feud I started 3 generations ago), weakened both Roman Empires substantially and then wasted a lot of money on a failed conquest and descended into civil war, but at least I have a decent chance of being the only catholic kingdom east of the Rhine still standing when the Muslims and Mongols are done raping us. Very productive weekend indeed.)
