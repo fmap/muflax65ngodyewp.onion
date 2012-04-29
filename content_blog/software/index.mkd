@@ -1,0 +1,6 @@
+---
+title: Software
+is_category: true
+---
+
+<%= category :software %>

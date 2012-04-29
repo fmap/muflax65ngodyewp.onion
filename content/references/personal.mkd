@@ -17,6 +17,9 @@
 <!-- tweets -->
 [Twitter pali]: https://twitter.com/#!/muflax/status/66635052242567168
 
+<!-- comments -->
+[comment Church]: http://blog.muflax.com/jesus/self-baptism/#comment-513169408
+
 <!-- software -->
 [Config]: https://github.com/muflax/config
 [Github]: https://github.com/muflax/
@@ -29,3 +32,5 @@
 [fume]: https://github.com/muflax/fume
 [fumetrap]: https://github.com/muflax/fumetrap
 [github web history]: https://github.com/muflax/scripts/blob/master/google_web_history.rb
+[range_math]: https://github.com/muflax/range_math
+[avg_dmg]: https://github.com/muflax/scripts/blob/master/average_damage.rb

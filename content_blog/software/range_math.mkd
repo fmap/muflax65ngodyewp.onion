@@ -1,0 +1,46 @@
+---
+title: Ruby Math with Ranges
+date: 2012-04-30
+techne: :done
+episteme: :believed
+---
+
+You're playing some D&D game, like you always do, and you find two weapons, the Sword of Burnination, 1d8+3 and 1d6 fire damage, and the [Axe of Castigation][Lecher Bitch], 2d6+3. And you're tired of doing this math in your head.
+
+So you write a Ruby gem to do it for you.
+
+First, you write a [simple gem][range_math] to do math with ranges. You wanted this since you read [Up and Down the Ladder of Abstraction][]. Now this works:
+
+~~~
+#!ruby
+(1..6) * 3      # => (3..18)
+(-5..3) + 7     # => (2..10)
+(1..3) + (2..4) # => (3..7)
+(4..12) / 2     # => (2.0..6.0)
+~~~
+
+You can do quick math in your irb sessions with ranges instead of numbers now. You're happy.
+
+You do a `gem install range_math` on any system, and put this in your `.zshrc`:
+
+~~~
+#!sh
+alias i="irb -rrange_math"
+~~~
+
+Then you write a [simple script][avg_dmg] to convert dice rolls into ranges, put it in your PATH and alias it like this:
+
+~~~
+#!sh
+alias avg="noglob average_damage.rb"
+~~~
+
+Now this works:
+
+~~~
+#!sh
+$ avg 1d8+3 + 1d6
+range: 5..17, average: 11.0
+~~~
+
+Suffering ends.
