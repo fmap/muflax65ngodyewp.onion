@@ -3,4 +3,4 @@ title: omg hax
 is_category: true
 ---
 
-<%= category :software %>
+<%= category :hack %>
