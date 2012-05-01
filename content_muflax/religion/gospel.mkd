@@ -8,68 +8,50 @@ episteme: :believed
 Foreword
 ========
 
-Every mystic needs their own gospel. You can't just go around, claiming "Those
-dudes pretty much said it all." and expect to be taken seriously. You have to
-not just invent your own terms, mythology and techniques, you also need your own
-Holy Texts about Everything One Needs To Know. At the very least, write some
-<del>fanfic</del> new revelations to some other text. But then it better have some
-angels and dragons and shit!
+Every mystic needs their own gospel. You can't just go around, claiming "Those dudes pretty much said it all." and expect to be taken seriously. You have to not just invent your own terms, mythology and techniques, you also need your own Holy Texts about Everything One Needs To Know. At the very least, write some <del>fanfic</del> new revelations to some other text. But then it better have some angels and dragons and shit!
 
-So, here is mine. Even with added confusing commentary! Further revelations will
-be added as The One Who Knows Shit (TOKSHI, 特使) teaches me more.
+So, here is mine. Even with added confusing commentary! Further revelations will be added as The One Who Knows Shit (TOKSHI, 特使) teaches me more.
 
 Gospel of Muflax
 ================
 
 Thus have I heard. 
 
-1. TOKSHI said, nothing lasts.[^anicca] If you watch closely, things keep on
-   wobbling away, even really sticky ones.
+1. TOKSHI said, nothing lasts.[^anicca] If you watch closely, things keep on wobbling away, even really sticky ones.
 
-1. TOKSHI said, don't identify with things. Those that think they are things,
-   become things. Those that don't think they are things, aren't bogged down by
-   all the silly associations.[^anatta]
+2. TOKSHI said, don't identify with things. Those that think they are things, become things. Those that don't think they are things, aren't bogged down by all the silly associations.[^anatta]
 
-1. TOKSHI said, now is good, tomorrow never good enough.
+3. TOKSHI said, now is good, tomorrow never good enough.
 
-1. TOKSHI said, don't force it. Things have a way of getting done if you don't
-   try to get them done while getting them done.[^gtd]
+4. TOKSHI said, don't force it. Things have a way of getting done if you don't try to get them done while getting them done.[^gtd]
 
-1. TOKSHI said, do whatever you want to do because that's what you're gonna do
-   anyway. But try being nice sometimes?
+5. TOKSHI said, do whatever you want to do because that's what you're gonna do anyway. But try being nice sometimes?
 
-1. TOKSHI said, those that know the Law, will follow it. Those that say they
-   know the Law, will break It. But they will get laid.[^unity] 
+6. TOKSHI said, those that know the Law, will follow it. Those that say they know the Law, will break It. But they will get laid.[^unity] 
 
-1. TOKSHI said, it's worse than you think. The Thing That Makes Things Happen
-   According To Plan lost The Plan, but It is pretty good at faking
-   it.
+7. TOKSHI said, it's worse than you think. The Thing That Makes Things Happen According To Plan lost The Plan, but It is pretty good at faking it.
 
-1. TOKSHI said, the universe doesn't care about you. Like, at all.[^emptiness]
+8. TOKSHI said, the universe doesn't care about you. Like, at all.[^emptiness]
 
-1. TOKSHI said, if you try hard, you can do some wicked shit with your mind.
-   Play around some time.
+9. TOKSHI said, if you try hard, you can do some wicked shit with your mind. Play around some time.
 
-1. TOKSHI said, everything is better with practice. Try it some more, you will
-   get good at it, promise. This includes dying.
+10. TOKSHI said, everything is better with practice. Try it some more, you will get good at it, promise. This includes dying.
 
-1. TOKSHI said, don't wish for things because then you will get exactly what
-   you wished for and it will totally suck and you will look stupid.[^wish] 
+11. TOKSHI said, don't wish for things because then you will get exactly what you wished for and it will totally suck and you will look stupid.[^wish] 
 
-1. TOKSHI said, you have a brain the size of a coconut. You think that's just
-   the right size to understand everything? Are you sure about that?
+12. TOKSHI said, you have a brain the size of a coconut. You think that's just the right size to understand everything? Are you sure about that?
 
-1. TOKSHI said, there are only two correct answers to the question "What is
-   this?"[^whatisthis] - the first, "It's not what you think it is."; the
-   second, "Let me show you!".
+1. TOKSHI said, there are only two correct answers to the question "What is this?"[^whatisthis] - the first, "It's not what you think it is."; the second, "Let me show you!".
 
 1. TOKSHI said, every strength is a weakness. Be empty, be invincible.
 
 1. TOKSHI said, fail in interesting ways.
 
-1. TOKSHI said, you can always go meta.
+1. TOKSHI said, go meta.[^meta]
 
 1. TOKSHI said, justification flows from above to below.
+
+1. TOKSHI said, never compromise.
 
 1. TOKSHI said, don't be happy.
 
@@ -91,8 +73,8 @@ Thus have I heard.
     found it. Please, put it to rest now.". Upon hearing this, TOKSHI died.
 
 [^anicca]:
-    When you watch yourself watching yourself, you will occassionally catch
-    yourself not watching yourself. Really. Try it. (Unfortunatly, it takes a
+    When you watch yourself watching yourself, you will occasionally catch
+    yourself not watching yourself. Really. Try it. (Unfortunately, it takes a
     lot of practice to get there. The problem is developing a strong enough
     concentration and to get rid of many mental filters until you can direct
     your attention at your own attention. The rest falls into place in no time.) 
@@ -194,3 +176,5 @@ Thus have I heard.
     TOKSHI would make the student free.
 
     Upon hearing TOKSHI's three answers, the monk was enlightened.
+
+[^meta]: Including on going meta. You can always go meta.
