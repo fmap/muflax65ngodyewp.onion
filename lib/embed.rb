@@ -6,13 +6,13 @@ def image(name, title="", link=nil)
   ret = ""
 
   # read image size
-  img = ImageSize.new IO.read("content_#{$site}/pigs/#{name}")
+  img = ImageSize.new IO.read("content_#{@site.name}/pigs/#{name}")
   
   # if it's too large, redirect to smaller version (which is generated with 'nanoc images')
   if img.width > 400 and not name.end_with? ".gif"
     link = "/pigs/#{name}" if link.nil? # link to big version
     name.gsub! /^(.+)\.(\w+)$/, '\1_small.\2'
-    img = ImageSize.new IO.read("content_#{$site}/pigs/#{name}") # re-read image
+    img = ImageSize.new IO.read("content_#{@site.name}/pigs/#{name}") # re-read image
   end
 
   ret += "<a href='#{link}'>" unless link.nil?

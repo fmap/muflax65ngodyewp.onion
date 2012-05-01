@@ -15,9 +15,13 @@ site_cmds = [
 # site-specific config
 module ::Nanoc
   class Site
+    attr_accessor :name
+    
     def extended_build_config(dir_or_config_hash, site)
       puts "load extended config..."
 
+      @name = site
+      
       @config[:output_dir] = "out/#{site}"
 
       @config[:data_sources] = [{
@@ -50,7 +54,7 @@ module ::Nanoc
     end
 
     def main_site?
-      $site == "muflax"
+      @name == "muflax"
     end
 
     def blog?
@@ -60,7 +64,7 @@ module ::Nanoc
     def disqus_site
       # TODO merge them all?
       # site -> disqus shortname
-      case $site
+      case @name
       when "muflax"
         "muflax"
       when "sutra"
@@ -75,7 +79,7 @@ module ::Nanoc
     end
 
     def url
-      "http://#{main_site? ? "" : "#{$site}."}muflax.com"
+      "http://#{main_site? ? "" : "#{@name}."}muflax.com"
     end
     
     def disqus_url item
@@ -83,7 +87,7 @@ module ::Nanoc
     end
 
     def title
-      case $site
+      case @name
       when "muflax"
         "lies and wonderland"
       when "sutra"

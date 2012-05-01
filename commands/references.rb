@@ -21,11 +21,11 @@ module Nanoc::CLI::Commands
           next if i.shared?
         end
         
-        page_links << "[#{i[:title]}]: #{i.identifier}"
+        page_links << site_link(i[:title], i.identifier, current_site)
       
         unless i[:alt_titles].nil?
           i[:alt_titles].each do |title|
-            page_links << "[#{title}]: #{i.identifier}"
+            page_links << site_link(title, i.identifier, current_site)
           end
         end
       end
@@ -33,6 +33,10 @@ module Nanoc::CLI::Commands
       page_links
     end
 
+    def site_link title, link, site
+      "[#{title}]: " + site.url + link
+    end
+    
     def duplicate_links
       references = []
       
