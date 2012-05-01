@@ -126,7 +126,7 @@ class Nanoc::Site
     end
 
     # sort by title
-    @categories = cats.sort_by {|c| c[:cat].title}
+    @categories = cats.sort_by {|c| c[:cat].title.downcase}
   end
 
   def categories all=true
