@@ -116,7 +116,8 @@
 [Creative Commons]: http://creativecommons.org/licenses/by-nc-sa/3.0/de
 [Perseus]: http://www.perseus.tufts.edu/hopper/
 [TreeTagger]: http://www.ims.uni-stuttgart.de/projekte/corplex/TreeTagger/
-[Words dict]: http://users.erols.com/whitaker/words.htm
+[Words dict]: http://archives.nd.edu/whitaker/words.htm
+[Words online]: http://archives.nd.edu/words.html
 [f.lux]: http://www.stereopsis.com/flux/
 [fuzzyfinder]: http://codeulate.com/2010/02/installing-fuzzyfinder_textmate-textmates-cmdt-in-vim/
 [nanoc]: http://nanoc.stoneship.org

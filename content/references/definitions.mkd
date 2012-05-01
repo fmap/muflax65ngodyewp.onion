@@ -183,3 +183,4 @@
 [Arguelles]: http://foreignlanguageexpertise.com/
 [neti]: https://en.wikipedia.org/wiki/Neti_neti
 [Preikestolen]: https://encrypted.google.com/search?btnG=Google+Search&q=prekestolen
+[Vatican]: https://en.wikipedia.org/wiki/Holy_See
