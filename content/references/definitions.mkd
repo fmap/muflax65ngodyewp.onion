@@ -184,3 +184,7 @@
 [neti]: https://en.wikipedia.org/wiki/Neti_neti
 [Preikestolen]: https://encrypted.google.com/search?btnG=Google+Search&q=prekestolen
 [Vatican]: https://en.wikipedia.org/wiki/Holy_See
+[Schizotypy]: http://en.wikipedia.org/wiki/Schizotypy
+[Truman Show]: https://en.wikipedia.org/wiki/The_Truman_Show
+[Luminosity]: http://wiki.lesswrong.com/wiki/Luminosity
+[Theseus' Ship]: https://en.wikipedia.org/wiki/Ship_of_Theseus

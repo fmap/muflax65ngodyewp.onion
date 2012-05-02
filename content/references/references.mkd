@@ -54,7 +54,6 @@
 [Wasteland Kickstarter]: http://www.kickstarter.com/projects/inxile/wasteland-2
 [Wasteland Obsidian]: http://www.rockpapershotgun.com/2012/03/30/obisidian-to-co-develop-wasteland-2-on-one-condition/
 [Why Did I Sleep So Well?]: http://blog.sethroberts.net/2008/09/03/science-in-action-why-did-i-sleep-so-well-part-10-2/
-[Xmonad Bug]: http://www.reddit.com/r/xmonad/comments/fdp4o/let_focus_follow_mouse_only_on_certain_layouts/
 [bible fault]: http://www.biblegateway.com/passage/?search=John+19%3A6&version=NKJV
 [bible.org]: http://bible.org/netbible/index.htm
 [checkmate]: https://s3.amazonaws.com/data.tumblr.com/tumblr_lv1atyRcpy1qj9k6oo1_500.png
@@ -79,6 +78,8 @@
 [Logical Fallacies Poster]: http://yourlogicalfallacyis.com/
 [SMBC skull-king]: http://www.smbc-comics.com/index.php?db=comics&id=2244#comic
 [Up and Down the Ladder of Abstraction]: http://worrydream.com/LadderOfAbstraction/
+[suicide schizophrenic]: http://pb.rcpsych.org/content/25/2/46.full
+[blum advice]: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
@@ -107,6 +108,9 @@
 [LW minecraft]: http://lesswrong.com/lw/8n9/rationality_quotes_december_2011/5dal
 [LW leverage]: http://lesswrong.com/lw/9ar/on_leverage_researchs_plan_for_an_optimal_world/5n74
 [Pluralistic Moral Reductionism]: http://lesswrong.com/lw/5u2/pluralistic_moral_reductionism/
+[LW god]: http://lesswrong.com/lw/6oc/transsexuals_and_otherkin/4ipl?context=2#comments
+[LW truman]: http://lesswrong.com/lw/aa7/get_curious/5x0q
+[LW bias value]: http://lesswrong.com/lw/55n/human_errors_human_values/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
@@ -136,6 +140,7 @@
 [The View from Hell]: http://theviewfromhell.blogspot.com
 [Sister golem]: http://theviewfromhell.blogspot.com/2010/09/pathetic-golem.html
 [Sister Kaldor]: http://theviewfromhell.blogspot.com/2011/01/pareto-kaldor-hicks-and-deserving.html
+[Sister illusion]: http://theviewfromhell.blogspot.de/2012/04/why-we-believe-suicide-is-easy.html
 
 <!-- Moldbug -->
 [How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
@@ -157,6 +162,10 @@
 [XiXiDu]: http://kruel.co/
 [xixidu search]: https://plus.google.com/106808239073321070854/posts/HMQmaWaJy3u
 [xixidu utilitarian]: http://kruel.co/2011/07/24/open-problems-in-ethics-and-rationality/
+
+<!-- reddit -->
+[reddit lain]: http://www.reddit.com/r/AskReddit/comments/t0ynr/throwaway_time_whats_your_secret_that_could/c4inqul
+[Xmonad Bug]: http://www.reddit.com/r/xmonad/comments/fdp4o/let_focus_follow_mouse_only_on_certain_layouts/
 
 <!-- internal links -->
 [main]: http://muflax.com
