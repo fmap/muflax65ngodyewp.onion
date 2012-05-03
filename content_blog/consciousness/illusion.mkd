@@ -53,11 +53,11 @@ Looking at this from the outside, it bothers me that the emptiness from breaking
 
 That's how it *should* be. You realize you have causal control over the gods, e presto, press the god button any time you want. But deep down, we're all essentialists.
 
-So imagine you're Truman in the [Truman Show][].[^truman] You have lived a fairly happy live, have a loving mother, a good relationship and a solid job. Up to his 30th birthday, Truman is happy and undisturbed, until he learns that virtually all the people he cares about are actors and their interactions with him are entirely scripted.
+So imagine you're Truman in the [Truman Show][].[^truman] You have lived a fairly happy live, have a loving mother, a good relationship and a solid job. Up to your 30th birthday, you are happy and undisturbed, until you learn that virtually all the people you care about are actors and their interactions with you are entirely scripted.
 
 Now that's devastating alright, but try to think of it from a different perspective. RAW describes an elaborate initiation ceremony in Prometheus Rising:
 
-> "One of the greatest historical practitioners of this neuroscience was Hassan i Sabbah, who used relatively simple techniques, including, evidently, a time-release capsule invented by the Sufi College of Wisdom in Cairo.
+> One of the greatest historical practitioners of this neuroscience was Hassan i Sabbah, who used relatively simple techniques, including, evidently, a time-release capsule invented by the Sufi College of Wisdom in Cairo.
 >
 > As I describe Hassan's technique - based on historical records - in my novel, The Trick Top Hat: Two young candidates dine with Hassan; the food is laced with a time-release capsule. When asleep the candidates are taken to Hassan's famous "Garden of Delights." The capsule had released a heavy does of opium and they were quite thoroughly unconscious and unaware of their surroundings.
 >
@@ -81,7 +81,7 @@ Now that's devastating alright, but try to think of it from a different perspect
 >
 > When this candidate had left, Hassan turned to the second, asking, "And you?" "I have discovered the First Matter, the Medicine of Metals, the Elixir of Life, the Stone of the Philosophers, True Wisdom and Perfect Happiness," said he, quoting the alchemical formula. "And it is inside my own head!"
 >
-> Hassan i Sabbah grinned broadly. "Welcome to the Order of the Illuminati!" he said, laughing."
+> Hassan i Sabbah grinned broadly. "Welcome to the Order of the Illuminati!" he said, laughing.
 
 In other words, Truman might realize that the happiness he knew didn't *depend* on other people. It worked just as well with actors and scripts. And the person experiencing god withdrawal might realize that it was their own brain that made the experience wonderful, and didn't rely on some independent agents.
 
@@ -137,7 +137,7 @@ Yet somehow...
 
 I think the non-essentialist perspective misses something, misses a conditional component. It's not just about the emotional state.
 
-The schizophrenic is not just disappointed that the Love of the Virgin Mary is gone (because they found out that they can control the Virgin Mary), but that it was *unjustified*. Feeling the love was partially a transaction, a binding contract. I will feel love if and only if the Virgin Mary is actually caring for me. (I will be less worried if and only I know I could end it all. I will be comfortable around you if and only if I can trust you to be honest.)
+The schizophrenic is not just disappointed that the Love of the Virgin Mary is gone (because they found out that they can control the Virgin Mary), but that it was *unjustified*. Feeling the love was partially a transaction, a binding contract. I will feel love if and only if the Virgin Mary is actually caring for me. (I will be less worried if and only if I know I could end it all. I will be comfortable around you if and only if I can trust you to be honest.)
 
 The illusion then provided false evidence that this condition was fulfilled, and so maybe what is felt afterwards is not just emptiness, not just absence, but active *betrayal*. (I certainly feel that way.)
 
@@ -147,7 +147,7 @@ It's so... non-utilitarian. Death before dishonor, suffering before illusion.
 
 Certainly can't complain people don't actually care about the truth. Funny it's the crazy ones, though.
 
-(And I'll leave it on this unsatisfactory note, as this most accurately reflects how shitty the whole situation feels like.)
+(And I'll leave it on this unsatisfactory note, as this most accurately reflects how shitty the whole situation feels.)
 
 [^truman]: Which, as [Will Newsome correctly notes][LW truman], is what a schizophrenic episode feels like from the inside:
     
