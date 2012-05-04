@@ -1,0 +1,6 @@
+---
+title: Metaphysics
+is_category: true
+---
+
+<%= category :metaphysics %>
