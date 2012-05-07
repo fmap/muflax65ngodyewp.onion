@@ -5,7 +5,7 @@ techne: :done
 episteme: :log
 ---
 
-(This is slightly ranty, so I'm counting this as only half a log entry. I could just say "thought about a lot of stuff for 4 days", but that's not interesting, so I think illustrating some lines of though is a decent compromise.)
+(This is slightly ranty, so I'm counting this as only half a log entry. I could just say "thought about a lot of stuff for 4 days", but that's not interesting, so I think illustrating some lines of thought is a decent compromise.)
 
 Two quotes. Will become obvious how this is relevant in a sec. 
 
