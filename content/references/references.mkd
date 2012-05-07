@@ -80,6 +80,7 @@
 [Up and Down the Ladder of Abstraction]: http://worrydream.com/LadderOfAbstraction/
 [suicide schizophrenic]: http://pb.rcpsych.org/content/25/2/46.full
 [blum advice]: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html
+[Existentialism tumblr]: http://fuckyeahexistentialism.tumblr.com/
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy

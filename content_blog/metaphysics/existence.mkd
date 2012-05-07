@@ -19,11 +19,6 @@ Existence, in that sense, is constraint-dependent. It makes no sense to ask if X
 
 [^name]: But remember that naming something [isn't trivial][Remark about Finitism].
 
-Good.
-
-But that's about algorithmic constructions. What about "the glass of milk in front of me"? What does it mean to say "the glass exists"? The problem is not really "the glass" (like, if it's an irreducible object, matter arranged glass-wise or whatever), but how it could or could not exist.
-
-
 One important feature of this view is how it treats "real" and "hypothetical" things.
 
 Drawn from different sets.

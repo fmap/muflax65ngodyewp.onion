@@ -188,3 +188,8 @@
 [Truman Show]: https://en.wikipedia.org/wiki/The_Truman_Show
 [Luminosity]: http://wiki.lesswrong.com/wiki/Luminosity
 [Theseus' Ship]: https://en.wikipedia.org/wiki/Ship_of_Theseus
+[Red Forman]: https://en.wikipedia.org/wiki/Red_Forman
+[E']: http://en.wikipedia.org/wiki/E%27
+[Dom/sub]: https://en.wikipedia.org/wiki/Dominance_and_submission
+[birdmen]: http://web.archive.org/web/20100831084607/http://malstrom.50webs.com/birdman.html
+[Three Virtues]: https://en.wikipedia.org/wiki/Larry_Wall
