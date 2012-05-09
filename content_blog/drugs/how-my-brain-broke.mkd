@@ -1,10 +1,6 @@
 ---
 title: How My Brain Broke
 date: 2012-01-03
-tags:
-- ayahuasca
-- crap
-- god
 techne: :done
 episteme: :emotional
 slug: 2012/01/03/how-my-brain-broke/

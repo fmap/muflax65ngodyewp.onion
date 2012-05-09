@@ -81,6 +81,9 @@
 [suicide schizophrenic]: http://pb.rcpsych.org/content/25/2/46.full
 [blum advice]: https://www.cs.cmu.edu/~mblum/research/pdf/grad.html
 [Existentialism tumblr]: http://fuckyeahexistentialism.tumblr.com/
+[mother aya]: http://forums.ayahuasca.com/viewtopic.php?p=98187#p98187
+[PIT]: http://psychedelic-information-theory.com/
+[Szabo Intersubjective]: http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/tradition.html
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
