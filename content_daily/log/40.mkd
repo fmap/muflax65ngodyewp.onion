@@ -1,0 +1,42 @@
+---
+title: Why Can't I Major in Computational Shamanism?
+date: 2012-05-10
+techne: :done
+episteme: :log
+---
+
+I've decided to somewhat-anonymize my info on G+ and so on, not so much to hide my identity, but simply so the cops don't find me.
+
+A dedicated attacker could still easily track me down, but at least it shouldn't be immediately obvious for the kind of cops I'm protecting myself against, and the kind of things I talk about aren't actively being persecuted, but you know, just to be safe.
+
+(And besides, like Rorschach, the mask *is* my face.)
+
+The reason: so I can talk somewhat freely about drugs without going all 4chan on my identity.
+
+Anyway, did more Ayahuasca prep today, i.e. the Mimosa part. I have some doubts about this batch, next one will likely be better, but Mimosa is inherently so potent that some inefficiency won't ruin the trip, just waste money.
+
+(And the Mimosa finally brought back the foul I'm-eating-your-soul smell I missed so dearly. It's not really nasty, objectively, but, well... it's exactly what you'd expect a plant with "hostile" in its name to smell like.)
+
+I'm also not quite sure how I'll produce larger amounts of Caapi without cooking all the time. Currently, I'd have to end up cooking for a whole afternoon for *each dose*. I'm *way* too lazy for that, and I don't want to go all Heisenberg on my tech.
+
+Basically, I've tried an acid-based extraction, but that means cooking for 4-12 hours, and a cold water extraction (like a coffee press), but that produces massive amounts of fluid (like, 10l *per dose*) and reducing it to a drinkable amount takes 4 hours at least. I'll try soaking the Caapi next, so I don't have to cook for quite that long. Or, you know, go back to Syrian Rue. Which is nasty, but at least there's no extraction process.
+
+(Man, shrooms were so much easier. Build one awesome rig, figure out how to control the contamination, then just wait 3 months and enjoy years worth of material. Also, past-muflax, even though you decided you were done with drugs, and threw away all reserves (so much waste! boo!), you still had enough engineering pride in you to keep the tech, so thanks for that. Could reuse quite a bit.)
+
+At least I've (mostly) finished the first batch now. Just some additional filtration, which takes time. But kids, always filter, so that this:
+
+<%= image("caapi_pre.jpg", "Caapi Pre") %>
+
+turns into this:
+
+<%= image("caapi_post.jpg", "Caapi Post") %>
+
+(Also, coffee filters *don't* work for Mimosa. Use cloth. And cotton is surprisingly hard to handle as a filter. Never stays put.)
+
+I hope I'll have a batch ready on Monday. 
+
+(Also noticed another symptom of Mother A, which also happens during strong meditation: drivenness. Like, I get this impression I'm *meant* for something, like I'm a cosmic sleeper agent, and I'm preparing to join <del>Satan's</del> Mother A's army during armageddon, or something like that. It's nuts, but the teleological sensation of *you're a fucking Player Character, act like it* is quite nice, so I'm not complaining. Not planning to assassinate the president, I swear.[^jesus])
+
+[^jesus]: Unlike a lot of people, I also never believed I'm Jesus. I'm more likely Marcion in Purgatory anyway.
+
+Besides that, just read stuff and worried about how unproductive I was. Yeah.
