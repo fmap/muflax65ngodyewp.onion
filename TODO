@@ -1,0 +1,12 @@
+* Technical Improvements [7/10]
+- [X] switch to creation dates
+- [X] hide drafts in categories, but compile them anyway
+- [X] better rss feed (automatic items based on dates, changelog)
+- [X] better separation of categories
+- [ ] "digesting history"
+- [X] mind-killer warning
+- [X] move to nfs.net (host mail on gmail)
+- [ ] better handling of footnotes (parallel column?)
+- [X] switch rake to nanoc commands
+- [ ] universal RSS
+
