@@ -21,6 +21,7 @@ module ::Nanoc
       puts "load extended config..."
 
       @name = site
+      @site_yaml = YAML.load(File.open("sites.yaml"))
       
       @config[:output_dir] = "out/#{site}"
 
@@ -61,21 +62,14 @@ module ::Nanoc
       !main_site? # everything is a blog except for the main site
     end
 
+    def [](attr)
+      @site_yaml["sites"][@name][attr]
+    end
+    
     def disqus_site
       # TODO merge them all?
       # site -> disqus shortname
-      case @name
-      when "muflax"
-        "muflax"
-      when "sutra"
-        "muflaxsutra"
-      when "daily"
-        "dailymuflax"
-      when "blog"
-        "muflaxblog"
-      else # put 'em on the main site
-        "muflax"
-      end
+      self["disqus_site"]
     end
 
     def url
@@ -87,18 +81,7 @@ module ::Nanoc
     end
 
     def title
-      case @name
-      when "muflax"
-        "lies and wonderland"
-      when "sutra"
-        "Blogchen"
-      when "daily"
-        "muflax becomes a saint"
-      when "blog"
-        "muflax' mindstream"
-      else # placeholder
-        "muflaxia"
-      end
+      self["title"]
     end
   end
 end

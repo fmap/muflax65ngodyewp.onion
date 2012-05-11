@@ -1,0 +1,18 @@
+sites:
+  muflax:
+    title: lies and wonderland
+    disqus_site: muflax
+  blog:
+    title: muflax\' mindstream
+    disqus_site: muflaxblog
+  sutra:
+    title: Blogchen
+    disqus_site: muflaxsutra
+  daily:
+    title: muflax becomes a saint
+    disqus_site: dailymuflax
+  letsread:
+    title: Let\'s Read
+    disqus_site: muflaxread
+      
+    
