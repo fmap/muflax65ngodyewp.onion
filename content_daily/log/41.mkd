@@ -23,8 +23,8 @@ I've bitten the bullet and decided to go less ghetto tech and more professional,
 
 I'm also been reading Kent's [PIT][], mostly to get some easy testable predictions out of it. Basically, his idea is that (most) hallucinations are the result of linear systems in the brain destabilizing. For example, by introducing some lag into certain feedback loops, you get fractal patterns in your visual perception, or by decoupling memory and frontal lobe activity, you get essentially dream content merged into waking states, i.e. hallucinations.
 
-The whole thing's pretty fascinating, but my neuroscience is way too weak to judge the claims about brain functions, but from a computational system perpective, a lot of it seems plausible, and the dude's taken an awful lot of drugs, so he's not underestimating the strength of certain effects (\*cough\*Dennett\*cough\*), so there might be a lot to it.
+The whole thing's pretty fascinating, but my neuroscience is way too weak to judge the claims about brain functions, but from a computational system perspective, a lot of it seems plausible, and the dude's taken an awful lot of drugs, so he's not underestimating the strength of certain effects (\*cough\*Dennett\*cough\*), so there might be a lot to it.
 
-But more importantly, Kent intended his work to open up a theoretical framework for modern shamanism, so that'd we (as drug users) could understand *why* things worked and how to manipulate them more intelligently. So I'm reading it as a "try this cool shit" guide.
+But more importantly, Kent intended his work to open up a theoretical framework for modern shamanism, so that we (as drug users) could understand *why* things worked and how to manipulate them more intelligently. So I'm reading it as a "try this cool shit" guide.
 
 Actual comments about its content... soon-ish. (Man, I wish I lived in "soon". All the cool stuff happens there!)
