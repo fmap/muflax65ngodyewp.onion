@@ -1,0 +1,10 @@
+---
+title: Title
+date: 2012-05-11
+techne: :wip
+episteme: :log
+---
+
+On a meta-note, I've been trying to read more (yeah), and I also want to comment / highlight some cool passages I come across, but I'm not quite sure how to do that. As a quick experimental setup, I've made another subdomain, <http://read.muflax.com> (and <http://letsread.muflax.com>), and dumped the first quote thingy there. Most of it will probably be "look at this awesome quote" or "let's mentally masturbate about this wacky idea", so I don't know how much or how interesting it will be, or if I'll just delete it in a week.
+
+(A collective RSS feed is on my todo list.)

@@ -1,0 +1,30 @@
+---
+title: Title
+date: 2012-05-11
+techne: :done
+episteme: :log
+---
+
+(*Damn*, [Holden's post][LW holden] worries me. It's truly excellent, but it's... old. I mean, every single thing he said has been said for *years* (upvotes and all), but *now* it's "informed criticism"? Arguments screen off authority, except when it's criticism, then you better be prestigious and well-spoken? That doesn't sit well with me. Also, SIAI was in operation for *10 years* without a *strategic plan*?! The mother of FUCK?!
+
+I'm not drawing any conclusions yet (to give SIAI folks some time to respond), but damn that's harsh.)
+
+In happier news, first Ayahuasca batch complete, now only needs to settle as a last filtration step, and I need to do a quick last reduction to make it drinkable. Monday it is, it seems.
+
+I've bitten the bullet and decided to go less ghetto tech and more professional, and bought some additional equipment. I'm doing a proper extraction[^answer] next batch. But until then, yay Mimosa:
+
+[^answer]: Three additional advantages: I can answer the question how much of Ayahuasca is just MAO-I + oral DMT, and how much individual plants matter. (I strongly doubt they matter except for minor effects. Think: different strains of Cannabis.) And I'll know specific yields. Yay quantification, boo "it looks kinda potent"! Finally, smokable DMT. Not sure if yay.
+
+<%= image("mimosa_post.jpg", "Mimosa Post") %>
+
+(Smell mostly gone, taste acceptable. I've had worse tea.)
+
+---
+
+I'm also been reading Kent's [PIT][], mostly to get some easy testable predictions out of it. Basically, his idea is that (most) hallucinations are the result of linear systems in the brain destabilizing. For example, by introducing some lag into certain feedback loops, you get fractal patterns in your visual perception, or by decoupling memory and frontal lobe activity, you get essentially dream content merged into waking states, i.e. hallucinations.
+
+The whole thing's pretty fascinating, but my neuroscience is way too weak to judge the claims about brain functions, but from a computational system perpective, a lot of it seems plausible, and the dude's taken an awful lot of drugs, so he's not underestimating the strength of certain effects (\*cough\*Dennett\*cough\*), so there might be a lot to it.
+
+But more importantly, Kent intended his work to open up a theoretical framework for modern shamanism, so that'd we (as drug users) could understand *why* things worked and how to manipulate them more intelligently. So I'm reading it as a "try this cool shit" guide.
+
+Actual comments about its content... soon-ish. (Man, I wish I lived in "soon". All the cool stuff happens there!)

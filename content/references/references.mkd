@@ -115,6 +115,7 @@
 [LW god]: http://lesswrong.com/lw/6oc/transsexuals_and_otherkin/4ipl?context=2#comments
 [LW truman]: http://lesswrong.com/lw/aa7/get_curious/5x0q
 [LW bias value]: http://lesswrong.com/lw/55n/human_errors_human_values/
+[LW holden]: http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
