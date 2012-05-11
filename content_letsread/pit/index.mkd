@@ -1,0 +1,6 @@
+---
+title: Psychedelic Information Theory
+is_category: true
+---
+
+<%= category :pit %>

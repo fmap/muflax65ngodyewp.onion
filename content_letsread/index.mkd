@@ -1,0 +1,9 @@
+---
+title: Let's Read
+non_cognitive: true
+no_comments: true
+---
+
+muflax reads stuff and comments on it. Sometimes, quotes out of context.
+
+<%= render "content-embed", :item => @site.items_by_date.last %>
