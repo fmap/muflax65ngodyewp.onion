@@ -42,6 +42,10 @@ class Nanoc::Item
       ""
     end
   end
+
+  def root?
+    self.identifier == "/"
+  end
 end
 
 class Category
@@ -131,6 +135,15 @@ class Nanoc::Site
 
   def categories all=true
     @categories.select{|c| c[:not_empty] or all}.map{|c| c[:cat]}
+  end
+
+  def latest_article
+    items_by_date.last
+  end
+
+  # is this category on the main site?
+  def latest_category? cat
+    latest_article.category == cat unless latest_article.nil?
   end
 end
 

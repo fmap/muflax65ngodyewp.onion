@@ -11,4 +11,4 @@ Because death doesn't conquer itself, you know.
 
 Latest entry:
 
-<%= render "content-embed", :item => @site.items_by_date.last %>
+<%= render "content-embed", :item => @site.latest_article %>

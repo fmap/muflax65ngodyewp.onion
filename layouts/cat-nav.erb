@@ -4,9 +4,9 @@
     <% @site.categories(false).each do |cat| %>
       <li><%= cat.link true %></li>
 
-      <% if @item.category == cat %>
+      <% if @item.category == cat or (@item.root? and @site.latest_category? cat) %>
         <ul>
-          <% @site.items_by_date(@item.category).reverse.each do |i| %>
+          <% @site.items_by_date(cat).reverse.each do |i| %>
             <%= render 'list-item', :item => i, :episteme => false %>
           <% end %>
         </ul>

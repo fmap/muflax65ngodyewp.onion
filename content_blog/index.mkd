@@ -13,4 +13,4 @@ Feel free to comment or [contact][Contact] me directly. There is an [RSS feed][R
 
 Latest post:
 
-<%= render "content-embed", :item => @site.items_by_date.last %>
+<%= render "content-embed", :item => @site.latest_article %>

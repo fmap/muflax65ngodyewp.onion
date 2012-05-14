@@ -6,4 +6,4 @@ no_comments: true
 
 muflax reads stuff and comments on it. Sometimes, quotes out of context.
 
-<%= render "content-embed", :item => @site.items_by_date.last %>
+<%= render "content-embed", :item => @site.latest_article %>
