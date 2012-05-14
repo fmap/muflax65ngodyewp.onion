@@ -1,0 +1,18 @@
+---
+title: Before Abraham observed, I know.
+date: 2012-05-13
+techne: :done
+episteme: :log
+---
+
+Worked on the first version of my self-experimentation protocols and tools. Basically, I'm going all professional, and I'm developing *precise* (as in, numerical answer and specific algorithm, not "that feels about right") methods to do self-experiments. Mostly because I'm extremely ashamed and disgusted that I don't have those *already*[^elimination].
+
+[^elimination]: Through the elimination of hypotheses do we earn our enlightenment.
+
+I'm writing all of this up, of course, and I'll publish drafts as soon as possible. This is literally top priority for me. The only reason I don't have a draft out already is because I want to do one complete run so I see that I'm not missing anything, to demonstrate to myself that I'm not doing any handwaving. Then I'll iterate to victory.
+
+The idea is to do meta-empiricism: test empiricism, see if it works. Once I have some meta-data, some actual "look what awesome results that brought me", beyond "that's like that thing Eliezer was talking about", I'll actually advocate people do that, and shame[^shame] those who don't. If it doesn't, I'll drop the "rationalist" bit from my identity <del>and become a bitter troll</del>.
+
+[^shame]: A moment of imprecision spawns a lifetime of confusion.
+
+(Also, [the Librarian][w40k librarian] is a true rationalist. Learn from him, and beware the alien, the mutant, the heretic.)
