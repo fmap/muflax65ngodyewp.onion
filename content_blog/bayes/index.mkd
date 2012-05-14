@@ -1,0 +1,6 @@
+---
+title: Bayescraft
+is_category: true
+---
+
+<%= category :bayes %>

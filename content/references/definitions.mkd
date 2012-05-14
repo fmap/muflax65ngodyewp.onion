@@ -195,4 +195,4 @@
 [Three Virtues]: https://en.wikipedia.org/wiki/Larry_Wall
 [MAO-I]: https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor
 [Heimat]: https://en.wikipedia.org/wiki/Heimat
-
+[DSL]: http://c2.com/cgi/wiki?DomainSpecificLanguage

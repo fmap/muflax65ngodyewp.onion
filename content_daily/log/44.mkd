@@ -1,0 +1,20 @@
+---
+title: Ruby is kinda neat
+date: 2012-05-14
+techne: :done
+episteme: :log
+---
+
+So hacked together the first tools for Bayesian calculations. I can now properly compare two hypotheses and update my priors! Yeah, baby! Almost finished the write-up of that first iteration. Also got myself two introductory books to Bayesian statistics, and going to improve based on that.
+
+I'm deliberately re-inventing the wheel here because I hate magical black boxes. If I haven't written the tools myself, I won't understand *why* they work, and statistics without understanding isn't any better than astrology. Also, hacking all this myself in Ruby makes it so much more usable in the end. Personal [DSL][] ftw![^personal]
+
+[^personal]: The only disadvantage of this is that the tools are highly customized to my thinking style, but still, it's trivial to adjust. If you know Ruby and are on a *NIX system. But if not, the fuck is wrong with you? Seriously.
+
+Also, just typing `post 20.p, 3, 4` (= calculate the posterior, starting with a 20% prior and two observations, one at 3:1 odds, the other at 4:1 odds in favor of the hypothesis, which outputs `posterior: 4.77dB / 75.00%`) is much nicer than any R crap[^r]. And thanks to a few tables I taped to my wall, I can also do all those calculations by hand during thinking sessions, with nothing more than a few lookups and simple addition. (Log tables ftw!)
+
+[^r]: If you have to deal with gigabytes of data, and need to test models that require supercomputers to even run, go ahead, use R or Mathematica or whatever. I'm figuring out if caffeine fucks with my sleep, not decoding the genome or predicting the weather.
+
+Math is fun. Especially non-arbitrarily derived math that actually makes sense (unlike frequentist bullshit), is intuitive and usable.
+
+Currently working on supporting more than two hypotheses, and more details of the experimental protocol, particularly wrt blinding. Though I'm beginning to think that proper Bayesian analysis is *much* less subject to cognitive biases and stuff like that. Just roll it all into your priors, add more hypotheses and keep on updatin'. 

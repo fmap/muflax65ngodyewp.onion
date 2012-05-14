@@ -1,0 +1,57 @@
+---
+title: Self-Experiments (First Iteration)
+alt_titles: [Self Experiments 1]
+date: 2012-05-13
+techne: :wip
+episteme: :speculation
+---
+
+My earliest criticism[^not] of utilitarianism was that utilitarians don't actually, you know, *make any utility calculations*. That's really weird for a metaethical system with the core assumption that the Right Thing To Do derives from a utility function, which can be calculated (and approximated) and which should guide our decision-making. And then nobody ever does that. Hmmmm.
+
+[^not]: Hypocrisy is evidence against the truth of a belief, but not strong evidence. It alone would not be enough to overcome the elegance of utilitarianism.
+
+Yesterday I noticed I self-identify as a Bayesian, but besides an AI class and, implicitly, in my spam filter, I don't think I've ever used Bayesian calculations, even simplified. Hmmmm.
+
+I also surprisingly often tell people to track their shit. "Do you have data about X? No? Then you don't know if you have a problem with X. Shut up and log." But even though I do log quite a bit, I haven't done a proper self-experiment for months. And I have no protocol in place how to run one, no predetermined criteria how to evaluate them, no idea how to judge an hypothesis even if I have all the necessary data. Hmmmm.
+
+That's not quite true. I *do* have some protocols, tools and so on, to calculate probabilities, test hypotheses and quickly compare alternative actions. For *RPG builds*. Seriously, what the fuck, muflax?
+
+Let's change this.
+
+What I'm explicitly *not* interested in is running some cargo cult science. "Collect measurements, run them through R, see what p-value you get" is *not* good advice at all. If you're using statistics like a black box that somehow, magically, produces a number how true something is, then you might as well go back to astrology.
+
+Similarly, if it's *hard* to do, then you won't end up doing it. I can't calculate for shit and my working memory is often occupied by the ideas I'm testing, so I don't want to juggle complex equations at the same time. Luckily, the underlying math of Bayesian statistics is surprisingly simple. If what you're doing involves more than lookups and addition, *you're doing it wrong*.
+
+But before we get to answers, let's get clear on what the *questions* are.
+
+The basic use case is, I have an action and a set of properties I think it affects. (E.g., drinking coffee and sleep duration.) So I ask myself:
+
+1. Does it have an effect? (placebo yes/no?)
+2. How much? (weak effects vs. strong effects)
+3. What data do I need to collect to determine that? (What needs logging?)
+4. How much data? (How large of an N do I need? When can I stop logging?)
+5. How do I collect the data? (Blinding? Other measures against biases?)
+6. How do I quantify data? (What's "sleep quality" as a number?)
+7. How do I make the collection and evaluation as easy as possible?
+
+It worries me deeply that *I don't know the answer to these questions*. It worries me *even more* that *I haven't seen anyone else[^gwern] explicitly answer that*. (Those are easily 2 of my Top 3 worries.)
+
+[^gwern]: Though [gwern][] *does* proper self-experiments, but he doesn't seem to have a protocol or predetermined evaluation procedure in place. Still, major props to him.
+
+That's not true for Proper Science, of course. Scientists are taught this stuff, sometimes. (At least good statisticians are.) But *I* wasn't, and I've never seen a "rationalist" teach or use that stuff outside the laboratory as far as I know. (If you self-identify as a rationalist, and *you* can't answer these questions in a way that is specific enough to actually use, *you should worry, too*.)
+
+(There's the additional problem of how to correctly *implement* your knowledge, and it involves unit tests, checklists, automated tools, methods to explicitly break slippery slopes (Schelling fences, as Yvain calls them), sane defaults and so on. Engineers (and implicit engineers, like lawyers) do learn this stuff, sometimes. I don't worry much about that part.)
+
+Enough worrying. The good news is, when you have *no* data, then collecting *any* usable data will improve your predicament. Even a shitty protocol is better than *nothing*.
+
+So here's the first shitty version, explicitly meant to be iteratively improved upon, until <del>I</del> we <del>rule</del> save the world.
+
+http://yudkowsky.net/rational/technical
+
+log rule to score predictions:
+- Score(p) = log(p)
+- Expectation = Σ(p*log(p))
+
+> Suppose we started with even odds in favor of the precise theory and the vague theory - odds of 1:1, or 50% probability for either hypothesis being true. After seeing the result 51, what are the posterior odds of the precise theory being true? (If you don't remember how to work this problem, return to An Intuitive Explanation of Bayesian Reasoning.) The predictions of the two theories are analogous to their likelihood assignments - the conditional probability of seeing the result, given that the theory is true. What is the likelihood ratio between the two theories? The first theory allocated 90% probability mass to the exact outcome. The vague theory allocated 9% probability mass to the exact outcome. The likelihood ratio is 10:1. So if we started with even 1:1 odds, the posterior odds are 10:1 in favor of the precise theory. The differential pressure of the two conditional probabilities pushed our prior confidence of 50% to a posterior confidence of about 91% that the precise theory is correct. Assuming that these are the only hypotheses being tested, that this is the only evidence under consideration, and so on. 
+
+- invariant, slicing doesn't matter
