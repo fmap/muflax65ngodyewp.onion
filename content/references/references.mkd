@@ -46,7 +46,6 @@
 [Swartz Dennett]: http://www.aaronsw.com/weblog/dennettdumb
 [Tao]: http://www.beatrice.com/TAO.txt
 [Technium]: http://www.kk.org/books/what-technology-wants.php
-[The Attention Revolution]: http://www.amazon.com/Attention-Revolution-Unlocking-Power-Focused/dp/0861712765
 [Turtles]: http://en.wikipedia.org/wiki/Turtles_all_the_way_down
 [Unbreakable]: http://diabasis.com/2011/06/18/could-there-be-beings-that-are-not-wrong-to-make/
 [Vipassana]: http://www.dhamma.org
@@ -84,6 +83,7 @@
 [mother aya]: http://forums.ayahuasca.com/viewtopic.php?p=98187#p98187
 [PIT]: http://psychedelic-information-theory.com/
 [Szabo Intersubjective]: http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/tradition.html
+[Bayesiann Empiromancy]: http://dresdencodak.com/2009/01/27/advanced-dungeons-and-discourse/
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
@@ -171,6 +171,10 @@
 <!-- reddit -->
 [reddit lain]: http://www.reddit.com/r/AskReddit/comments/t0ynr/throwaway_time_whats_your_secret_that_could/c4inqul
 [Xmonad Bug]: http://www.reddit.com/r/xmonad/comments/fdp4o/let_focus_follow_mouse_only_on_certain_layouts/
+
+<!-- books -->
+[Introduction to Bayesian Statistics]: http://libgen.info/view.php?id=12067
+[The Attention Revolution]: http://www.amazon.com/Attention-Revolution-Unlocking-Power-Focused/dp/0861712765
 
 <!-- internal links -->
 [main]: http://muflax.com

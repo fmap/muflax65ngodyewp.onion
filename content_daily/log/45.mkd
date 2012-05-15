@@ -1,0 +1,37 @@
+---
+title: Title
+date: 2012-05-15
+techne: :done
+episteme: :log
+---
+
+Starting reading [Introduction to Bayesian Statistics][], highly recommended. I'm also happy to see that my initial ideas how to run and measure experiments are exactly what the book is talking about. (Yay me?)
+
+So I'm currently doing two things:
+
+1. Hack together a DSL to specify probability mass functions quickly and in intuitive ways, like:
+
+   ~~~
+   #!ruby
+   hypothesis "simple example" do       # => define a simple hypothesis
+     prior :weight => 2                 # => 2x as likely as any other hypothesis
+     range 1..10                        # => values range from 1 to 10
+     add :spike, :at => 7, :height => 3 # => observing "7" has 3x the normal weight
+   end
+   ~~~
+
+   and it just normalizes everything so the total mass adds up to 1, and composes the function based on various additions, overlays and so on (if I had a tablet: just draw it by hand).
+
+   That way, I'll have a Ruby script for each problem I'm evaluating, and the script contains a precise (algorithmic) description of the various hypotheses (and classes of hypotheses, yay meta-programming), and I just feed it all the observations I made and it gives me my posterior probabilities. (At a degree of complexity and precision that is suitable for constant quick and dirty measurements, not huge data analysis, of course.)
+
+2. Design a checklist-style protocol how to actually use those techniques, like:
+
+   - [ ] select quantifiable variables
+   - [ ] define hypotheses (algorithmically or as hand-drawn curves)
+   - [ ] assign priors (based on (intuitively estimated) complexity, uniform distributions over parameters and intuitions[^intuitions])
+   
+   ...and so on. I want this (mostly) pre-determined so I can systematically improve it, and so I don't forget how to do it half-way through.
+
+[^intuitions]: Humans are actually pretty good at picking up frequencies and plausible priors under many normal situations. Azathoth ain't completely incompetent.
+
+At the same time, I'm fixing bugs for work, and trying to not freak out that I'm not studying for exams yet, and how this will become hellish soon enough. But I'm not touching *any* self-improvement or problem-solving work before I have methods how to get reliable answers. I'm not doing blind experimentation anymore. It's time to Do Science, and that needs a new level in [Bayesian Empiromancy][] I gotta grind first.
