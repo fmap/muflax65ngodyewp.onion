@@ -1,0 +1,28 @@
+---
+title: There is no Science but Bayes and it is our Method.
+date: 2012-05-16
+techne: :done
+episteme: :log
+---
+
+Noticed that lack of sleep isn't work out for me. Can't think, only rant. Couldn't code today, so only read and thought about Bayesian statistics (and watched Desperate Housewives all day).
+
+Gonna sleep soon, continue tomorrow, no matter how busy I am.
+
+(Also, you know what I really hate? That I don't know enough Latin already to make a parody of the Apostles' Creed to mirror [Grognor's recent (troubling) post][LW grognor creed]. It's so perfect! This is *exactly* a doctrine-defining move right there. It's the formation of canon and an affirmation of faith. Hopefully, LW is still around and hasn't gone completely r/atheism in a year or two, so I can still eventually pull this off in Latin when it's still relevant. (The canonizing and solidifying moves are only going to get more frequent. The only people capable of seriously stopping this are too busy or have too little left to say to provide sufficient new content. This is over, it's just a question of how soon. (Though I'm still open to the possibility of LW getting disrupted.))
+
+I believe in Probability Theory, the Foundation, the wellspring of knowledge,
+I believe in Bayes, Its only Interpretation, our Method.
+It was discovered by the power of Induction and given form by the Elder Jaynes.
+It suffered from the lack of priors, was complicated, obscure, and forgotten.
+It descended into AI winter. In the third millennium it rose again.
+It ascended into relevance and is seated at the core of our FAI.
+It will be implemented to judge the true and the false.
+I believe in the Sequences,
+Many Worlds, too slow science,
+the solution of metaethics,
+the cryopreservation of the brain,
+and sanity everlasting.
+Phyg.
+
+(And the older, but marginalized and crazier version, the parallel to Gnosticism, are the people claiming the Universal Prior and Solomonoff Induction will transcend this computationally limited world, and will find salvation in the Omega Who blesses the Chosen Ones with a spark of Measure.))
