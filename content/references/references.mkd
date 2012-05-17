@@ -84,6 +84,7 @@
 [PIT]: http://psychedelic-information-theory.com/
 [Szabo Intersubjective]: http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/tradition.html
 [Bayesian Empiromancy]: http://dresdencodak.com/2009/01/27/advanced-dungeons-and-discourse/
+[Robo Messiah]: http://www.tripzine.com/listing.php?id=dxm02
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
@@ -176,6 +177,7 @@
 <!-- books -->
 [Introduction to Bayesian Statistics]: http://libgen.info/view.php?id=12067
 [The Attention Revolution]: http://www.amazon.com/Attention-Revolution-Unlocking-Power-Focused/dp/0861712765
+[Data Analysis - A Bayesian Tutorial]: http://libgen.info/view.php?id=259687
 
 <!-- internal links -->
 [main]: http://muflax.com

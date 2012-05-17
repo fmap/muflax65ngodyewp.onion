@@ -1,0 +1,30 @@
+---
+title: Strawberry Fields
+date: 2012-05-16
+techne: :done
+episteme: :log
+---
+
+Part of me is fascinated with breaking stable things. I've been thinking more about Kent's model of resonance and shamanistic ritual as an acoustic driver, and from a pragmatic perspective this still seems like very useful model to me. And I figured the main reason his book is so underwhelming is because you can't teach the relevant skills through writing.[^dance]
+
+[^dance]: This is literally the one topic where the old Waldorf education jokes are actually true. Dance is actually a more appropriate medium to communicate this stuff.
+
+The Ayahuasca went on a (very weak) hold until I have figured out what state I'm going for, what new attractor I'm seeking. I have this idea that I want to pick a fight with *somebody*, but I'm not quite sure *who*. So I did a few hours of probing, taken some DXM to go into a controllable space[^beatles], piss off various entities, see how I react to it. I feel like I want to *become* [Yamantaka][], scream into Yama's face how I'm not afraid of him anymore, but I don't know *why*, what this is supposed to accomplish. The only reason I even care about Yama is because Yamantaka cares about him!
+
+Weird state.
+
+Then remembered that, about 2 years ago (that long!), I went back to DXM for this exact reason. I had made an Ayahuasca brew in 2009 (I think?), but couldn't get myself to drink it. I was simply too afraid. So I decided to slowly work myself back up, start with very low dose DXM, get comfortable, exploit the fact that DXM has never ever frightened me (and that it still is the only drug I trust completely, on any dose, in any setting[^trust]). Well, that didn't work out. Didn't even go back to high DXM doses. Hurm.
+
+So I scheduled a High Second Plateau first (as soon as the current load is metabolized, for safety reasons). 
+
+(And then the chaotic force in me wants to just jump right in and use Dubstep as a driver. I don't know if I listen too much or too little to [this voice][Headcleaner].)
+
+[^beatles]: Beatles. DXM + Magical Mystery Tour. (Or Ketamine, should work too. It's what they used after all.) First real DXM trip, get massive muscle twitches, lie down, feel great but look like I'm having a seizure, first time listening to MMT, and Fool on the Hill calms me down nicely, I space off a little, then I Am The Walrus hits and I curse them for this mindfuck and laugh my ass off. 
+
+[^trust]: Meta-note: Beware of DXM advocacy! It's a schizophrenic's drug, a totally lame thingy that [fucks with you][Robo Messiah] in the long-term, eats your soul, and turns you into one of those people asking strangers to repent or the aliens will enslave us all, the ones no one invites to parties but who end up there anyway, rambling about gravitational effects. But you don't get to choose your love affairs, and somebody's got to love the crappy stuff.
+
+---
+
+And finished [Introduction to Bayesian Statistics][]. Really a great book, though I have some minor organizational nitpicks, and I think it could benefit from more examples to provide better motivations for some techniques. But it answered most of my relevant questions, so it did its job just fine.
+
+I'm now reading [Data Analysis - A Bayesian Tutorial][], mostly for some additional advice on numerical estimates and some more typical use cases.
