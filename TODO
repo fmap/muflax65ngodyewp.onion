@@ -1,4 +1,4 @@
-* Technical Improvements [7/10]
+* Todo [7/14]
 - [X] switch to creation dates
 - [X] hide drafts in categories, but compile them anyway
 - [X] better rss feed (automatic items based on dates, changelog)
@@ -9,4 +9,7 @@
 - [ ] better handling of footnotes (parallel column?)
 - [X] switch rake to nanoc commands
 - [ ] universal RSS
-
+- [ ] disclaimer about removed content
+- [ ] "merged with"
+- [ ] search bar prettier
+- [ ] imply all_sites without -s
