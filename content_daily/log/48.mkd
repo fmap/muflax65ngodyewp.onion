@@ -1,0 +1,33 @@
+---
+title: Satanic Bibles
+date: 2012-05-21
+techne: :done
+episteme: :log
+---
+
+(As a disclaimer because I value transparency about this (might add it somewhere central, too): removed some comments on some topics, with the consent of the people involved (and upon their request), and will continue to do so in the future. I don't censor, but I keep certain information private / harder to find when appropriate. Thanks to the commenters, as always.)
+
+---
+
+So I finished the first version of the Bayesian tools. Then coded more, did test runs, extended them, did test runs, did work, freaked out, did work, coded more, you get the idea. That's been my last few days.
+
+This is going to get worse. Much worse. Working more, no time to do any write-ups. Trying to set up a few actual experiments to update on, not much else.
+
+(Also, noticed that I have to take 1 capsule (30mg) of DXM more to get the same effect compared to ~2 years ago. You know you've gotten fat when it changes your dose calculations.)
+
+---
+
+(Meta-note: rest doesn't count.)
+
+John 5:31-34:
+
+> If I testify about myself, my testimony is not true. There is another who testifies in my favor, and I know that his testimony about me is true. You have sent to John and he has testified to the truth. Not that I accept human testimony; but I mention it that you may be saved.
+
+This is totally about [Löb's theorem][]. I was looking for a quote, and then started re-reading the Gospel of John in terms of computations and AIs, and the Discordian in me is delighted how *easy* it is to interpret it that way. (Note that the highest angel is called *Meta*tron.) Maybe I should attempt a deliberate re-write. (puts it on the todo)
+
+BTW, we need a name for this emerging new theology. Computational Theology? Neo-Thomism? Newsomian[^newsomian] Theology? Dunno.
+
+[^newsomian]:
+    Term due to [wallowinmaya][wallow newsomian]:
+
+    > Uh oh. You're almost always on the safe side, if you believe the opposite of what Fichte or any of those crazy German Idealists said. Although there may be some "newsomian" reasons (ideas that are at a first glance (actually at the first thousand glances) completely ridiculous, but which turn out to be quite brilliant when you employ sophisticated theories like acausal trade, universal dovetailing or any of the other epistemological magic tricks Will Newsome and other folks discovered) why German Idealism is uber-cool.

@@ -85,6 +85,7 @@
 [Szabo Intersubjective]: http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/tradition.html
 [Bayesian Empiromancy]: http://dresdencodak.com/2009/01/27/advanced-dungeons-and-discourse/
 [Robo Messiah]: http://www.tripzine.com/listing.php?id=dxm02
+[wallow newsomian]: https://wallowinmaya.wordpress.com/2012/03/28/516-dark-side-epistemology/
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
