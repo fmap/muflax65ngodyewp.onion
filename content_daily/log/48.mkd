@@ -1,6 +1,6 @@
 ---
 title: Satanic Bibles
-date: 2012-05-21
+date: 2012-05-20
 techne: :done
 episteme: :log
 ---

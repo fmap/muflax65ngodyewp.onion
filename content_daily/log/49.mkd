@@ -1,0 +1,38 @@
+---
+title: Hare Krishna
+date: 2012-05-21
+techne: :done
+episteme: :log
+---
+
+I'm really getting fond of log-odds. Why the fuck was I ever taught to use probabilities? Probabilities are horrid! No one should ever use them for anything[^anything]! Use likelihoods and log-odds (preferably in decibels). Seriously.
+
+[^anything]: Yeah, I still calculate with probabilities under the hood. But all the stuff I enter and see is in likelihoods or decibels. Or measure, which is weird to use, but pretty to look at, so some graphs use it. But it totally confused me for like half an hour that a probability density function can return values >1 for individual points, as long as those points have low enough measure. Thinking of probability as an integral itself is confusing.
+
+Then read more about Bayesian data analysis, and all of this is making so much sense, and I love seeing the posterior move around as it updates on new evidence, and I'm super excited because I'm seriously sleep-deprived and just finished my Desperate Housewives marathon and I want a pretty <del>baby[^baby]</del> and a white picket fence and somebody shoot me please my head doesn't stop.
+
+[^baby]: There goes the antinatalist cred.
+
+But seriously, got a good idea how to figure out parameters (and have the tools for that), but I'm still not quite sure how to run blinded experiments (i.e. probability functions that have state / are conditional), but I should have a solution soon.
+
+---
+
+Gah, hair seriously stressing me out. I still have a "don't touch or change *anything*" policy for the next two weeks, but I have no idea what to do after that. I justify this with paleo motivated curiosity[^paleo], just to see what happens without shampoo and at a "natural" (uncut) length. What I would've looked like as a hunter-gatherer, essentially.
+
+[^paleo]: Self-reliance, neurosis. Po-tay-to, po-tah-to. (Who actually says po-tah-to?)
+
+First 2 weeks: it's awful. Like, my skin is already pretty messed up, but "no shampoo" made the itching worse. I'm now using vinegar + baking soda to get it reasonably un-itchy. It's seems to slowly recover, and if I gave up caffeine, it might actually stop itching, but I'd rather bleed than go sober. (Also, sunlight would help the skin, but you know how it is.)
+
+The hair is becoming asymmetrical, and the lengths are all off, and I have no idea what style to go for, or how to maintain it, or even what is and isn't broken, as I've never had to deal with >4cm hair at all, and *gah*.
+
+Of course, a *sane* person would just google the best hair stylist in the nearby town and pay *them* to figure out how to deal with this mess. But this insane blogger *can't* do that because he has an "interact with new people" budget of about 1 per month, and he's still avoiding his advisor.
+
+Previous hundred lives, I always was a monk with a shaved head; can't explain it otherwise. (However, it does make corpse meditation *incredibly* easy. Everything is decaying filth *already*. I would never leave the bathtub if I could. I hate *everything* about bodies.)
+
+So in preparation of some fixes, I watched a whole bunch of Youtube videos (read r/malehairadvice etc.) about how to cut your hair, do various styles and so on. In two weeks, I'll just try my best. (I *might* actually get over enough of my neurosis to do photos then. I almost wanna post them to various sites / reddit to get options and ratings, and do it more scientifically, but I don't know if I can convince myself of that.)
+
+Even ordered some products to experiment with, bought some shorts for the summer and now I seriously feel like buying pretty shoes. omg I'm leveling up in gay clichés~~~
+
+If all else fails, I'll go back to a buzz cut; that's my "still not happy in July or fucked up" fallback. Or, I could just become a <del>dirty hippie</del> weird person again and dye my hair crazy colors and so on, like I did in high school, that always got me into the right crowds[^crowd]. But I'm not sure I can still pull that off these days. (Might still try, though.)
+
+[^crowd]: I speculate that it's a kind of signalling you're strictly not competing because you don't care thing. No one perceives you as a threat and you don't come across as submissive either. Like a universal gay friend. Of course, you'll only become friends with other weird people and never ever get laid, but I consider that a good thing.
