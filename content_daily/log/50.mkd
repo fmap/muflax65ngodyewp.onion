@@ -1,0 +1,58 @@
+---
+title: Falling Fast and Falling Free
+date: 2012-05-24
+techne: :done
+episteme: :log
+---
+
+> Libra: This week it will seem you must either tell your secret love about your feelings or die. Next week, of course, you will die. ([Onion][onion horoscope 2])
+
+I looked through old photographs, and noticed how my attitude has changed. Up to a certain point, I was looking *forward* to things, trying to get certain things done. After it, I'm only killing time. I'm not living a life, I'm managing an estate.
+
+When I was 17, I had a dream in which I met a 25-year-old me, who told me that everything would be fine, and that things would come to an end soon. I expected to die before I ever got that old (of suicide, most likely).
+
+My best friend, 31 at the time[^old], used to joke that she would be dead before I ever made it to adulthood. She's 40 now, still killing time, like the rest of us.
+
+[^old]: I had many older friends, mostly due to my interest for older pop culture and growing up very close to my parents. If half your friends aren't old enough to be your parents, you're hanging out with the wrong crowd.
+
+A few things were different. For one, I used to take photos. Fortunately, modern technology has made it way easier to sepia the shit out of shaky shots. Instagram, you understand me.
+
+<%= image("reflection.jpg", "Reflection") %>
+
+But more importantly, my writing was different. I had a website since late 2000, in some form or another[^most], but back then, I mostly wrote poems, short stories and rants about love, religion and suicide. Well, I still rant (even about similar stuff), but I haven't written any fiction[^fiction] in a long time (besides some minor thought experiments and similar fluff).
+
+I feel like I've lost my language, lost my soul.
+
+I have become burdened. Don't be obscure, don't be misunderstood, don't be too personal, don't be boring, don't be emotional, don't be wrong, don't be fake, don't be unreliable, don't harm those who mean well.
+
+[^most]: Most sites are gone, the archives purged, the backups burned. I wanted to prevent myself from ever going back, from ever relapsing. I don't regret this decision, but I'd love to read my old poetry. Some of it was really good. (Plus, it makes me look much more sophisticated than I really am. You remember Geocities? I had a site like that. Seriously.)
+
+[^fiction]: I don't like the term "fiction", but what else do you call it?
+
+And three days ago - the first day of summer - I sat on a wall in our garden, overlooking all the [decay and broken dreams][Befindlichkeit], and I ate oreo-flavored ice cream, which is like a pizza topped with another pizza[^pizza], and I dwelled on a little fantasy I've been carrying with me for some years, a fantasy of missed opportunities, of hoping that all the things that are impossible for me to have now, in my fallen state and with my bad decisions, that these things would become possible once the Singularity hits.
+
+[^pizza]: Highly recommended. Idea by Käpt'n Blaubär.
+
+No paths are lost, just postponed. I may never confess my feelings in this life, but reborn in utopia, I might.
+
+And maybe it's the summer, maybe just a certain threshold, but the fantasy finally *broke*. It became too much, and the superficial, vague desires turned into a full awareness of the *deficiency* of this life, of the utter inadequacy and tedium, of all the sacrifices I made in the name of fear, and all the things I never did but could have done.
+
+I've let boredom eat my soul, and accepted distant pleasantness as a substitute for painful beauty, and I'm no longer sure if the trade was worth it in the end.
+
+I attempted to express this dream, find words for the fundamental isolation, for the thing I wish to shatter, but it's one fake idea after another. I fantasize about getting my hands on [Henry Darger][], or any other fellow servant of the madness, and shaking them until the nothingness in their soul goes away, fantasize about shattering what I perceive as their cage, wish to shout, *I understand*, *you are not alone!*, only for me to realize my greatest fear, that there is no one home, that there's nothing for me to understand, that they aren't *imprisoned*, are just as empty, just as fake as I am. 
+
+We have the gestures of torment, but it's all meaningless, all just a going-through-the-motions to exploit the emotional pay-off of struggle, not an actual attempt to *solve* anything. Free Sisyphus, and you destroy the last bit of happiness he had.[^pessimism]
+
+[^pessimism]: This realization kills mystics like flies. German philosophy is mostly the (failed) attempt to come to terms with that.
+
+As the saying goes, "May you find what you're looking for!" is the worst curse you can inflict on someone. I worry that, if I ever found this beauty, ever *got* my dreams, I'd hate and reject them, as I have rejected results in the past. To find someone who I can utterly trust, only to then realize that *I* am the empty one, that I lost interest the moment I knew the struggle was over, that I feel, want and mean nothing.
+
+And so like in the old summers, [I wrote a poem][After the Singularity].
+
+Despite the title, it's not really about the Singularity, and it feels incomplete and clumsy, and several times during the writing process I almost chickened out, thinking, that's too personal / too uninteresting / too easy to misunderstand / too *something*, I should just give up, and then I thought that this is the only medium I've *got*, the only way I know to explore this, to ever get anywhere, no matter how slowly and unsatisfactorily, and I need to take the first but awful step, and then I remembered, *this is my fucking blog, I'm posting what the fuck I want*, even if it might turn out that I'm only pretending, that I will abandon these dreams as soon as they might ever become possible, because right now, *I care*, even if, mind-wiped as always, tomorrow, I won't.
+
+<%= image("duck.jpg", "Duck Repost") %>
+
+It seems fairly plausible now that eventually my site will contain all I ever had to say, enough for a FAI crawling through the archives to reconstruct what needs to be fixed, even after I'm dead. Who needs cryonics when you have a blog.
+
+(Meta-note: half count.)
