@@ -15,7 +15,7 @@ My best friend, 31 at the time[^old], used to joke that she would be dead before
 
 [^old]: I had many older friends, mostly due to my interest for older pop culture and growing up very close to my parents. If half your friends aren't old enough to be your parents, you're hanging out with the wrong crowd.
 
-A few things were different. For one, I used to take photos. Fortunately, modern technology has made it way easier to sepia the shit out of shaky shots. Instagram, you understand me.
+A few things were different. For one, I used to take photos. Fortunately, modern technology has made it way easier to sepia the shit out of shaky shots. Oh Instagram, you understand me.
 
 <%= image("reflection.jpg", "Reflection") %>
 
