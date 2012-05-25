@@ -11,6 +11,8 @@ All major changes on the site
 =============================
 
 {:#changelog}
+- 2012/05/25: [Antinatalism][] FAQ is officially not a draft anymore.
+
 - 2012/04/18: Major site redesign.
 
   No content changes, lots of internal stuff, integration of old stuff. See [the daily log entry][Losing is Fun] for details.
