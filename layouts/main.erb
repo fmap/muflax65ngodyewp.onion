@@ -3,11 +3,9 @@
   <!-- main part -->
   <div id="main">
     <%= render 'title' %>
-  
-    <%= render 'mindkiller' %>
 
-    <%= render 'episteme' %>
-
+    <%= render 'warnings' %>
+    
     <% render 'content' do %>
          <%= yield %>
     <% end %>

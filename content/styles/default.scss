@@ -73,6 +73,13 @@ div#mindkiller {
   background: $episteme;
 }
 
+/* merged with another article */
+div#merged {
+  background: $episteme;
+  line-height: 2em;
+}
+
+
 div#disqus {
   border-top: 10px solid $h1;
   text-align: left;

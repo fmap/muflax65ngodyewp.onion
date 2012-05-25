@@ -1,0 +1,7 @@
+<!-- has the item been merged with another? -->
+<% if @item.merged? %>
+  <div id="merged">
+    <p><strong>Update:</strong> the content of this page <a href='<%= @item.merged_link %>'>has been merged with another</a>.
+    </p>
+  </div>
+<% end %>

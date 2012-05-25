@@ -37,4 +37,18 @@ class Nanoc::Item
     topics = %w{history}
     !!self[:mindkiller]
   end
+
+  def merged?
+    !!self[:merged]
+  end
+
+  def merged_link
+    raise "no merged link for #{self.identifier}" unless self[:merged]
+
+    if m = self[:merged].match(/^(?<site>\w+):(?<page>.+)$/)
+      "http://#{m[:site] == "muflax" ? "" : "#{m[:site]}."}muflax.com/#{m[:page]}"
+    else
+      raise "invalid format: #{self[:merged]}"
+    end
+  end
 end
