@@ -26,7 +26,7 @@ The ability to agree to (or reject) a  proposed deal. The main problem is that I
 
 I'm really hesitant to accept [hypothetical][Hypothetical Consent] or [implied][Implied Consent] consent. I would strongly prefer any consent to be explicit and (ideally) formalized. I currently don't see how explicit consent can work without the abilities of thought and language. So animals can't consent and are not morally relevant.
 
-There are two ways to negate this argument. Either show that animals *can* meaningfully consent (this is also relevant for [Antinatalism][] - if non-existent humans can consent, then it seems much more likely that animals can too, and vice versa), or show that humans *can't* consent, i.e. that consent is a confused concept. This is probably the weakest of the three features and I expect to change my mind about it, but I don't know in which direction yet.
+There are two ways to negate this argument. Either show that animals *can* meaningfully consent (this is also relevant for [antinatalism][Antinatalism FAQ] - if non-existent humans can consent, then it seems much more likely that animals can too, and vice versa), or show that humans *can't* consent, i.e. that consent is a confused concept. This is probably the weakest of the three features and I expect to change my mind about it, but I don't know in which direction yet.
 
 ## The Rule of Law
 
@@ -46,7 +46,7 @@ See [Richard Carrier's][Carrier Vegetarianism] post for the actual argument. Bas
 
 There are two ways this could be wrong. First, you could try to show that there is some fundamental desire that animals in modern farms can't fulfill. Obviously, I don't see such a desire, but it might exist. The best case for this so far is [Eduardo Sousa][]'s farm. However, animals don't seem to reject modern farms or suffer tremendous stress. But we might've missed something.
 
-The second way this could be wrong is to show that categorical [Antinatalism][] is correct (and that animals are morally relevant). Basically, if it is always wrong to bring a life into existence, then we shouldn't breed animals, ever. (And we should seek the extinction of all wildlife.) I'm currently working through the various antinatalist arguments, but so far, I'm not convinced of the most categorical form, but I already accept basic antinatalism (it is *often* wrong to create life), and some of the arguments still look promising to me once I'm done repairing them.
+The second way this could be wrong is to show that categorical [antinatalism][Antinatalism FAQ] is correct (and that animals are morally relevant). Basically, if it is always wrong to bring a life into existence, then we shouldn't breed animals, ever. (And we should seek the extinction of all wildlife.) I'm currently working through the various antinatalist arguments, but so far, I'm not convinced of the most categorical form, but I already accept basic antinatalism (it is *often* wrong to create life), and some of the arguments still look promising to me once I'm done repairing them.
 
 # Even if they suffer, I morally discount against them (and I'm justified to do so).
 
@@ -55,3 +55,5 @@ It's true that I strongly discount anything that doesn't directly affect me or t
 However, this is inherently the weakest argument. If we accept that animals immorally suffer, then discounting just changes the level of importance we should assign to it. But given the [huge amount of animals][Dawrst Wildlife] (10^10 and more!), even strong discounting can be overcome. If we accept that breeding animals violates their rights or consent, then no amount of discounting is relevant. Consent can't be morally overridden.
 
 But as it stands now, animals probably don't have rights, so we can discount. They don't suffer much, if at all, so even their large numbers aren't sufficient, especially because human benefits outweigh it. Therefore, eating animals is acceptable.
+
+
