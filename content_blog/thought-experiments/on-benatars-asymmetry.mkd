@@ -9,6 +9,7 @@ tags:
 techne: :done
 episteme: :fiction
 slug: 2011/12/30/on-benatars-asymmetry/
+merged: muflax:morality/antinatalism
 ---
 
 David Benatar uses the following asymmetry in his arguments for antinatalism:
@@ -51,7 +52,9 @@ In a third approach, we could ask Hardcore Consequentialist Robot 9000 what it t
 
 So who's right? Or is everyone wrong and there's a fourth option?
 
-[^1]: As [PlaidX observes][PlaidX torture]:
+[^1]:
+    As [PlaidX observes][PlaidX torture]:
+
     > The use of torture in these hypotheticals generally seems to have less to do with ANALYZING cognitive algorithms, and more to do with "getting tough" on cognitive algorithms. Grinding an axe or just wallowing in self-destructive paranoia.
     >
     > If the point you're making really only applies to torture, fine. But otherwise, it tends to read like "Maybe people will understand my point better if I CRANK MY RHETORIC UP TO 11 AND UNCOIL THE FIREHOSE AND HALHLTRRLGEBFBLE"

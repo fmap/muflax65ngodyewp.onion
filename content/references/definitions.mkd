@@ -197,3 +197,6 @@
 [Heimat]: https://en.wikipedia.org/wiki/Heimat
 [DSL]: http://c2.com/cgi/wiki?DomainSpecificLanguage
 [Löb's Theorem]: https://en.wikipedia.org/wiki/L%C3%B6b%27s_theorem
+[Cala Sutta]: http://www.accesstoinsight.org/tipitaka/sn/sn05/sn05.006.bodh.html
+[Pareto]: http://en.wikipedia.org/wiki/Pareto_efficiency
+[Kaldor Hicks]: https://en.wikipedia.org/wiki/Kaldor%E2%80%93Hicks_efficiency

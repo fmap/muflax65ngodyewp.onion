@@ -87,6 +87,8 @@
 [Bayesian Empiromancy]: http://dresdencodak.com/2009/01/27/advanced-dungeons-and-discourse/
 [Robo Messiah]: http://www.tripzine.com/listing.php?id=dxm02
 [wallow newsomian]: https://wallowinmaya.wordpress.com/2012/03/28/516-dark-side-epistemology/
+[Caplan Szasz]: http://econlog.econlib.org/archives/2006/09/they_called_me.html
+[AntiAN tweet depression]: https://twitter.com/AntiANtrollbot/status/200630646425653248
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
@@ -120,10 +122,12 @@
 [LW bias value]: http://lesswrong.com/lw/55n/human_errors_human_values/
 [LW holden]: http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/
 [LW grognor creed]: http://lesswrong.com/r/discussion/lw/cfe/i_stand_by_the_sequences/
+[LW dust]: http://lesswrong.com/lw/n3/circular_altruism/hv4
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
 [Hanson exist]: http://www.overcomingbias.com/2012/04/morality-should-exist.html
+[Hanson lift up]: http://www.overcomingbias.com/2011/01/lift-up-your-eyes.html
 
 <!-- software -->
 [Creative Commons]: http://creativecommons.org/licenses/by-nc-sa/3.0/de
@@ -142,7 +146,7 @@
 [Narrowing Circle]: http://www.gwern.net/Notes#the-narrowing-circle
 [Gwern anonymity]: http://www.gwern.net/Death%20Note%20Anonymity#mistake-2
 
-<!-- Sister Y -->
+<!-- Sister Y / antinatalists -->
 [Sister Asymmetry]: http://theviewfromhell.blogspot.com/2008/07/austrian-basement-and-beyond.html
 [Sister Epilogue]: http://theviewfromhell.blogspot.de/2010/12/living-in-epilogue-social-policy-as.html
 [Sister Y]: http://theviewfromhell.blogspot.com
@@ -150,6 +154,10 @@
 [Sister golem]: http://theviewfromhell.blogspot.com/2010/09/pathetic-golem.html
 [Sister Kaldor]: http://theviewfromhell.blogspot.com/2011/01/pareto-kaldor-hicks-and-deserving.html
 [Sister illusion]: http://theviewfromhell.blogspot.de/2012/04/why-we-believe-suicide-is-easy.html
+[Sister Job]: http://theviewfromhell.blogspot.com/2011/03/empirical-nature-of-meaning.html
+[Karl Harm]: http://networkedblogs.com/s9u4M
+[Francois Abortion]: https://francoistremblay.wordpress.com/category/antinatalism/pro-abortion/
+[Caplan hedonic]: http://econlog.econlib.org/archives/2011/12/a_cursory_rejec.html
 
 <!-- Moldbug -->
 [How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
@@ -171,6 +179,9 @@
 [XiXiDu]: http://kruel.co/
 [xixidu search]: https://plus.google.com/106808239073321070854/posts/HMQmaWaJy3u
 [xixidu utilitarian]: http://kruel.co/2011/07/24/open-problems-in-ethics-and-rationality/
+
+<!-- Yvain Disease -->
+[Yvain Disease]: http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/
 
 <!-- reddit -->
 [reddit lain]: http://www.reddit.com/r/AskReddit/comments/t0ynr/throwaway_time_whats_your_secret_that_could/c4inqul

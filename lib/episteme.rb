@@ -3,7 +3,7 @@
 def techne_title status
   case status
   when :rough
-    "needs revisiting"
+    "needs work"
   when :wip
     "work in progress"
   when :done
