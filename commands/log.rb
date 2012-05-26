@@ -1,4 +1,4 @@
-usage       'create_log'
+usage       'log'
 summary     'create new log entry'
 description 'Opens new log entry in Emacs.'
 
