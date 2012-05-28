@@ -87,8 +87,10 @@
 [Bayesian Empiromancy]: http://dresdencodak.com/2009/01/27/advanced-dungeons-and-discourse/
 [Robo Messiah]: http://www.tripzine.com/listing.php?id=dxm02
 [wallow newsomian]: https://wallowinmaya.wordpress.com/2012/03/28/516-dark-side-epistemology/
-[Caplan Szasz]: http://econlog.econlib.org/archives/2006/09/they_called_me.html
-[AntiAN tweet depression]: https://twitter.com/AntiANtrollbot/status/200630646425653248
+[Royal Crown]: http://www.pomade-shop.eu/Royal-Crown-Hair-Dressing-8-oz/en
+[oglaf honor]: http://oglaf.com/honor/
+[Why Are Young Men Angry?]: https://soberdownunder.wordpress.com/2012/02/24/why-are-young-men-angry/
+[Tangled]: https://en.wikipedia.org/wiki/Tangled
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
@@ -158,6 +160,8 @@
 [Karl Harm]: http://networkedblogs.com/s9u4M
 [Francois Abortion]: https://francoistremblay.wordpress.com/category/antinatalism/pro-abortion/
 [Caplan hedonic]: http://econlog.econlib.org/archives/2011/12/a_cursory_rejec.html
+[Caplan Szasz]: http://econlog.econlib.org/archives/2006/09/they_called_me.html
+[AntiAN tweet depression]: https://twitter.com/AntiANtrollbot/status/200630646425653248
 
 <!-- Moldbug -->
 [How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html

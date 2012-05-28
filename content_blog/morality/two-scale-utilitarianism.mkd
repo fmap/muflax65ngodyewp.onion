@@ -1,0 +1,52 @@
+---
+title: Utilitarianism Without Trade-Offs
+date: 2012-05-27
+techne: :wip
+episteme: :speculation
+---
+
+> The cost of something is what you give up to get it.
+>
+> -- Second Principle of Economics, Mankiw
+
+A common criticism of utilitarianism denies the plausibility that utility can be meaningfully aggregated, even in one person and under (near-)certainty. Let's say I offer you two choices:
+
+1. I give you two small things, one good, one bad, of exactly opposite value. (Say, a chocolate bar and a slap in the face.)
+2. I give you two large things, one good, one bad, of exactly opposite value. (Say, LSD and fever for a day.)
+
+The sum of utility for each choice is exactly 0, by construction[^construction], and therefore, you should be indifferent between them.
+
+[^construction]: Don't attack the hypothetical, bro.
+
+This is assumed to be absurd, and therefore utilitarianism is false.
+
+But where exactly does it fail? A chocolate bar is good, that's fact. Let's not focus on whether you may not like chocolate, or can't digest it, or whatever - substitute a different snack. And also ignore whether a snack is *morally* good, like that's a grave and serious problem, and chocolate is only about preferences, not *The Good*. Whatever, don't get hung up on the word. A chocolate *still feels good*, and let's keep it at that. Just a simple observation.
+
+And there are things that are *more good* in that sense. Cake is better. As is [Runner's High][]. Or the Fifth Season of Mad Men. You get the idea. So some things are good, and they can be compared. Maybe not at a very fine-grained level, but there are at least major categories.
+
+There are also bad things. And they, too, can be compared. Some things are *worse* than others.
+
+So we could rephrase the original choice without any explicit sum. First, I observe that you have two preferences:
+
+1. You prefer the large good thing over the small good thing.
+2. You prefer the small bad thing over the large bad thing.
+
+Those two preferences have a strength. There might not be an explicit numerical value to it, but we can roughly figure it out. For example, I could ask you how much money you'd be willing to pay to satisfy each of those preferences, i.e. how much you'd pay to upgrade your small good thing to a large one[^viagra], and similarly downgrade the bad thing.
+
+[^viagra]: This post is a cleverly disguised Viagra advertisement.
+
+Then I tweak the individual things until both preferences feel equally strong. And this seems now far *less* absurd - if you knew I was going to give you a chocolate bar *and* make you sick a week later, and I offered you the choice between *either* upgrading to LSD *or* downgrading to a slap in the face, then, I think, being really uncertain seems very plausible to me.
+
+You might be willing to flip a coin, even.
+
+Alright, so rankings and indifference between choices seem plausible, so why does the original scenario fall apart?
+
+Because it puts good and bad things on the *same* scale. It treats bad things as anti-good things, the same way money works. "Pay 5 bucks, gain 5 bucks" and "pay 5 million, gain 5 million" are, everything else being equal, really the same deal in disguise.
+
+Good and bad things are on *different* scales. There is one non-negative scale for good things, and one non-negative scale for bad things, and they are fundamentally orthogonal. A choice can be simultaneously good and bad, without one cancelling out the other.
+
+So recall the second scenario, the one in which we might be willing to flip a coin. Try to actually *feel* that uncertainty. If you're anything like me, it *feels* very different than the uncertainty you might feel when you can't decide which red wine to buy. It's not a "meh, whatever" kind of indifference - it's "this completely sucks and I wish I wouldn't have to make this decision at all".
+
+
+
+

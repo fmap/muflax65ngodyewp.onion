@@ -200,3 +200,4 @@
 [Cala Sutta]: http://www.accesstoinsight.org/tipitaka/sn/sn05/sn05.006.bodh.html
 [Pareto]: http://en.wikipedia.org/wiki/Pareto_efficiency
 [Kaldor Hicks]: https://en.wikipedia.org/wiki/Kaldor%E2%80%93Hicks_efficiency
+[Runner's High]: https://en.wikipedia.org/wiki/Endorphin#Runner.27s_high

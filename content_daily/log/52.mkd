@@ -1,0 +1,60 @@
+---
+title: Remote Trolling is totally a thing
+date: 2012-05-26
+techne: :done
+episteme: :log
+---
+
+So, more results from the no-poo front because I'm abandoning it. Because I'm slightly bored of talking about my hair, only bullet points. I'm mostly writing this down for later reference.
+
+- hair did eventually stabilize without shampoo, but always felt slightly nasty
+- vinegar is vital for shape, but fucks up my skin
+- baking soda mostly fixes all problems, but is tricky to dose right
+- no-poo hair dries *very* slowly, and almost requires sitting in the sun for a while or it will turn into a mess
+- gave up, bought shampoo[^shampoo] again, happy now
+- plan to use shampoo 1-2x / week, otherwise only water - so far, works
+- no-poo *could* work *if* you have soft water and/or get the baking soda concentration *just* right and never use normal water (or have robust hair and skin[^robust])
+
+[^robust]: Chemie bringt Brot, Wohlstand und Schönheit!, sag ich da nur. DDR + Chemiestandort = Haut permanent im Arsch.
+
+[^shampoo]: Fructis Anti-Schuppen Mint Fresh - the only product series that I tolerate
+
+(And yes, I've tried all obvious variants of "use filtered / boiled / ... water", "change concentrations", "use boar bristle brush" etc.)
+
+Also, pomade is fucking awesome. Got myself some [Royal Crown][] and that's me all day:
+
+<%= image("cat_brushie.jpg", "Cat Brushie") %>
+
+I mean, sure, you can make a case that natural healthy hair is oily and flexible (and real paleo men hunt their own meat <del>[and fuck other oily men][oglaf honor]</del>) but I definitely prefer it stripped of all oils (electrified feeling, whee!) and then *forced* into shape, and that has absolutely nothing to do with me being a neurotic control freak.
+
+And because I'd pull a Dharma & Greg on pomade and marry it after the first date if I could, means hair length doesn't matter much anyway, and I'll just fix some irregular spots as soon as I find the time. For some reason, I'm now completely relaxed about the whole thing. Hm.
+
+---
+
+Speculation: the trick to staying in (hypo)mania territory (and not slipping back into depression) is *enjoying* the constant drama and catharsis you go through. I'm not sure if it's turning me into a melodramatic attention whore (and if that's better than a whiny pessimist), but introspectively, it feels more like I'm (finally!) turning *camp*. I *seem* to get more stuff done that way, and at least half the time I'm calm and reasonable, (and the only crazy thing I do is write [overly dramatic posts][Ontological Therapy] from time to time, not start flame wars, kill someone out of jealousy or invade Poland, you know), and I'm *definitely* enjoying it more.
+
+---
+
+I note that I have accidentally tricked myself into a very regular exercise habit. I started using Fitocracy as a simple way to track basic fitness requirements - earn X points per week, nothing more. I started really low (like, 10 points / week) because I suck, and then one day, I went running on too much DXM for like 150 points and I couldn't handle the (comparatively) huge surplus. So I changed my schedule to 100 (then 150) / week because I knew I could just run for about an hour once a week, roughly, and that's it. Did that till April, then got lazy and didn't want to run anymore.
+
+So I had to deal with 10-20 points/day, and I looked for easy-but-efficient exercises, like crunches, and I'm still *intending* to run any time now, seriously, just you wait, but actually, I'm now at like 2x30 crunches every day (or something equivalent). Small and easy enough that I can do it even when tired and at 10 minutes before midnight (to not fail the contract), but demanding enough that I feel more energetic and make progress. (From barely 1x20 crunches to routinely 2x30.)[^father]
+
+That's like the lamest actual victory due to laziness and economic pressure ever. Still, I'll take it.
+
+---
+
+Also, read more, freaked out more, started writing (what I thought was) a quick post about utilitarianism and putting benefit and harm on the same scale vs. different scales, but then half-way through, I noticed that the point was actually more interesting than I thought and then spent 3 hours thinking through what a multidimensional utility function that obeyed VNM would actually look like.
+
+Then noticed that it looks exactly like Bayesian math, with each dimension acting as a moral prior, and that "probabilities are preferences" is not just an obscure thing, but really a deep similarity. (I also wondered if Pascal's Mugging disappears when you use a proper utility function, i.e. one that sums to 1, like probabilities. Easiest way: imagine agent that use Solomonoff prior as its utility function, can it be mugged?)
+
+And then I got pissed that I re-derived the position I wanted to argue against, and how dare the utilitarians be right in the end. So I'm confused now and need to think more.
+
+[^father]:
+    Sometimes I think I have Daddy Issues, but with an old friend (the "closure" boy in the [poem][After the Singularity]) instead of my father. One day during (I think) 7th grade, during swimming lessons, he saw me without a shirt on for the first time, and a fairly noticeable physical deformity I have freaked him out, and that killed my self-esteem about my body forever hence. (Not that I was ever comfortable before, but at least I thought it was all in my head.)
+
+    And it *shouldn't* bother me, and it's not his fault at all, but this (and other) deficiencies eat at me, and (way too often) I think what could I do to please him, and so he has become my internal gold standard of rejection-due-to-me-sucking-too-much, and I think I can never have any kind of meaningful relationship until *all* of this shit is fixed, until *I* find that I pass this standard, and I try to live up to it, try to improve, but I know that what-is-possible is way below what-should-be, and no matter how much anger I feel, I won't ever be Tyler Durden or a pretty princess, and that I'm at best a damn pity-fuck.
+
+    And then I shut up, let the hate take over, and do one more set of push-ups.
+
+
+
