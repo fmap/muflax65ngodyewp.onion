@@ -11,13 +11,11 @@ module Nanoc::CLI::Commands
     def extract_links site=nil
       current_site = load_site site
 
-      shared = site.nil?
-      
-      page_links = ["<!-- (auto-generated) internal links for #{shared ? "shared content" : "site: #{site}"} -->"]
-      
+      page_links = ["<!-- (auto-generated) internal links for #{current_site.shared? ? "shared content" : "site: #{site}"} -->"]
+
       current_site.printed_items.each do |i|
-        # don't include shared content with sites
-        unless shared
+        # don't include shared content with sites again
+        unless current_site.shared?
           next if i.shared?
         end
         
