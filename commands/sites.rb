@@ -131,9 +131,10 @@ module Nanoc::CLI
 
     # load data from site
     def load_site site=nil
+      @site = nil # reset site
       self.require_site
       current_site = self.site
-
+      
       # load site-specific config
       current_site.extended_build_config('.', site) unless site.nil?
       
