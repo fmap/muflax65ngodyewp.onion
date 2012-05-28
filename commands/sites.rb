@@ -58,6 +58,10 @@ module ::Nanoc
       @name == "muflax"
     end
 
+    def shared?
+      @name.nil?
+    end
+
     def blog?
       !main_site? # everything is a blog except for the main site
     end

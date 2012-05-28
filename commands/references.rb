@@ -34,7 +34,7 @@ module Nanoc::CLI::Commands
     end
 
     def site_link title, link, site
-      "[#{title}]: " + site.url + link
+      "[#{title}]: #{site.shared? ? "" : site.url}#{link}"
     end
     
     def duplicate_links
