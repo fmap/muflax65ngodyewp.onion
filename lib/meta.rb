@@ -12,7 +12,7 @@ end
 
 def skip &block
   annotate block do |c|
-    c unless @site.counting?
+    c unless @item_rep.name == :wordcount
   end
 end
 

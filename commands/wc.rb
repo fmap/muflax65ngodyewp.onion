@@ -4,22 +4,6 @@ description 'Prints word count of log entries for Beeminder logging.'
 
 require "sanitize"
 
-module ::Nanoc
-  class Site
-    attr_accessor :counting
-    
-    def counting?
-      !!counting
-    end
-  end
-
-  class Item
-    def count?
-      self.identifier =~ %r{^/log/\d+/$}
-    end
-  end
-end
-
 module Nanoc::CLI::Commands
   class WordCount < ::Nanoc::CLI::CommandRunner
     def run
@@ -27,11 +11,12 @@ module Nanoc::CLI::Commands
 
       sites.each do |name|
         site = load_site name
-        site.counting = true
         puts "compiling site (sorry)..."
         site.compile
-        
-        logs = site.items_by_date.select {|i| i.count?}
+
+        logs = site.items_by_date.select do |i|
+          i.reps.any? {|r| r.name == :wordcount}
+        end
 
         logs.each do |log|
           content = log.rep_named(:wordcount).compiled_content
