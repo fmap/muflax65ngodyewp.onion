@@ -13,7 +13,7 @@
             <%= render 'list-item', :item => i, :episteme => false %>
           <% end %>
           <% if size > num %>
-            <li>...(<%= size - num %> more)...</li>
+            <li>...<%= size - num %> more...</li>
           <% end %>
           <% items.reverse.slice(0, num/2).reverse.each do |i| %>
             <%= render 'list-item', :item => i, :episteme => false %>

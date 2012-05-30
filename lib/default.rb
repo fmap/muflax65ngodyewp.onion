@@ -145,6 +145,26 @@ class Nanoc::Site
   def latest_category? cat
     latest_article.category == cat unless latest_article.nil?
   end
+
+  def before item
+    items = items_by_date
+    index = items.index(item)
+    if index.nil? or index.zero? or not blog?
+      nil
+    else
+      items[index - 1]
+    end
+  end
+
+  def after item
+    items = items_by_date
+    index = items.index(item)
+    if index.nil? or not blog?
+      nil
+    else
+      items[index + 1]
+    end
+  end
 end
 
 def category name_or_cat

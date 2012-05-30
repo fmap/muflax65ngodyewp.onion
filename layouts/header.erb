@@ -6,6 +6,9 @@
     <link rel="stylesheet" type="text/css" href="/styles/default.css"/>
     <meta name="generator" content="nanoc"/>
     <link rel="alternate" href="/rss.xml" type="application/rss+xml" title="<%= @site.title %>"/>
+
+    <% unless @site.before(@item).nil? %><link rel="prev" href="<%= @site.before(@item).path %>"/><% end %>
+    <% unless @site.after(@item).nil? %><link rel="next" href="<%= @site.after(@item).path %>"/><% end %>
     <!-- google analytics -->
     <script type="text/javascript">
       var _gaq = _gaq || [];
