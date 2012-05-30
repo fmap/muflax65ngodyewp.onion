@@ -30,7 +30,7 @@ def rss_feed
       i.title = "#{item[:title]}"
       i.link = "#{@site.url}" + item.path
       i.date = item[:date].to_time
-      i.description = item.compiled_content
+      i.description = tidy item.compiled_content
     end
 
     # mod date is newest article / entry in log

@@ -8,12 +8,17 @@ require 'tidy_ffi'
 class TidyFilter < Nanoc::Filter
   identifier :tidy
   def run(content, params={})
-    TidyFFI::Tidy.new(content,
-                      :wrap => 80,
-                      :tidy_mark => false,
-                      :indent => 1,
-                      :char_encoding => "utf8",
-                      :hide_comments => true,
-                      ).clean
+    tidy content
   end
 end 
+
+def tidy text
+  TidyFFI::Tidy.new(text,
+                    :wrap => 80,
+                    :tidy_mark => false,
+                    :indent => 1,
+                    :char_encoding => "utf8",
+                    :hide_comments => true,
+                    :show_body_only => "auto"
+                    ).clean
+end
