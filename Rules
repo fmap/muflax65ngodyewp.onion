@@ -62,7 +62,7 @@ compile '/feed/' do
 end
 
 compile '*' do
-  if item.binary?
+  if @item.binary?
     # don't filter binary items
   else
     # little sanity check
@@ -99,6 +99,18 @@ compile '*' do
       filter :tidy
     end
   end
+end
+
+compile '/log/*', :rep => :wordcount do
+  if @item[:extension] == "mkd"
+    filter :erb
+    filter :kramdown
+    filter :tidy
+  end
+end
+
+route '*', :rep => :wordcount do
+  # pass
 end
 
 route '/feed/' do

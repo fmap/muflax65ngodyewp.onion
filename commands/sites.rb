@@ -143,15 +143,6 @@ module Nanoc::CLI
 
       current_site
     end
-
-    def daily_logs
-      dir = "content_daily/log"
-      pattern = /\/(\d+).mkd$/
-      
-      Dir["#{dir}/*.mkd"].select{|l| l.match(pattern)}.sort_by do |l|
-        l.match(pattern)[1].to_i
-      end
-    end
   end
 end
 
