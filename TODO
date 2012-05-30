@@ -1,4 +1,4 @@
-* Todo [9/17]
+* Todo [9/18]
 - [X] switch to creation dates
 - [X] hide drafts in categories, but compile them anyway
 - [X] better rss feed (automatic items based on dates, changelog)
@@ -16,3 +16,4 @@
 - [ ] next_prev for first page float broken
 - [X] tidy html in RSS feed for compression
 - [ ] fork nanoc, move site config there
+- [ ] cache compilation better

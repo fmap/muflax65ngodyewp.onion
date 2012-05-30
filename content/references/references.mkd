@@ -60,8 +60,6 @@
 [last generation]: http://opinionator.blogs.nytimes.com/2010/06/06/should-this-be-the-last-generation/
 [maggots image]: http://www.snopes.com/photos/medical/maggots.asp
 [nutrient-rich sludge]: http://www.penny-arcade.com/comic/2010/1/25/
-[onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
-[onion horoscope 2]: http://www.theonion.com/articles/your-horoscopes-week-of-may-22-2012,28280/
 [philosophical health check]: http://www.philosophersnet.com/games/check.php
 [puredoxyk]: http://www.puredoxyk.com
 [shamus bible]: http://www.shamusyoung.com/twentysidedtale/?p=12768&cpage=1#comment-231273
@@ -91,6 +89,13 @@
 [oglaf honor]: http://oglaf.com/honor/
 [Why Are Young Men Angry?]: https://soberdownunder.wordpress.com/2012/02/24/why-are-young-men-angry/
 [Tangled]: https://en.wikipedia.org/wiki/Tangled
+[Gamer Mom]: http://adventure.gamism.org/
+[Gamer Mom Source]: http://adventure.gamism.org/gamer_mom/gm.js
+
+<!-- onion -->
+[onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
+[onion horoscope 2]: http://www.theonion.com/articles/your-horoscopes-week-of-may-22-2012,28280/
+[onion horoscope 3]: http://www.theonion.com/articles/your-horoscopes-week-of-may-29-2012,28372/
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
@@ -142,6 +147,8 @@
 [nanoc]: http://nanoc.stoneship.org
 [wcheck]: http://emacswiki.org/emacs/WcheckMode
 [Awesome]: http://awesome.naquadah.org/
+[Checklist]: https://play.google.com/store/apps/details?id=com.yeno.checklist&hl=en
+[Rhodes]: http://www.rhomobile.com/products/rhodes/
 
 <!-- gwern -->
 [Gwern URL]: http://www.gwern.net/Archiving%20URLs
@@ -183,6 +190,7 @@
 [XiXiDu]: http://kruel.co/
 [xixidu search]: https://plus.google.com/106808239073321070854/posts/HMQmaWaJy3u
 [xixidu utilitarian]: http://kruel.co/2011/07/24/open-problems-in-ethics-and-rationality/
+[xixidu blah]: http://lesswrong.com/lw/8c3/qa_with_new_executive_director_of_singularity/5ynv?context=1#comments
 
 <!-- Yvain Disease -->
 [Yvain Disease]: http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/

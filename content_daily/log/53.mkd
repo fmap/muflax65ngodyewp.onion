@@ -1,0 +1,104 @@
+---
+title: Bees Are Weird
+date: 2012-05-30
+techne: :done
+episteme: :log
+---
+
+> Gemini: It's nice that you finally found someone to love and who also loves you, but a moment's consideration should be all you need to realize that this does not constitute an adequate reason to live. ([Onion][onion horoscope 3])
+
+(Removed several paragraphs of me whining. Shutting up, doing crunches instead.)
+
+Worked, fixed bugs, organized more work.
+
+Tried finding a decent checklist app for Android, settled on [Checklist][] by Yeno. It lacks some features I'd like to have (a log and built-in reminders and a timer), but it's usable and writing my own would take too long. (Though I still have it on my todo, as soon as I have figured out how to do quick prototypes, most likely using [Rhodes][].)
+
+I'm currently getting annoyed with Abstract Things and their endlessly delicious insightfulness, so I recalled a smart thing [XiXiDu once said][xixidu blah]:
+
+>> [satt:] Quite possible! But in any case, a sentence can carry lots of information about one thing, but not another. One has to look at the probability of a sentence or claim conditional on a specific thing. As I see it, P(AS says some people would be alienated \| SI has a terrible secret strategy) is about equal to ...
+>
+> [XiXiDu:] Blah blah blah...full stop. We're talking about the communication of primates with other primates. Evolution honed your skills to detect the intention and possible bullshit in the output of other primates. Use your intuition!
+
+So mostly out of protest[^if] I'm re-framing checklists and todos as meetings and exchanges with (imaginary) people. Khatz always says: "show up to Japanese". Treat Japanese like a nice lady, spend as much time with her as you can, send her obscene text messages every 10 minutes, hover over her, *really* try to get into her pants. (That's how it works, right?)
+
+[^if]: If it works out, then I totally meant to do it that way and I knew what I was doing all along.
+
+Anyway, experimented with that, by changing "do X" to "hang out with X", like, don't force myself to read this text, just open the book and commit to spending 20 minutes doing whatever I want, as long as the text is visible at all times. And, holding explicit meetings with all parts and interests of myself.[^meeting] You know, just sitting on a cushion, and giving anything in me that wants to speak a minute each, making sure everything on my todo gets a hearing.
+
+Too tired to write about results. If it works, it should be obvious soon enough anyway.
+
+[^meeting]: I've been doing this for years, and got the idea to re-try before reading Mordechai's blog. That's genuine convergence, not inspiration.
+
+---
+
+Also, I added a simple[^simple] macro to annotate paragraphs. The main reason was to mark parts as "me rambling about myself", so I don't have to note stuff like "counts as half" anymore. Quotes, rants etc. are all automatically ignored when counting. That way, I can have practice logs *and* a highest-level-of-intimacy-I'm-capable-of-running-on[^intimacy] log, without spamming the main blog, thus making me look a bit more sophisticated.
+
+[^simple]: Actually took me 5 hours to figure out how to get the implementation right. To save 10 seconds/post of manually counting the words. Age of the geek, baby.
+
+[^intimacy]:
+    <% skip do %>
+    Justification for always making an effort to not self-censor, to be as open and non-private as I can: I've seen dysfunctional communication fuck up people's life and I'm not willing to make this mistake myself. Collecting too much data and filtering it later is easy. Leaving out crucial information and recovering it is hard.
+
+    However, I'm still unsure how to say "look, I'm totally internet-stalking you already, so please share more", or "if this were a TV show, there'd be tons of people shipping us already, but it's mostly a fantasy, not a realistic thing, like Hayek/Keynes; just sayin'", or "I know I want *something* out of this, but I'm not sure what; I don't know if looking for my second half of the Hercules/Iolaus / Xena/Gabrielle pair, or more, or less, or just inspiration I can turn into useful work", "you aren't messy enough; break some habits" and similar stuff. (All of which *are* things I wanted to say fairly recently.) Partially because I feel inadequate and under-informed to say such things, and partially because I fear that it might fuck up good things, partially because saying such things might be seen as a status-lowering move (by making me look needy) and I'd like to have access to a more favorable dynamic.
+
+    And then there's Adam's comment from Girls' 7th episode (very minor spoiler):
+
+    > Hannah: Again, that's shit you should have shared!  
+    > Adam: You never asked! You never ask me anything besides "Does this feel OK?" or "Do you like my skirt?" or "How much is your rent?". I'm not gonna fucking talk your ear off about shit you don't ask me about! You don't want to know me. You want to come over in the night and have me fuck the dogshit out of you, then you want to leave and write about it in your diary. You don't want to know me!
+
+    But I know myself, *eventually* I'm going to understand and say those things, and until then, I'm going to subtly include them in meta-commentary to slightly increase the chance of getting what I want without having to take risks. Like in this footnote.
+    <% end %>
+
+I might soon extend that idea so I can mark sections as "meta", "not serious", "angry", etc., highlight them appropriately and so on. Soon everything will be in crazy colors! 90's crackpot website, here I come! (More seriously, there'll probably a faint background color and a hover message or something like that. About time I learn some JS.)
+
+Also some minor code clean-up, category list is limited to 20 items, next tags are set so that automatically-go-to-next-page plugins work properly.
+
+---
+
+<% skip do %>
+Some commentary. First, play [Gamer Mom][]. Then read the [comments in the source][Gamer Mom Source] of the game. (Seriously, do it.)
+
+The game itself deserves elaborate discussion, and is a true piece of genius, and if Mordechai lived anywhere near me, I'd go and play Zelda with him *this instant* for making something so beautiful, even though I don't particularly like Zelda, but I won't say much about Gamer Mom. I'm already writing a post about the movie [Tangled][], so I'll address similar points soon.
+
+But now, I'd like to comment on Mordechai himself, or rather, my past self wearing the mask of Mordechai. Says he (reformatted to make it easier to read, emphasis mine):
+
+> Three days ago (I am writing this on 23/2/2012.), I went on a date with a delightfully quirky woman[^het]. **I was interested in her because her personality seemed to be very much like mine**, and I told her so in a **long and precisely-crafted e-mail**.
+>
+> My reasoning for the letter was as follows: If she was like me, **she might want to know where she stood without ambiguity, because that is how I would always prefer people treat me**. And if she was not like me, then my reason for being interested in her was in error and I would want to know that as soon as possible.
+>
+> I was careful to word the letter such that if I was mistaken about her, she could say "no" comfortably and that would be that. Instead, she said we were on the same page. So we went on a date, and all my suspicions about her personality were proven true. Fundamentally she is very much like me. However, she aspires to fit into the "real world", while I see it as my life's mission to make gamistic alternatives to it.
+>
+> We had some wonderful discussion and argumentation, and then **she said goodbye with little enthusiasm for seeing me again**. So I asked her whether we could meet up again, and she responded that that might be nice. At present I am convinced that that was merely a tactful answer, and that she did not want to ever see me again.
+>
+> But that is not what she said. Her tact left the possibility of a relationship on the table, maybe because I was so aggressively interested in her that she did not want to hurt my feelings. Since then I am ashamed to say I have written her ten e-mails, some of them quite long. She has barely responded, and when she did respond she did not tell me that I was bothering her, again maybe to not hurt my feelings. So I figured she was very busy, or wanted to take the time to respond properly, or any of a million other perfectly reasonable explanations for not writing the four words "I don't like you." that would tell me where I stand.
+>
+> Finally a friend of mine told me that I needed to stop writing, and that **I was so eager to pursue a relationship** that I was ignoring the tone of what this woman had been saying. Understand, this intervention came only after two days of my obsessing about uncertainty as to whether or not she was at all interested in me. And when I realized my friend was right after those two days of build-up, it pained me to the point of feeling physically ill.
+>
+> If the woman I'd gone out with had told me in clear terms that she was not interested in me, and that she was not interested in working to bridge the subtle differences in our worldviews, I would have been disappointed but I would have moved on with my life and I would quickly have been fine. But because she chose tact over honesty, I was left in a state of confusion and false hope which has made it very difficult to focus on anything for the past two days. "Tact" is simply a tactful word for deception. The earlier a feeling is hurt, the less time that feeling has had to grow deep roots. Even when painful, the entire truth revealed at once is always preferable to pleasant lies that fester over time.
+
+(I think the only two differences here to stuff I have personally done or said, at some point, is that I'm not *quite* as enthusiastic about games, even though I have game design documents and some prototypes lying around, and that I've never been on an explicit date, but have written letters and had discussions like that.)
+
+I suspect that the desire for transparency, without any ambiguity or uncertainty at all, is a way to control systems we're afraid of. If you have full information about me, then I don't have to carefully watch my interactions with you because I can expect you to make informed decisions. And more importantly, if it's *common* knowledge, if I know you know what I feel, then I can potentially trust you to not hurt me.
+
+Maybe that's just me, but I'm actually a very secretive person, in the sense that I want *control* over situations. I'm willing to share freely *after* I've done something, but not *while I'm doing it*. I have no problem talking about even very personal things like drug trips after the fact, but I'd completely freak out if anyone ever watched me during one. I'd feel like I had no freedom to do even mildly weird stuff, like try to control the mental drifting by chanting *om mani padme hum*, because I have to perform dammit, *people are watching*.
+
+And so I try to resolve this uncertainty by over-sharing, by making you aware of my motivations when possible so you won't freak out when it matters. (I have no idea if this actually works because it hasn't mattered yet.)
+
+However, because we put in so much effort to illuminate ourselves, we're disturbed that others *don't* do that, that they remain mysterious to us. I've been trying to understand myself for over a decade now, and I'm *still* not entirely comfortable, so other people are deeply incomprehensible to me.
+
+I'm deeply puzzled by this search for connection, and not just in him, but also especially in myself. It's there, but I don't know what it's *for*. I wonder *what the fuck* I'm actually looking for because it sure as hell ain't a soul-mate. The people who *do* think like me I ignore, don't hook up with, don't try to in any way deepen the relationship, in any kind of configuration whatsoever.
+
+It seems to me rather like I'm actually looking for *toys* and better ways to comprehend myself, and that I like the detached feelings that go along with the fantasy of connection, without really needing the connection itself. I did once worry that it's about proximity, and if we actually lived near each other, the problem would disappear (like when I was a child and still did hang out with friends every single day), but then several times I've visited my best friend ever, stayed for a week, and most of the time, *we ignored each other*.
+
+I suck at this intimacy thing.[^drugs] Reading is easier; books don't freak out or get bored of you.
+
+[^drugs]: This is also why tryptamines kick my ass, but DXM has my complete trust. Mother A is a messy mistress, not nice at all, but loving nonetheless.
+
+[^het]:
+    Also, I'm annoyed that he's dating a women. I don't know much about him, but from experience, *almost everyone* I've ever met who's an interesting person I'd actually like to explore has been a strictly-heterosexual male, and thus even if I *weren't* inadequate and messy, isn't interested. The market is skewed so hard it's no fun at all, and I seem to be the only person that's actually *flexible*, at least in some ways. Dudes, seriously, you either have to drop some selection criteria, or fuck other men.
+
+    The Greeks, the Japanese and every forager ever did it. *You'll be fine.*
+    
+    (And this goes to my past self too. Seriously, asshole, you accepted the unfulfilling relationship with her, but didn't make a move on him, even though *he* gets the madness? Could've at least smoked a joint with him. There's stuff between "vague friend" and "married", you know!)
+
+<% end %>
