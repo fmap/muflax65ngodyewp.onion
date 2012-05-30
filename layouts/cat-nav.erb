@@ -6,7 +6,16 @@
 
       <% if @item.category == cat or (@item.root? and @site.latest_category? cat) %>
         <ul>
-          <% @site.items_by_date(cat).reverse.each do |i| %>
+          <% items = @site.items_by_date(cat).reverse
+             size  = items.size
+             num   = 20 %>
+          <% items.slice!(0, num/2).each do |i| %>
+            <%= render 'list-item', :item => i, :episteme => false %>
+          <% end %>
+          <% if size > num %>
+            <li>...(<%= size - num %> more)...</li>
+          <% end %>
+          <% items.reverse.slice(0, num/2).reverse.each do |i| %>
             <%= render 'list-item', :item => i, :episteme => false %>
           <% end %>
         </ul>
