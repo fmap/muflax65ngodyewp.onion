@@ -20,7 +20,7 @@ The sum of utility for each choice is exactly 0, by construction[^construction],
 
 This is assumed to be absurd, and therefore utilitarianism is false.
 
-But where exactly does it fail? A chocolate bar is good, that's fact. Let's not focus on whether you may not like chocolate, or can't digest it, or whatever - substitute a different snack. And also ignore whether a snack is *morally* good, like that's a grave and serious problem, and chocolate is only about preferences, not *The Good*. Whatever, don't get hung up on the word. A chocolate *still feels good*, and let's keep it at that. Just a simple observation.
+But where exactly does it fail? A chocolate bar is good, that's a fact. Let's not focus on whether you may not like chocolate, or can't digest it, or whatever - substitute a different snack. And also ignore whether a snack is *morally* good, like that's a grave and serious problem, and chocolate is only about preferences, not *The Good*. Whatever, don't get hung up on the word. A chocolate *still feels good*, and let's keep it at that. Just a simple observation.
 
 And there are things that are *more good* in that sense. Cake is better. As is [Runner's High][]. Or the Fifth Season of Mad Men. You get the idea. So some things are good, and they can be compared. Maybe not at a very fine-grained level, but there are at least major categories.
 
@@ -31,7 +31,7 @@ So we could rephrase the original choice without any explicit sum. First, I obse
 1. You prefer the large good thing over the small good thing.
 2. You prefer the small bad thing over the large bad thing.
 
-Those two preferences have a strength. There might not be an explicit numerical value to it, but we can roughly figure it out. For example, I could ask you how much money you'd be willing to pay to satisfy each of those preferences, i.e. how much you'd pay to upgrade your small good thing to a large one[^viagra], and similarly downgrade the bad thing.
+Those two preferences have a weight. There might not be an explicit numerical value to it, but we can roughly figure it out. For example, I could ask you how much money you'd be willing to pay to satisfy each of those preferences, i.e. how much you'd pay to upgrade your small good thing to a large one[^viagra], and similarly downgrade the bad thing.
 
 [^viagra]: This post is a cleverly disguised Viagra advertisement.
 
@@ -41,12 +41,49 @@ You might be willing to flip a coin, even.
 
 Alright, so rankings and indifference between choices seem plausible, so why does the original scenario fall apart?
 
-Because it puts good and bad things on the *same* scale. It treats bad things as anti-good things, the same way money works. "Pay 5 bucks, gain 5 bucks" and "pay 5 million, gain 5 million" are, everything else being equal, really the same deal in disguise.
+Some [crackpots][Antinatalism FAQ] say because it puts good and bad things on the *same* scale. It treats bad things as anti-good things, the same way money works. "Pay 5 bucks, gain 5 bucks" and "pay 5 million, gain 5 million" are, everything else being equal, really the same deal in disguise.
 
-Good and bad things are on *different* scales. There is one non-negative scale for good things, and one non-negative scale for bad things, and they are fundamentally orthogonal. A choice can be simultaneously good and bad, without one cancelling out the other.
+So good and bad things are on *different* scales. There is one non-negative[^nonnegative] scale for good things, and one non-negative scale for bad things, and they are fundamentally orthogonal. A choice can be simultaneously good and bad, without one cancelling out the other.
+
+[^nonnegative]: Note that it is not necessary that each thing has an explicit numerical value at the beginning. As long as you obey a strict relative ordering, that is for any pair of things, you can tell me which one is better or if both are equal, and you're consistent in your choice, then I can assign numbers and use those instead. If there's some minor uncertainty, like you don't *quite* know if you like Girls or Breaking Bad more, then we can simply approximate the value, add some error bars, and still do useful math, as long as the error isn't so huge that one day, you're swearing loyalty to Stannis "The Mannis" Baratheon, and the next day, you're defecting to the Lannisters. You filthy traitor scum.
+
+Let's look at an example. We have two components, let's call them benefit and harm, or `B(x)` and `H(x)` for short. For any action `x`, `B(x)` returns positive numbers, while `H(x)` returns negative ones. ('cause harm is bad.) Taken individually, we want to choose our action `x` so that it maximizes the outcome.[^model]
+
+We also have two actions:
+
+1. B(1) = 5, H(1) = -1
+2. B(2) = 100, H(2) = -10
+
+That is, the first action would bring 5 benefit and -1 harm, the second 100 benefit and -10 harm, and so brings significantly more benefit and harm into the world.
+
+[^model]: What is good isn't good because it returns a high number, but it returns a high number because it is good. That is, the numbers *model* goodness, but don't tell us *why* benefit is good. Here, we simply assume it is.
+
+But how do we decide? If this were one-dimensional utilitiarianism, we'd just take `U(x) = B(x) + H(x)` and do whatever action `x` gets the highest number. `U(1) = 5-1 = 4`, `U(2) = 100-10 = 90`, 2 wins by a large margin. Congratulation, comrade: millions killed, but billions saved.
+
+But how would we do this without just summing them up? We can't just set `U(x) = [B(x), H(x)]`, i.e. return a vector - we also have to say how to compare this vector. We need *some* rule.
+
+We could just say that harm is always more important than pleasure, and so compare by H(x), and if it's equal, take B(x) into account. But then you'd prefer 1 slap in the face over 2 slaps in the face, even if I paid you millions of dollars for the second. *No* compensation *at all* seems just as weird.
+
+What about this idea: all actions have a *ratio* of benefit vs. harm, `R(x) = B(x) / H(x)`.
+
+We have two possible actions, 1 (red) and 2 (blue). 2 is greater in each individual component - more benefit, but also more harm.
+
+
 
 So recall the second scenario, the one in which we might be willing to flip a coin. Try to actually *feel* that uncertainty. If you're anything like me, it *feels* very different than the uncertainty you might feel when you can't decide which red wine to buy. It's not a "meh, whatever" kind of indifference - it's "this completely sucks and I wish I wouldn't have to make this decision at all".
 
 
 
 
+
+
+[^prob]:
+    The obvious problem is that probability must sum up to 1, but what does that mean for *utility*?
+
+    If you take a roughly computational / modal-realist view in which there are multiple (timeless) worlds you're spread among, then it makes a lot of sense to think of utility as your preference over what distribution over worlds you want to influence. For example, if you absolutely want vanilla ice cream to go extinct, then you push all your causal powers into worlds with ice cream, but ignore worlds without it.
+
+    Thus, it makes perfect sense to say that you have a total amount of influence over the worlds (which we normalize as "1") and you're now distributing it in sensible ways. Worlds with high utilities are simply worlds you care to act in.
+
+    The clever Taoist, of course, sets `U(x) = 2^-K(x)`, i.e. makes their Solomonoff-dictated probabilities equal to their utilities and accepts the world as-is, while retaining the power of choosing an *encoding*. Thus, chaos magic through interpretation.
+
+    This also makes the Taoist immune to Pascal's Mugging, as probability now cannot outgrow utility, and provides a neat justification for rejecting infinite utilities (for the same reason we reject infinite probabilities).

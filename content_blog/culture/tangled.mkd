@@ -1,0 +1,15 @@
+---
+title: Superstimulus Appreciation Post
+date: 2012-05-31
+techne: :wip
+episteme: :believed
+---
+
+> Oh diese Griechen! Sie verstanden sich darauf, zu leben: dazu thut Noth, tapfer bei der Oberfläche, der Falte, der Haut stehen zu bleiben, den Schein anzubeten, an Formen, an Töne, an Worte, an den ganzen Olymp des Scheins zu glauben! Diese Griechen waren oberflächlich - aus Tiefe![^trans]
+>
+> -- Friedrich Nietzsche, Die Fröhliche Wissenschaft
+
+[^trans]:
+    Translation:
+
+    > Oh, those Greeks! They knew how to live. What is required for that is to stop courageously at the surface, the fold, the skin, to adore appearance, to believe in forms, tones, words, in the whole Olympus of appearance. Those Greeks were superficial - out of profundity!
