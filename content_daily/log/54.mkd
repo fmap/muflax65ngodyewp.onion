@@ -1,0 +1,187 @@
+---
+title: Stannis/Davos OTP
+date: 2012-06-05
+techne: :done
+episteme: :log
+---
+
+<%= image("stannis.gif", "The Mannis") %>
+
+(seen on Tumblr)
+
+(A week already? Wow... well, still daily on average!)
+
+Wrote more on several posts, but mostly the two-scale of utilitarianism post in hope of resolving the issue eventually. At least, I might be able to make an argument what ways to have separate benefit/harm scales *doesn't* work. Maybe. For some reason, my ability to think logically comes and goes these days.
+
+Also finally figured out a way to attack the point about [Tangled][] I'm trying to make. It's really tricky because I'm trying to convey something that is almost entirely aesthetic and kinetic in nature. Like, if I could do a shrooms-facilitated mind-meld, I could explain it easily, but in *words*, I don't quite know where to begin.
+
+I'm also not quite sure if I actually *have* a point. It's beginning to feel like "muflax takes you on a journey deep into his mind, way past TMI territory" and not much else. Well, gotta make some .gifs first, then figure out what I was trying to say.
+
+---
+
+Had the First Meeting with the rest of my mind. Took a hint from [that dude][Gamer Mom] and decided to give everyone an explicit name. Previously, I used locations, i.e. where in my spatial awareness they were thinking from (e.g. "left mind" vs. "right mind"), or activities (e.g. "let's hear what Japanese has to say about that"). (A long time ago I used names, but none of those people are still alive.)
+
+Had to deal with a shit-ton of obstacles, ranging from "don't know how to begin at all" (heck, even tried Tarot[^tarot] to trick myself into story mode) to "can't maintain concentration for literally 5 seconds", but eventually got someone into power who can actually make decisions.
+
+Then got stuck on how to represent myself. Like, am I a democracy? An economy? A monarchy? Fractured-but-not-conflicting? An incoherent mess that jumps from goal to goal and is mostly defined by its environment?
+
+Eventually (temporarily?) settled on enlightened absolutism with a goal-less (but not meta-goal-less) dictator, called the Custodian, who reigns over 8 aspects.
+
+About names: I'm adopting Mory's "The X" scheme because:
+
+- it's consistent
+- it forces me to think explicitly in terms of agents, not vague concepts (no more "Hate"; also, identity politics come easier to status-seeking primates than "values")
+- it makes it clear(er) that each person is a *role*; more of a convenient fiction than an irreducible part
+- it enforces a third-person perspective[^third]
+- I get to talk about myself in third-person without sounding *too* crazy[^he]
+
+[^third]:
+    Everyone knows that solving someone else's problems always seems easier than solving your own. The truth is probably somewhat in between: we underestimate the complexity of someone else's situation, and overestimate the difficulty of changing our own.
+
+    <% skip do %>
+    (Also, I find it hilarious that I'm drifting more and more towards Dennett's positions, and that I might well soon entirely agree with all his views about consciousness. Seems most of my problems with him were difficulty of understanding and his awful writing style. Dude's way awesome, but he needs a propagandist.)
+    <% end %>
+
+The Custodian has no direct goals himself, and only serves the meta-goals of bringing harmony and sanity to the diverse interests of other aspects. He is the only person that can (temporarily) enforce power and take control away from persons, thus monopolizing violence.
+
+To make this more explicit, I'm using the following convention:
+
+1. If I'm unsure who is in power, or what to do, then control immediately goes to the Custodian. He will end any activity, and return to a neutral stance in a designated place (or a quiet space if it's not available). He will then decide further actions. No compromises, no talks, no solutions at all are made *before* the Custodian is in power.
+
+2. Any action *at all* that is not meta-control through the Custodian *must* be performed by some person. (This is currently the Writer writing.) 
+
+3. Control is symbolized through the wearing of rings.[^rings] This serves as a strict reminder that a person is in control. Every time I notice that I'm wearing a ring (my attention shifts to the physical sensation), I remind myself: "Who is in control? Why? Is control still justified or should the Custodian take over again?". (Basically, think Reality Checks for Lucid Dreaming.)
+
+4. A person only fulfills their role - nothing more, nothing less.
+
+Then talked through various arrangements until I got a decent setup going. Basically, each person is already fairly clear about What Needs To Be Done, and only wants time / full commitment to pursue those goals. So I settled on giving everyone 1.5 hours a day which they are free to trade with each other. (But only consensually, and everyone gets 5 minutes no matter what.)
+
+This also nicely solves an issue with subjective acausal trade I've been having. Like, I want to cooperate with future-me, but how explicitly? Say I decide to not eat all the cookies today (to leave some for tomorrow-me), what do I get in return? Who do I formalize this?
+
+Now the unit of trade is *time*. Aspects are explicitly in full control of all instances of themselves (and so don't need trade), but can't override other aspects *ever*, only trade voluntarily. (At least *I'm* happy with this setup, and even though it sounds kinda silly / overcomplicated written done, well, that's how I think / the kind of persons we are.)
+
+Each day, there's a short meeting in the morning (to make sure no one is ignored / solve any conflicts), then Tarot cards are shuffled to determine this day's order of action (the Taoist's idea, serves as simply randomization) and everyone gets the time they negotiated. Once a day has started, no more negotiations are allowed, and any unused time is simply wasted. Then simple rotation through the Tarot queue, yadda yadda.
+
+Also established a few checklists and (very preliminary) procedures for the Custodian to solve problems (the Hacker and the Executioner will work on more soon), like "I'm too tired to think". (The Taoist is gloating that I discovered [Checklist][]'s source just yesterday on Github, and so I can fix all issues with the app I've been having. Yay!)
+
+And because the Writer is running out of allotted time, here's the current checklists with quick comments, and that's the log. More actual practice tomorrow.
+
+Holding a conference with all aspects:
+
+- [ ] The Custodian (meta-dictator)
+- [ ] The Executioner (formerly known as "Hate")
+- [ ] The Student (the one doing all the worrying and freaking out)
+- [ ] The Taoist (the one who sees Fate everywhere and may or may not know magic - no one else believes him, but he pulls off crazy shit from time to time)
+- [ ] The Linguist (the most status-conscious, a hipster and language nerd)
+- [ ] The Hacker (the elegance addict)
+- [ ] The Wirehead (obsessed with absorption states, and a bit of a pervert)
+- [ ] The Lover (wrote [log 50][Falling Fast and Falling Free])
+- [ ] The Writer (wrote everything else)
+
+(This particular division was deemed the most truthful, and some other aspects are really combinations of two or more others.)
+
+Can't concentrate (feel scatterbrained and weak):
+
+- [ ] Drink Water (I'm surprisingly dehydrated much of the time)
+- [ ] Nicotine (best tool to clear my head)
+- [ ] Drink Caffeine (second best, as long as I avoid spikes)
+- [ ] Eat Butter (always forget that despite the awesomeness - like, 20-50g at a time clears brain fog nicely)
+- [ ] Listen To Music, 5min (getting desperate now)
+- [ ] Take Shower (really desperate - works for a bit, but not long)
+- [ ] Sleep (give up)
+
+Feel sleepy (tired, want a nap):
+
+- [ ] Quick Exercise (limited usefulness, but sometimes works and more exercise is good)
+- [ ] Eat Butter (see above)
+- [ ] Caffeine Nap (the only nap I can take - everything else escalates to 4 hours or more)
+- [ ] Jhana, 5-20min (desperate, but sometimes helps)
+- [ ] Shower (mostly to pass time until sleepiness passes)
+- [ ] Sleep (give up)
+
+Emotionally Stuck (avoiding something)
+
+- [ ] What Would TDT Do? (see next segment of log)
+- [ ] Pretend it has already happened
+- [ ] Ask Custodian ('cause he isn't emotionally involved in any crap)
+
+Stop doing that (end a behavior / pattern)
+
+- [ ] Pay Attention, Disengage (like vipassana: pay full attention, note X (really "touch" it with awareness), then drop it; when it comes back, repeat)
+- [ ] Make Inconvenient (see Khatz' stuff)
+- [ ] Put On Cue (then never give cue)
+- [ ] Train Incompatible Behavior
+- [ ] Shape Absence (a bit desperate, but sometimes works when no alternative seems possible)
+
+What do you want? (identify goals)
+
+- [ ] Pencil Technique[^pencil]
+- [ ] What would Post-Singularity Utopia look like?
+- [ ] What would a role model do?
+
+More checklists / items as needs arrive.
+
+[^he]:
+    muflax loves doing this. In fact, for about a year, muflax had a Livejournal written entirely in third person, even using "he" in his own thoughts, banishing "I" altogether. Unfortunately, he thinks that talking like this all the time signals bad things. Using this compromise solution, muflax can use "I" for whoever-is-in-power-now and all-aspects-combined, i.e. the common use of the term, and The Xist for aspects. Everything relevant is third-person and dissociated, just like muflax wants it.
+
+[^rings]:
+    Why rings? 'cause I like 'em and need excuses to wear more of them. Any other physical marker works just as well. But use something that doesn't require effort or memory to maintain.
+
+[^tarot]:
+    Crowley's version, of course. If you're interested, I laid out the [Sephirot][] (plus Daat), and got, starting at Keter:
+
+    1. The Devil
+    2. Art
+    3. The Universe
+    4. Knight of Swords
+    5. 2 of Swords, Sorrow
+    6. 2 of Disks, Change
+    7. 9 of Swords, Cruelty
+    8. 5 of Disks, Worry
+    9. 7 of Disks, Failure
+    10. Prince of Swords
+    11. (Daat, upside-down) 3 of Cups, Abundance
+    
+    I find it kinda hilarious, actually.
+
+---
+
+I'm also happy that I finally managed to make self-modification stick better. Not to credit any particular source ('cause it's more of a "crossed a threshold" than "deep single insight" thing), but it's mostly the combination of two ideas. First, from [Actualism][] I take the awareness. Every moment, ask yourself:
+
+> How am I experiencing this moment of being alive?
+
+Or maybe how I'd phrase it:
+
+> What's my mental state *right now*?
+
+Just applying standard noting to the emotional state, plus the awareness that it can be changed, effortlessly, by using the second idea:
+
+> What would muflax wish he had done in this moment?
+
+Or WWTDTD (What Would TDT Do?), if you want. Just ask myself, if I'd look at this moment later, what would I have wanted I'd done? Is it what I'm doing now? No? Then change this shit.
+
+Dunno exactly why, maybe just a practice thing, maybe "if you want to be a person that does X when Y, then when Y happens, you damn well better do X" finally penetrated my thick skull, but this change is effortless now. I don't *protest* anymore.
+
+Just:
+
+- How am I experiencing this moment of being alive?
+- I'm feeling anxious about answering this mail, and I'm due several days.
+- What would muflax wish he'd done?
+- Dropped the anxiety, answered the mail.
+- Anxiety disappears instantly, I write the reply.
+
+[^pencil]:
+    [TheOtherDave on LW][LW pencil] about holding off on proposing solutions:
+
+    > [...] I do this professionally all the time. Clients frequently come to me with a design in mind for a solution, and it's often important to back them up and get them to tell me what the problem actually is.
+    >
+    > Usually, I start with the question "How would you be able to tell that this problem had been solved?" and repeat it two or twenty times in different words until someone actually tries to answer it.
+    >
+    > On one occasion I handed a client my pen and asked whether it was a solution to their problem. They looked at me funny and said it wasn't. I asked them how they knew that, and after a while one of them said "well, for one thing, it doesn't do X" and I said "great!", took the pen back, and wrote "has to do X". Then I handed them the pen back and said "OK, suppose I add the ability to do X somehow to this pen. Is it a solution to your problem now?" and after a couple of iterations they got it and started actually telling me what their problem was.
+    >
+    > The thing that used to astonish me is how often the proposed solution utterly fails to even address the problem articulated by the same person who proposed the solution. I've come to expect it.
+
+
+---
+
+Also bought a new 24 inch monitor 'cause one of my old ones died. *Fuck* 1920x1200 is large. But now I can finally fit 6 Emacs windows on the same screen. Or half of LW's homepage. (*Burn*.)

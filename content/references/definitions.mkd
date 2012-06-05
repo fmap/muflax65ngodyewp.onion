@@ -3,6 +3,7 @@
 [A Serious Man]: http://en.wikipedia.org/wiki/A_serious_man
 [A-theory]: http://en.wikipedia.org/wiki/A-series_and_B-series
 [Actual Freedom]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/Actualism
+[Actualism]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/Actualism
 [Adolf Hitler]: http://en.wikipedia.org/wiki/Adolf_Hitler
 [Aeron]: https://en.wikipedia.org/wiki/Aeron_chair
 [Ahimsa]: https://en.wikipedia.org/wiki/Ahimsa
@@ -201,3 +202,4 @@
 [Pareto]: http://en.wikipedia.org/wiki/Pareto_efficiency
 [Kaldor Hicks]: https://en.wikipedia.org/wiki/Kaldor%E2%80%93Hicks_efficiency
 [Runner's High]: https://en.wikipedia.org/wiki/Endorphin#Runner.27s_high
+[Sephirot]: https://en.wikipedia.org/wiki/Sephirot

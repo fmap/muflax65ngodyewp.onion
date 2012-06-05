@@ -130,6 +130,7 @@
 [LW holden]: http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/
 [LW grognor creed]: http://lesswrong.com/r/discussion/lw/cfe/i_stand_by_the_sequences/
 [LW dust]: http://lesswrong.com/lw/n3/circular_altruism/hv4
+[LW pencil]: http://lesswrong.com/lw/ka/hold_off_on_proposing_solutions/6mv3?context=1#comments
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
