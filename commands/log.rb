@@ -11,7 +11,7 @@ module Nanoc::CLI::Commands
         i.reps.any? {|r| r.name == :wordcount}
       end
 
-      page = logs.last.identifier.gsub(/(\d+)/) {|s| s.to_i + 1}
+      page = "content_daily" + logs.last.identifier.gsub(/(\d+)/){|s| s.to_i + 1}.chop + ".mkd"
       puts "editing: #{page}..."
       system "emacs-gui #{page}"
     end
