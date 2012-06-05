@@ -13,7 +13,7 @@ module Nanoc::CLI::Commands
 
       page = logs.last.identifier.gsub(/(\d+)/) {|s| s.to_i + 1}
       puts "editing: #{page}..."
-      # system "emacs-gui #{page}"
+      system "emacs-gui #{page}"
     end
   end
 end
