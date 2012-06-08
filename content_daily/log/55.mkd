@@ -59,7 +59,7 @@ Then studied. Noticed that I actually only have to convince two profs, not three
 
 Learning algorithmic theory is what you might call a "target-rich environment for cognitive restructuring". Especially when it involves matrix calculations.
 
-- The Student: Ugh, I hate matrice! I hate doing proofs! I hate all math! I wanna play Bastion!
+- The Student: Ugh, I hate matrices! I hate doing proofs! I hate all math! I wanna play Bastion!
 - The Taoist, to rest of aspects: And this, class, is what we call a contaminated belief. Student, is there any *inherent* reason you dislike matrices?
 - S: Well, no...
 - T: And is there any fundamental law of the universe that says that you *must* dislike matrices?
