@@ -1,0 +1,37 @@
+---
+title: Levels of Heresy
+date: 2012-06-08
+techne: :wip
+episteme: :speculation
+---
+
+You may be familiar with PG's [disagreement hierarchy][LW disagreement], ranging from DH0 (name-calling) to DH7 (improve the argument, then refute it). It's used to illustrate how substantial a disagreement really is - are you attacking just superficial aspects or the central point?
+
+That's fine for a bunch of rationalists, but what about debates that *matter*? How do you denounce filthy heretics and blasphemers of all that is holy?
+
+Why, you use the Heresy Hierarchy!
+
+## HH0: Out-Group 
+
+Not even worth engaging. Your enemy clear belongs to no in-group of yours, won't be confused with you, has, in fact, nothing at all in common with you.
+
+Send the missionaries at once.
+
+**Example**: Catholics and Pagans.
+
+## HH1: Succession Dispute
+
+**Example**: Shiites and Sunnites.
+
+## HH2: Canonical Disputes
+
+**Example**:
+
+## HH3: Theological Differences
+
+## HH4: Semantic Differences
+
+**Example**: Homoousians and Homoiousians. (Yes, that's one letter of difference.)
+
+
+This is the level where even a Grammar Nazis thinks that you're a bit nit-picky.

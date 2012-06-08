@@ -91,11 +91,14 @@
 [Tangled]: https://en.wikipedia.org/wiki/Tangled
 [Gamer Mom]: http://adventure.gamism.org/
 [Gamer Mom Source]: http://adventure.gamism.org/gamer_mom/gm.js
+[jure robic]: https://www.nytimes.com/2006/02/05/sports/playmagazine/05robicpm.html?_r=3&pagewanted=all
+[kurzban willpower]: http://www.psychologytoday.com/blog/mind-design/201108/willpower-is-not-resource
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
 [onion horoscope 2]: http://www.theonion.com/articles/your-horoscopes-week-of-may-22-2012,28280/
 [onion horoscope 3]: http://www.theonion.com/articles/your-horoscopes-week-of-may-29-2012,28372/
+[onion horoscope 4]: http://www.theonion.com/articles/your-horoscopes-week-of-june-5-2012,28424/
 
 <!-- LessWrong -->
 [LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
@@ -131,6 +134,7 @@
 [LW grognor creed]: http://lesswrong.com/r/discussion/lw/cfe/i_stand_by_the_sequences/
 [LW dust]: http://lesswrong.com/lw/n3/circular_altruism/hv4
 [LW pencil]: http://lesswrong.com/lw/ka/hold_off_on_proposing_solutions/6mv3?context=1#comments
+[LW disagreement]: http://lesswrong.com/lw/85h/better_disagreement/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
@@ -150,6 +154,7 @@
 [Awesome]: http://awesome.naquadah.org/
 [Checklist]: https://play.google.com/store/apps/details?id=com.yeno.checklist&hl=en
 [Rhodes]: http://www.rhomobile.com/products/rhodes/
+[tmux]: http://tmux.sourceforge.net/
 
 <!-- gwern -->
 [Gwern URL]: http://www.gwern.net/Archiving%20URLs

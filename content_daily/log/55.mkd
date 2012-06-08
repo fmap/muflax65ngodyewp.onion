@@ -1,0 +1,111 @@
+---
+title: Moon Of My Life
+date: 2012-06-08
+techne: :done
+episteme: :log
+---
+
+> Capricorn: You have long held the position that there's nothing funny about testicular cancer, but due to the terrible, cruel, infantile nature of the human sense of humor, you're just plain wrong. ([Onion][onion horoscope 4])
+
+So I was doing chin-ups[^chin] while listening to Wagner, and I was telling this "today isn't a good day, let's watch TV and sleep" feeling to go fuck itself 'cause I'm getting the baseball bat, and I'm going to hit it until it stops being so moody, and then I noticed that I've used this technique before, and so I deliberately practiced it for a few hours. 
+
+It goes like this.
+
+First, you realize that fundamentally there's no[^virus] biological reason for you to feel tired. Willpower? [Bullshit][kurzban willpower]. Exhaustion? [Bullshit][jure robic]. Look, your ancestors have been running marathons on a weekly basis. You give someone a few drugs or put their ass on a cushion long enough, and they snap into states of controlled mania for weeks, and with some practice, indefinitely. So they're suddenly running on free energy or what?
+
+Course not.
+
+Second, you remember that the brain is highly malleable[^reality]. You've read RAW, of course, and done all the exercises[^porn], but you always forget that lesson when it matters.
+
+So now you believe that you, yes you, *could*, in principle, feel different. There ain't a law against that, at least not in physics. Maybe in North Korea, though.
+
+Third - and this is the important step - you're gonna *force that shit*.
+
+Ok, listen, I know how that sounds. "Believe you can do it!" bullshit. That's *not* what I'm telling you to do. You're not trying to out-*think* anyone. You're going to take a big mental stick and *whack that sucker*.
+
+[^virus]: Unless you're going through a virus infection or something, course. Organ failure is a valid reason to feel a bit tired.
+
+[^porn]: And as a result, you now have an... *interesting*... porn collection.
+
+Your mind is presently stuck in a bad attractor, has fallen into a well so to speak, and you're gonna pump energy into this system until it breaks loose and your mind comes right back out.
+
+"But I don't have energy!" That's why you have to do this to begin with. If you *had* enough energy, you wouldn't be some attractor's bitch. You'd chose your resonance states at will, like a <del>*boss*</del> overused meme.
+
+That's why it's called *forcing*. You take the tiniest glimpse of the state you're looking for - and blasting metal is a pretty good start for not-being-tired - and then you're gonna expand it through a sheer act of defiance.
+
+The rest is practice.
+
+(I'm not *quite* proficient enough with this to write a blog post about it, but consider this the draft. But after a few more results, and some more practice, I'll feel confident enough that it ain't just a manic fluke, and then this becomes a blog post. Also compare it with my [forced jhana][Pay attention. Keep breathing.] log. And [this video][chase that happy]. And that this is really just a bro version of metta meditation, finally decompartmentalized to "holy shit, I can *control my mind*" (makes sci-fi sounds).)
+
+[^chin]:
+    <% skip do %>
+    I know that it is mandated by law that everyone who owns a chin-up bar must have a poster of Friedrich Nietzsche on their wall, and that merely having a quote is not enough. I *do* have a poster of a wireheaded rat though, and hope that it makes up for it.
+    <% end %>
+
+[^reality]:
+    <% skip do %>
+    If your beliefs are interfering with your happiness, then you're a shitty consequentialist. Beliefs are just more objects to be manipulated. What do you call an agent that loses Newcomb's boxing because it believes that its decision can't possibly influence the boxes? A [dumbass][].
+    <% end %>
+
+---
+
+Switched from screen (boo!) to [tmux][] (yay!). Most importantly, it *isn't buggy*. screen had constant memory leaks, crashes and other crap. tmux is actually sane. You should all switch. (And use rbenv instead of rvm. Using rvm is almost certainly a crime against humanity.)
+
+(I hate it that literally *all* terminals suck in very minor ways. I have 3-4 that are *almost* perfect, but each one lacks exactly one tiny feature I need. This can't be a coincidence!)
+
+---
+
+Then studied. Noticed that I actually only have to convince two profs, not three, that I have a totally legit reason I'm way late for my deadlines. Both of whom are nice enough that this should be doable. Fuck, I'm finishing this degree after all.
+
+Learning algorithmic theory is what you might call a "target-rich environment for cognitive restructuring". Especially when it involves matrix calculations.
+
+- The Student: Ugh, I hate matrice! I hate doing proofs! I hate all math! I wanna play Bastion!
+- The Taoist, to rest of aspects: And this, class, is what we call a contaminated belief. Student, is there any *inherent* reason you dislike matrices?
+- S: Well, no...
+- T: And is there any fundamental law of the universe that says that you *must* dislike matrices?
+- S: No, but...
+- T: Are there *moral* reasons to hate matrices?
+- S: I don't think so...
+- The Writer: Maybe from an anarcho-primitivist perspective there's...
+- Rest: Silence!
+- T: Does it give other agents undesirable control over you to believe that matrices are teh suck?
+- S: I don't think so, either. Maybe rather the opposite...
+- T: Do we therefore agree that there are no good reasons for you to dislike matrices?
+- S: ... Yes.
+- T: So couldn't you just as well like matrices? Would that be possible?
+- S: Well, if you put it like this, I suppose so...
+- T: Executioner, your job now.
+- E: Aye. (gets out the big stick)
+
+Turns out I just had a slightly mistaken self-model. I actually *do* like matrices. Read several weeks worth of notes about them and had a lot of fun. What a [silly mistake][he loved big brother][^1984]!
+
+[^1984]:
+    <% skip do %>
+    Joking aside, I'm not sure what it says about me that I can't quite help thinking that 1984 is pretty cool, and that the "boot to the face" rhetoric is just what dangerous heretics get, and the rest is basically living in a Brave New World style Hansonian utopia.
+
+    Think of IngSoc more like the Imperium of Man (i.e. completely justified, despite the perceived extremeness), except that the most dangerous enemy is revolutionary thought that fucks up everything and isn't aware of that fact. Like the catastrophe that was the French Revolution.
+
+    There's a decent chance that 1984 is actually a pretty neat world to live in.
+
+    Moldflax out.
+    <% end %>
+
+---
+
+<% skip do %>
+Also, [I Can't Decide][] is totally a song about the struggle between an aspiring Friendly AI and the human it is trying to uplift but who is attempting a hostile takeover instead.
+<% end %>
+
+---
+
+Cut my hair. Tried to shorten the sides, fucked up, ended up with the standard hipster look. Which isn't too bad, except that I couldn't get the transition right, and short hair actually sucks. (Screw you, past-me! You were completely wrong! You're always wrong about everything!)
+
+And even if I could get the transition right and accept that I'd look like a total hipster (if "static website", "half my books have <5 readers on LibraryThing" and "learns Akkadian" haven't tipped you off), it would still be *way* too high-maintenance. Even though, with some work, it *would* look good. But it ain't worth going through a surgical procedure every month. (So I've finally given up on "become gay man with fabulous hair", at least this side of the Singularity.)
+
+So did the only thing I could to save it and did a decent-looking buzz cut. Which sucks, and I'm totally letting it all grow back asap so I can pull off a pompadour. Because *fuck it*, I want a fabulous hairstyle at least *once*.
+
+Also, the *fuck* does anyone use scissors to cut their own hair? The rotation problem is impossible! Well, at least I have another month or two to master it.
+
+Also, definite sign watching hours of fashion videos etc. is having an effect: I look at 2-3 months old reference photographs and think *wtf is wrong with me*. At least I don't suck *that* much anymore.
+
+Also, use "also" too much.
