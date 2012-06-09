@@ -3,11 +3,14 @@
 # built-in cmds than need a site option
 site_cmds = [
              '(auto)?compile',
-             'create_\w+',
-             'debug',
+             'create-\w+',
              'deploy',
+             'explain',
              'prune',
+             'show-data',
+             'show-rules',
              'update',
+             'validate-\w+',
              'view',
              'watch',
             ]
