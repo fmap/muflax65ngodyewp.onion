@@ -1,6 +1,7 @@
 *.sw[a-z]
 .#*
 .sass-cache
+*.log
 
 # generated files
 tmp/

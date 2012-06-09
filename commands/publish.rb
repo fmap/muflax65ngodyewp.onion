@@ -9,31 +9,34 @@ required :s, :sites, 'sites'
 module Nanoc::CLI::Commands
   class Publish < ::Nanoc::CLI::CommandRunner
     def run
-      m = method(options[:pretend] ? :puts : :system)
+      def cmd command
+        m = method(options[:pretend] ? :puts : :system)
+        m.call(command) or raise "command failed: '#{command}'"
+      end
       
       # push changes to github
-      m.call "git push origin"
+      cmd "git push origin"
 
       # regenerate site links
-      m.call "nanoc references"
+      cmd "nanoc references"
 
       # prepare images
-      m.call "nanoc images"
+      cmd "nanoc images"
 
       sites_arg(options[:sites]).each do |site|
         puts "publishing site: #{site}"
         
         # clean unneeded files
-        m.call "nanoc prune -s #{site} --yes"
+        cmd "nanoc prune -s #{site} --yes"
 
         # compile site to ensure a usable state
-        m.call "nanoc compile -s #{site}"
+        cmd "nanoc compile -s #{site}"
 
         # compress files
-        m.call "nanoc compress -s #{site}"
+        cmd "nanoc compress -s #{site}"
 
         # deploy files
-        m.call "nanoc deploy -t default -s #{site}"
+        cmd "nanoc deploy -t default -s #{site}"
       end
     end
   end
