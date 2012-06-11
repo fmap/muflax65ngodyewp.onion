@@ -1,0 +1,107 @@
+---
+title: Kartoffelpuffer ftw
+date: 2012-06-11
+techne: :done
+episteme: :log
+---
+
+Couldn't think.
+
+Woke up,  
+couldn't be anyone,  
+couldn't get stuff done,  
+couldn't think.
+
+Didn't matter  
+because bad feels  
+don't make my decisions.
+
+---
+
+<%= image("feet.jpg", "feet") %>
+
+---
+
+A [wise man][stop being sad] once said, "when I get sad, I stop being sad and be awesome instead". I found that running through rain and mud works too.
+
+(And taking blurry Instagram pictures. And fancy-as-fuck horizontal lines.)
+
+---
+
+So practice! (Besides running 8km through the forest. It's so unfair that two hours of getting dirty is worth 300 points on Fitocracy, but I'm-getting-a-heart-attack-for-reals burpee sessions are only 100, and my-arms-are-killing-me push-ups maybe 20. Stupid paleo ancestors who didn't leave with me any strength.)
+
+Did some meditation because even though I never feel like it affects me, doing just a 10 minute session of just-sitting-and-letting-the-tension-dissolve precedes my most productive days. So I'm doing that again.
+
+I'm a bit disappointed that I don't have the hardcore vipassana "gotta attain some serious goals" attitude anymore. It just... seems so irrelevant. I'm happy, I'm having fun, I already have more projects that I can handle, what do I need some formless jhana for?
+
+But then, that's kinda the point, isn't it? Before enlightenment, stare at walls; after enlightenment, eat pizza. (Or however that koan goes.)
+
+Unfortunately, shedding the goal-oriented attitude makes it harder to log. Just sitting for a while and breathing, not knowing if it was 10 minutes or an hour, doesn't suit my timetracking software.
+
+Suits me, though.
+
+The Hacker will have to modify it soon.
+
+---
+
+Another casualty of being happy is that I can't write for shit. Or rather, I have lots of drafts, but I just can't really approach them, and I'm actually too busy not being an idiot and doing stuff.
+
+Which is especially bad when your message is "don't be an idiot and do stuff".
+
+Or as [the song][Doesn't Have To Be This Way] goes[^song]:
+
+> You're at your best with an ache in your chest  
+> and that worn out old song that you play.
+
+[^song]:
+    <% skip do %>
+    Of course, it also goes:
+
+    > Sometimes I wonder where you're coming from  
+    > when you roll in like thunder just to turn around and run...  
+    > it's a good thing I don't need you to stay.  
+    >
+    > You smell like moonlight in early morning rain;  
+    > pray tell a fool might surrender to your pain  
+    > or find a cure for your decay.  
+
+    Which is why it is a great song.
+    <% end %>
+
+I also tried writing a rant against misanthropy and being grumpy, and how "believe in the truth or be happy" is a nonsensical false dichotomy, and how pessimism is a glorification of your lack of skill, and other stuff, but you know, that's too self-refuting for my taste.
+
+However, [the old Buddhists][Monks Are Awesome] could pull it off, I thought, so it *should* be possible... What can I use *besides* a rant to do a rant?
+
+Snark!
+
+So I wrote [three short dialogues][Against Pessimism]. So sophisticated![^sophisticated]
+
+[^sophisticated]: I disproportionally enjoyed making those videos. In my future cult, all philosophical arguments will have to be in the form of short flash videos.
+
+---
+
+More practice.
+
+I'm getting a *lot* of mileage out of "if you want to be a person that does X, *you better do X*".
+
+There's the obvious moral dimension where you realize that if you want to be a person that does the right thing even under bad circumstances, and then those circumstances come along, you better not chicken out now but stand by your morals.
+
+And there's decision theory where you understand that "I wish I could've precommitted to do X, so I could now easily do X!" is a bullshit complaint because you can always just act *as if* you always retro-actively precommit. Post-pre-commit, if you want. You don't need a causal excuse for being a certain kind of agent. You can just be it.
+
+But finally, it crops up *everywhere* when I don't want something. I'm like, ugh, I wish I could write this short rant about pessimism, but I just don't feel like typing or thinking. I wish I were the kind of person who could just sit down and write!
+
+*Wait a minute.*
+
+I can just *be* the kind of person who sits down and writes. So I *decide*, out of pure spite if necessary, that I'm not going to believe that I can't do it.
+
+Alright, so here's the part where it gets tricky. (At least I didn't get this right until very recently.)
+
+It's not about wishful thinking or making yourself believe something. Rather the opposite. It's about realizing an emptiness, a *lack* of necessary belief.
+
+It's about realizing that there's no reason *to* believe that "I can't write this because I'm tired". Sure, I may feel tired. It doesn't logically follow that *therefore* I can't write. Or that *therefore* I will stay tired. Or that *therefore* I can't do something about it. The automatic reaction is simply not justified.
+
+So I shed it, and go back to an empty mind. And then it's easy to see that to be the kind of person who relaxes and regenerates by writing, *I better write when tired*.
+
+So I do, and feel refreshed.
+
+Fucking magic.
