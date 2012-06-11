@@ -8,7 +8,7 @@ toc: true
 non_cognitive: true
 ---
 
-**muflax, n**: information whore, hacker, rationalist, anagami, catharsis junkie, not exactly sane
+**muflax, n**: information whore, hacker, aspiring crackpot, anagami, catharsis junkie, not exactly sane
 
 A quick overview of various beliefs. Useful as a [belief dump][Core Dump], but really, muflax just likes filling out profiles about itself. Maybe it's a signaling thing. Who knows.
 
@@ -134,4 +134,4 @@ Anything besides Copenhagen. I am not a physicist, so I don't favor anything bes
 
 ## Great Filter?
 
-Probably valid, probably late, most likely the result of progress being extremly hard.
+Probably valid, probably late, most likely the result of progress being extremely hard.
