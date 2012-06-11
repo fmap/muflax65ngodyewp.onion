@@ -68,3 +68,11 @@ def vimeo(url)
 </div>
 EOL
 end
+
+def goanimate(uid)
+  <<EOL
+<div align="center">
+  <iframe scrolling="no" allowTransparency="true" frameborder="0" width="400" height="258" src="http://goanimate.com/player/embed/#{uid}"></iframe>
+</div>
+EOL
+end

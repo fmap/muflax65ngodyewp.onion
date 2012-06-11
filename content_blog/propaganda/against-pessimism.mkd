@@ -1,0 +1,80 @@
+---
+title: Against Pessimism
+date: 2012-06-11
+techne: :done
+episteme: :believed
+---
+
+You know that feel when you want to argue a point, but every time you try to write it down, it descends into outright trolling[^troll] or getting angry at people being wrong on the internet?
+
+Yeah.
+
+So I made videos with talking animals instead. This is all.
+
+[^troll]: I troll because I care. <3
+
+---
+
+<%= goanimate "0xo5HDoTLz3k" %>
+
+---
+
+<%= goanimate "0yVhfqA93ojA" %>
+
+---
+
+<%= goanimate "0p_TRhcnH8lU" %>
+
+---
+
+(Here are the scripts, in case you prefer text. But the voices are crucial to the soundness of the arguments.)
+
+- *Elephant:* I would rather know the truth and be miserable than believe a lie and be happy.
+
+- *Zebra:* What does it mean to care about the truth?
+
+- *Elephant:* If X is true, I desire to believe that X is true. If X is false, I desire to believe that X is false. Let me not become attached to beliefs I may not want.
+
+- *Zebra:* Aren't you also a utilitarian?
+
+- *Elephant:* Yes. It is best to do what brings the greatest good for the greatest number.
+
+- *Zebra:* Shouldn't you then believe what maximizes utility? If believing that X is true maximizes utility, I desire to believe that X is true.
+
+- *Elephant:* No. It is proper for me to make deontological arguments whenever I feel like it, and still call deontology a rationalization of cognitive biases.
+
+- *Zebra:* Can't you self-modify to believe the truth and still feel happy? A lack of skill is not a virtue. You are just bad at feelings.
+
+- *Elephant:* No. My emotions are untouchable except when it involves feeling superior to others.
+
+--- 
+
+- *Elephant:* I'm a grumpy antinatalist. I don't think people should have children and I like to make everyone miserable.
+
+- *Zebra:* What is your argument?
+
+- *Elephant:* The asymmetry between benefit and harm. We have no duty to make someone happy, but a duty to avoid harm. If we don't have children, we don't deprive them of anything, but avoid their inevitable harm.
+
+- *Zebra:* But isn't it consistent with the asymmetry to believe that we'd be better off not existing, yet that life is still awesome? If we have a duty to avoid harm, doesn't that also extend to beliefs that make people feel miserable? Don't you have an overly individualistic perspective that ignores net benefits to others and consequences of beliefs?
+
+- *Elephant:* No. I will now write a blog about how being happy is morally wrong and irrational.
+
+---
+
+- *Elephant:* Let me tell you about how life is meaningless. There is no objective purpose in life. People just make up stories and ignore evidence that contradicts them.
+
+- *Zebra:* But all stories are made up. This does not make them less meaningful.
+
+- *Elephant:* Yes it does. Objective things do not need to be created.
+
+- *Zebra:* Ice cream is also created.
+
+- *Elephant:* Ice cream is not objective. Ice cream is meaningless.
+
+- *Zebra:* Why do people need meaning?
+
+- *Elephant:* Because it makes them happy. Without stories, life is unbearable.
+
+- *Zebra:* Then why do you tell me that life is meaningless? Don't you want people to be happy?
+
+- *Elephant:* No. It is necessary for my complaining to feel meaningful that I ignore that it contradicts itself.
