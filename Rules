@@ -46,7 +46,11 @@ preprocess do
 end
 
 compile '/styles/*' do
-  filter :sass, :syntax => :scss
+  if @item.binary?
+    # pass images used for styling
+  else
+    filter :sass, :syntax => :scss
+  end
 end
 
 compile '/stuff/*' do
@@ -130,7 +134,11 @@ route '/sitemap/' do
 end
 
 route '/styles/*' do
-  route_with_new_extension "css"
+  if @item.binary?
+    route_unchanged
+  else
+    route_with_new_extension "css"
+  end
 end
 
 route '/references/*' do

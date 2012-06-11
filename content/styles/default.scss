@@ -313,6 +313,14 @@ td, th {
   padding: 0.5em;
 }
 
+/* horizontal line */
+hr {
+  background: url(/styles/butterfly.png) no-repeat scroll center;
+  border: 0;
+  height: 25px;
+}
+
+
 /* pygments code highlighting */
 pre span.hll { background-color: $bg }
 pre span.c { color: #408080; font-style: italic } /* Comment */
