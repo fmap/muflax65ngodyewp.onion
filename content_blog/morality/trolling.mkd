@@ -1,0 +1,87 @@
+---
+title: Why The Gods Are Trolling You
+date: 2012-06-14
+techne: :done
+episteme: :believed
+---
+
+(I actually intended to make this argument *after* I had presented a certain construction of (meta-)meta-ethics, and *after* I had more strongly motivated the [locality axiom][Non-Local Metaethics], but Things Changed[^changed]. You may have to fill in the gaps yourself for now.)
+
+[^changed]:
+    Particularly, I saw [Grognor's tweet][grognor tweet trolling]:
+
+    > Rationalize that trolling is morally neutral and can be done responsibly so you can keep doing it without feeling guilty #lifehacks #muflhax
+
+    And I'm *appalled* by that suggestion! I'm not *rationalizing*! I have a complex meta-ethical set of axioms that has morally-neutral trolling as a derivable theorem!
+
+    I didn't start out with the conclusion here, I did proper meta-ethics and discovered it! I'm not *that* [biased][Es gibt Leute, die sehen das anders.].
+
+    (If you think I'm actually doing harm, tell me. I'm not deliberately trying to be a douche.)
+
+Let's start with a simple definition - what's trolling? Trolling, [like crackpottery][Crackpot Theory], is arguing for positions that are not merely motivated by truth-seeking[^truth]. The major difference, however, is that a crackpot actually believes what they are saying, they just use an interestingness prior to select their beliefs. A troll is intentionally adjusting their beliefs for the specific argument, either in content ("lol bible says kill the gays") or strength ("I feel very strongly about this definition!").
+
+[^truth]: Or rather, "believing without preferences", merely following the axioms of probability theory without any utility function. Not even Roombas do that.
+
+Of course, all the good philosophers[^philosophers], mystics[^mystics] and hackers[^hackers] have, at some point at least, been engaged in trolling, but What Would Jesus Do isn't enough of an argument for us.
+
+[^philosophers]: Schopenhauer even [wrote a book][Eristische Dialektik] about it.
+
+[^mystics]: The Lord has said: "These people praise me with their words, but they never really think about me. They worship me by repeating rules made up by humans. So once again I will do things that shock and amaze them, and I will destroy the wisdom of those who claim to know and understand." (Isaiah 29)
+
+[^hackers]: I don't think I need to cite [examples][Linus C++].
+
+So let's do this from first principles.
+
+The simplest is this:
+
+- Moral action must always be possible.
+
+There cannot be a situation in which every possible action an agent can take is wrong. The set of available moral actions is never empty.
+
+This *should* be self-evident, just like the axiom of identity. Similar requirements exist elsewhere. For example, we have this axiom when it comes to rational beliefs:
+
+- Rational beliefs must always make a difference in anticipation.
+
+Beliefs are about *predictions* and *anticipation*, but if someone who holds an *irrational* belief makes *exactly* the same predictions in *all* circumstances as someone who holds the rational belief, then, well, you're doing it wrong.
+
+Either the irrationalist is actually right and just uses a different language, or the rationalist is wrong and likely arguing about a meaningless question.
+
+Similarly, morality is about *actions*. In rationality, you are presented with a set of possible beliefs and choose certain ones. In morality, you choose actions[^actions] in the same way.
+
+So just as rationality requires that there is always a difference in anticipation and that the set of anticipated events is never empty, so morality requires a difference in action and that the set of available moral actions is never empty.
+
+This does not, of course, require that those actions be easy, pleasant, certain or otherwise nice. [Sophie's Choice][] is still allowed, but not [Calvinism][].
+
+[^actions]: Note, of course, that deliberately believing something *is* an action. Beliefs are not exempt from optimization. Don't be a rock.
+
+This is already enough for us, it turns out. One meta-level down, we can now formulate the locality axiom:
+
+- Only local information can be relevant for moral action.
+
+If this were not the case, and moral decisions depended on global information, like say the entire history of the Andromeda Galaxy, then anyone who doesn't have this information - especially any computationally or physically limited agent like us - could not, in principle, do the right thing.
+
+Thus, morality is always local.[^local]
+
+[^local]: See [Non-Local Metaethics][] why this immediately rules out many meta-ethical theories like Average Utilitarianism.
+
+But what does this imply?
+
+Remember the Cartesian Demon, a being which is vastly more powerful than you and misleads you about the content of reality. Figuring out whether such a being exists or not is not possible with your computational resources. Thus, its existence is *global* information, not local - it *cannot* be morally relevant!
+
+Dealing with an angel or a demon can't make a moral difference for *you* because *you* couldn't (in the general case) tell them apart in the first place. Whether you are being trolled or not is therefore morally irrelevant.
+
+So it's clear that *being* trolled is morally neutral, but what about *actively* trolling someone?
+
+Well, that depends on your intentions[^intentions]!
+
+[^intentios]: I'd like to point out that locality automatically introduces the [Doctrine of Double Effect][].
+
+For one thing, it is not possible for your actions to ever *screw over* another agent in the moral sense. (It might still suck to be them, though.) However, *you* also can't be responsible for consequences you couldn't locally have predicted, or else you might unknowingly bring damnation upon a Cartesian Stalker that chose to kill itself should you ever eat chocolate ice cream, a clear violation of locality.
+
+So because others don't have an obligation to *hear* any particular version of the truth, you can't, in general, have an obligation to *speak* it either.
+
+This doesn't get you out of jail for free, but it does, quite explicitly, allow trolling for the good[^good] of the one being trolled.
+
+[^good]: Act only for the good. Leave the "greater" to God.
+
+Which is why the gods are trolling you.

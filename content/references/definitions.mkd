@@ -203,3 +203,7 @@
 [Kaldor Hicks]: https://en.wikipedia.org/wiki/Kaldor%E2%80%93Hicks_efficiency
 [Runner's High]: https://en.wikipedia.org/wiki/Endorphin#Runner.27s_high
 [Sephirot]: https://en.wikipedia.org/wiki/Sephirot
+[Eristische Dialektik]: https://en.wikipedia.org/wiki/The_Art_of_Being_Right
+[Predestination]: http://en.wikipedia.org/wiki/Predestination_%28Calvinism%29#Double_predestination
+[Sophie's Choice]: http://www.penny-arcade.com/comic/2009/10/07
+[Doctrine of Double Effect]: http://plato.stanford.edu/entries/double-effect/

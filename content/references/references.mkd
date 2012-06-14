@@ -93,6 +93,8 @@
 [Gamer Mom Source]: http://adventure.gamism.org/gamer_mom/gm.js
 [jure robic]: https://www.nytimes.com/2006/02/05/sports/playmagazine/05robicpm.html?_r=3&pagewanted=all
 [kurzban willpower]: http://www.psychologytoday.com/blog/mind-design/201108/willpower-is-not-resource
+[grognor tweet trolling]: https://twitter.com/Rongorg/status/213066488205156352
+[Linus C++]: http://harmful.cat-v.org/software/c++/linus
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -135,6 +137,7 @@
 [LW dust]: http://lesswrong.com/lw/n3/circular_altruism/hv4
 [LW pencil]: http://lesswrong.com/lw/ka/hold_off_on_proposing_solutions/6mv3?context=1#comments
 [LW disagreement]: http://lesswrong.com/lw/85h/better_disagreement/
+[LW tool ai]: http://lesswrong.com/lw/cze/reply_to_holden_on_tool_ai/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
