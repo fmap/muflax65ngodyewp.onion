@@ -14,9 +14,9 @@ episteme: :believed
 
     And I'm *appalled* by that suggestion! I'm not *rationalizing*! I have a complex meta-ethical set of axioms that has morally-neutral trolling as a derivable theorem!
 
-    I didn't start out with the conclusion here, I did proper meta-ethics and discovered it! I'm not *that* [biased][Es gibt Leute, die sehen das anders.].
+    I didn't start out with the conclusion here, I did proper meta-ethics and *discovered* it! I'm not *that* [biased][Es gibt Leute, die sehen das anders.].
 
-    (If you think I'm actually doing harm, tell me. I'm not deliberately trying to be a douche.)
+    (However, if you think I'm actually doing harm, tell me. I'm not deliberately trying to be a douche.)
 
 Let's start with a simple definition - what's trolling? Trolling, [like crackpottery][Crackpot Theory], is arguing for positions that are not merely motivated by truth-seeking[^truth]. The major difference, however, is that a crackpot actually believes what they are saying, they just use an interestingness prior to select their beliefs. A troll is intentionally adjusting their beliefs for the specific argument, either in content ("lol bible says kill the gays") or strength ("I feel very strongly about this definition!").
 
@@ -50,7 +50,7 @@ Similarly, morality is about *actions*. In rationality, you are presented with a
 
 So just as rationality requires that there is always a difference in anticipation and that the set of anticipated events is never empty, so morality requires a difference in action and that the set of available moral actions is never empty.
 
-This does not, of course, require that those actions be easy, pleasant, certain or otherwise nice. [Sophie's Choice][] is still allowed, but not [Calvinism][].
+This does not, of course, require that those actions be easy, pleasant, certain or otherwise nice. [Sophie's Choice][] is still allowed, but not [Calvinism][Predestination].
 
 [^actions]: Note, of course, that deliberately believing something *is* an action. Beliefs are not exempt from optimization. Don't be a rock.
 
@@ -74,7 +74,7 @@ So it's clear that *being* trolled is morally neutral, but what about *actively*
 
 Well, that depends on your intentions[^intentions]!
 
-[^intentios]: I'd like to point out that locality automatically introduces the [Doctrine of Double Effect][].
+[^intentions]: I'd like to point out that locality automatically introduces the [Doctrine of Double Effect][].
 
 For one thing, it is not possible for your actions to ever *screw over* another agent in the moral sense. (It might still suck to be them, though.) However, *you* also can't be responsible for consequences you couldn't locally have predicted, or else you might unknowingly bring damnation upon a Cartesian Stalker that chose to kill itself should you ever eat chocolate ice cream, a clear violation of locality.
 
