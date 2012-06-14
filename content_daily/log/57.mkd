@@ -1,0 +1,32 @@
+---
+title: Dad Is Not Amused
+date: 2012-06-14
+techne: :done
+episteme: :log
+---
+
+> You will soon be the envy of all the other people in your office, most of whom spend the day wishing they were dead. ([Onion][onion horoscope 3])
+
+---
+
+Wrote a [defense of trolling][Why The Gods Are Trolling You]. I had it planned for much later, but hey why not. Unfortunately, I think I've reached semantic saturation for the word "troll". I'm not gonna use it for a while, I swear.
+
+And worked a lot on various uni stuff. Nothing to show yet, but soon. I'm actually finishing the Solomonoff stuff Within Seven Days I Swear. Because I told my prof I'm almost done and he's getting it by then. Yay commitment devices!
+
+And reworked my Anki card generation tool(s). Which are mostly done, but I'm still not entirely happy and think there's some ingenious last component I'm missing. Regardless, have been reading some De Bello Gallico, so it's at least working for Latin. But not *quite* optimally. Not *quite* fun enough. I suspect they aren't *easy* enough. They still feel like work. Not very *much* work, but still. Still thinking, trying different card design.
+
+---
+
+<% skip do %>
+Also, [wtf?!][LW tool ai]. I'm quoting this because I still don't believe my eyes! This is *Eliezer* writing:
+
+> I begin by thanking Holden Karnofsky of Givewell for his rare gift of his detailed, engaged, and helpfully-meant critical article Thoughts on the Singularity Institute (SI). In this reply I will engage with only one of the many subjects raised therein, the topic of, as I would term them, non-self-modifying planning Oracles, a.k.a. 'Google Maps AGI' a.k.a. 'tool AI', this being the topic that requires me personally to answer.  I hope that my reply will be accepted as addressing the most important central points, though I did not have time to explore every avenue.  I certainly do not wish to be logically rude, and if I have failed, please remember with compassion that it's not always obvious to one person what another person will think was the central point.
+>
+> Luke Muehlhauser and Carl Shulman contributed to this article, but the final edit was my own, likewise any flaws.
+
+This is the first time I've ever seen him express humility! I can only imagine that Luke's standing behind him with the hose.
+
+I still can't stop laughing. Proves you need high-status people to deliver effective smackdowns.
+
+(But seriously, good post. I'm liking SIAI's recent announcements, but I'm still skeptical if they will follow through. Nothing personal, and Luke is doing an amazing job, but OP never delivers. It's a law of the internet, after all.)
+<% end %>
