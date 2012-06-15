@@ -1,0 +1,21 @@
+---
+title: Ruining Marriage Forever
+date: 2012-06-15
+techne: :done
+episteme: :log
+---
+
+Biggest accomplishment this week: in Crusader Kings 2, *got the Pope pregnant*. By her *gay* husband. I love this game.[^game]
+
+[^game]:
+    <% skip do %>
+    Initially, an Italian count tipped me off that the former Pope had a bastard daughter, so I secretly married her to one of my distant cousins and smuggled her into my court in Hungary. I thought I might be able to blackmail the current Pope for some favors, but I was quite surprised that once she became 16, she started calling herself the true heir to the Papacy and people *believed* her.
+
+    Everyone loves Argentina I.!
+
+    So I did what any good Catholic would have done and nominated her as my Anti-Pope, made all my bishops pay taxes to *her* instead of the impostor (and arranged a nice cut), told The Other Guy In A Funny Hat I'm running my own, *improved* Catholicism now, removed some nasty stories about my ancestors from the history books, and desecrated a church or two, maybe, I forgot, tends to happen when you're part of Vlad Tepes' bloodline.
+
+    And because she is still in my court and now officially part of the family, she is technically my *vassal*. I *own* the Pope.
+
+    [Sophia][] has been reborn. 
+    <% end %>
