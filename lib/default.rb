@@ -46,6 +46,10 @@ class Nanoc::Item
   def root?
     self.identifier == "/"
   end
+
+  def comments?
+    !(self[:no_comments] or self[:is_category])
+  end
 end
 
 class Category
@@ -164,6 +168,10 @@ class Nanoc::Site
     else
       items[index + 1]
     end
+  end
+
+  def comments?
+    !self["disqus_site"].nil?
   end
 end
 

@@ -1,5 +1,5 @@
 <!-- comments -->
-<% unless @item[:no_comments] or @item[:is_category] %>
+<% if @item.comments? or @site.comments? %>
   <div id="disqus">
     <div id="disqus_thread"></div>
     <script type="text/javascript">
