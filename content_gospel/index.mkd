@@ -1,0 +1,10 @@
+---
+title: The Unchanging Gospel
+non_cognitive: true
+no_comments: true
+---
+
+The Word, approximated.
+
+<%= render "content-embed", :item => @site.latest_article %>
+
