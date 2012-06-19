@@ -50,7 +50,7 @@ So now you can order A, B and C. You know the obvious causal connection A-B, so 
 
 One problem: you don't have a *direction*. This is a general causal problem. You don't know if A caused C by adding errors or C caused A by removing them. You know the *topology*, but have no arrows. Minor bugger. There may be a solution to that problem. You need to introduce a kind of entropy, but that only complicates this nice and simple approach, so we won't do that here.
 
-The result is already quite nice. Just get out your little [Kolmogorov black box][Incomputability] and compute various K(x) and K(y|x) and you know who plagiarized who. ...oh, your Kolmogorov box is in repair? You ran out of hypercomputronium and can't compute K(x)? 
+The result is already quite nice. Just get out your little [Kolmogorov black box][Incomputability] and compute various K(x) and K(y\|x) and you know who plagiarized who. ...oh, your Kolmogorov box is in repair? You ran out of hypercomputronium and can't compute K(x)? 
 
 [Well have I got news for you!][Causal Markov] Recall that Kolmogorov complexity is fundamentally compression. You can think of picking a compression algorithm to compare sequences like deciding on a Turing Machine, then finding shortest programs. Also, whatever compression you achieve is an upper bound of the real K(s), so they function as good approximations. If only there were runnable compression algorithms...
 
