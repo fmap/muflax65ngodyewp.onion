@@ -1,10 +1,6 @@
 ---
 title: Catholics Right Again, News At 11
 date: 2012-03-14
-tags:
-- buddhism
-- catholicism
-- vipassana
 techne: :done
 episteme: :discredited
 slug: 2012/03/14/catholics-right-again-news-at-11/

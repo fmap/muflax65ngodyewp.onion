@@ -95,6 +95,9 @@
 [kurzban willpower]: http://www.psychologytoday.com/blog/mind-design/201108/willpower-is-not-resource
 [grognor tweet trolling]: https://twitter.com/Rongorg/status/213066488205156352
 [Linus C++]: http://harmful.cat-v.org/software/c++/linus
+[Leah Conversion]: http://www.patheos.com/blogs/unequallyyoked/2012/06/this-is-my-last-post-for-the-patheos-atheist-portal.html
+[Ordeals Paper]: http://www.peterleeson.com/Ordeals.pdf
+[hipster diagram]: https://imgur.com/GRg5h
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/

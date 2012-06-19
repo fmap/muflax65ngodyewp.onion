@@ -1,11 +1,11 @@
 ---
 title: Ruining Marriage Forever
-date: 2012-06-15
+date: 2012-06-18
 techne: :done
 episteme: :log
 ---
 
-Biggest accomplishment this week: in Crusader Kings 2, *got the Pope pregnant*. By her *gay* husband. I love this game.[^game]
+Biggest accomplishment this week: in Crusader Kings 2, *got the Pope pregnant*. By her *gay* husband. I love this game.[^game] [^game2]
 
 [^game]:
     <% skip do %>
@@ -19,3 +19,197 @@ Biggest accomplishment this week: in Crusader Kings 2, *got the Pope pregnant*. 
 
     [Sophia][] has been reborn. 
     <% end %>
+
+[^game2]:
+    <% skip do %>
+    I maintain my belief that strategy games like Crusader Kings, Europa Universalis or Civilization are some of the best ways to teach someone about (layman) history. Not just because they expose you to a lot of background stuff. Like, I now have a pretty good idea about the aristocratic families and their major conflicts in medieval Hungary because I recently usurped their throne. I hadn't even *heard* about them a month ago.
+
+    But also because they teach you important concepts through gameplay. In Crusader Kings 2, for example, which is set during 11th-15th century Europe, there's a core mechanic of Moral Authority of a religion. If a religion loses too much authority, heresies begin to spread and the head of the religion loses some of their powers, like being able to call for Holy Wars.
+
+    The problem with heresies is that they all hate each other, and so if you have a large kingdom full of heretic strongholds, you'll have a really hard time holding it all together. There'll be constant internal strife, assassinations and other wastes of resources, which makes it much easier for your neighbors (or the bloody Mongols) to conquer you. And without Holy Wars etc., you also lack the necessary coordination of power later on to defeat strong empires and, say, pull off the Reconquista of Spain.
+
+    On the other hand, many actions which lower Moral Authority are individually beneficial. If you nominate your own bishops (or even an Anti-Pope), you'll make a lot more money. Switching your realm to a heresy means you can't get excommunicated by a backstabby vassal. And generally resorting to morally questionable actions will piss off the Pope, sure, but also make you a lot of profit in the meantime. And who cares about a guy in a funny hat at the other end of Europe?
+
+    *You* do, if you don't want to doom the continent to heresy and constant warfare, and want to maintain a strong front against those filthy foreigners. It's in your own best interest, for purely instrumental reasons, to not harm your own religion *too* much. And I love that they model this really well, just by setting up these trade-offs.
+
+    (Of course you can also doom Christianity, weaken the major powers, convert to Islam at an opportune moment and crush the infidels.)
+    <% end %>
+
+---
+
+I've been thinking about a creedless church. I've already got the spirituality, theology and history covered, and heck, no matter how good your church is, it won't be as good as the vague syncretistic belief-plex in my head.
+
+But I definitely need a confession right now. Or someone to run a daily mass. I'm even up for a political botnet if you *must* have some non-religious purpose in your church, as long as it doesn't contain any positive demands.
+
+<% skip do %>
+(Puts on todo[^todo]: start Church of All Faiths. We offer all rituals, teach all practices, are in communion with all churches in all worlds, accept all doctrines, pray to and for all gods, saints and concepts. Heretics welcome.)
+<% end %>
+
+Lacking such a church, I did the best on my own until my head cleared and I could work again. Read Marcion's Apostolicon again, thought about it, worked more on my own texts[^own], prayed, meditated. (Should do that more often.) I think I'm getting to a point where I really should start collecting the material and make my own gospel according to muflax. That is, one with explicit theology, parables and so on, not just [a bunch of sayings][Gospel of Muflax].
+
+[^own]:
+    Not that I have any particular problem with Marcion. I've got a big theology-crush on him already and I blame any perceived flaws on mischaracterizations by his enemies or scribal errors or somesuch. But his canon is somewhat limited in scope, too fragmented and disorganized to use, and still trapped in its cultural context. It is only dimly aware of Buddhist texts, for example, even though they would greatly enhance it. None of this is Marcion's fault, but A New Canon is needed. I might as well write it.
+
+    (Of course that's just the anti-traditionalist attitude that destroys our civilization. Moldflax hates Muflaxion for that and vice versa.)
+
+Because after over two thousand year, some random guy finally Figured It Out and wrote What Jesus And The Other Dudes Really Meant. The Gospel Without Bullshit. 
+
+But I shouldn't call it that.
+
+Regardless, did some of the necessary technical work, thought about some (internal) site improvements, mostly whether I should just bite the bullet and fork [nanoc][] already to simplify my build script.
+
+Also started some Disqus comment migrations. I currently have a separate site registered with each subdomain, but that's annoying to manage, so I'm gonna merge them all. Won't change anything for readers, but makes the administration simpler / more consistent. Anyway, if comments are soon gone for a while, you know who to blame. (Not me.)
+
+[^todo]:
+    <% skip do %>
+    Also on todo:
+
+    1. The Contrarian Church. You are only allowed to join us if you believe at least one unique thing no one else in the church believes. If someone says "I completely agree with you", you are automatically excommunicated. Our creed starts with "I don't believe in...".
+    2. The Decreasing Church. We start with a large canon (say the Catholic or the Pali one) and its standard interpretation. On further insights, we only ever remove parts, never add or reinterpret them. (Prediction: after a year, we're all minimalist Taoists.)
+    3. The Majoritarian Church. Any belief that has the most followers is automatically accepted as Official Truth, including people not part of the church. (Prediction: within a week, we dissolve and join the Catholic Church. Or maybe the Sunnis.)
+    4. The Unique Church. We only accept beliefs that contain strictly rigid designators. In your application to join us, you must find a way to reference us and yourself that is true in all possible worlds. P-Zombies not welcome. (Bonus points if you can prove that we're actually the Catholic Church.)
+    5. The Anti-Realist Church. We solve the problem of existence claims by consistently being eliminativists about them. We don't exist, we have no members, you can't join us. Mass at 11.
+    
+    <% end %>
+    
+---
+
+So I thought more about language cards and I think I have it figured out. My main problem is that language cards are simply too *hard*. Well, not objectively. Any individual card isn't particularly tricky. But they wear you out. It's like, sure I want to learn Latin, but compared to reading <del>Reddit</del> intellectually stimulating blogs, they just don't win. There's too much commitment and effort involved.
+
+And I have praised Michel Thomas before, and his stuff *does* work, but constantly answering questions? *Ugh*. I just want to sit back and *not do anything*. At least most of the time. So I went through my cards[^cards] and checked what type I like and do often and what not, and how to make them easier.
+
+[^cards]: Several thousand cards for each language, and >10k reps in the last year. So I'm not talking entirely out of my ass here.
+
+I noticed that I like cards the most when I already know what's on them, content-wise, and I only need to get the memory refreshed. But I can't just read everything in translation first. That would involve two separate tasks: read text first, then do cards. I'd never keep those synced.
+
+Solution: I'll just put the translation *on* the cards. So for a given sentence, I can generate 6 kinds of cards:
+
+1. Sentence + translation visible. Read both. Did you go "huh, didn't know that"? Fail. Not? Pass. Don't need the translation? Delete.
+2. Sentence only. Translate it, roughly. About right? Pass. Not? Fail.
+
+And for every unknown word in the sentence:
+
+1. Word is highlighted, sentence translation given. Translate it, roughly. About right? Pass. No? Fail. "Don't bore me, bro"? Delete.
+2. Same, no sentence translation.
+3. Word removed, base form of word ("is -> to be") and translation given. Give inflected form.
+4. Word removed, translation given. Give word.
+
+Alright. But that's a *lot* of cards. That might easily be 20+ cards for one sentence. De Bello Gallico has 1k sentences. I'm not gonna do 20k+ cards for one book.
+
+And the "translation -> word" direction is cool and very useful, but hard. I'd like to not do them too often. And especially early on, the same sentence comes up *all the time*. Like, every single word in it is unknown, so you get 20+ cards *for the same sentence*. That's tremendously boring.
+
+(If you have a huge corpus of short sentences, none of that happens. Which is why I hate the Romans for a severe lack of quality TV shows. Civilization my ass.)
+
+I can't just reorder or otherwise filter sentences because I'd like to read the full text the way it's written. Jumping from scene to scene works for anime, not Aquinas.
+
+But doing every sentence The Proper Way is boring. Remember the two rules of learning:
+
+1. Doing a shitty practice every day beats not doing a perfect practice.
+2. Fun gets done.
+
+The problem is that there are too many cards, in several ways. The solution is simple: don't generate them then. I've thought about various limits and filters, based on how frequent a word is, how familiar it should be based on similar words and so on. This limits it to ~5 cards / sentence and only ~10% production cards.
+
+"But wait! That's all too easy! There's almost no challenge! And some words remain unlearned!" Remember the rules. Your daily reps are not competing with God's Textbook, but *Reddit*. They have to be as easy as cat pictures or they won't get done.
+
+(I'm doing the "channelling Khatzumoto and lecturing others about having fun" thing again, aren't I?)
+
+Specifically, statistics for De Bello Gallico:
+
+- 1068 sentences with 6269 different tokens (word forms)
+- 32% of sentences are guessable (have at most one unfamiliar word) if read in order
+- 5885 cards (5.5 per sentence), consisting of: (simple means the sentence translation is also given)
+  - 345 normal and 725 simple sentence cards (understand sentence? pass / fail)
+  - 1418 normal and 2829 simple highlighted word cards (understand that word? pass / fail)
+  - 226 production and 344 inflection cards (give Latin words, based on English translation / base form)
+- 4247 tokens learned and only 335 unfamiliar at the end
+
+I've also done most of the coding for French and Japanese too, so I'll do a quick test with Latin (a few days at most), and if it works, I'll switch all my language decks over. (Plus subs2srs when possible, and a few limited vocab cards for words I like.)
+
+(I'll post examples and code when I've done some tests.)
+
+---
+
+<% skip do %>
+May I also say that I find it hilarious that SIAI's new website is designed by "Helldesign"? Subtle, Simulation God, real subtle.
+
+Also, I had a prophetic dream today in which God told me to start playing WoW. He even set up an account for me. Nice try, *Devil*.
+<% end %>
+
+---
+
+<% skip do %>
+
+[This story][Leah Conversion] about a semi-famous atheist blogger's conversion to Catholicism is quite interesting. I've read some of her posts before and really liked the Ideological Turing Test (which I participated in last year as a guesser), but I'm drawing the opposite conclusion than LW right now: I'm updating in favor[^favor] of Catholicism. Not hugely so, but "I'm not the only one who thinks the Church is much closer to understanding morality than most, maybe all other (non-obscure) philosophies". (Well, and Will and some others, but that's like double-counting the evidence. Leah is reasonably disjunct.)
+
+[^favor]:
+    And if you *don't*, and you are a Bayesian, ask yourself this: are you *sure* you're consistently smarter than Leah? And have thought at least as well and much about it as her? Remember Aumann! And if you still don't, and don't want to modus ponens on this evidence, then you *have* to modus tollens! You have to update in the direction that thinkers like her are *generally* not reliable, even when you *agree* with them. Which should *weaken* your belief in many other propositions. So be sure you update in *some* direction, at an appropriate strength.
+
+I had a talk with myself[^myself] about sane strategies for non-crackpots. Like, if you really cared about instrumental rationality, and accepted that you are biased and limited in thinking ability, and are a good consequentialist about it, what would you do? Well, you'd obviously[^obv] join a church.
+
+[^myself]: Everyone does that, right? Explain things to themselves? How else can I know what I think unless I say or write it?
+
+[^obv]:
+    I think a major hang-up for skeptical-minded nerds (I'd put myself in that category too) is that you can clearly see that *some* bogus stuff is going on. I mean, talking snake? That's just [plain bullshit][Noah], no two ways about it. (I agree.)
+
+    So how could anyone who is not utterly crazy or brainwashed or stupid voluntarily join a church, or something like that? There are various points you have to consider, but most importantly, *all models are wrong, but some are useful*.
+
+    Consider [this fascinating paper][Ordeals Paper] about the medieval practice of trial by ordeal, i.e. you get accused of a major crime (say murder) and to prove your innocence, you (e.g.) have to put your hand into boiling water for a while. If it emerges largely unharmed, you are considered innocent because God protected you, and not otherwise. In the paper, Peter Leeson argues that, regardless of the existence of God, this practice is highly rational.
+
+    Most people would already believe that God judged them in these ways, and so only innocent parties would ever accept the trial. If you're guilty, you would be better off confessing early. But because the priests knew that, they would (consciously and unconsciously) rig the trial to minimize harm (e.g. not fully boiling the water, limiting the immersion time etc.). Leeson shows that if a sufficiently large amount of people do believe the trial works to a sufficient degree so as to be a detergent, then you have a powerful tool to identify guilt without good independent evidence.
+
+    In this scenario, the skeptics might easily be right that God isn't *really* judging anyone, and even the relevant parties might have some degree of doubt (the priests certainly will), *but it works* and you would be *stupid* to throw away this tool so you can be "right". (If you have *better* ways to do investigations, you of course use them. The Catholic Church has always been one of the most progressive and smart institutions when it comes to legal investigations.)
+
+    Other examples are: religious people (of the kind I mentioned) consistently score better for happiness, family stability and mental health. They have saner social institutions (monogamy has an *excellent* track record for running an urban and bureaucratic society, meaning one you actually want to live in (except maybe for the Savannah)), they coordinate much better, politically and financially, and they understand accepting a minor trade-off (screw the gays) for huge benefits (no alphas hogging all the good mates, stable families).
+
+    (If possible, I highly recommend hanging out with a bunch of Mormons. For someone coming from a culture that coined the term "scheißfreundlich" ("nice as fuck", meaning obnoxiously so), meeting someone *that* functional left quite an impression.)
+
+    In other words, a well-run church out-performs pretty much any other social organisation and you're rejecting it *because you don't like some doctrine*? Even though *having* this doctrine *works* (or at least, getting rid of it is worse - see the catastrophe that is protestantism)? Are you sure *you* are the sane one here?
+
+    Accept that some of the bullshit exists mostly for instrumental reasons. (The Catholic Church doesn't *really* care too much about the Old Testament. It was a (smart) compromise to get the Jews and several other parties on board, and have a sane framework for ritual practice (contrast the lack of organization that plagues Gnostics to this day). It's *way* too late to change that now.) Accept that there are social consequences you don't understand, heck, probably no one understands who hasn't run an org for a few decades. Take the Outside View and check the benefits. *It's a sweet deal*, even if you don't believe a single word of it. (And even better if you do.)
+
+    There may be reasons to reject them anyway (note that I'm not part of any church), but those *better be some good reasons*. And "lol bible" ain't one.
+
+Which one? Depends on your region, ethnical background and (to a lesser degree) capabilities. The Catholic Church, Mormon Church, the Sunnis (in some areas) and basically all Ashkenazi communities are excellent candidates, but they aren't always available. For example, if you ain't Jewish, then the Hasidim aren't really open to you. And unless you live in Utah or some minor enclave, the Mormons won't do either. You need the benefits of an existing social infrastructure that will actually integrate you. Typically, there are only one or two serious candidates (and maybe 1-2 more if you're willing to move a substantial distance).
+
+Then I asked myself, why is it that *I'm* not part of a church already? Ignore the ones that are obviously not open to me (Islam, Judaism, even though I like 'em both a lot) and the ones with shitty infrastructure in Germany (Mormons, mostly) (and moving isn't an option right now). What about Catholicism?
+
+Honestly? Three main reasons. The first is that I don't think they take this stuff seriously enough anymore. The priests (and priests-in-learning) I've met are too *mellow* and *secular* for me. They don't take their institution seriously, they don't study Aquinas, they compromised their rituals for very questionable gains. (I'm looking at you, Vatican II.) The local clergy might just as well be secularist humanists with fancier hats. (This isn't true everywhere, but certainly in Northern Europe, and does not apply to, say, Mormons or Sunnis. And the problem of "I may not be as smart as von Neumann, but I'm still smarter and take this more seriously than most of my social circle" affects all internet crackpots equally.)
+
+Second, I have several doctrinal problems that I think are Kind Of A Big Deal, at least to me. However, all of those are so far into Catholic territory *already* that for someone who isn't a theologian (aspiring or otherwise), they might easily wonder how exactly they don't already make me a Christian at least.
+
+For example, I'm not disputing God[^theism], even though I think the specific conception might not be optimal, and I'm open to alternatives. And even though I'm a mythicist (i.e. don't believe there's any historical basis whatsoever for Jesus, and even similar figures like Paul), I don't object to a historical construction. It's certainly *much* more useful in practice (compare how much Gnostics suck, even though they have more plausible beliefs), and for all that I know, God is fucking with me anyway. Heck, I can even look past the Church's obvious historical fakery. "lol, we're totally an authentic church that never invented a bunch of saints when we needed them". I mean, I'm warming up to it the more I [embrace trolling][Why The Gods Are Trolling You].
+
+[^theism]: I think it's kinda like [being a hipster][hipster diagram]. If you're asked if you're a theist, and you go, "weeellll, I think that depends on...", you are a theist. Just admit it already.
+
+Instead, I have a huge grudge about the Gospel of Luke. It's just *shit* and a massacre of Marcion's work, and so blatantly obvious political pandering. Seriously, fuck that gospel. Mark I can accept, flawed as it is. John is awesome (especially because it's so snarky). Matthew I can live with - it's a Jewish one, and fuck it, give the Jews one concession for totally ripping off their theological insights without ever crediting them.
+
+Or consider the 12 Apostles. Screw those guys! Paul is neat, especially when you use the (obvious to crackpots) reading that identifies him with Simon Magus, Simon of Cyrene and (by proxy[^proxy]) Marcion. But the 12? Like, [what have they ever done for us][Monty Python Romans], seriously? Anyone who leaves them in their canon (and not to mock them, like Marcion) is dead to me.
+
+[^proxy]: By which I mean, sometimes when someone talks about Paul, especially in a critical way, they instead talk about Marcion, or Paulinists in general.
+
+... That doesn't sound like a really deep disagreement with the Catholics to you? Me neither.[^fair]
+
+[^fair]:
+    And to be fair, my resistance has tremendously decreased over the last year or so. As much as I'm a fan of Gnostics and Paulinists like Marcion, they are certainly still wrong about a lot of things. Like [Docetism][], which is just plain nonsense. And as flawed as Vatican II etc. are, John Paul II. is a really cool dude, Benedict XVI. is [really *really* cool][Catholics Right Again, News At 11], and many of my disagreements might easily be just lack of experience and careful thinking on my part.
+
+And third, I'm too socially awkward and too much of a loner to integrate myself into a functional community. Sad but true. Especially because literally no one among my close friends or family is (relevantly) religious, or socially competent. (And I won't try also converting a bunch of hardcore communists.) If I had a cool Catholic (etc.) around who was theology-savvy and would like to be my sponsor, I'd seriously consider conversion. At a minimum for the <del>lulz</del> instrumental rationality and rituals.
+
+So, good for Leah!
+
+<% end %>
+
+---
+
+<% skip do %>
+
+And now everybody on the internet shut up about interesting philosophy for a month, *I have stuff to do*.
+
+Seriously.
+
+And I still haven't caught up to all of it!
+
+It's like every time I want to work, you sneak up on me with the fun-hammer and suck me into those fascinating discussions.
+
+Could've stayed in Religious Studies if all I'm doing is reading up on scholasticism all day!
+
+<% end %>
