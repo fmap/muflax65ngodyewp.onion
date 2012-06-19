@@ -123,6 +123,8 @@ Specifically, statistics for De Bello Gallico:
   - 226 production and 344 inflection cards (give Latin words, based on English translation / base form)
 - 4247 tokens learned and only 335 unfamiliar at the end
 
+I expect to delete at least half of those before the third review. That's alright.
+
 I've also done most of the coding for French and Japanese too, so I'll do a quick test with Latin (a few days at most), and if it works, I'll switch all my language decks over. (Plus subs2srs when possible, and a few limited vocab cards for words I like.)
 
 (I'll post examples and code when I've done some tests.)
@@ -132,7 +134,7 @@ I've also done most of the coding for French and Japanese too, so I'll do a quic
 <% skip do %>
 May I also say that I find it hilarious that SIAI's new website is designed by "Helldesign"? Subtle, Simulation God, real subtle.
 
-Also, I had a prophetic dream today in which God told me to start playing WoW. He even set up an account for me. Nice try, *Devil*.
+Also, I had a prophetic dream yesterday in which God told me to start playing WoW. He even set up an account for me. Nice try, *Devil*.
 <% end %>
 
 ---
