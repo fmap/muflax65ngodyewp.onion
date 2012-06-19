@@ -14,7 +14,7 @@ slug: 2012/02/09/algorithmic-causality-and-the-new-testament/
 
 <%= image("20100512after.gif", "title") %>
 
-What's one of the biggest controversies in New Testament studies? No, not the Jesus myth, we all know he was a [12th century Byzantine emperor][Fomenko claims]). No, more important than that, more fundamental.
+What's one of the biggest controversies in New Testament studies? No, not the Jesus myth, we all know he was a [12th century Byzantine emperor][Fomenko claims]. No, more important than that, more fundamental.
 
 When, and in what order, were the texts written? I'm going to ignore the *when* and instead focus on the *in what order*. 
 
