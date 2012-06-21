@@ -1,0 +1,26 @@
+---
+title: Wango Weng
+date: 2012-06-20
+techne: :done
+episteme: :log
+---
+
+Two things. First, Leah's blog made me aware of another influence for believing there's an objective morality, namely my 2009-2011 interest (and solution) of the problem of the foundation of math. Because those have, in a way, the same answer. So I wrote that down, mostly. (And only didn't finish and publish it because of the next thing.)
+
+Second, I feel too public right now. Uncomfortably so. So I'll shut up about *any* philosophy for a while. I can't just say some crazy stuff out loud, just to make it observable as a thought object, without somebody, somehow, taking it seriously, or thinking I take it seriously, or me thinking someone might take it seriously.
+
+I hate being stuck on Mount Stupid, and even worse, I hate that the stuff I can publicly discuss (because it's the only stuff I've managed to write down, or consider safe [for decision theoretic reasons and meta-level concerns][LW game]) is not the stuff I'd like to talk about, or even the stuff I'm any good at.
+
+So shutting up, practicing more, reading more.
+
+---
+
+Language cards work. Essentially, it's just a slightly better (and more customized and automated) version of LingQ, but hey, whatever works. So put some more effort into porting them to Japanese (different parser) and French (still no dictionary).
+
+Once I've ported them, I'll do a screencast of a typical Anki session. Because I'm too lazy to describe the cards. 
+
+---
+
+Rest of the day, rationalized how I'm totally still on track, did Anki reps, read a book.
+
+And worked somewhat on breaking a few negative associations, re-evaluated some beliefs, increased some uncertainty, noticed some things where I fell into apologist mode even though I don't actually believe those things (it happens), now tired.

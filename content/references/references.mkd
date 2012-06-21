@@ -98,6 +98,7 @@
 [Leah Conversion]: http://www.patheos.com/blogs/unequallyyoked/2012/06/this-is-my-last-post-for-the-patheos-atheist-portal.html
 [Ordeals Paper]: http://www.peterleeson.com/Ordeals.pdf
 [hipster diagram]: https://imgur.com/GRg5h
+[What is Wrong with Our Thoughts?]: http://web.maths.unsw.edu.au/~jim/wrongthoughts.html
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -141,6 +142,8 @@
 [LW pencil]: http://lesswrong.com/lw/ka/hold_off_on_proposing_solutions/6mv3?context=1#comments
 [LW disagreement]: http://lesswrong.com/lw/85h/better_disagreement/
 [LW tool ai]: http://lesswrong.com/lw/cze/reply_to_holden_on_tool_ai/
+[LW godshatter]: http://wiki.lesswrong.com/wiki/Complexity_of_value
+[LW game]: http://lesswrong.com/r/discussion/lw/d3h/open_thread_june_1630_2012/6v8u
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html

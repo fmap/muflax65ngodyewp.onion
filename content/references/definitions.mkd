@@ -209,3 +209,6 @@
 [Doctrine of Double Effect]: http://plato.stanford.edu/entries/double-effect/
 [Sophia]: https://en.wikipedia.org/wiki/Wisdom_in_Gnosticism
 [Docetism]: https://en.wikipedia.org/wiki/Docetism
+[Logical Positivism]: https://en.wikipedia.org/wiki/Logical_positivism
+[Plantinga naturalism]: https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism
+

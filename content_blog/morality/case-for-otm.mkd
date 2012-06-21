@@ -1,0 +1,92 @@
+---
+title: From Math to Morality
+date: 2012-06-20
+techne: :wip
+episteme: :speculation
+---
+
+> Ludwig Boltzmann, who spent much of his life studying statistical mechanics, died in 1906, by his own hand. Paul Ehrenfest, carrying on the work, died similarly in 1933. Now it is our turn to study statistical mechanics. Perhaps it will be wise to approach the subject cautiously.
+>
+> -- (D.L. Goodstein, "States of Matter")
+
+> You can't answer a kid's question. They don't accept any answer. A kid never goes, "oh thanks, I get it". They fucking never say that! They just keep coming, more questions, "Why?", "Why?", "Why?", until you don't even know who the fuck you are anymore by the end of the conversation. It's an insane deconstruction.
+>
+> -- [Louis CK][Louis CK why])
+
+Recently, [Leah][Leah Conversion] converted from "weird quasi-Platonist virtue ethicist" to Catholic. And even though I'm not a Catholic, I don't think the connection between "quasi-Platonist about math" to "[objective][One True Morality] morality exists" is an accident[^accident]. Because that's likely the same reason I changed my mind, too. 
+
+[^accident]: Of course, I'll leave it to Leah to describe her specific reasons. I don't have any deep insights into her personality, I'm just struck that we don't just agree about one thing, but about a whole *cluster* of things, and I'm seeing a pattern.
+
+Let's start with a question: Why does math work?
+
+I've been seriously wondering this for most of 2009-2011.
+
+
+
+Where does the unreasonable effectiveness of math come from?
+
+- nominalism
+
+
+If math is just a language game, why does it work so much *better* than other language games? Consider Hegelian Dialectic, the Worst Thing Germans Ever Came Up With[^worst].
+
+[^worst]: Yes, literally worse than Hitler. I'm not a fan is what I'm saying.
+
+Consider this section from Stove's fantastic essay, "[What is Wrong with Our Thoughts?][]":
+
+> [Hegel's Development, by H.S. Harris] is, naturally, full of quotations from Hegel's early writings. In subject-matter these passages range from the astronomical to the zoological. For the examples which I promised earlier in this essay, I have chosen two of the astronomical ones. First:
+>
+> > In the indifferences of light, the aether has scattered its absolute indifference into a multiplicity; in the blooms of the solar system it has borne its inner Reason and totality out into expansion. But the individualizations of light are dispersed in multiplicity [i.e. the fixed stars], while those which form the orbiting petals of the solar system must behave towards them with rigid individuality [i.e. they have their fixed orbits]. And so the unity of the stars lacks the form of universality, while that of the solar system lacks pure unity, and neither carries in itself the absolute Concept as such.
+>
+> Second:
+>
+> > In the spirit the absolutely simple aether has returned to itself by way of the infinity of the Earth; in the Earth as such this union of the absolute simplicity of aether and infinity exists; it spreads into the universal fluidity, but its spreading fixates itself as singular things; and the numerical unit of singularity, which is the essential characteristic (*Bestimmtheit*) for the brute becomes itself an ideal factor, a moment. The concept of Spirit, as thus determined, is *Consciousness*, the concept of the union of the simple with infinity;
+>
+> [...] And now I ask you: is it not true, as I said earlier, that these two real examples of the pathology of thought are far more revolting than any of the invented ones which made up my list of forty pathological propositions? Do you know any example of the corruption of thought which is more extreme than these two? Did you even know, until now, that human thought was capable of this degree of corruption?
+
+Hegelian language games are clearly utterly useless, as we would expect. But this cannot be said about math. If it is just as arbitrary, just as much a game - are we also deluded about its effectiveness?
+
+So pure formalism does not sound very appealing[^appealing].
+
+[^appealing]:
+    Another criticism is that, in practice, humans don't think very "formally", that is like a formal proof finder. It is very common for mathematicians to agree on a proof of an important theorem, even though it turns out that the proof has many small technical errors. They are inevitably found and fixed, of course, but if we just unwind a set of rules, then why is it that we find those shortcuts and see the "meaning" of ideas? Where do these intuitions come from? And how come that they are so reliable?
+
+
+So one might be tempted to say, maybe that's just not a well-defined answer. Maybe "Why does math work?" is just another Hegelian confusion. And of course it's not necessary at all to know *why* math works to actually use it. Pragmatism is perfectly adequate if we just want to get stuff done.
+
+But philosophy has a strange attraction to it, and we still want to get this nagging question out of our head. Desperate, we try to re-animate the corpse of [Logical Positivism][], and say, "Why does math work?" is a meaningless question. It just seems meaningful to us, but actually isn't. But then we try going meta. Why does it seem meaningful to ask, "Why does math work?"? What is it about this question that makes it seem meaningful, even when it isn't? The question "Why is blue a kind of chair?" doesn't seem meaningful.
+
+And more meta, if we accept Logical Positivism, we can just ask, why does Logical Positivism work? It doesn't? Then it is self-refuting. Or is this question also meaningless? Then what, exactly, is Logical Positivism asserting? It is meaningless to ask why Logical Positivism work, but it does in fact work, and we should use it to conclude that asking why math works is meaningless, even though it does in fact work and Hegelian Dialectic doesn't?[^meta]
+
+[^meta]: This is a general meta-point that is easy to miss. Plantinga makes the same kind of argument by [using evolution to refute naturalism][Plantinga naturalism], a move so clever, I can only imagine him going [trolololo][] for a whole week after he came up with it. Epistemology is hard, let's go justified shopping.
+
+So the question stands.
+
+
+The simplest explanation is this: math works because the universe runs on math. It is a perfect description of the mechanism because it *is* the mechanism.
+
+Max Tegmark took this idea and ran so far with it, you may actually come out in another universe if you try to follow him.
+
+
+There are two simple arguments you can make about the existence of morality. The first has some similarity to Pascal's Wager, and really just points out the self-refuting character of nihilism. It goes like this: If objective morality exists, we want to follow it. If it doesn't, then who cares? Nothing we do matters anyway. So even if we have no idea if it exists, we should simply *assume* it does.
+
+Ok, maybe, but what if we run into contradictions or incoherent requirements or stuff like that? That's where the second argument comes in. *Assume*, just as a language game if you want, that objective morality, discoverable by reason, exists. Just for the lulz.
+
+Think about some [axioms][Why The Gods Are Trolling You] that must be true in such a case. Try to do the equivalent of deriving arithmetic from the Peano Axioms, or geometry from Euclid's Axioms. (This problem is left as an exercise for the reader.)
+
+
+
+And if it turns out that the construction you end up with is beautiful, simple, elegant and self-consistent, has clear structure, in short, looks just like math... you can then ask yourself, why is that?
+
+If objective morality *didn't* exist, if it *weren't* true, weren't *about* something, just an arbitrary game... where does all the structure come from?
+
+Shouldn't it look a lot more like [godshatter][]? The product of an unreliable, disinterested process - evolution - that outright optimizes for non-moral goals, would not look coherent, understandable, axiomatic. Yet, when you actually try this, you may find[^may] that it actually does.
+
+[^may]:
+    Yes, it is somewhat unfair that I'm not actually making a case for simplicity of description, that I only hint, vaguely, at some of the axioms. And that, for some people at least, the inherent complexity and incompressibility of terminal value seems much better argued for, much more plausible. It might help to take game theory, think in terms of cooperation, contracts and enforcement, and run with that as far as you can, see how much of "terminal" value you can derive from it, and then wonder again if maybe there is more elegance, at least on a meta-level above your individual life. But ultimately, I can only say, at least for now: lol u suck.
+
+Why does morality work? Why is it understandable at all?
+
+Well, the simplest explanation is: because, like math, the universe actually runs on morality.
+
+
