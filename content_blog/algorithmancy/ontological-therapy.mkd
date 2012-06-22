@@ -1,15 +1,10 @@
 ---
 title: Ontological Therapy
 date: 2012-03-08
-tags:
-- algorithmic magic
-- consciousness
-- ontology
-- #possibleworldproblems
-- schizophrenic episodes
 techne: :done
 episteme: :emotional
 slug: 2012/03/08/ontological-therapy/
+disowned: true
 ---
 
 *Warning: this is a crazy post. I'm not sugarcoating the insanity here. You might skip this one.*

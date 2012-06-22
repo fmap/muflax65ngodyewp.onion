@@ -2,7 +2,8 @@
 title: On the Crucifixion
 date: 2011-03-11
 techne: :rough
-episteme: :broken
+episteme: :discredited
+disowned: true
 ---
 
 <%= youtube("http://www.youtube.com/v/PZBqsqvfj0Y") %>

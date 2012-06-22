@@ -3,7 +3,7 @@ title: Crackpot Beliefs (The Theory)
 alt_titles: [Crackpot Theory]
 date: 2012-02-20
 techne: :done
-episteme: :believed
+episteme: :broken
 slug: 2012/02/20/crackpot-beliefs-the-theory/
 ---
 

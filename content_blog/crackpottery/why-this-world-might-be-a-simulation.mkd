@@ -1,15 +1,10 @@
 ---
 title: Why This World Might Be A Simulation
 date: 2012-01-01
-tags:
-- deontology
-- higher criticism
-- lesswrong
-- meditation
-- wireheading
 techne: :done
 episteme: :fiction
 slug: 2012/01/01/why-this-world-might-be-a-simulation/
+disowned: true
 ---
 
 > Many have undertaken to draw up an account of the things that have been fulfilled among us, just as they were handed down to us by those who from the first were eyewitnesses and servants of the word. With this in mind, since I myself have carefully investigated everything from the beginning, I too decided to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught. -- Luke 1:1-4

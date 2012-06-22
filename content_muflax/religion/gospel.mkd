@@ -3,6 +3,7 @@ title: Gospel of Muflax
 date: 2010-11-12
 techne: :done
 episteme: :believed
+merged: gospel:/sayings/
 ---
 
 Foreword

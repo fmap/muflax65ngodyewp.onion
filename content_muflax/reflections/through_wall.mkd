@@ -2,7 +2,7 @@
 title: Why Can't I See Through This Wall?
 date: 2011-05-20
 techne: :done
-episteme: :believed
+episteme: :personal
 ---
 
 *At times I look back on attainments and ask myself what life was before them or what working up to the change felt like. This post is an emotional core-dump for that purpose.*

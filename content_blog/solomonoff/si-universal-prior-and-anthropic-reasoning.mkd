@@ -1,12 +1,10 @@
 ---
 title: Universal Prior and Anthropic Reasoning
 date: 2012-01-19
-tags:
-- great filter
-- solomonoff induction
 techne: :done
-episteme: :speculation
+episteme: :discredited
 slug: 2012/01/19/si-universal-prior-and-anthropic-reasoning/
+disowned: true
 ---
 
 *(This is not really part of my explanation of Solomonoff Induction, just a crazy idea. But it overlaps and does explain some things, so yeah.)*

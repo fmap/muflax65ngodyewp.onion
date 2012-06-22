@@ -1,9 +1,6 @@
 ---
 title: Kolmogorov Complexity
 date: 2012-01-14
-tags:
-- bayes
-- solomonoff induction
 techne: :done
 episteme: :believed
 slug: 2012/01/14/si-kolmogorov-complexity/

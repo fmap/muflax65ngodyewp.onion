@@ -2,7 +2,7 @@
 title: On Purpose
 date: 2011-03-11
 techne: :done
-episteme: :broken
+episteme: :discredited
 ---
 
 Two reflections on purpose and two open questions.

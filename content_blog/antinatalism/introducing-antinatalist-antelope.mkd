@@ -1,9 +1,6 @@
 ---
 title: ! 'Introducing: Antinatalist Antelope'
 date: 2012-01-19
-tags:
-- antinatalism
-- i do what i must because i can
 techne: :done
 episteme: :fiction
 slug: 2012/01/19/introducing-antinatalist-antelope/

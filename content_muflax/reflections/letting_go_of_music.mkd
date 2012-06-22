@@ -4,6 +4,7 @@ date: 2010-05-03
 techne: :done
 toc: true
 episteme: :discredited
+disowned: true
 ---
 
 Motivation

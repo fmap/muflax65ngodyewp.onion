@@ -3,7 +3,7 @@ title: Antinatalism Overview
 alt_titles: [Antinatalism FAQ]
 date: 2012-05-25
 techne: :rough
-episteme: :believed
+episteme: :speculation
 toc: true
 ---
 

@@ -1,8 +1,0 @@
----
-title: How to Fix the Repugnant Conclusion
-date: 2012-06-12
-techne: :wip
-episteme: :believed
----
-
-I'm not going to solve the problem, I'm going to *meta*-solve it, i.e. show what *kind* of thing constitutes a solution.

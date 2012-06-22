@@ -1,12 +1,8 @@
 ---
 title: Why You Don't Want Vipassana
 date: 2012-01-04
-tags:
-- lesswrong
-- meditation
-- tantra
 techne: :done
-episteme: :broken
+episteme: :discredited
 slug: 2012/01/04/why-you-dont-want-vipassana/
 ---
 

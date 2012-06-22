@@ -2,12 +2,8 @@
 title: The Asymmetry, an Evolutionary Explanation
 alt_titles: [Asymmetry Evolutionary]
 date: 2012-01-28
-tags:
-- antinatalism
-- asymmetry
-- evolution
 techne: :done
-episteme: :speculation
+episteme: :discredited
 slug: 2012/01/28/the-asymmetry-an-evolutionary-explanation/
 ---
 

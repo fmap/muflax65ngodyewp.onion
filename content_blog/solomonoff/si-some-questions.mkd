@@ -1,8 +1,6 @@
 ---
 title: Some Questions
 date: 2012-01-11
-tags:
-- solomonoff induction
 techne: :done
 episteme: :speculation
 slug: 2012/01/11/si-some-questions/

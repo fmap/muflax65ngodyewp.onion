@@ -4,6 +4,7 @@ date: 2012-01-03
 techne: :done
 episteme: :emotional
 slug: 2012/01/03/how-my-brain-broke/
+disowned: true
 ---
 
 # New Year Resolution: Even More Narcissism

@@ -1,10 +1,6 @@
 ---
 title: Algorithmic Causality and the New Testament
 date: 2012-02-09
-tags:
-- history
-- I've got 99 problems but N ain't 1
-- kolmogorov complexity
 techne: :done
 episteme: :speculation
 slug: 2012/02/09/algorithmic-causality-and-the-new-testament/

@@ -2,7 +2,8 @@
 title: Persinger's Magnetic Field Hypothesis
 date: 2011-01-01
 techne: :done
-episteme: :believed
+episteme: :broken
+disowned: true
 ---
 
 Normally, I'd do an introduction who [Michael Persinger][] is, but I'm not in the mood, so let's just say that he is a (awesome!) mind researcher who developed the infamous God Helmet, which induces just the right kind of magnetic field around a brain to trigger, in most people, a sense of wonder and presence of somebody invisible being with them in the room, and in few, a full-blown religious experience. Also, there's his great lecture on drugs:

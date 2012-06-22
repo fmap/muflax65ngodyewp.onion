@@ -1,14 +1,8 @@
 ---
 title: Happiness, and Ends vs. Means
 date: 2012-03-22
-tags:
-- consent
-- doctor deontology
-- kant
-- morality
-- thought experiment
 techne: :done
-episteme: :speculation
+episteme: :fiction
 slug: 2012/03/22/happiness-and-ends-vs-means/
 ---
 

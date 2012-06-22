@@ -1,12 +1,8 @@
 ---
 title: Some Thoughts on Bicameral Minds
 date: 2012-01-04
-tags:
-- bicameral
-- consciousness
-- jaynes
-techne: :done
-episteme: :speculation
+techne: :rough
+episteme: :discredited
 slug: 2012/01/04/some-thoughts-on-bicameral-minds/
 ---
 

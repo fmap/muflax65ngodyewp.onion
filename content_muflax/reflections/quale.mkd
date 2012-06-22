@@ -3,16 +3,17 @@ title: There Is Only Quale
 date: 2010-09-23
 techne: :done
 episteme: :fiction
+disowned: true
 ---
 
-> If you believe such nonsense                                   
-> You'd better dream your dreams at night.                       
-> At last, it's really happened, 
-> Though we don't know how.       
-> The only miracles are in the storybooks                       
-> And they are lies. 
+> If you believe such nonsense
+> You'd better dream your dreams at night.
+> At last, it's really happened,
+> Though we don't know how.  
+> The only miracles are in the storybooks  
+> And they are lies.
 >
-> -- ジャックと豆の木 (engl. dub, Jack and the Beanstalk)
+> -- [ジャックと豆の木][A Course in Miracles - Jack and the Beanstalk]
 
 Lucid Dreaming
 ==============

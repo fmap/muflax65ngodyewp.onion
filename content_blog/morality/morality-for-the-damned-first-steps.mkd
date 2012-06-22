@@ -1,14 +1,10 @@
 ---
 title: Morality for the Damned (First Steps)
 date: 2012-01-30
-tags:
-- antinatalism
-- morality
-- solomonoff induction
-- tantra
 techne: :done
-episteme: :speculation
+episteme: :discredited
 slug: 2012/01/30/morality-for-the-damned-first-steps/
+disowned: true
 ---
 
 *This is maybe the most important question I'm currently trying to solve. I wish I could write (or better, read) a fully fleshed-out sequence dissolving it, but I don't even know if it's solvable at all, so I'm stuck with a lot of despair and confusion. However, here at muflax, inc. we occasionally attempt the impossible, so let's accept the madness and try to at least delineate what the problem even is.*

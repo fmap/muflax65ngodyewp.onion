@@ -1,11 +1,6 @@
 ---
 title: On Benatar's Asymmetry
 date: 2011-12-30
-tags:
-- antinatalism
-- doctor deontology
-- doctor deontology is a totally awesome villain
-- thought experiment
 techne: :done
 episteme: :fiction
 slug: 2011/12/30/on-benatars-asymmetry/

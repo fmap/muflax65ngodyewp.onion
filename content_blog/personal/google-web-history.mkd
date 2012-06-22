@@ -1,7 +1,6 @@
 ---
 title: Google Web History
 date: 2012-02-27
-tags: []
 techne: :done
 episteme: :personal
 slug: 2012/02/27/google-web-history/

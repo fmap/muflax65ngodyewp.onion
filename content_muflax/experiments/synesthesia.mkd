@@ -2,7 +2,7 @@
 title: Developing Synesthesia
 date: 2011-01-27
 techne: :done
-episteme: :believed
+episteme: :broken
 ---
 
 Synesthesia is the automatic connection of different senses. Typical example: perceiving numbers as having a color. Or the LSD version: seeing music.

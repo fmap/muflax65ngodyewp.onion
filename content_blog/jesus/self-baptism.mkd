@@ -2,7 +2,7 @@
 title: Self-Baptism
 date: 2012-04-23
 techne: :done
-episteme: :believed
+episteme: :broken
 ---
 
 Can you baptize yourself, if necessary? The answer is quite clearly yes, at least when no valid other baptizer is available.

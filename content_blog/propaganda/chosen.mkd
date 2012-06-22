@@ -1,7 +1,0 @@
----
-title: A Message for the Chosen
-date: 2012-06-20
-techne: :wip
-episteme: :speculation
----
-

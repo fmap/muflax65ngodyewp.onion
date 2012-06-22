@@ -2,8 +2,9 @@
 title: The End of Rationality
 date: 2012-02-22
 techne: :done
-episteme: :broken
+episteme: :discredited
 slug: 2012/02/22/the-end-of-rationality/
+disowned: true
 ---
 
 Time for a new belief dump! It's been at least 6 months since the last one, time to do a refresher on what beliefs have changed. This is more of a summary. I will elaborate on some points soon. But there is an overall tone of abandoning the LessWrong meme-cluster, and it certainly feels like my [Start of Darkness][] story. Maybe I suffered a stroke and have gone completely insane. (My reading of continental philosophy should count as evidence.) Maybe I'm just retreating to new signaling grounds. I don't know.

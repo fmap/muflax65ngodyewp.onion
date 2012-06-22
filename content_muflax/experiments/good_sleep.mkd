@@ -2,7 +2,7 @@
 title: Ways to Improve Your Sleep
 date: 2010-05-27
 techne: :done
-episteme: :broken
+episteme: :discredited
 ---
 
 Some stuff that I found that actually works.

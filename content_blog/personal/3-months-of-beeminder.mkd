@@ -1,8 +1,6 @@
 ---
 title: 3 Months of Beeminder
 date: 2012-02-03
-tags:
-- beeminder
 techne: :done
 episteme: :personal
 slug: 2012/02/03/3-months-of-beeminder/

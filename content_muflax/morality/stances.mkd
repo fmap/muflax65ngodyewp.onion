@@ -4,6 +4,7 @@ alt_titles: [Stances, Dark Stance]
 date: 2011-07-18
 techne: :done
 episteme: :broken
+disowned: true
 ---
 
 I destabilized again, but this time I see a different direction to stabilize in, something I've never done before.

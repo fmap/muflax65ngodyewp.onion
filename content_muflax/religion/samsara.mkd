@@ -2,7 +2,8 @@
 title: On Samsara
 date: 2011-08-02
 techne: :done
-episteme: :broken
+episteme: :discredited
+disowned: true
 ---
 
 > [The teacher] said, "You know, most of you are not qualified for *samsara*! Let alone the pursuit of nirvana. Do any of you have *jobs*?" And what he got on to was this question of being successful at samsara. It was really an important issue. There is this idea of *revulsion with samsara*. People hear this, "You must become revolted with samsara in order to become a Dharma practitioner!". And many people seem to misunderstand this as, yes, I'm revolted by samsara because I can't keep my bank balance in credit, I've got a problem with personal hygiene, whatever the issue is, people don't like me, I'm always doing the wrong thing and yes, it's miserable, I wanna go and live in a nice Tibetan center where I don't have to deal with it anymore.

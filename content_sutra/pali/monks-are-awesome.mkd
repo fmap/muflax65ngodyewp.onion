@@ -4,7 +4,7 @@ date: 2012-03-19
 tags:
 - pali
 techne: :done
-episteme: :speculation
+episteme: :fiction
 slug: 2012/03/19/monks-are-awesome/
 ---
 

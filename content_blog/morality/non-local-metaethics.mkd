@@ -2,7 +2,7 @@
 title: Non-Local Metaethics
 date: 2012-01-23
 techne: :done
-episteme: :speculation
+episteme: :broken
 slug: 2012/01/23/non-local-metaethics/
 ---
 

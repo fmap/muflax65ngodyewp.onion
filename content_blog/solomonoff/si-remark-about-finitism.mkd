@@ -2,7 +2,7 @@
 title: Remark about Finitism
 date: 2012-01-15
 techne: :done
-episteme: :broken
+episteme: :discredited
 slug: 2012/01/15/si-remark-about-finitism/
 ---
 

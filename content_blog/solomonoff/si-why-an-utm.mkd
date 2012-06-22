@@ -1,8 +1,6 @@
 ---
 title: Why an UTM?
 date: 2012-01-15
-tags:
-- solomonoff induction
 techne: :done
 episteme: :believed
 slug: 2012/01/15/si-why-an-utm/

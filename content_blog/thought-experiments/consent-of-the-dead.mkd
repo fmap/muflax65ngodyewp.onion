@@ -1,12 +1,6 @@
 ---
 title: Consent of the Dead
 date: 2011-12-30
-tags:
-- antinatalism
-- consent
-- doctor deontology
-- guys i'm totally going with this doctor deontology thing
-- thougt experiment
 techne: :done
 episteme: :fiction
 slug: 2011/12/30/consent-of-the-dead/

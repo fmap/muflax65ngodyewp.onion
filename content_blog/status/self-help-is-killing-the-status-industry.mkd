@@ -1,10 +1,6 @@
 ---
 title: Self-Help is Killing the Status Industry
 date: 2012-04-04
-tags:
-- akrasia
-- signaling
-- why life sucks
 techne: :done
 episteme: :speculation
 slug: 2012/04/04/self-help-is-killing-the-status-industry/

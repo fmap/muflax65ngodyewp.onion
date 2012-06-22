@@ -1,12 +1,10 @@
 ---
 title: Simplifying the Simulation Hypothesis
 date: 2012-01-28
-tags:
-- sent from my dreams
-- simulation
 techne: :done
 episteme: :speculation
 slug: 2012/01/28/simplifying-the-simulation-hypothesis/
+disowned: true
 ---
 
 Just slightly too long for [Twitter][]: Everyone who has experimented with lucid dreaming knows that a computer the size of a coconut, primarily designed to climb trees, is enough to simulate worlds of sufficient detail to convince a mind that it is in a full world, containing many other minds it can communicate with.

@@ -1,12 +1,10 @@
 ---
 title: Being Immoral
 date: 2012-02-03
-tags:
-- deontology
-- moralism
 techne: :done
 episteme: :speculation
 slug: 2012/02/03/being-immoral/
+disowned: true
 ---
 
 During my Beeminder experiments, I noticed an odd mental state. A few times I deliberately *ignored* my plan and explicitly gave up. It feels like defecting against Future Me. It's unfortunately somewhat common that I think, "I *could* start this today and keep it up until the deadline, work maybe 1 hour a day, *or* I do nothing for a month, then work my ass off" and then refuse the first option.

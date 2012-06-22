@@ -2,7 +2,7 @@
 title: Fixing Concentration
 date: 2010-07-13
 techne: :rough
-episteme: :broken
+episteme: :discredited
 toc: true
 ---
 

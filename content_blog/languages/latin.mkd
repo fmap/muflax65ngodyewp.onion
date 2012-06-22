@@ -2,7 +2,7 @@
 title: Reading Latin
 date: 2012-05-01
 techne: :wip
-episteme: :speculation
+episteme: :believed
 ---
 
 So you want to learn how to read Latin. Sure, no probs. Let me channel [Khatzu of the Moto clan][AJATT] for a second... ahem...

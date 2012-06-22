@@ -1,9 +1,6 @@
 ---
 title: Unifying Morality
-date: 2012-01-22
-tags:
-- antinatalism
-- morality
+date: 2012-06-22
 techne: :done
 episteme: :speculation
 slug: 2012/01/22/unifying-morality/
@@ -27,5 +24,3 @@ Imagine a world without hunger, poverty, broken promises, pain, rape, lies, war,
 Maybe we should remind people how bad things really are. If lottery advertisement started with a list of the millions of people *didn't* win, maybe buying a ticket wouldn't look so attractive anymore. If endorsement of life started with a list of [all the bad things][Child sexual abuse] that happen every day, maybe saying stop would sound much more appealing. If people realized what their ethical ideas [actually entailed][Mere Addition], maybe they wouldn't endorse them so easily.
 
 It's worth a try.
-
-*(And as an update, I've given up on writing a neutral antinatalism FAQ. I've tried to collect all arguments for and against it, treating them all equally and letting the reader decide, but I just can't do it. I think it's more honest if I make my position explicit, so I can clearly argue _why_ I find certain arguments silly without having to pretend otherwise. So I'm now writing a pro-antinatalism FAQ.)*

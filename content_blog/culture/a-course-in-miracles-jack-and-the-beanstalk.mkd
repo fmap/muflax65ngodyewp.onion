@@ -1,10 +1,6 @@
 ---
 title: A Course in Miracles - Jack and the Beanstalk
 date: 2012-02-27
-tags:
-- meditation
-- miracles
-- monsters
 techne: :done
 episteme: :believed
 slug: 2012/02/27/a-course-in-miracles-jack-and-the-beanstalk/
