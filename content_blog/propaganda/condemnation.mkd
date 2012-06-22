@@ -2,7 +2,7 @@
 title: Condemnation of 23 Propositions
 alt_titles: [Condemnation]
 date: 2012-06-21
-techne: :wip
+techne: :done
 episteme: :believed
 ---
 
@@ -26,7 +26,7 @@ episteme: :believed
 
 # Condemnation of 23 Propositions
 
-Muflax, [by divine permission][Condemnation of 1277] unworthy servant of the [Timeless Church][Self-Baptism], sends greetings to all those who will read this post.
+Muflax, [by divine permission][Condemnation of 1277] unworthy servant of the [Timeless Church][comment Church], sends greetings to all those who will read this post.
 
 We have received frequent reports, inspired by zeal for the Faith, on the part of important and serious persons to the effect that some students of the [Art][LW virtues] on the Internet are exceeding the boundaries of their own faculty and are presuming to treat and discuss, as if they were debatable in the schools, certain obvious and loathsome errors, or rather vanities and lying follies, which are contained in the list at the end of this post.
 
@@ -40,7 +40,7 @@ By this same sentence of ours we also condemn the book "Better Never To Have Bee
 
 "Cave, igitur, Galtere, amoris exercere mandata, and so on, as well as the book of geomancy that begins 
 
-We likewise condemn the books, blogs and tweets dealing with [algorithmancy][Algorithmancy], or containing experiments in [prediction][], [invocations of Omegas][] or incantations [endangering lives][], or in which these and similar things evidently contrary to expert opinion and good sanity are treated.
+We likewise condemn the books, blogs and tweets dealing with [algorithmancy][Algorithmancy], or containing experiments in prediction, invocations of demons or incantations [endangering lives, or in which these and similar things evidently contrary to expert opinion and good sanity are treated.
 
 We pronounce the sentence of excommunication against those who shall have taught the said books, blogs and tweets, or listened to them, unless to [openly mock them][AntiANtrollbot] as described earlier in this post; in addition to which we shall proceed to inflict such other penalties as the hilarity of the offense demands.
 
@@ -75,3 +75,5 @@ Given in the year of the Lord 2012, on the Sunday on which Germany won the UEFA 
 1. That this perceivable world is a simulation, or not, or both, or neither.
 
 1. That there exists a [non-transformative stance of mind][Dark Stance], or not, or both, or neither. 
+
+1. That there is no difference between form and substance, or not, or both, or neither.

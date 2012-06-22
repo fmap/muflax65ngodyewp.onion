@@ -1,9 +1,10 @@
 * content [1/8]
-- [ ] disclaimer about removed content
 - [X] universal RSS
 - [ ] portal
   - [ ] rss feeds
-- [ ] disown bad sites
+- [-] disown bad sites
+  - [X] upper bound implemented
+  - [ ] are *all* condemnations necessary? think more.
 - [ ] merge more stuff (experiments etc.)
 - [ ] start gospel
 - [ ] start let's read for reviews

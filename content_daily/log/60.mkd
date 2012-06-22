@@ -1,12 +1,36 @@
 ---
 title: Le Suck
 date: 2012-06-21
-techne: :wip
+techne: :done
 episteme: :log
+---
+
+An announcement! (I should put this somewhere else too, maybe. Meh.)
+
+I've started to acquire quite a lot of sub-sites, so I decided to write a [little portal][] for them. Also, there is now an additional [universal RSS feed][] that includes *all* sites. (So you don't need 50 different feeds if you follow all my stuff anyway.) You can of course still follow individual feeds as always.
+
+I'll also consolidate some of the mess on the main site, I swear, anytime now, right after I've watched this cat jump into a box, haha, what a funny cat!
+
+And because I'm reading more, and I like lists, and reviews, hey!, there's now a [Let's Read][] site! I don't expect it to be very in-depth, or heck, even active in a month or two, but let's throw fifty ideas against the wall, one will stick! (Or at least make the wall sticky. *Eww*.)
+
 ---
 
 And because I'm feeling lazy today, I don't want to actually describe my card design. So I recorded a video of a full typical review session instead. Watch me use Anki like every day <del>on the toilet</del>, uhh, <del>while waiting for code to compile</del>, no, uh... between study sessions. Right, that's the story I'm going with.
 
-(The sound sucks and the loading times are slightly unusual due to the recording app.)
+(The sound sucks and the loading times are slightly unusual due to the recording app. It's also a bit long, merely because I couldn't be bothered to pre-select interesting cards or edit the video. If you're reading this, you probably already have an unhealthy obsession with minutiae of my life, so that should be fine.)
 
 <%= youtube("") %>
+
+---
+
+I thought a bit more about thinking about philosophy, and luckily found a [solution due to divine inspiration][Condemnation].
+
+As you may have guessed, this is based (quite literally) on the [Condemnation of 1277][], and many of the condemnations are taken more-or-less directly from it (because I liked them[^ironic] and kept laughing about how the *original Condemnation of 1277* could be used, *verbatim*, to criticize several rationalist debates *today*). The second major influence are the Buddha's 14 Unanswerable Questions, as quoted in the beginning. (Which is also where the "or not, or both, or neither" formulation comes from. I always loved the dialetheist qualification in the canon.)
+
+I would also like to say that I had *a lot* of fun writing this, and also feel relieved for having properly disowned some things. Accordingly, many of my previous writings[^site] do not just have an innocuous marker for their epistemic state anymore, but a Big Fat Banner warning about their having been disowned.
+
+[^site]: On this site, at least. I might extend it to other sites as I see fit / whenever I'm reminded of their existence.
+
+[^ironic]: Also, even though some aspects of the Condemnation are of course ironic, none of the actual condemnations are. Even though some formulations are optimized for maximal lulz.
+
+Because this philosophy is a waste of time and I'd like to get back to doing useful stuff, like code, watch cat videos and learn Sumerian.
