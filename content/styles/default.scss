@@ -9,6 +9,7 @@ $episteme: #c4f3af;
 $hover: #057dff;
 $quote: #a6a542;
 $pre: #fff8d9;
+$warning: #d44836;
 
 /* sizes */
 $left-col: 45em;
@@ -68,9 +69,14 @@ div#episteme {
   line-height: 2em;
 }
 
-/* mindkiller warning */
-div#mindkiller {
+/* disowned warning */
+div#disowned {
+  h1 {
+    background: $warning;
+  }
+  
   background: $episteme;
+  padding-bottom: 0.1em;
 }
 
 /* merged with another article */

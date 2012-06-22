@@ -14,5 +14,5 @@ sites:
   letsread:
     title: Let\'s Read
     disqus_site: muflaxread
-  gospel:
-    title: Unchanging Gospel
+  # gospel:
+    # title: Unchanging Gospel

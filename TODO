@@ -1,19 +1,20 @@
-* Todo [9/18]
-- [X] switch to creation dates
-- [X] hide drafts in categories, but compile them anyway
-- [X] better rss feed (automatic items based on dates, changelog)
-- [X] better separation of categories
-- [ ] "digesting history"
-- [X] mind-killer warning
-- [X] move to nfs.net (host mail on gmail)
-- [ ] better handling of footnotes (parallel column?)
-- [X] switch rake to nanoc commands
-- [ ] universal RSS
+* content [1/8]
 - [ ] disclaimer about removed content
-- [X] "merged with"
+- [X] universal RSS
+- [ ] portal
+  - [ ] rss feeds
+- [ ] disown bad sites
+- [ ] merge more stuff (experiments etc.)
+- [ ] start gospel
+- [ ] start let's read for reviews
+- [ ] some portal for all sites
+* layout [1/5]
+- [ ] better handling of footnotes (parallel column?)
 - [ ] search bar prettier
-- [ ] imply all_sites without -s
 - [ ] next_prev for first page float broken
-- [X] tidy html in RSS feed for compression
+- [X] disown site
+- [ ] better merged -> moved
+* technical [0/3]
+- [ ] imply all_sites without -s
 - [ ] fork nanoc, move site config there
 - [ ] cache compilation better

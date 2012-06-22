@@ -33,9 +33,8 @@ class Nanoc::Item
     !!self[:episteme]
   end
 
-  def mindkiller?
-    topics = %w{history}
-    !!self[:mindkiller]
+  def disowned?
+    !!self[:disowned]
   end
 
   def merged?

@@ -124,7 +124,7 @@ end
 module Nanoc::CLI
   class CommandRunner
     def all_sites
-      Dir['content_*'].map{|d| d.gsub(/^content_/, '')}.sort
+      YAML.load(File.open("sites.yaml"))["sites"].keys.sort
     end
 
     # lots of commands use -s now, so simplify its use
