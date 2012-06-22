@@ -99,6 +99,9 @@
 [Ordeals Paper]: http://www.peterleeson.com/Ordeals.pdf
 [hipster diagram]: https://imgur.com/GRg5h
 [What is Wrong with Our Thoughts?]: http://web.maths.unsw.edu.au/~jim/wrongthoughts.html
+[Condemnation of 1277]: http://plato.stanford.edu/entries/condemnation/
+[Cula-Malunkyovada Sutra]: http://www.accesstoinsight.org/tipitaka/mn/mn.063.than.html
+[Fake Sky]: http://computationaltheology.blogspot.com/2012/05/superintelligent-solution-to-fermi.html
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -144,6 +147,8 @@
 [LW tool ai]: http://lesswrong.com/lw/cze/reply_to_holden_on_tool_ai/
 [LW godshatter]: http://wiki.lesswrong.com/wiki/Complexity_of_value
 [LW game]: http://lesswrong.com/r/discussion/lw/d3h/open_thread_june_1630_2012/6v8u
+[LW virtues]: http://yudkowsky.net/rational/virtues
+[LW timeless physics]: http://lesswrong.com/lw/qp/timeless_physics/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
@@ -184,6 +189,7 @@
 [Caplan hedonic]: http://econlog.econlib.org/archives/2011/12/a_cursory_rejec.html
 [Caplan Szasz]: http://econlog.econlib.org/archives/2006/09/they_called_me.html
 [AntiAN tweet depression]: https://twitter.com/AntiANtrollbot/status/200630646425653248
+[AntiANtrollbot]: https://twitter.com/#!/AntiANtrollbot
 
 <!-- Moldbug -->
 [How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
