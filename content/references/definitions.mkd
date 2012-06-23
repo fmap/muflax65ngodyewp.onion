@@ -215,3 +215,6 @@
 [Rule of Funny]: http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFunny
 [Computronium]: http://www.orionsarm.com/eg-article/4637faafa6437
 [Modal Realism]: https://en.wikipedia.org/wiki/Modal_realism
+[Antediluvian]: https://en.wikipedia.org/wiki/Antediluvian
+[Hug Machine]: https://en.wikipedia.org/wiki/Hug_machine
+[Sarashi]: http://tvtropes.org/pmwiki/pmwiki.php/Main/Sarashi
