@@ -13,8 +13,8 @@ def rss_feed
     rss.channel.description = @site.title
     rss.items.do_sort = true # sort items by date
 
-    # add changelog, if available
-    unless log.nil?
+    # use changelog or non-draft articles
+    if not log.nil?
       changes(log).each do |change|
         i = rss.items.new_item
         i.title = "muflax hath written unto you..."
@@ -22,20 +22,19 @@ def rss_feed
         i.date = Time.parse(change[:date])
         i.description = change[:description]
       end
-    end
-
-    # add all non-draft articles
-    @site.items_by_date.last(5).each do |item|
-      i = rss.items.new_item
-      i.title = "#{item[:title]}"
-      i.link = "#{@site.url}" + item.path
-      i.date = item[:date].to_time
-      i.description = tidy(item.compiled_content).force_encoding("utf-8")
+    else
+      @site.items_by_date.last(5).each do |item|
+        i = rss.items.new_item
+        i.title = "#{item[:title]}"
+        i.link = "#{@site.url}" + item.path
+        i.date = item[:date].to_time
+        i.description = tidy(item.compiled_content).force_encoding("utf-8")
+      end
     end
 
     # mod date is newest article / entry in log
     last_article = @site.items_by_date.last[:date].to_time
-    rss.channel.date = log.nil? ? last_article : [last_article, log.mtime].max
+    rss.channel.date = log.nil? ? last_article : log.mtime
   end
 
   content

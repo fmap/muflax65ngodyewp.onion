@@ -1,6 +1,0 @@
----
-title: Religion
-is_category: true
----
-
-<%= category :religion %>

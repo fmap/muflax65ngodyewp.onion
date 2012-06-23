@@ -11,7 +11,7 @@ All major changes on the site
 =============================
 
 {:#changelog}
-- 2012/06/22: Major cleanup due to the [Condemnation][].
+- 2012/06/22: Major cleanup and restructuring due to the [Condemnation][].
 
 - 2012/05/25: [Antinatalism FAQ][] is officially not a draft anymore.
 

@@ -24,7 +24,7 @@ disowned: true
 >
 > -- Ngak'chang Rinpoche, excerpt from talk on [samsara, suffering and suspicion][Samsara Talk]
 
-Compare [Gospel of Muflax][], written October 2010:
+Compare [Gospel of Muflax][Sayings], written October 2010:
 
 > - TOKSHI said, now is good, tomorrow never good enough.
 > - TOKSHI said, don't wish for things because then you will get exactly what you wished for and it will totally suck and you will look stupid.

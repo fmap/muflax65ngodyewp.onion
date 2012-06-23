@@ -2,7 +2,7 @@
 title: 3 Months of Beeminder
 date: 2012-02-03
 techne: :done
-episteme: :personal
+episteme: :log
 slug: 2012/02/03/3-months-of-beeminder/
 ---
 

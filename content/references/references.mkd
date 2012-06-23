@@ -16,7 +16,7 @@
 [Dawrst]: http://www.utilitarian-essays.com/
 [Devil Pascal]: http://squid314.livejournal.com/301735.html
 [Eyercize]: http://www.eyercize.com
-[Find the Bug]: http://www.findthebug.com
+[Find the Bug book]: http://www.findthebug.com
 [Francois Caplan]: http://francoistremblay.wordpress.com/2011/12/07/bryan-caplan-repeats-same-nonsense-but-this-time-with-more-arrogance/
 [Fyfe Purpose]: http://atheistethicist.blogspot.com/2009/07/purpose-to-life-choosing-purpose.html
 [Happiness Stochastic]: http://www.psych.umn.edu/psylabs/happness/happy.htm
@@ -231,4 +231,4 @@
 [sutra]: http://sutra.muflax.com
 [dlog]: http://daily.muflax.com
 [RSS]: /rss.xml
-
+[Universal RSS]: http://muflax.com/rss-merged.xml

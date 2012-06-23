@@ -9,20 +9,32 @@ no_comments: true
 
 Yet another hypergraphic information whore's site.
 
-[muflax][] is empty. My [LibraryThing][] profile says more about me than I ever could.
-You may, of course, just read this site to find out more. You can
-get in [Contact][] with me about anything, be it comments, criticisms or
-corrections.
+Links are sorted by mysterious processes. There is a [Changelog][] for major changes. You can subscribe to the [universal RSS feed][Universal RSS] for all sites, or go to each site for their individual feeds.[^snr]
 
-Articles are sorted by latest major modification. You can see the [Changelog][]
-for any recent changes or subscribe to the [RSS Feed][RSS]. You can also read
-the [Twitter][] feed or my [Blog][blog] for raw thought in smaller chunks.
+[^snr]: As if you cared about signal-to-noise. I know you watch cats jumping into boxes all day like the rest of us.
+
+There is also [Twitter][].
 
 <%= google_search %>
 
-<%= category :morality %>
-<%= category :reflections %>
-<%= category :religion %>
-<%= category :experiments %>
-<%= category :software %>
-<%= category :fiction %>
+# Sites
+
+<%= site_link :blog %>
+
+<%= site_link :daily %>
+
+<%= site_link :letsread %>
+
+<%= site_link :sutra %>
+
+<%= site_link :gospel %>
+
+# Topics
+
+<%= topic_link "Antinatalism", "muflax:morality/antinatalism" %>
+
+<%= topic_link "Experiments", "blog:experiments" %>
+
+<%= topic_link "The Dark Stance", "muflax:morality/stances" %>
+
+<%= topic_link "Meta-Morality", "blog:morality" %>

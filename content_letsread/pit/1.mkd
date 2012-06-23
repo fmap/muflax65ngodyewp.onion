@@ -1,8 +1,0 @@
----
-title: PIT 1
-date: 2012-05-11
-techne: :done
-episteme: :speculation
----
-
-Stuff about PIT.

@@ -45,7 +45,7 @@ But I definitely need a confession right now. Or someone to run a daily mass. I'
 (Puts on todo[^todo]: start Church of All Faiths. We offer all rituals, teach all practices, are in communion with all churches in all worlds, accept all doctrines, pray to and for all gods, saints and concepts. Heretics welcome.)
 <% end %>
 
-Lacking such a church, I did the best on my own until my head cleared and I could work again. Read Marcion's Apostolicon again, thought about it, worked more on my own texts[^own], prayed, meditated. (Should do that more often.) I think I'm getting to a point where I really should start collecting the material and make my own gospel according to muflax. That is, one with explicit theology, parables and so on, not just [a bunch of sayings][Gospel of Muflax].
+Lacking such a church, I did the best on my own until my head cleared and I could work again. Read Marcion's Apostolicon again, thought about it, worked more on my own texts[^own], prayed, meditated. (Should do that more often.) I think I'm getting to a point where I really should start collecting the material and make my own gospel according to muflax. That is, one with explicit theology, parables and so on, not just [a bunch of sayings][Sayings].
 
 [^own]:
     Not that I have any particular problem with Marcion. I've got a big theology-crush on him already and I blame any perceived flaws on mischaracterizations by his enemies or scribal errors or somesuch. But his canon is somewhat limited in scope, too fragmented and disorganized to use, and still trapped in its cultural context. It is only dimly aware of Buddhist texts, for example, even though they would greatly enhance it. None of this is Marcion's fault, but A New Canon is needed. I might as well write it.

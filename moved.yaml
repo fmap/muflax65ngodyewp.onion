@@ -1,0 +1,65 @@
+sites:
+  muflax:
+    # moved to blog
+    - from: experiments/magnetic
+      to: blog:experiments/magnetic
+    - from: experiments/polyphasic_sleep
+      to: blog:experiments/polyphasic_sleep
+    - from: experiments/speedreading
+      to: blog:experiments/speedreading
+    - from: experiments/synestesia
+      to: blog:experiments/synestesia
+    - from: experiments/dude_time
+      to: blog:experiments/dude_time
+    - from: experiments/concentration
+      to: blog:experiments/concentration
+    - from: experiments/good_sleep
+      to: blog:experiments/good_sleep
+      
+    - from: morality/purpose
+      to: blog:morality/purpose
+    - from: morality/vegetarian
+      to: blog:morality/vegetarian
+
+    - from: reflections/quale
+      to: blog:consciousness/quale
+    - from: reflections/through_wall
+      to: blog:personal/through_wall
+
+    - from: religion/crucifixion
+      to: blog:jesus/crucifixion
+    - from: religion/samsara
+      to: blog:personal/samsara
+    - from: religion/milinda
+      to: blog:culture/milinda
+    - from: religion/gospel
+      to: gospel:sayings
+
+    - from: software/backup
+      to: blog:hack/backup
+    - from: software/find_the_bug
+      to: letsread:read/find_the_bug
+    - from: software/vim
+      to: blog:hack/vim
+    - from: software/xmonad
+      to: blog:hack/xmonad
+      
+    # better org
+    - from: kanji/all.txt
+      to: muflax:stuff/kanji/all.txt
+    - from: kanji/both.txt
+      to: muflax:stuff/kanji/both.txt
+    - from: kanji/kanji.tar.gz
+      to: muflax:stuff/kanji/kanji.tar.gz
+    - from: kanji/kanken.txt
+      to: muflax:stuff/kanji/kanken.txt
+    - from: kanji/simplified.txt
+      to: muflax:stuff/kanji/simplified.txt
+    - from: kanji/traditional.txt
+      to: muflax:stuff/kanji/traditional.txt
+      
+  blog:
+    - from: /personal/3-months-of-beeminder
+      to: blog:experiments/3-months-of-beeminder
+    
+    

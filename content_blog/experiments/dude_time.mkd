@@ -2,7 +2,7 @@
 title: Dude, Where's My Time?!
 date: 2011-02-03
 techne: :done
-episteme: :personal
+episteme: :log
 ---
 
 A few days ago, I got up at 6:00 and went to bed around 22:00. During the day, I felt I worked rather well. Maybe not optimally so, but still pretty well. When I was about to fall asleep, I thought about what I had accomplished and couldn't help but feel disappointed. I could remember about 2 hours of work or so. But I was awake for over 18 hours! Where did all my time go?

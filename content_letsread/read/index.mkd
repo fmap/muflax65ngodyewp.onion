@@ -1,0 +1,6 @@
+---
+title: Stuff I Read
+is_category: true
+---
+
+<%= category :read %>
