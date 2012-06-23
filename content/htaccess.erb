@@ -16,6 +16,11 @@ RewriteRule ^feed/? /rss.xml
 <% @site.slug_items.each do |item| %>RewriteRule ^<%= item[:slug].chop %> <%= item.identifier%> [R=301]
 <% end %>
 
+# redirect sites if they moved
+<% @site.moved_pages.each do |from, to| %>RewriteRule ^<%= from %> <%= to %> [R=301]
+<% end %>
+
+
 # serve gzipped files if available
 RewriteCond %{HTTP:Accept-Encoding} gzip
 RewriteCond %{REQUEST_FILENAME} !\.gz$

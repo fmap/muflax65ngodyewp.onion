@@ -20,7 +20,7 @@ class Nanoc::Item
 
   # shared content or not?
   def shared?
-    self[:filename].start_with? "content/"
+    self[:filename].nil? or self[:filename].start_with? "content/"
   end
   
   def draft?
@@ -93,6 +93,8 @@ class Nanoc::Site
   
   # slugs for wordpress links
   attr_reader :slug_items
+
+  # pages that got moved around
   
   def initialize_items
     find_printed_items

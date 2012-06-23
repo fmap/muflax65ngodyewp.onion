@@ -19,13 +19,15 @@ site_cmds = [
 module ::Nanoc
   class Site
     attr_accessor :name
+    attr_reader :site_yaml, :moved_yaml
     
     def extended_build_config(dir_or_config_hash, site)
       puts "load extended config..."
 
       @name = site
       @site_yaml = YAML.load(File.open("sites.yaml"))
-      
+      @moved_yaml = YAML.load(File.open("moved.yaml"))
+ 
       @config[:output_dir] = "out/#{site}"
 
       @config[:data_sources] = [{
