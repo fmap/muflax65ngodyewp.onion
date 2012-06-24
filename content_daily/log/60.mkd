@@ -1,7 +1,7 @@
 ---
 title: I Am Le Tired
-date: 2012-06-23
-techne: :wip
+date: 2012-06-24
+techne: :done
 episteme: :log
 ---
 
@@ -21,12 +21,10 @@ I'll unify some stuff into single articles (like the antinatalism one), once the
 
     and all the other sites  
     try to refute me  
-    but here's my axioms  
+    but here're my axioms  
     so believe me maybe  
     
-Right after I've watched this cat jump into a box. Haha, you so funny, cat.
-
-And look ma, I even used fancy CSS for the site links! I'm not entirely stuck in the 90's!
+Might even use some pretty CSS or something soon. Right after I've watched this cat jump into a box. Haha, you so funny, cat.
 
 [^yo]: Insert obvious yo mamma joke here.
 
@@ -34,13 +32,9 @@ Also, there is now an additional [universal RSS feed][] that includes *all* site
 
 And because I'm reading more, and I like lists, and reviews, hey!, there's now a [Let's Read][] site! I don't expect it to be very in-depth, or heck, even active in a month or two, but let's throw fifty ideas against the wall, one will stick! (Or at least make the wall sticky. *Eww*.)
 
----
+I'm not yet committing to posting anything there, but I've set it up anyway. I have, however, committed to a [new Beeminder goal][Beeminder anki new] of adding 5 new cards per day to my Anki decks, ignoring auto-generated cards for language learning.[^lang] Similarly, I may commit soon to, say, one review (or quote-thingy like for PIT) per week. Just trying to figure out how useful for me this would be.
 
-And because I'm feeling lazy today, I don't want to actually describe my card design. So I recorded a video of a full typical review session instead. Watch me use Anki like every day <del>on the toilet</del>, uhh, <del>while waiting for code to compile</del>, no, uh... between study sessions. Right, that's the story I'm going with.
-
-(The sound sucks and the loading times are slightly unusual due to the recording app. It's also a bit long, merely because I couldn't be bothered to pre-select interesting cards or edit the video. If you're reading this, you probably already have an unhealthy obsession with minutiae of my life, so that should be fine.)
-
-<%= youtube("") %>
+[^lang]: Virtually *all* my language cards are now auto-generated. I add maybe a handful of words a year by hand. Dumping another few thousand sentences from a fun source is so much more productive. Accordingly, I've lowered the leech threshold on language decks to 4 failures before the card is auto-deleted.
 
 ---
 
@@ -70,14 +64,37 @@ It's insane how much this calms me down. It's like applying a medkit to the *sou
 
 I thought a bit more about thinking about philosophy, and luckily found a [solution due to divine inspiration][Condemnation].
 
-As you may have guessed, this is based (quite literally) on the [Condemnation of 1277][], and several of the condemnations are taken more-or-less directly from it (because I liked them[^ironic] and kept laughing about how the *original Condemnation of 1277* could be used, *verbatim*, to criticize several philosophy debates *today*).
+As you may have guessed, this is based (quite literally) on the [Condemnation of 1277][], and about half of the condemnations are taken more-or-less directly from it (because I liked them[^ironic] and kept laughing about how the *original Condemnation of 1277* could be used, *verbatim*, to criticize several philosophy debates *today*).
 
 The second major influence are the Buddha's 14 Unanswerable Questions, as quoted in the beginning. (Which is also where the "or not, or both, or neither" formulation comes from. I always loved the dialetheist qualification in the canon.)
 
-I would also like to say that I had *a lot* of fun writing this, and also feel relieved for having properly disowned some things. Accordingly, some of my previous posts[^site] do not just have an innocuous marker for their [Epistemic State][] anymore, but a Big Fat Banner warning about their having been disowned.
+I would also like to say that I had *a lot* of fun writing this, and also feel relieved for having properly disowned some things. I've tried it before by using [epistemic markers][Epistemic State], but that didn't quite work. So now, there's a Big Fat Banner warning about their having been disowned.
 
 [^site]: On this site, at least. I might extend it to other sites as I see fit / whenever I'm reminded of their existence.
 
 [^ironic]: Also, even though some aspects of the Condemnation are of course ironic, none of the actual condemnations are. Even though some formulations are optimized for maximal lulz.
 
-Because this philosophy is a waste of time and I'd like to get back to doing useful stuff, like code, watch cat videos and learn Sumerian.
+The most important reason for the Condemnation, besides Doing The Catholic Thing By Declaring Problems Heretical <del>And Killing Everyone Involved</del>, is that I simply asked myself something like this:
+
+- Inquisitor: Why do you think about these things?
+- Writer: They are important philosophy.
+- I: Important for what? What are you trying to do?
+- W: Solve metaphysics and some other things.
+- I: What for? What is your explicit *goal*? What would you be able to do once you had solved it?
+- W: Well, I hadn't really thought about that...
+- I: If God Himself appeared right now and told you the answer, what would that change? If he lied, *could you even tell*?
+- W: If you put it like this...
+
+Also:
+
+- I: Is it true you *believe* these things, to some degree?
+- W: Well yes. You should take it seriously, shouldn't you?
+- I: Do you remember the Fifth Commandment?
+- W: A Discordian is Prohibited from Believing What he reads.
+- I: Correct. Do you admit that you have gone from exploration of certain philosophies as useful tools and fun pastimes to actually believing these philosophies and obsessing about them?
+- W: I do.
+- I: Case closed.
+
+Yeah.
+
+This stuff is a big waste of my time and I'd like to get back to doing useful things, like code, watch cat videos and learn Sumerian.

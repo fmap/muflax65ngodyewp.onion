@@ -1,0 +1,13 @@
+---
+title: Watch Me Learn
+date: 2012-06-24
+techne: :wip
+episteme: :log
+---
+
+And because I'm feeling lazy today, I don't want to actually describe my card design. So I recorded a video of a full typical review session instead. Watch me use Anki like every day <del>on the toilet</del>, uhh, <del>while waiting for code to compile</del>, no, uh... between study sessions. Right, that's the story I'm going with.
+
+(The sound sucks and the loading times are slightly unusual due to the recording app. It's also a bit long, merely because I couldn't be bothered to pre-select interesting cards or edit the video. If you're reading this, you probably already have an unhealthy obsession with minutiae of my life, so that should be fine.)
+
+<%= youtube("") %>
+

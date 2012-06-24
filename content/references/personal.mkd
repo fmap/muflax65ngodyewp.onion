@@ -1,6 +1,7 @@
 <!-- personal links -->
 [Antinatalism Tumblr]: http://antinatalism.tumblr.com/
 [Beeminder anki]: https://www.beeminder.com/muflax/goals/anki
+[Beeminder anki new]: https://www.beeminder.com/muflax/goals/anki-new
 [Beeminder daily]: https://www.beeminder.com/muflax/goals/dailylog
 [Beeminder fitocracy]: https://www.beeminder.com/muflax/goals/fitocracy
 [Beeminder fume]: https://www.beeminder.com/muflax/goals/fume
