@@ -28,7 +28,7 @@ Might even use some pretty CSS or something soon. Right after I've watched this 
 
 [^yo]: Insert obvious yo mamma joke here.
 
-Also, there is now an additional [universal RSS feed][] that includes *all* sites. (So you don't need 50 different feeds if you follow all my stuff anyway.) You can of course still follow individual feeds as always.
+Also, there is now an additional [universal RSS feed][Universal RSS] that includes *all* sites. (So you don't need 50 different feeds if you follow all my stuff anyway.) You can of course still follow individual feeds as always.
 
 And because I'm reading more, and I like lists, and reviews, hey!, there's now a [Let's Read][] site! I don't expect it to be very in-depth, or heck, even active in a month or two, but let's throw fifty ideas against the wall, one will stick! (Or at least make the wall sticky. *Eww*.)
 
