@@ -4,7 +4,6 @@ date: 2012-03-14
 techne: :done
 episteme: :discredited
 slug: 2012/03/14/catholics-right-again-news-at-11/
-disowned: true
 ---
 
 So I've [said][Why You Don't Want Vipassana] [repeatedly][The End of Rationality] now that I have serious problems with vipassana and the whole Theravada soup it emerged from. It's not just a technical problem, but a deep rejection of the assumptions, goals and interpretations of that framework, at least in its current form. I still like them enough that I'm not interested in taking my stuff and going home. I merely believe that vipassana, as it exists today in its numerous incarnations, is in serious need of repair, but still worthwhile. But before we start with the fixing, let's have a look at what's *broken*.

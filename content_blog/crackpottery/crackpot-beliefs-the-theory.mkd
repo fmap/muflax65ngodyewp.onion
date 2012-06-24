@@ -3,7 +3,7 @@ title: Crackpot Beliefs (The Theory)
 alt_titles: [Crackpot Theory]
 date: 2012-02-20
 techne: :done
-episteme: :broken
+episteme: :believed
 slug: 2012/02/20/crackpot-beliefs-the-theory/
 ---
 
@@ -75,7 +75,7 @@ Thus we arrive at Reformed Crackpottery, the framework for the self-aware crank.
 > 
 > The belief that "order is true" and disorder is false or somehow wrong, is the Aneristic Illusion. To say the same of disorder, is the Eristic Illusion.
 
-To believe that Some Beliefs Are True is the Aneristic Delusion, to believe that Some Methods Of Belief-Finding Are True the Meta-Aneristic Delusion. However, to therefore conclude that All Beliefs Are False is the Eristic Delusion, and All Beliefs Are Signalling is the Meta-Eristic Delusion.
+To believe that Some Beliefs Are True is the Aneristic Delusion, to believe that Some Methods Of Belief-Finding Are True the Meta-Aneristic Delusion. However, to therefore conclude that All Beliefs Are False is the Eristic Delusion, and All Beliefs Are Signaling is the Meta-Eristic Delusion.
 
 Reformed Crackpottery calls out both bluffs, by respecting the integrity of beliefs, while making it transparent that they are arbitrary constructs, not reflective of reality. All beliefs are crackpot beliefs, good cranks are just honest about it.
 

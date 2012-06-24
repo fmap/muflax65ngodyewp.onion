@@ -4,7 +4,6 @@ date: 2012-02-03
 techne: :done
 episteme: :speculation
 slug: 2012/02/03/being-immoral/
-disowned: true
 ---
 
 During my Beeminder experiments, I noticed an odd mental state. A few times I deliberately *ignored* my plan and explicitly gave up. It feels like defecting against Future Me. It's unfortunately somewhat common that I think, "I *could* start this today and keep it up until the deadline, work maybe 1 hour a day, *or* I do nothing for a month, then work my ass off" and then refuse the first option.
@@ -66,7 +65,7 @@ There are multiple ways to resolve this:
 
 Essentially, if everyone acts according to their will, they ought not be harmed. In Pareto Heaven, no harm should exist. Thus, "do no harm" is really a clarification of "do not coerce".
 
-"Do not coerce" has several nice properties. It has no [Moral Luck][], is strictly [local][Non-Local Metaethics], suffers not from the repugnant conclusion or mere addition problem, works in the [Original Position][] and implies (almost-)categorical antinatalism because we can't get a child's consent in advance (in practice, though [not in theory][Consent of the Dead]. It's also compatible with Buddhist thought, which is nice to have, but certainly not a requirement. It also straightforwardly implies anarchism.
+"Do not coerce" has several nice properties. It has no [Moral Luck][], is strictly [local][Non-Local Metaethics], suffers not from the repugnant conclusion or mere addition problem, works in the [Original Position][] and implies (almost-)categorical antinatalism because we can't get a child's consent in advance (in practice, though [not in theory][Consent of the Dead]). It's also compatible with Buddhist thought, which is nice to have, but certainly not a requirement. It also straightforwardly implies anarchism.
 
 One direct implication of this view is that you *can't* force others to do the right thing. You are fundamentally condemned to watch the world burn, if you are unlucky enough to live in a universe full of immoral forces. There is nothing you can do about it because you can't coerce others into being good. This is outright anti-adaptive, but that will not matter. I find this hopeful, actually. It means you can be good regardless of your surroundings, like [Ksitigarbha][].
 

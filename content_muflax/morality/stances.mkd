@@ -4,7 +4,6 @@ alt_titles: [Stances, Dark Stance]
 date: 2011-07-18
 techne: :done
 episteme: :broken
-disowned: true
 ---
 
 # Idea

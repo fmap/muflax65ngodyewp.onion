@@ -1,22 +1,23 @@
-* content [2/7]
+* content [3/6]
 - [X] universal RSS
-- [-] portal
-  - [ ] rss feeds
+- [X] portal
+  - [X] rss feeds
   - [X] move stuff to blog
   - [X] merge more stuff (experiments etc.)
-- [-] disown bad sites
+- [X] disown bad sites
   - [X] upper bound implemented
-  - [ ] are *all* condemnations necessary? think more.
+  - [X] are *all* condemnations necessary? think more.
 - [ ] start gospel
 - [ ] start let's read for reviews
 - [ ] fine-grained episteme tags
-* layout [2/6]
+* layout [3/7]
 - [ ] better handling of footnotes (parallel column?)
 - [ ] search bar prettier
 - [ ] next_prev for first page float broken
 - [X] disown site
 - [X] better merged -> moved
-- [ ] smaller logo
+- [X] smaller logo
+- [ ] site links should be pretty
 * technical [0/4]
 - [ ] imply all_sites without -s
 - [ ] fork nanoc, move site config there
