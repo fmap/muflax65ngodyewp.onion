@@ -1,6 +1,6 @@
 ---
 title: Watch Me Learn
-date: 2012-06-24
+date: 2012-06-25
 techne: :wip
 episteme: :log
 ---
