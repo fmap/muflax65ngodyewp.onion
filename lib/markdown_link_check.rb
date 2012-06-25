@@ -3,7 +3,7 @@ class MarkdownLinkCheck < Nanoc::Filter
   
   def run(content, params={})
     content.each_line do |line|
-      if line =~ /\[.+?\]\[.*?\]/
+      if line =~ /\[^?.+?\]\[.*?\]/
         puts "#{@item.identifier} -> #{line}" 
         raise "Unresolved link!"
       end
