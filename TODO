@@ -1,24 +1,12 @@
-* content [3/6]
-- [X] universal RSS
-- [X] portal
-  - [X] rss feeds
-  - [X] move stuff to blog
-  - [X] merge more stuff (experiments etc.)
-- [X] disown bad sites
-  - [X] upper bound implemented
-  - [X] are *all* condemnations necessary? think more.
-- [ ] start gospel
-- [ ] start let's read for reviews
+* content [0/1]
 - [ ] fine-grained episteme tags
-* layout [3/7]
+* layout [0/4]
 - [ ] better handling of footnotes (parallel column?)
-- [ ] search bar prettier
+- [ ] search bar not pretty enough
+- [ ] site links could be prettier
 - [ ] next_prev for first page float broken
-- [X] disown site
-- [X] better merged -> moved
-- [X] smaller logo
-- [ ] site links should be pretty
 * technical [0/4]
 - [ ] imply all_sites without -s
 - [ ] fork nanoc, move site config there
 - [ ] cache compilation better
+- [ ] better handling of rss feeds (maybe generate them all separately and always upload them?)

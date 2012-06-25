@@ -65,6 +65,10 @@ compile '/feed/' do
   filter :erb
 end
 
+compile '/feed-merged/' do
+  filter :erb
+end
+
 compile '*' do
   if @item.binary?
     # don't filter binary items
@@ -119,6 +123,10 @@ end
 
 route '/feed/' do
   '/rss.xml'
+end
+
+route '/feed-merged/' do
+  '/rss-merged.xml'
 end
 
 route '/htaccess/' do

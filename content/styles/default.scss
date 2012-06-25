@@ -204,6 +204,35 @@ ul.table li {
   margin-left: -$margin;
 }
 
+ul.fancy {
+  list-style-type: none;
+  margin-left: -$margin;
+  
+  li {
+    margin-bottom: 0.5em;
+    
+    #name {
+      font-size: 1.3em;
+    }
+    #desc {
+      font-size: 1.1em;
+    }
+    
+    a {
+      display: block;
+      background-color: $bg;
+
+    /* color: $crumb-fg; */
+      text-decoration: none;
+    }
+    
+    a:hover {   
+      background: $hover;
+      color: #fff;
+    }
+  }
+}
+
 /* general lists */
 li {
   padding-left: 0;

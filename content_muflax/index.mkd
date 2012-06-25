@@ -9,9 +9,11 @@ no_comments: true
 
 Yet another hypergraphic information whore's site.
 
+[muflax][] is empty.
+
 Links are sorted by mysterious processes. There is a [Changelog][] for major changes. You can subscribe to the [universal RSS feed][Universal RSS] for all sites, or go to each site for their individual feeds.[^snr]
 
-[^snr]: As if you cared about signal-to-noise. I know you watch cats jumping into boxes all day like the rest of us.
+[^snr]: As if you cared about signal-to-noise. I know you watch cats jump into boxes all day like the rest of us.
 
 There is also [Twitter][].
 
@@ -19,61 +21,62 @@ There is also [Twitter][].
 
 # Sites
 
-<ul class="table">
+<ul class="fancy">
 
-<%= render "list-site",
-    :domain => "blog",
+<%= render "list-item-fancy",
+    :name => @site.site_yaml["sites"]["blog"]["title"],
+    :link => site_url("blog"),
     :desc => "A Blog" %>
 
-<%= render "list-site",
-    :domain => "daily",
-    :desc => "Daily[^daily] Practice" %>
+<%= render "list-item-fancy",
+    :name => @site.site_yaml["sites"]["daily"]["title"],
+    :link => site_url("daily"),
+    :desc => "Daily Practice" %>
 
-<%= render "list-site",
-    :domain => "letsread",
+<%= render "list-item-fancy",
+    :name => @site.site_yaml["sites"]["letsread"]["title"],
+    :link => site_url("letsread"),
     :desc => "Reading Is Radical" %>
 
-<%= render "list-site",
-    :domain => "sutra",
+<%= render "list-item-fancy",
+    :name => @site.site_yaml["sites"]["sutra"]["title"],
+    :link => site_url("sutra"),
     :desc => "Bloggin' The Sutras" %>
 
-<%= render "list-site",
-    :domain => "gospel",
+<%= render "list-item-fancy",
+    :name => @site.site_yaml["sites"]["gospel"]["title"],
+    :link => site_url("gospel"),
     :desc => "(a work in progress)" %>
 
 </ul>
 
-[^daily]: On average.
-
 # Topics
 
-<ul class="table">
+<ul class="fancy">
 
-<%= render "list-topic",
-    :topic => "Antinatalism",
-    :link => "muflax:morality/antinatalism",
+<%= render "list-item-fancy",
+    :name => "Antinatalism",
+    :link => local_link("muflax:morality/antinatalism"),
     :desc => "Being Born Sucks" %>
 
-<%= render "list-topic",
-    :topic => "Crackpottery",
-    :link => "blog:crackpottery/crackpot-beliefs-the-theory",
+<%= render "list-item-fancy",
+    :name => "Crackpottery",
+    :link => local_link("blog:crackpottery/crackpot-beliefs-the-theory"),
     :desc => "Warranted Crackpot Belief" %>
 
-<%= render "list-topic",
-    :topic => "Dark Stance",
-    :link => "muflax:morality/stances",
+<%= render "list-item-fancy",
+    :name => "Dark Stance",
+    :link => local_link("muflax:morality/stances"),
     :desc => "Transform Nothing, Seek No Gain" %>
 
-<%= render "list-topic",
-    :topic => "Experiments",
-    :link => "blog:experiments",
+<%= render "list-item-fancy",
+    :name => "Experiments",
+    :link => local_link("blog:experiments"),
     :desc => "Trying Cool Stuff" %>
 
-<%= render "list-topic",
-    :topic => "Meta-Ethics",
-    :link => "blog:morality",
+<%= render "list-item-fancy",
+    :name => "Meta-Ethics",
+    :link => local_link("blog:morality"),
     :desc => "Solving Morality" %>
 
 </ul>
-
-<br/> <!-- force some spacing -->

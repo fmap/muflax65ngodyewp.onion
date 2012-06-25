@@ -1,13 +1,14 @@
 ---
 title: "tl;dr: muflax"
 alt_titles: [muflax, about muflax]
-date: 2012-02-05
-techne: :rough
-episteme: :broken
-toc: true
+date: 2012-06-25
+techne: :done
+episteme: :believed
 non_cognitive: true
 ---
 
-**muflax, n**: information whore, hacker, aspiring crackpot, catharsis junkie, not exactly sane
+**muflax, n**: information whore, hacker, aspiring crackpot, catharsis junkie, meta addict, not exactly sane
 
-[muflax][] is empty. My [LibraryThing][] profile says more about me than I ever could. You can get in [Contact][] with me about anything, be it comments, criticisms or corrections. Unless you're a duck.
+My [LibraryThing][] profile says more about me than I ever could. You can [get in contact][Contact] with me about anything, be it comments, criticisms or corrections.
+
+Unless you're a duck.
