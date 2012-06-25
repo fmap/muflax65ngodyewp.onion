@@ -19,24 +19,61 @@ There is also [Twitter][].
 
 # Sites
 
-<%= site_link :blog %>
+<ul class="table">
 
-<%= site_link :daily %>
+<%= render "list-site",
+    :domain => "blog",
+    :desc => "A Blog" %>
 
-<%= site_link :letsread %>
+<%= render "list-site",
+    :domain => "daily",
+    :desc => "Daily[^daily] Practice" %>
 
-<%= site_link :sutra %>
+<%= render "list-site",
+    :domain => "letsread",
+    :desc => "Reading Is Radical" %>
 
-<%= site_link :gospel %>
+<%= render "list-site",
+    :domain => "sutra",
+    :desc => "Bloggin' The Sutras" %>
+
+<%= render "list-site",
+    :domain => "gospel",
+    :desc => "(a work in progress)" %>
+
+</ul>
+
+[^daily]: On average.
 
 # Topics
 
-<%= topic_link "Antinatalism", "muflax:morality/antinatalism" %>
+<ul class="table">
 
-<%= topic_link "Crackpottery", "blog:crackpottery/crackpot-beliefs-the-theory" %>
+<%= render "list-topic",
+    :topic => "Antinatalism",
+    :link => "muflax:morality/antinatalism",
+    :desc => "Being Born Sucks" %>
 
-<%= topic_link "Dark Stance", "muflax:morality/stances" %>
+<%= render "list-topic",
+    :topic => "Crackpottery",
+    :link => "blog:crackpottery/crackpot-beliefs-the-theory",
+    :desc => "Warranted Crackpot Belief" %>
 
-<%= topic_link "Experiments", "blog:experiments" %>
+<%= render "list-topic",
+    :topic => "Dark Stance",
+    :link => "muflax:morality/stances",
+    :desc => "Transform Nothing, Seek No Gain" %>
 
-<%= topic_link "Meta-Ethics", "blog:morality" %>
+<%= render "list-topic",
+    :topic => "Experiments",
+    :link => "blog:experiments",
+    :desc => "Trying Cool Stuff" %>
+
+<%= render "list-topic",
+    :topic => "Meta-Ethics",
+    :link => "blog:morality",
+    :desc => "Solving Morality" %>
+
+</ul>
+
+<br/> <!-- force some spacing -->
