@@ -1,0 +1,13 @@
+---
+title: Checklist Manifesto
+date: 2012-06-24
+techne: :done
+episteme: :believed
+---
+
+A review haiku.
+
+excellent idea  
+trapped in overly long book  
+watch [superior talk][checklist ted]  
+
