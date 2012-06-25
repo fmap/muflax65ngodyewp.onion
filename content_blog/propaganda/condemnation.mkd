@@ -26,7 +26,7 @@ episteme: :believed
 
 # Condemnation of 23 Propositions
 
-Muflax, by divine permission unworthy servant of the [Timeless Church][comment Church], [sends greetings][Condemnation of 1277] to all those who will read this post.
+muflax, by divine permission unworthy servant of the [Timeless Church][comment Church], [sends greetings][Condemnation of 1277] to all those who will read this post.
 
 We have received frequent reports, inspired by zeal for the Faith, on the part of important and serious persons to the effect that some students of the [Art][LW virtues] on the Internet are exceeding the boundaries of their own faculty and are presuming to treat and discuss, as if they were debatable in the schools, certain obvious and loathsome errors, or rather vanities and lying follies, which are contained in the list at the end of this post.
 
@@ -82,7 +82,7 @@ Given in the year of the Lord 2012, on the Sunday on which Italy defeated Englan
 
 19. That history is knowable through philosophy, or not, or both, or neither.
 
-20. That there are is only one substance, or not, or both, or neither.
+20. That there is only one substance, or not, or both, or neither.
 
 21. That God cannot move anything irregularly because there is no diversity of will in Him, or not, or both, or neither.
 
