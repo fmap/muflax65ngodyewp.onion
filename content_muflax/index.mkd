@@ -33,8 +33,10 @@ There is also [Twitter][].
 
 <%= topic_link "Antinatalism", "muflax:morality/antinatalism" %>
 
+<%= topic_link "Crackpottery", "blog:crackpottery/crackpot-beliefs-the-theory" %>
+
+<%= topic_link "Dark Stance", "muflax:morality/stances" %>
+
 <%= topic_link "Experiments", "blog:experiments" %>
 
-<%= topic_link "The Dark Stance", "muflax:morality/stances" %>
-
-<%= topic_link "Meta-Morality", "blog:morality" %>
+<%= topic_link "Meta-Ethics", "blog:morality" %>
