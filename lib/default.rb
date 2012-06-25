@@ -78,13 +78,6 @@ class Category
   def title
     @item[:title]
   end
-
-  def link count=false
-    desc = title
-    desc += " (#{members.size})" if count
-    
-    "<a href='#{@item.identifier}'>#{desc}</a>"
-  end
 end
 
 class Nanoc::Site

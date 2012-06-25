@@ -38,3 +38,12 @@ class Nanoc::Site
     moved
   end
 end
+
+class Category
+  def link count=false
+    desc = title
+    desc += " (#{members.size})" if count
+    
+    "<a href='#{@item.identifier}'>#{desc}</a>"
+  end
+end
