@@ -5,8 +5,9 @@
 - [ ] search bar not pretty enough
 - [ ] site links could be prettier
 - [ ] next_prev for first page float broken
-* technical [0/4]
+* technical [0/5]
 - [ ] imply all_sites without -s
 - [ ] fork nanoc, move site config there
 - [ ] cache compilation better
 - [ ] better handling of rss feeds (maybe generate them all separately and always upload them?)
+- [ ] put gzip into Rules
