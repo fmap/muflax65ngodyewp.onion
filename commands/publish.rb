@@ -23,9 +23,6 @@ module Nanoc::CLI::Commands
       # prepare images
       cmd "nanoc images"
 
-      # universal rss
-      cmd "nanoc rss"
-
       sites_arg(options[:sites]).each do |site|
         puts "publishing site: #{site}"
         
