@@ -11,7 +11,9 @@ I've started to acquire quite a lot of sub-sites, so I decided to re-tool the ma
 
 <http://muflax.com> is now a (simple) portal for all my sites, and the articles hosted directly there are Big Fat Things That Grow Over Time[^yo] But Have A Kind Of Limited Scope And Are At Some Point Done And Self-Contained. BFTTGOTBHAKOLSAAASPDASCs. (In [antediluvian][] times, I think they called those thing "books". Or a "tractatus". Something like that.) For now, they are either way-too-ambitious posts like the [Antinatalism FAQ][] or stuff that all belongs together, in some sense.
 
-I'll unify some stuff into single articles (like the antinatalism one), once there's a bit more content / I'm in the mood. I don't want to end up like Certain People who have elaborate intelligent arguments spread out over a bazillion blog posts and you can't just say, "read this huge site here, it contains everything you need to know".[^meta]
+I'll unify some more stuff into single articles (like the antinatalism one), once there's a bit more content and I'm in the mood. I don't want to end up like Certain People who have elaborate intelligent arguments spread out over a bazillion blog posts and you can't just say, "read this huge site here, it contains everything you need to know".[^meta]
+
+Also, there is now an additional [universal RSS feed][Universal RSS] that includes *all* sites. (So you don't need 50 different feeds if you follow all my stuff anyway.) You can of course still follow individual feeds as always.
 
 [^meta]:
     hey I just met you  
@@ -21,18 +23,18 @@ I'll unify some stuff into single articles (like the antinatalism one), once the
 
     and all the other sites  
     try to refute me  
-    but here're my axioms  
+    but here's my axioms  
     so believe me maybe  
     
 Might even use some pretty CSS or something soon. Right after I've watched this cat jump into a box. Haha, you so funny, cat.
 
 [^yo]: Insert obvious yo mamma joke here.
 
-Also, there is now an additional [universal RSS feed][Universal RSS] that includes *all* sites. (So you don't need 50 different feeds if you follow all my stuff anyway.) You can of course still follow individual feeds as always.
+---
 
 And because I'm reading more, and I like lists, and reviews, hey!, there's now a [Let's Read][] site! I don't expect it to be very in-depth, or heck, even active in a month or two, but let's throw fifty ideas against the wall, one will stick! (Or at least make the wall sticky. *Eww*.)
 
-I'm not yet committing to posting anything there, but I've set it up anyway. I have, however, committed to a [new Beeminder goal][Beeminder anki new] of adding 5 new cards per day to my Anki decks, ignoring auto-generated cards for language learning.[^lang] Similarly, I may commit soon to, say, one review (or quote-thingy like for PIT) per week. Just trying to figure out how useful for me this would be.
+Not that it has any real content yet. I'm not even committing yet to posting anything there, but I've set it up anyway. I have, however, committed to a [new Beeminder goal][Beeminder anki new] of adding 5 new cards per day to my Anki decks, ignoring auto-generated cards for language learning.[^lang] Similarly, I may commit soon to, say, one review (or quote-thingy like for PIT) per week. Just trying to figure out how useful for me this would be.
 
 [^lang]: Virtually *all* my language cards are now auto-generated. I add maybe a handful of words a year by hand. Dumping another few thousand sentences from a fun source is so much more productive. Accordingly, I've lowered the leech threshold on language decks to 4 failures before the card is auto-deleted.
 
@@ -52,7 +54,7 @@ It's 9m long. That's awesome for wrapping yourself up, but a *bitch* to fold. Yo
 
 Japanese packaging is amazingly neat. The receipt even had an origami swan glued to it. This alone made my day.
 
-Did I say that it's 9m long? Have you ever tried to wrap something around yourself, *tightly*, really damn-can't-breathe tightly, that is 9m long? Ain't exactly easy, let me tell ya. Forget folding. Roll it all up. Only sane way to do it.
+Did I say that it's 9m long? Have you ever tried to wrap something around yourself, *tightly*, really damn-can't-breathe tightly, that is 9m long? Ain't exactly easy, let me tell ya. Forget folding, roll it all up instead; only sane way to do it.
 
 9m is not nearly long enough. Ok, yeah, it *seems* long, but it's only like 7 or so revolutions. It will hold and nicely apply pressure, but you won't feel completely constrained. Still works, though. Try doing anapana with it, you'll see. Or crunches.
 
@@ -82,7 +84,7 @@ The most important reason for the Condemnation, besides Doing The Catholic Thing
 - W: Solve metaphysics and some other things.
 - I: What for? What is your explicit *goal*? What would you be able to do once you had solved it?
 - W: Well, I hadn't really thought about that...
-- I: If God Himself appeared right now and told you the answer, what would that change? If he lied, *could you even tell*?
+- I: If God Himself appeared right now and told you the answer, what would that change? If He lied, *could you even tell*?
 - W: If you put it like this...
 
 Also:
@@ -90,11 +92,19 @@ Also:
 - I: Is it true you *believe* these things, to some degree?
 - W: Well yes. You should take it seriously, shouldn't you?
 - I: Do you remember the Fifth Commandment?
-- W: A Discordian is Prohibited from Believing What he reads.
+- W: "A Discordian is Prohibited from Believing What he reads."
 - I: Correct. Do you admit that you have gone from exploration of certain philosophies as useful tools and fun pastimes to actually believing these philosophies and obsessing about them?
 - W: I do.
 - I: Case closed.
 
 Yeah.
 
-This stuff is a big waste of my time and I'd like to get back to doing useful things, like code, watch cat videos and learn Sumerian.
+There is, of course, also the historical in-joke about the nature of the Condemnation itself. Back in '77, the Bishop of Paris decided that all them Aristotelian cranks running around was no good and Something Had To Be Done. So he banned them all, including, ironically enough, a lot of Aquinas' stuff which mostly got caught in the crossfire. (Aquinas would later be recognized as The Biggest Deal In Catholic Theology, second maybe only to Augustine.) 
+
+However, because Jesus keeps on trolling Christians from beyond the grave, the Condemnation actually worked and everyone shut up about Aristotle and his ancient nonsense for just long enough that the philosophers could try some alternatives, and re-invent science and theology once again.
+
+Which is exactly what I'm trying to do too, by ditching topics I can't possibly make progress on, or that have no use whatsoever, in favor of neater stuff.
+
+Though I suspect that some of these problems are completely imagined on my side, and I just worry too much why no one has solved existence yet, when that isn't even a question I *should* be worrying about. Worrying about beliefs is a fairly bad fail for someone arguing that beliefs are tools, after all.
+
+So this Condemnation is substantially aimed at *myself*, to stop me from wasting cognitive resources, instead of doing useful stuff, like learn Sumerian.

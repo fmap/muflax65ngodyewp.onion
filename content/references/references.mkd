@@ -149,6 +149,7 @@
 [LW game]: http://lesswrong.com/r/discussion/lw/d3h/open_thread_june_1630_2012/6v8u
 [LW virtues]: http://yudkowsky.net/rational/virtues
 [LW timeless physics]: http://lesswrong.com/lw/qp/timeless_physics/
+[LW fun theory]: http://lesswrong.com/lw/y0/31_laws_of_fun/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
