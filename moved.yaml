@@ -59,7 +59,7 @@ sites:
       to: muflax:stuff/kanji/traditional.txt
       
   blog:
-    - from: /personal/3-months-of-beeminder
+    - from: personal/3-months-of-beeminder
       to: blog:experiments/3-months-of-beeminder
     
     
