@@ -103,6 +103,7 @@
 [Cula-Malunkyovada Sutra]: http://www.accesstoinsight.org/tipitaka/mn/mn.063.than.html
 [Fake Sky]: http://computationaltheology.blogspot.com/2012/05/superintelligent-solution-to-fermi.html
 [Basic Laws of Human Stupidity]: http://www.searchlores.org/realicra/basiclawsofhumanstupidity.htm
+[Price Reading List]: http://www.robertmprice.mindvendor.com/study_list.htm
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -226,6 +227,10 @@
 [Introduction to Bayesian Statistics]: http://libgen.info/view.php?id=12067
 [The Attention Revolution]: http://www.amazon.com/Attention-Revolution-Unlocking-Power-Focused/dp/0861712765
 [Data Analysis - A Bayesian Tutorial]: http://libgen.info/view.php?id=259687
+[Pre-Nicene New Testament]: http://www.amazon.com/The-Pre-Nicene-New-Testament-Fifty-four/dp/1560851945
+[After Virtue]: https://en.wikipedia.org/wiki/After_Virtue
+[Thinking, Fast and Slow]: https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+[The Christ-Myth Theory And Its Problems]: http://www.amazon.com/The-Christ-Myth-Theory-Problems-ebook/dp/B00771ZPZA
 
 <!-- internal links -->
 [main]: http://muflax.com

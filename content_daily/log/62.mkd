@@ -1,0 +1,49 @@
+---
+title: Watch Me Learn
+date: 2012-06-27
+techne: :wip
+episteme: :log
+---
+
+Let's talk about language learning.
+
+My main criticism of Khatzu's [All Japanese All The Time][AJATT] a couple of years ago was, well, alright I get the ideas and meta-points, but how do you *do* this exactly?
+
+Like, on a typical day, what is it you actually do? Attitudes are nice and all, but I'd like to know a little bit more than that, you know.[^do]
+
+[^do]:
+<% skip do %>
+Which is why I always liked hardcore vipassana. "Sit on your ass, pay attention to your breath until it goes away." is an actual instruction. It's lacking, sure, but at least it's *there*. I *still* don't really know what many Mahayana traditions actually *do*.
+<% end %>
+
+So here's my answer. There are three things, besides meta-activities like writing tools, that I actually do.
+
+1. Watch TV.
+2. Read texts.
+3. Do Anki cards.
+
+1) is obvious. You put on the TV, *don't* use English subtitles you bloody savage you, but only native subtitles (or none), and watch. That's it. Wellu ok, in the beginning this is extremely frustrating. I still remember my hardcore immersion phase where I did *everything* in Japanese all day, and after watching *a whole season* of a funny show and *not understanding a single word*, you are bound to get a bit frustrated.
+
+But I don't think this is what Khatz even meant, but he wasn't very clear about activities, so it was my best guess. Anyway, 1) is really simple to do, but not very profitable in the beginning.
+
+2) is exactly like 1), only more so. You can use parallel texts etc. to make it a bit easier to get started, and rely on good dictionaries and whatnot, but in the end, until you're already somewhat fluent, it will mostly be frustrating unless you have the motivation to live on the little scraps of meaning you can just barely extract.
+
+So alright, 1) and 2) are easy to do for post-intermediates, but how do you get there? Assuming you don't have Michel Thomas' corpse in your closet, or some secret cabal of polyglots to design some decent course for you, you'll do Anki cards.
+
+And because I'm feeling lazy today, I don't want to actually describe my card design. I'm going to write this up a bit more in a blog post eventually. I've actually written the first half of it already, and took some screenshots and so on, so what's really missing is just a description of the tools I use to generate the cards. Well, maybe once my Latin skills are up a level or two, as a proof that this stuff works.
+
+For now, I've recorded a video of a complete typical review session instead. Watch me use Anki like every day <del>on the toilet</del>, uhh, <del>while waiting for code to compile</del>, no, uh... between study sessions. Right, that's the story I'm going with.
+
+(The sound sucks and there are some minor loading issues due to the recording app.)
+
+It's also a bit long, merely because I couldn't be bothered to pre-select interesting cards or edit the video. If you're reading this, you probably already have an unhealthy obsession with minutiae of my life, so that should be fine. I'll highlight important cards in the upcoming post.
+
+<%= youtube("") %>
+
+But some notes anyway.
+
+1. I do all editing on the desktop and almost all reviews on my phone. It's just more convenient that way.
+
+2. New cards are optional and the limit is more of an upper bound to prevent review explosions.
+
+3. The wiping motion is card suspension. I delete all suspended cards every few weeks or so.
