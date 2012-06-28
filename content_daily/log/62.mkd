@@ -1,20 +1,29 @@
 ---
 title: Watch Me Learn
-date: 2012-06-27
-techne: :wip
+date: 2012-06-28
+techne: :done
 episteme: :log
 ---
 
-Let's talk about language learning.
+Let's talk about language learning.[^rant]
+
+[^rant]:
+    <% skip do %>
+    I'm not gonna rant about how much I hate all the stupid hacks I had to use to get the dictionaries, taggers and whatnot to run properly. If I didn't enjoy the programming practice, I'd have given up a long time ago and just paid LingQ and a personal coach to design my cards for me.
+
+    Seriously frustrating and I didn't get anything else done for the last 3 days. Not sure if that was the right choice on my part. But then, I'm throwing my life away anyway as far as I can tell, and failing everything I can for questionable pursuits and the approval of strangers.
+
+    Might as well become a polyglot if I'm gonna be unemployed anyway.
+    <% end %>
 
 My main criticism of Khatzu's [All Japanese All The Time][AJATT] a couple of years ago was, well, alright I get the ideas and meta-points, but how do you *do* this exactly?
 
 Like, on a typical day, what is it you actually do? Attitudes are nice and all, but I'd like to know a little bit more than that, you know.[^do]
 
 [^do]:
-<% skip do %>
-Which is why I always liked hardcore vipassana. "Sit on your ass, pay attention to your breath until it goes away." is an actual instruction. It's lacking, sure, but at least it's *there*. I *still* don't really know what many Mahayana traditions actually *do*.
-<% end %>
+    <% skip do %>
+    Which is why I always liked hardcore vipassana. "Sit on your ass, pay attention to your breath until it goes away." is an actual instruction. It's lacking, sure, but at least it's *there*. I *still* don't really know what many Mahayana lineages actually *do*. I doubt they do, either.
+    <% end %>
 
 So here's my answer. There are three things, besides meta-activities like writing tools, that I actually do.
 
@@ -22,28 +31,40 @@ So here's my answer. There are three things, besides meta-activities like writin
 2. Read texts.
 3. Do Anki cards.
 
-1) is obvious. You put on the TV, *don't* use English subtitles you bloody savage you, but only native subtitles (or none), and watch. That's it. Wellu ok, in the beginning this is extremely frustrating. I still remember my hardcore immersion phase where I did *everything* in Japanese all day, and after watching *a whole season* of a funny show and *not understanding a single word*, you are bound to get a bit frustrated.
+1) is obvious. You put on the TV, *don't* use English subtitles you bloody savage you, but only native subtitles (or none), and watch. That's it. Well ok, in the beginning this is extremely frustrating. I still remember my hardcore immersion phase where I did *everything* in Japanese all day, and after watching *a whole season* of a funny show and *not understanding a single word*, you are bound to get a bit frustrated.
 
 But I don't think this is what Khatz even meant, but he wasn't very clear about activities, so it was my best guess. Anyway, 1) is really simple to do, but not very profitable in the beginning.
 
 2) is exactly like 1), only more so. You can use parallel texts etc. to make it a bit easier to get started, and rely on good dictionaries and whatnot, but in the end, until you're already somewhat fluent, it will mostly be frustrating unless you have the motivation to live on the little scraps of meaning you can just barely extract.
 
-So alright, 1) and 2) are easy to do for post-intermediates, but how do you get there? Assuming you don't have Michel Thomas' corpse in your closet, or some secret cabal of polyglots to design some decent course for you, you'll do Anki cards.
+So alright, 1) and 2) are easy to do for post-intermediates, but how do you get there? Assuming you don't have Michel Thomas' corpse in your closet (stop hogging bro), or some secret cabal of polyglots to design some decent course for you, you'll do Anki cards.
 
 And because I'm feeling lazy today, I don't want to actually describe my card design. I'm going to write this up a bit more in a blog post eventually. I've actually written the first half of it already, and took some screenshots and so on, so what's really missing is just a description of the tools I use to generate the cards. Well, maybe once my Latin skills are up a level or two, as a proof that this stuff works.
 
-For now, I've recorded a video of a complete typical review session instead. Watch me use Anki like every day <del>on the toilet</del>, uhh, <del>while waiting for code to compile</del>, no, uh... between study sessions. Right, that's the story I'm going with.
+For now, I've recorded a 15min video of a complete typical review session instead. Watch me use Anki like every day <del>on the toilet</del>, uhh, <del>while waiting for code to compile</del>, no, uh... between study sessions. Right, that's the story I'm going with.
 
-(The sound sucks and there are some minor loading issues due to the recording app.)
+The sound sucks because I'm forced to record via microphone, not internally; I removed the audio track when nothing's playing so you don't hear me breathing or the nearby birds. Loading times are also slightly higher due to the recording app.
 
-It's also a bit long, merely because I couldn't be bothered to pre-select interesting cards or edit the video. If you're reading this, you probably already have an unhealthy obsession with minutiae of my life, so that should be fine. I'll highlight important cards in the upcoming post.
+It's also way too long and completely boring, merely because I couldn't be bothered to pre-select interesting cards or edit the video much. If you're reading this, you probably already have an unhealthy obsession with minutiae of my life, so you have no right to complain. I'll highlight important cards in the upcoming post, if you can't be bothered though. (Understandably so.) Or just skip / speed it up.
 
-<%= youtube("") %>
+And turn the volume down.
 
-But some notes anyway.
+<%= youtube("http://www.youtube.com/v/ArzDJQkbfeE") %>
 
-1. I do all editing on the desktop and almost all reviews on my phone. It's just more convenient that way.
+Some notes anyway.
 
-2. New cards are optional and the limit is more of an upper bound to prevent review explosions.
+1. I do all editing / adding of new cards on the desktop and almost all reviews on my phone. It's just more convenient that way.
 
-3. The wiping motion is card suspension. I delete all suspended cards every few weeks or so.
+2. The amount and selection of reps I do in the recording is typical for a session. I tend to do at least one session every day, sometimes more if I'm in the mood / stuck in a line somewhere, and only force myself to do as many cards as are necessary to pass my Beeminder goal. If I feel like it, I'll do more, of course.
+
+3. The distribution of reps over decks varies, mostly because I occasionally delete / move blocks (especially in the subs2srs deck if I get sick of a show), and I focus on different decks on different days (which can lead to backlogs). The total number of reps stays fairly constant though.
+
+4. "awesomesauce" is my default deck. It's the only deck where I tend to avoid backlogs or major deletions.
+
+5. The wiping motion is card suspension. I delete all suspended cards every few weeks or so.
+
+6. I didn't show the new Japanese MCD cards because there's still an old backlog. But all MCD cards look the same anyway, although Japanese has shittier sentence translations. Also, the French MCD cards significantly underestimate my ability as I didn't have a good pool of old cards to estimate already known words from, which is why I delete a lot of them. This will fix itself in a few days.
+
+7. Many cards have (automatic) glosses for unknown words and extensive translations on them. I rarely look at them, but they're useful to have, especially when a card was generated slightly wrong. If there is any information that might be relevant and can be easily gathered, collect it just in case. Storage is cheap. (This applies everywhere.)
+
+8. Yes, my wallpaper was chosen when I got frustrated with how few good ones are out there. Eventually, I was like, fuck it, tits it is then.
