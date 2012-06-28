@@ -1,0 +1,30 @@
+---
+title: The Christ Myth Theory And Its Problems
+date: 2012-06-28
+techne: :wip
+episteme: :believed
+---
+
+I've started reading Robert M. Price's [The Christ-Myth Theory And Its Problems][], mostly in the hope of getting a complete overview of his main arguments.
+
+<% skip do %>
+Price is my favorite[^fav] New Testament scholar, but his main problem is that he has *hundreds* of live hypotheses flying around, all fascinating, but it's all spread out over a huge amounts of talks, podcasts and a [humongous reading list][Price Reading List]. Now, I'm an obsessive bible nerd and I've listened to literally hundreds of hours of Price's podcast and read many of his books, and I'll be working myself through his reading list as soon as I can read Latin and Greek, but one good collection of at least the Jesus material would be cool. (I'm also really excited about his upcoming book on Paul.)
+
+[^fav]: Ok, Richard Carrier is pretty neat too. Carrier is better at analytical thought (*much* better), but Price gets the tropes and Christian way of thinking. They complement each other perfectly.
+
+Right now, the best recommendation is the [Pre-Nicene New Testament][], Price's attempt to reconstruct all of the early Christian texts and their layers of redaction. It's an amazing book and I think a really cool way to present his arguments. "If I'm right, then the original texts must have looked roughly like this", and it turns out, these reconstructions make a lot of sense, are all plausible and match the evidence. Once you've seen them, it's really obvious how the whole historization process went and why the canon looks the way it does. You can't unsee the Jesus myth afterwards.
+
+But still, it's got 1200+ pages, and a neat summary of all major hypotheses would be very useful.
+
+Once I'm done with it (this week likely, review then), I'll either read something science-y ([Thinking, Fast and Slow][], maybe) or MacIntyre's [After Virtue][]. I've listened to a talk about some of his ideas and found them fascinating enough that I might just jump in. MacIntyre is *the* leading virtue ethicist and that's the meta-ethical branch of theories I'd really love to understand *much* better. (He's also another Catholic convert and Thomist. Just sayin'.)
+
+If I get stuck, I'll just switch to one of the dozen or so half-finished books on my list. Oh well.
+<% end %>
+
+It mostly lives up to my expectations and gives a good detailed presentation for myth hypothesis. There are some alternative constructions Price doesn't go much into, but he namedrops everyone that matters, so that's not a problem.
+
+My main problem, and it's not an important one, with Price is that he seems to suffer somewhat from selection bias, or at least the presentation does. While you can successfully deconstruct, say, the Gospel of Mark as a re-telling of several source texts, like 1 Kings and the Iliad, and it's hard to unsee this once you compare the texts (which Price fortunately quotes extensively), but *what else* can you deconstruct this way?
+
+When I've been immersed in Higher Criticism texts for a while, *everything* looks blatantly fictitious to me, including *stuff that happened to me*. If you consistently apply these methods, most pre-modern texts should be considered fiction! This isn't necessarily *wrong*, and I'm sure Price is a fair bit agnostic of any narrative's truthfulness, but it's still a *far* more radical claim than he lets on.
+
+Regardless, best one-book summary of the myth hypothesis right now. (I haven't yet read Carrier's latest book because I'm still waiting for the Kindle version. Maybe his is even better. I have high hopes.)
