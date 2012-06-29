@@ -5,7 +5,7 @@ techne: :done
 episteme: :log
 ---
 
-> "Don't force output in L2. Just keep getting input. Don't force yourself to go to the bathroom, just keep drinking water."
+> Don't force output in L2. Just keep getting input. Don't force yourself to go to the bathroom, just keep drinking water.
 >
 > -- Jamie Fan ([source][Language Is Peeing])
 
