@@ -1,0 +1,42 @@
+---
+title: What color is your pee?
+date: 2012-06-29
+techne: :done
+episteme: :log
+---
+
+> "Don't force output in L2. Just keep getting input. Don't force yourself to go to the bathroom, just keep drinking water."
+>
+> -- Jamie Fan ([source][Language Is Peeing])
+
+Couldn't stop fiddling with the card generation code.
+
+I implemented [James Tauber's next-best algorithm][graded-reader] for comparison. Obviously, sorting words by importance minimizes the number of cards and makes them all somewhat easier, but the main reason I didn't originally do it that way is because it re-arranges the sentences. That's fine for snippets, but sucks for books.
+
+However, I'm now unconvinced it's even all that more efficient.
+
+For comparison, I'm running this against Le Petit Prince, which has ~2800 unique words and ~1600 sentences.  Based on statistics from all other texts I've run this on, it's a completely typical text[^typ]. I assume almost no previous knowledge of the language. Also, we need some redundancy, so every new word must appear on at least 2 dedicated cards if it is unknown, or just 1 if it's already familiar (a related form has featured before).
+
+Using the next-best algorithm, you'd cover all ~2800 words with ~3580 cards, giving you 1.29 cards per word. Only 87 sentences are not used.
+
+If you don't generate cards for rare words (words that appear at most twice in any form), then you limit yourself to ~1560 words at ~2180 cards and 1.40 cards per word, skipping ~300 sentences.
+
+Using my algorithm, you obviously read all the sentences in order. This generates ~4570 cards (or 2.90 cards per sentence), and 1.30 cards per learned word. You'd still learn ~2610 words, or about 90% of them, leaving only ~90 unfamiliar. However, this includes separate sentence cards just so you can read the text - if you remove those, this brings you down to ~3000 cards.
+
+So if you plan on reading the whole text anyway, *ordering cards doesn't buy you anything in terms of efficiency*. You're gonna have more-or-less every sentence on a card anyway, and the total number and coverage are not substantially different.
+
+The only valid reason to prefer one over the other is whether you care more about the ease and importance of individual words, or the flow of the text.
+
+(Also, my approach takes ~5 seconds per text. Ordering takes >10 minutes. Much harder to experiment with.)
+
+However, maybe a *combination* of both would be *even better*. Languages are organized according to basic power laws, with a few hundred words covering 90% of all utterances, but everything else is pretty much unique. Therefore, the vast majority of words will all be at roughly the same frequency, importance and difficulty. (Which is why going from basic to full fluency is so hard - the gap is huge. This is also why it makes no substantial difference how much output practice you ever do and why grammar is so useless. The majority of skill is raw word memory. (Or rather, expression memory, but you know what I mean.))
+
+Yet, those important few hundred words could be taught first, as Michel Thomas (Peace Be Upon Him) of course did, and then the rest is just "read this, pay attention to unknown words, repeat until fluent", which is what my algorithm automates.
+
+So I combined the two algorithms, tried seveal ways to identify these important words, learn them via next-best, then read the text using my approach.
+
+However, no matter what I tried, it made no substantial difference. Also, I found that the traditional claim that words follow a power law, while technically true, is totally misleading. If you want to cover 90% of De Bello Gallico, you *still* have to learn *67%* of the words, only half of which are even related. That's insane, and makes ordering practically useless for real texts.
+
+Good to know.
+
+tl;dr: Just read. Grammar, frequency lists and all that are a waste of time.
