@@ -110,7 +110,7 @@ class Nanoc::Site
   def items_by_date category=nil
     (category.nil? ? @printed_items : category.members).
       select{|i| i.article? and not i.draft?}. # exclude drafts etc.
-      reject{|i| i[:date].nil?}.sort_by {|i| i[:date]} # sort by date
+      reject{|i| i[:date].nil?}.sort_by {|i| [i[:date], i.identifier]} # sort by date, then name (for logs)
   end
 
   def find_categories
