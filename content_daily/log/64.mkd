@@ -27,15 +27,15 @@ So if you plan on reading the whole text anyway, *ordering cards doesn't buy you
 
 The only valid reason to prefer one over the other is whether you care more about the ease and importance of individual words, or the flow of the text.
 
-(Also, my approach takes ~5 seconds per text. Ordering takes >10 minutes. Much harder to experiment with.)
+(Also, my approach takes ~5 seconds per text. Sorting takes >10 minutes. Much harder to experiment with.)
 
 However, maybe a *combination* of both would be *even better*. Languages are organized according to basic power laws, with a few hundred words covering 90% of all utterances, but everything else is pretty much unique. Therefore, the vast majority of words will all be at roughly the same frequency, importance and difficulty. (Which is why going from basic to full fluency is so hard - the gap is huge. This is also why it makes no substantial difference how much output practice you ever do and why grammar is so useless. The majority of skill is raw word memory. (Or rather, expression memory, but you know what I mean.))
 
 Yet, those important few hundred words could be taught first, as Michel Thomas (Peace Be Upon Him) of course did, and then the rest is just "read this, pay attention to unknown words, repeat until fluent", which is what my algorithm automates.
 
-So I combined the two algorithms, tried seveal ways to identify these important words, learn them via next-best, then read the text using my approach.
+So I combined the two algorithms, tried several ways to identify these important words, learn them via next-best, then read the text using my approach.
 
-However, no matter what I tried, it made no substantial difference. Also, I found that the traditional claim that words follow a power law, while technically true, is totally misleading. If you want to cover 90% of De Bello Gallico, you *still* have to learn *67%* of the words, only half of which are even related. That's insane, and makes ordering practically useless for real texts.
+However, no matter what I tried, it made no substantial difference. Also, I found that the traditional claim that words follow a power law, while technically true, is totally misleading. If you want to cover 90% of De Bello Gallico, you *still* have to learn *67%* of the words, only half of which are even related. That's insane, and makes sorting practically useless for real texts.
 
 Good to know.
 
