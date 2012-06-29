@@ -15,7 +15,7 @@ I implemented [James Tauber's next-best algorithm][graded-reader] for comparison
 
 However, I'm now unconvinced it's even all that more efficient.
 
-For comparison, I'm running this against Le Petit Prince, which has ~2800 unique words and ~1600 sentences.  Based on statistics from all other texts I've run this on, it's a completely typical text[^typ]. I assume almost no previous knowledge of the language. Also, we need some redundancy, so every new word must appear on at least 2 dedicated cards if it is unknown, or just 1 if it's already familiar (a related form has featured before).
+For comparison, I'm running this against Le Petit Prince, which has ~2800 unique words and ~1600 sentences.  Based on statistics from all other texts I've run this on, it's a completely typical text. I assume almost no previous knowledge of the language. Also, we need some redundancy, so every new word must appear on at least 2 dedicated cards if it is unknown, or just 1 if it's already familiar (a related form has featured before).
 
 Using the next-best algorithm, you'd cover all ~2800 words with ~3580 cards, giving you 1.29 cards per word. Only 87 sentences are not used.
 
