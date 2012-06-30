@@ -1,0 +1,40 @@
+---
+title: mihi videtur ut palea
+date: 2012-06-30
+techne: :done
+episteme: :log
+---
+
+> Der Tod ist weit weg. Für meinen Geschmack fast zu weit. Ich fühle mich nicht mehr scheiße, sondern nur noch leer. Leer und sinnlos. Jetzt eine Frau sein. Einen netten Mann kennen lernen, Kind machen lassen, Mutter sein. Ungefähr so leer und sinnlos fühle ich mich.
+>
+> -- [Bov Bjerg][Bov Sinnlos]
+
+[Misery][], [Desire for Deliverance][], [Re-Observation][].
+
+[Cycle after cycle][5 stages], in endless repetition.
+
+---
+
+I had 8 safe days on my [Daily Log goal][Beeminder daily], meaning I could stop it, effective immediately.
+
+So I did.
+
+I unsubscribed from most of my RSS feeds and deleted all non-essential accounts (making sure to preserve the content). Comments are on temporary moderation[^disqus].
+
+[^disqus]:
+    I would've just closed them for a while, but Disqus is <del>a pile of shit that doesn't give me any meaningful control and I would switch away in an instant if they'd actually let me export comments and I had a decent alternative</del> uncooperative.
+
+Then I spent all afternoon getting past the withdrawal symptoms, going through the arguments, checking the data again. What are the results, what's the payoff of this strategy? What have, say, the last two months brought me? And how, had I stopped listening early, tried to work it out myself - how would that have affected the results? Would I have found the flaws faster, or slower? Would I have understood the insights better, or worse? And the level of discourse, the scholarship of the participants - is it stronger than mine, or weaker?
+
+And I ask myself, why have I been listening to people who have read *fewer* primary texts than me, are still shocked by the obvious flaws, and are hindering my understanding by trapping me in the comfort zone?
+
+And then the withdrawal gets easier, and I cut my losses, and delete some of the essential accounts.
+
+I apologize for breaking implicit promises and for not explaining myself. This is unavoidably a drama-whoric move; I try to limit it by only leaving this note, but avoiding any further statements or commitments, positive and negative.[^commit]
+
+[^commit]:
+    I have been using the word "commitment" too easily. I have broken too many words, been too fickle. Unless I back it with money or honor, I shall "commit" no longer.
+
+I feel even more delete-y, but have enough sense to wait, to see if I still feel that way in a week or two, to not rush things, even though I want to get rid of this body, want to stop being muflax.
+
+Until then, this is on hold.

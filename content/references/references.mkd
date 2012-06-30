@@ -107,6 +107,8 @@
 [Fiction Failure]: https://www.focus.de/politik/weitere-meldungen/studie-diktatur-und-demokratie-fuer-viele-schueler-gleichwertig-_aid_773708.html
 [graded-reader]: http://graded-reader.org/
 [Language Is Peeing]: http://www.alljapaneseallthetime.com/blog/language-is-peeing
+[Bov Sinnlos]: http://www.salbader.de/heft/nummer34/007.html
+[Smart Birds]: https://heartiste.wordpress.com/2012/01/27/the-parable-of-the-smart-birds/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
