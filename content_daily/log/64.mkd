@@ -23,7 +23,7 @@ If you don't generate cards for rare words (words that appear at most twice in a
 
 Using my algorithm, you obviously read all the sentences in order. This generates ~4570 cards (or 2.90 cards per sentence), and 1.30 cards per learned word. You'd still learn ~2610 words, or about 90% of them, leaving only ~90 unfamiliar. However, this includes separate sentence cards just so you can read the text - if you remove those, this brings you down to ~3000 cards.
 
-So if you plan on reading the whole text anyway, *ordering cards doesn't buy you anything in terms of efficiency*. You're gonna have more-or-less every sentence on a card anyway, and the total number and coverage are not substantially different.
+So if you plan on reading the whole text anyway, *sorting words doesn't buy you anything in terms of efficiency*. You're gonna have more-or-less every sentence on a card anyway, and the total number of cards and coverage are not substantially different.
 
 The only valid reason to prefer one over the other is whether you care more about the ease and importance of individual words, or the flow of the text.
 
