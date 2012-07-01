@@ -15,7 +15,6 @@ To send me comments, angry rants, marriage proposals or anything else, you can r
 - mail: *mail at muflax dot com*
 - Jabber: *muflax at tuxed dot org*
 - AIM: *muflax*
-- [Google+][]
 - [Twitter][]
 
 I welcome (anonymous) feedback at [whatiswrongwith.me][]. Especially negative feedback. (Seriously. I love criticism or rants. [Don't hold back][Crocker's Rules].)
