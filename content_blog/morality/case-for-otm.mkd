@@ -54,9 +54,9 @@ So pure formalism does not sound very appealing[^appealing].
 
 So one might be tempted to say, maybe that's just not a well-defined answer. Maybe "Why does math work?" is just another Hegelian confusion. And of course it's not necessary at all to know *why* math works to actually use it. Pragmatism is perfectly adequate if we just want to get stuff done.
 
-But philosophy has a strange attraction to it, and we still want to get this nagging question out of our head. Desperate, we try to re-animate the corpse of [Logical Positivism][], and say, "Why does math work?" is a meaningless question. It just seems meaningful to us, but actually isn't. But then we try going meta. Why does it seem meaningful to ask, "Why does math work?"? What is it about this question that makes it seem meaningful, even when it isn't? The question "Why is blue a kind of chair?" doesn't seem meaningful.
+But philosophy has a strange attraction to it, and we still want to get this nagging question out of our head. Desperate, we try to re-animate the corpse of [Logical Positivism][], and say, "Why does math work?" is a meaningless question. It just seems meaningful to us, but actually isn't. But then we try going meta. Why does it seem meaningful to ask, "Why does math work?"? What is it about this question that makes it seem meaningful, even when it isn't? A genuinely meaningless question, like "Why is blue a kind of chair?", doesn't appear meaningful, after all.
 
-And more meta, if we accept Logical Positivism, we can just ask, why does Logical Positivism work? It doesn't? Then it is self-refuting. Or is this question also meaningless? Then what, exactly, is Logical Positivism asserting? It is meaningless to ask why Logical Positivism work, but it does in fact work, and we should use it to conclude that asking why math works is meaningless, even though it does in fact work and Hegelian Dialectic doesn't?[^meta]
+And more meta, if we accept Logical Positivism, we can just ask, why does Logical Positivism work? It doesn't? Then it is self-refuting. Or is this question also meaningless? Then what, exactly, is Logical Positivism asserting? It is meaningless to ask why Logical Positivism works, but it does in fact work, and we should use it to conclude that asking why math works is meaningless, even though it does in fact work and Hegelian Dialectic doesn't?[^meta]
 
 [^meta]: This is a general meta-point that is easy to miss. Plantinga makes the same kind of argument by [using evolution to refute naturalism][Plantinga naturalism], a move so clever, I can only imagine him going [trolololo][] for a whole week after he came up with it. Epistemology is hard, let's go justified shopping.
 
@@ -68,7 +68,7 @@ The simplest explanation is this: math works because the universe runs on math. 
 Max Tegmark took this idea and ran so far with it, you may actually come out in another universe if you try to follow him.
 
 
-There are two simple arguments you can make about the existence of morality. The first has some similarity to Pascal's Wager, and really just points out the self-refuting character of nihilism. It goes like this: If objective morality exists, we want to follow it. If it doesn't, then who cares? Nothing we do matters anyway. So even if we have no idea if it exists, we should simply *assume* it does.
+There are two simple arguments you can make about the existence of morality. The first has some similarity to Pascal's Wager, and really just points out the self-refuting character of moral nihilism. It goes like this: If objective morality exists, we want to follow it. If it doesn't, then who cares? Nothing we do matters anyway. So even if we have no idea if it exists, we should simply *assume* it does.
 
 Ok, maybe, but what if we run into contradictions or incoherent requirements or stuff like that? That's where the second argument comes in. *Assume*, just as a language game if you want, that objective morality, discoverable by reason, exists. Just for the lulz.
 
@@ -80,7 +80,7 @@ And if it turns out that the construction you end up with is beautiful, simple, 
 
 If objective morality *didn't* exist, if it *weren't* true, weren't *about* something, just an arbitrary game... where does all the structure come from?
 
-Shouldn't it look a lot more like [godshatter][]? The product of an unreliable, disinterested process - evolution - that outright optimizes for non-moral goals, would not look coherent, understandable, axiomatic. Yet, when you actually try this, you may find[^may] that it actually does.
+Shouldn't it look a lot more like [godshatter][]? The product of an unreliable, disinterested process - evolution - that outright optimizes for non-moral goals. It would not look coherent, understandable, axiomatic. Yet, when you actually try this, you may find[^may] that it actually does.
 
 [^may]:
     Yes, it is somewhat unfair that I'm not actually making a case for simplicity of description, that I only hint, vaguely, at some of the axioms. And that, for some people at least, the inherent complexity and incompressibility of terminal value seems much better argued for, much more plausible. It might help to take game theory, think in terms of cooperation, contracts and enforcement, and run with that as far as you can, see how much of "terminal" value you can derive from it, and then wonder again if maybe there is more elegance, at least on a meta-level above your individual life. But ultimately, I can only say, at least for now: lol u suck.
