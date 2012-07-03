@@ -1,0 +1,27 @@
+---
+title: Reading Latin (Part 2)
+date: 2012-07-03
+techne: :wip
+episteme: :believed
+---
+
+This is the second post in a 2-part series about learning to read Latin, or any language, really. See [Part One - Rationale and Mindset][Reading Latin (Part 1)] first. This is Part Two - Tools and Examples.
+
+---
+
+
+
+Are these tools user-friendly, well-documented and thoroughly tested? Bwahaha, *hell no*. Do they work? Sure, most of the time.
+
+
+[^installation]:
+    Install instructions, for \*nix users. Needs Ruby 1.9 and support Latin, French and Japanese. If it doesn't work, *tough luck*.
+
+    ~~~
+    #!sh
+    git clone #
+    cd mcd
+    bundle install
+    ./latin-cards.rb ./txt/bello_gallico.txt
+
+    ~~~

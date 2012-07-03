@@ -1,11 +1,17 @@
 ---
-title: Reading Latin
-date: 2012-05-01
+title: Reading Latin (Part 1)
+date: 2012-07-03
 techne: :wip
 episteme: :believed
 ---
 
-So you want to learn how to read Latin. Sure, no probs. Let me channel [Khatzu of the Moto clan][AJATT] for a second... ahem...
+This is the first post in a 2-part series about learning to read Latin, or any language, really. Even though three prophets - [Khatzu of the Moto clan][AJATT], [Prof. Alexander "The Shadow" Arguelles][] and [Stephan "The" Krashen][] - have already brought us the Holy Scripture of Language Learning, my approach is slightly different, more hacker-friendly, and a bit more text-focused. [Saint Morph Man][] covers TV, I cover books.
+
+This is Part One - Rationale and Mindset. Part Two - Tools and Examples - will be posted shortly.
+
+---
+
+So you want to learn how to read Latin. Sure, no probs. Let me channel [the Warrior of Ten Thousand Sentences][AJATT] for a second... ahem...
 
 Here's the deal: *you can already read Latin*.
 
@@ -13,7 +19,7 @@ That's right, I'm claiming you already have the ability to read Latin. That soft
 
 You can read, presumably. (P-zombies who only pretend to read, go away!) The mechanism to read stuff is there. You aren't a chimpanzee who's totally puzzled by this "reading" thing everyone seems to be doing. (If you are, please don't conquer our planet and enslave all of humanity?)
 
-"But", you might say, "I can read *English*, not *Latin*". That's not entirely correct. Look here:
+"But", you might say, "I can read *English*, not *Latin*". That, my friend, is not entirely correct. Look here:
 
 > Gallia est omnis divisa in partes tres.
 
@@ -33,34 +39,40 @@ Learning one word is a trivially easy task. You've just done it twice, with no e
 
 So you're telling me, "I want to know what that sentence means!". Sure thing. Seven words, remember? So we do it 5 more times. Heck, I'm sure you can already guess some of them.
 
-Like 'in'. You totally know what 'in' means, dude. And 'partes'. Yeah, 'parts'. That's really tricky. 'est' is just 'is'. 'tres', think un, dos, tres - right, it's 'three'. One last word, 'divisa', which obviously is 'divided'.
+Like 'in'. You totally know what 'in' means, dude. And 'partes'. Yeah, 'parts'. That's really tricky. 'est' is just 'is'. Like in French. 'tres', think un, dos, tres - right, it's 'three'. One last word, 'divisa', which obviously is 'divided'.
 
 So that sentence means 'All of Gaul is divided into three parts'.
 
 Yeah, the word order is a bit weird, I know. If it confuses you, that's another bug. The sentence sub-module can be a bit tricky. It's an ancient hack, ok? Serious legacy code. But it's pretty small, so it's easy to fix the occasional bugs.
 
-"But muflax", you ask, "how did *you* know what 'omnis' meant?". Good question, you handsome narrative device!
+"But muflax", you ask, "how did *you* know what 'omnis' meant?". Good question, you handsome narrative device, you!
 
 I looked it up. Not everyone knows this, but people aren't actually born speaking a language. There are no "native" languages at all. (I was shocked too!) Those damned kids who later go around claiming Latin, or Japanese, or whatever new-fangled thing they speak these days, they claim this thing is their "native" language, and they learned this in totally unique and special ways, ones only children can use...
 
 These people are full of shit.
 
-When those kids didn't know what something meant, they *looked it up*, too. Not in paper dictionaries, generally (lol paper books, right?), but TV shows, or other people, or comic books, or... Well, you get the idea. Quite a distributed way to explain a language, if you ask me.
+When those kids didn't know what something meant, they *looked it up*, too. Not in paper dictionaries, generally (lol paper books, right?), but TV shows, or other people, or comic books, or... Well, you get the idea. Quite a distributed way to store a language, if you ask me.
 
 You may have noticed that there aren't many Romans around these days. There's a bunch of [cosplayers in Italy][Vatican], but they're kinda weird. So where did I look it up?
 
 There are a bunch of sources, but the three main sources are, dictionaries, parallel texts and context.
 
-As a dictionary, [Whitaker's Words][Words dict] is pretty good. (Also has an [online version][Words online]. The program is written in Ada, which, as you may know, is the second-oldest language known to man, right after COBOL, which was invented by the Sumerians.) You can google for more.
+As a dictionary, [Whitaker's Words][Words dict] is pretty good. (Also has an [online version][Words online]. The program is written in Ada, which, as you may know, is the second-oldest language known to man, right after COBOL, which was invented by the Sumerians.) You can google for more. Almost all languages have good online dictionaries these days.
 
 Parallel texts just means "look this shit up in a translation". The original sentence is the beginning of Caeser's <del>blog posts</del> account of the Gallic war, so that's pretty popular and there are translations galore.
 
 And context, well, did you really needed me to tell you that 'in' means 'in' or 'into'? You just got that? Could make an informed guess? Perfect.
 
-No other magic involved.[^grammar] I don't secretly have Caesar chained up in my basement, that's a dirty lie, you have no proof! It's just those and similar tools. Be as lazy as you possibly can.
+No other magic involved.[^grammar] I don't secretly have Caesar chained up in my basement, that's a dirty lie, you have no proof, I've given up on necromancy centuries ago! It's just those and similar tools. Be as lazy as you possibly can.
 
 You have your pre-installed Latin module. You feed it content. You encounter some bugs, you look them up in the most convenient way possible. You feed it more content until all the bugs are fixed.
 
+There's one more thing though. I'm sorry to say, but, well, how can I put this nicely... you have brain-rot. What I mean is, someone accidentally turned on the Second Law of Thermodynamics, and now we're all doomed to the endless samsara of memory loss.
+
+You'll forget things again. You may have noticed this feature of reality before. (Unless you forgot. Haha.) So you may want to use some little trick to *not* forget things. Not strictly necessary, of course, but personally, I'm fan of only learning something once. Don't like wasting time much.
+
+So you put your stuff in your [trusty SRS][], make a bunch of Anki cards - I'll tell you how in part 2 - and that's it.
+
 You now know everything there is to reading Latin.
 
-[^grammar]: Here's Lucius Vorenus opinion on grammar: "Grammar... I am a son of immersion! I fuck grammar in its arse!"
+[^grammar]: Here's [Lucius Vorenus][] opinion on grammar: "Grammar... I am a son of immersion! I fuck grammar in its arse!"
