@@ -61,11 +61,15 @@ As a dictionary, [Whitaker's Words][Words dict] is pretty good. (Also has an [on
 
 Parallel texts just means "look this shit up in a translation". The original sentence is the beginning of Caeser's <del>blog posts</del> account of the Gallic war, so that's pretty popular and there are translations galore.
 
-And context, well, did you really needed me to tell you that 'in' means 'in' or 'into'? You just got that? Could make an informed guess? Perfect.
+And context, well, did you really need me to tell you that 'in' means 'in' or 'into'? You just got that? Could make an informed guess? Perfect.
 
 No other magic involved.[^grammar] I don't secretly have Caesar chained up in my basement, that's a dirty lie, I've given up on necromancy centuries ago! 
 
-You have your pre-installed Latin module. You feed it content. You encounter some bugs, you look them up in the most convenient way possible. You feed it more content until all the bugs are fixed. Maybe we can even automate this process, have (begin ominous music) The Computer (end ominous music) systematically look for bugs and generate little patches for us. You know, so we can be as lazy as is humanly possible. Which is *very lazy indeed*.
+You have your pre-installed Latin module. You feed it content. You encounter some bugs, you look them up in the most convenient way possible. You feed it more content until all the bugs are fixed. 
+
+Back in the Stone Age, which is pretty much any time before the 90s as far as I'm concerned, you'd take a text you wanted to read, get a translation (written by an old dude who censored all the dick jokes, likely), put them up next to each other, and read. You'd pay attention to how the sentence structure works, how words match up, what patterns there are. If something looked interesting, you'd write it down in your notebook. Also, all the words you didn't know and couldn't trivially guess. Then every day, you'd review those words. If you were particularly fancy, you'd even make paper cards out of them. Do that for a while, bam, write <del>Aristotle fan-fiction</del> scholastic philosophy in Church Latin.
+
+Maybe we can automate this process, have (begin ominous music) The Computer (end ominous music) systematically look for bugs and generate little patches for us. You know, so we can be as lazy as is humanly possible. Which is *very lazy indeed*.
 
 There's one more thing though. I'm sorry to say, but, well, how can I put this nicely... you have brain-rot. What I mean is, someone accidentally turned on the Second Law of Thermodynamics in this universe, and now we're all doomed to the endless samsara of memory loss.
 
