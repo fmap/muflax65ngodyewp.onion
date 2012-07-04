@@ -40,7 +40,7 @@ module Nanoc::CLI::Commands
       
       Dir["content/references/*.mkd"].each do |ref|
         File.open(ref).each_line do |l|
-          if m = l.match(/^ \*? \[ (?<link>.+?) \] : /x)
+          if m = l.match(/^ \[ (?<link>.+?) \] : /x)
             references << {
               link: m[:link],
               full_link: l.strip,
