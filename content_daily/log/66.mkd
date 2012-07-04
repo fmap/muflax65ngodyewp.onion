@@ -91,7 +91,13 @@ It would simplify some things. He considers it, knowing full well that no one re
 
 He understands the Continental program a bit better - read primary sources, if at all possible. He wonders why he ever stopped doing that; it was always the most enlightening. Continentals know, through their own experience, how impossible translations between even closely related languages are. Why, then, would you expect the past to translate well to the present? Every step of distance, every translation, re-iteration, summation - a distortion. Knowledge is easily corrupted.
 
-He thinks how weird that fact is. He learned C through [K&R][], as one should, even though it is didactically flawed, has many bugs, is outdated in many ways. But K&R teaches you not through words - there are certainly better, newer ones - but through its rhythm. It makes you *feel* C, gives you confidence by learning from the masters themselves. It is not the letters you should be paying attention to, but the virtue of the teacher.
+He thinks how weird that fact is. He learned C through [K&R][], as one should, even though it is didactically flawed, has many bugs, is outdated in many ways. But K&R teaches you not through words - there are certainly better, newer ones - but through its rhythm. It makes you *feel* C, gives you confidence by learning from the masters themselves.
+
+Then through the unity of knowledge and action, he knew he could not learn C by reading about it. This was ultimately folly, so years ago, as one of his first C projects, he wrote a [Connect 4 AI][yonmokunarabe], one he later rewrote, blessed with more virtue, now so pure that it even found a bug in [Saint Tromp][John Tromp]'s AI, a fact he could, in principle, exploit to beat it, even though it claims to be perfect. He was delighted.
+
+He had learned all his code this way - Python by writing a Roguelike, Basic by writing a text adventure, over a decade ago.
+
+It is not the words of the teacher you should be paying attention to, but their virtue. Not their object lessons, but their meta lessons.
 
 He thinks the Continentals might be going for the same thing. He is not mad at them anymore. He just smiles.
 <% end %>

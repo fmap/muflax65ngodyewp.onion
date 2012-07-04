@@ -35,3 +35,4 @@
 [github web history]: https://github.com/muflax/scripts/blob/master/google_web_history.rb
 [range_math]: https://github.com/muflax/range_math
 [avg_dmg]: https://github.com/muflax/scripts/blob/master/average_damage.rb
+[yonmokunarabe]: https://github.com/muflax/yonmokunarabe/

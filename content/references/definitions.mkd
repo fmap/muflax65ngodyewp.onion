@@ -226,3 +226,4 @@
 [MorphMan]: http://rtkwiki.koohii.com/wiki/Morph_Man
 [SRS]: http://www.gwern.net/Spaced%20repetition
 [K&R]: https://en.wikipedia.org/wiki/The_C_Programming_Language
+[John Tromp]: http://homepages.cwi.nl/~tromp/
