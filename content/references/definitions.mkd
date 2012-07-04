@@ -222,3 +222,7 @@
 [Misery]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/MCTB 7. Misery
 [Desire for Deliverance]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/MCTB 9. Desire for Deliverance
 [Re-Observation]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/MCTB%2010.%20Re-observation
+[Krashen]: https://en.wikipedia.org/wiki/Input_Hypothesis
+[MorphMan]: http://rtkwiki.koohii.com/wiki/Morph_Man
+[SRS]: http://www.gwern.net/Spaced%20repetition
+[K&R]: https://en.wikipedia.org/wiki/The_C_Programming_Language

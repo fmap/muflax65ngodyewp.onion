@@ -9,19 +9,58 @@ This is the second post in a 2-part series about learning to read Latin, or any 
 
 ---
 
+So what kind of cards do you generate? There are three kinds.
 
+The most important card is the "do you know this word?" card. It looks like this:
+
+<%= image("anki_word.jpg", "Anki Word") %>
+
+You are given a sentence with some extended context, and a single word is highlighted. If the sentence is a bit tricky, (e.g. because it contains multiple unknown words), you are also given the full translation. The point is not to get the sentence - only one word.
+
+Do you know what "mensum" means? Yes? Pass. No? Fail.
+
+The answer looks like this:
+
+<%= image("anki_answer.jpg", "Anki Answer") %>
+
+(Yes, this is for a different word. Fuck consistency.)
+
+It contains the full dictionary translation. This is enough for us to figure out what the word means, most of the time. If not, we just delete the card. Eh, it's a target-rich environment and there are thousands of unknown words. Volume matters, individual cards don't.
+
+As your skill grows, you switch more and more to production cards, like this:
+
+<%= image("anki_produce.jpg", "Anki Production") %>
+
+Now you are given the translation of the word, and must produce the Latin word. At first, does cards are rare. They are slower, harder and there's no use doing them before you actually know some words. Of the first 200 or so cards, only 2 are production cards. But as your skill grows, you will transition almost entirely to these cards.
+
+But before you learn
+
+<%= image("anki_sentence.jpg", "Anki Sentence") %>
+
+Don't worry too much
 
 Are these tools user-friendly, well-documented and thoroughly tested? Bwahaha, *hell no*. Do they work? Sure, most of the time.
 
 
+- LingQ
+- LWT
+- Yomichan for Japanese
+
+
+
 [^installation]:
-    Install instructions, for \*nix users. Needs Ruby 1.9 and support Latin, French and Japanese. If it doesn't work, *tough luck*.
+    Install instructions, for \*nix users. Needs Ruby 1.9 and currently supports Latin, French and Japanese. If it doesn't work, *tough luck*. Read the code, fix it yourself.
 
     ~~~
     #!sh
-    git clone #
+    git clone http://github.com/muflax/MCD-card-generator.git mcd
     cd mcd
     bundle install
-    ./latin-cards.rb ./txt/bello_gallico.txt
-
+    bundle exec ruby latin-cards.rb ./txt/bello_gallico.txt
     ~~~
+
+    The first run will take a while because it needs to cache all the translations, both from the dictionary in `./tools/words` and from Google Translate. But those are saved in `*.cache` files, so additional runs take only seconds.
+
+    If you already have some known words you'd like to add, save them as `known/latin/*.txt` or take a look at `anki_to_known.rb` for a script to extract them from your Anki decks.
+
+    Yes, this is all ugly code. I know.

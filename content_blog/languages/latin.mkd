@@ -5,13 +5,13 @@ techne: :wip
 episteme: :believed
 ---
 
-This is the first post in a 2-part series about learning to read Latin, or any language, really. Even though three prophets - [Khatzu of the Moto clan][AJATT], [Prof. Alexander "The Shadow" Arguelles][] and [Stephan "The" Krashen][] - have already brought us the Holy Scripture of Language Learning, my approach is slightly different, more hacker-friendly, and a bit more text-focused. [Saint Morph Man][] covers TV, I cover books.
+This is the first post in a 2-part series about learning to read Latin, or any language, really. Even though three prophets - [Khatzu of the Moto clan][AJATT], [Prof. Alexander "The Shadow" Arguelles][Arguelles] and [Stephan "The" Krashen][Krashen] - have already brought us the Holy Scripture of Language Learning, my approach is slightly different, more hacker-friendly, and a bit more text-focused. [Saint Morph Man][MorphMan] covers TV, I cover books.
 
 This is Part One - Rationale and Mindset. Part Two - Tools and Examples - will be posted shortly.
 
 ---
 
-So you want to learn how to read Latin. Sure, no probs. Let me channel [the Warrior of Ten Thousand Sentences][AJATT] for a second... ahem...
+So you want to learn how to read Latin. Sure, no probs. Let me channel [Warrior of Ten Thousand Sentences][AJATT] for a second... ahem... \*channel\*... alright, let's go!
 
 Here's the deal: *you can already read Latin*.
 
@@ -71,7 +71,7 @@ There's one more thing though. I'm sorry to say, but, well, how can I put this n
 
 You'll forget things again. You may have noticed this feature of reality before. (Unless you forgot. Haha.) So you may want to use some little trick to *not* forget things. Not strictly necessary, of course, but personally, I'm fan of only learning something once. Don't like wasting time much.
 
-So you put your stuff in your [trusty SRS][], make a bunch of Anki cards - I'll tell you how in part 2 - and that's it.
+So you put your stuff in your [trusty SRS][SRS], make a bunch of Anki cards - I'll tell you how in part 2 - and that's it.
 
 You now know everything there is to reading Latin.
 
