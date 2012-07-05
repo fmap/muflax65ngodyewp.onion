@@ -134,7 +134,7 @@ I've also done most of the coding for French and Japanese too, so I'll do a quic
 <% skip do %>
 May I also say that I find it hilarious that SIAI's new website is designed by "Helldesign"? Subtle, Simulation God, real subtle.
 
-Also, I had a prophetic dream yesterday in which God told me to start playing WoW. He even set up an account for me. Nice try, *Devil*.
+Also, I had a prophetic dream yesterday in which God told me to start playing WoW. He even set up an account for me. Nice try, *The Devil*.
 <% end %>
 
 ---
@@ -171,7 +171,7 @@ I had a talk with myself[^myself] about sane strategies for non-crackpots. Like,
 
     There may be reasons to reject them anyway (note that I'm not part of any church), but those *better be some good reasons*. And "lol bible" ain't one.
 
-Which one? Depends on your region, ethnical background and (to a lesser degree) capabilities. The Catholic Church, Mormon Church, the Sunnis (in some areas) and basically all Ashkenazi communities are excellent candidates, but they aren't always available. For example, if you ain't Jewish, then the Hasidim aren't really open to you. And unless you live in Utah or some minor enclave, the Mormons won't do either. You need the benefits of an existing social infrastructure that will actually integrate you. Typically, there are only one or two serious candidates (and maybe 1-2 more if you're willing to move a substantial distance).
+Which one? Depends on your region, ethnic background and (to a lesser degree) capabilities. The Catholic Church, Mormon Church, the Sunnis (in some areas) and basically all Ashkenazi communities are excellent candidates, but they aren't always available. For example, if you ain't Jewish, then the Hasidim aren't really open to you. And unless you live in Utah or some minor enclave, the Mormons won't do either. You need the benefits of an existing social infrastructure that will actually integrate you. Typically, there are only one or two serious candidates (and maybe 1-2 more if you're willing to move a substantial distance).
 
 Then I asked myself, why is it that *I'm* not part of a church already? Ignore the ones that are obviously not open to me (Islam, Judaism, even though I like 'em both a lot) and the ones with shitty infrastructure in Germany (Mormons, mostly) (and moving isn't an option right now). What about Catholicism?
 
