@@ -1,11 +1,47 @@
 ---
 title: King of Death
-date: 2012-07-04
+date: 2012-07-07
 techne: :done
 episteme: :log
 ---
 
-He wishes to highlight a few sections from [After Virtue][]. They are Relevant To His Interests, he says.
+Someone Who Isn't Muflax is not yet fine with reclaiming the name, but accepts "I" again. 
+
+---
+
+<% skip do %>
+A note about exercise. About a year ago, I got serious about improving my strength. Weight lifting would have been very efficient, I'm sure, but has one major advantage: I can't easily do it at home. It would require going to a gym, which means it would never get done.
+
+For comparison, I enjoy running. Thanks to only running on DXM, I don't feel pain, my skin doesn't itch when I start sweating (told you it's messed up), and I can run easily twice as long. Plus, I'm never *out* of absorbtion, which is fun. Also, my favorite track is literally right down the street. 5 minutes of walking distance.
+
+And still, I only go running maybe once a month, on average. *Because I still have to put on pants*. (And shoes, sometimes.) It's inconvenient, and so it doesn't get done. A gym full of people staring at you is pretty much the definition of an unpleasant environment.
+
+So I realized right away, weight lifting won't do. Thus, I rely mostly on push-ups and a chin-up bar. (Later installed a sturdier wall-mounted one.) This means I progress slower, sure, but I actually do stuff. Which is kinda better, I think.
+<% end %>
+
+Anyway, my point is this: up to about a year ago, I couldn't do a single pull-up. Couldn't even do half of it. Now I can do about 3. Which feels awesome. And because they are the most efficient source of Fitocracy points I can do without putting pants on, I tend to do them at least once a week.
+
+Every time I do them, I feel like punching someone in the face. If steroids weren't so impossible to dose, I'd seriously consider increasing my shitty testosterone levels just for that.
+
+Only disadvantage: 3 reps is too short to listen to Wagner. Need to do push-ups for that. Which are also awesome because I couldn't do those either, once.
+
+High[^high] energy levels: muflax approved.
+
+[^high]:
+    <% skip do %>
+    This is kinda an anti-Theravada position, but I think I have roughly two alternative modes I could be in: a) low energy, but stable and without suffering, or b) high energy, with a lot of variance, but also lots of fun. Honestly? I prefer b), especially now that I'm getting better at handling the negative shit and don't drift into month-long depressions anymore, only a day or two every once in a while.
+
+    Regardless, I still value the vipassana skills and the inherently stabilizing power, once you master this stuff. It's tremendously useful, but not a good foundation.
+
+    (And everyone who's ever done serious vipassana will have laughed at me when I called it "stabilizing". Seriously, Re-Observation is the least stable state you can imagine. But Re-Observation goes away, once you learned to [look through the wall][Why Can't I See Through This Wall?], and then you've got Equanimity. Fine skill to have.)
+    <% end %>
+   
+
+---
+
+So I thought about reviews. I think the following is the most convenient: I put comments / quotes in the logs, and once I'm done with a book, I put them all into one post over on <http://letsread.muflax.com>. This means there won't be any additional content besides maybe a tl;dr, but at least I won't have to point to a set of disjointed dlog posts later.
+
+And now, I'd like to highlight a few sections from [After Virtue][]. They are Relevant To My Interests, as they say.
 
 > What is the key to the social content of [emotivism][Emotivism]? It is the fact that emotivism entails the obliteration of any genuine distinction between manipulative and non-manipulative social relations. Consider the contrast between, for example, Kantian ethics and emotivism on this point. For Kant - and a parallel point could be made about many earlier moral philosophers - the difference between a human relationship uninformed by morality and one so informed is precisely the difference between one in which each person treats the other primarily as a means to his or her ends and one in which each treats the other as an end. To treat someone else as an end is to offer them what I take to be good reasons for acting in one way rather than another, but to leave it to them to evaluate those reasons. It is to be unwilling to influence another except by reasons which that other he or she judges to be good. It is to appeal to impersonal criteria of the validity of which each rational agent must be his or her own judge. By contrast, to treat someone else as a means is to seek to make him or her an instrument of my purposes by adducing whatever influences or considerations will in fact be effective on this or that occasion. The generalizations of the sociology and psychology of persuasion are what I shall need to guide me, not the standards of a normative rationality.
 >
@@ -31,9 +67,9 @@ Also:
 >
 > The self thus conceived, utterly distinct on the one hand from its social embodiments and lacking on the other any rational history of its own, may seem to have a certain abstract and ghostly character. It is therefore worth remarking that a behaviorist account is as much or as little plausible of the self conceived in this manner as of the self conceived in any other. The appearance of an abstract and ghostly quality arises not from any lingering Cartesian dualism, but from the degree of contrast, indeed the degree of loss, that comes into view if we compare the emotivist self with its historical predecessors. For one way of re-envisaging the emotivist self is as having suffered a deprivation, a stripping away of qualities that were once believed to belong to the self. The self is now thought of as lacking any necessary social identity, because the kind of social identity that it once enjoyed is no longer available; the self is now thought of as criterionless, because the kind of *telos* in terms of which it once judged and acted is no longer thought to be credible.
 
-The whole chapter continues to be this delightful, yet he forces himself to stop here. He missed this, missed the paragraphs, the literary analysis, missed even Max Weber.
+The whole chapter continues to be this delightful, but I'll force himself to stop here. I missed this, missed the paragraphs, the literary analysis, missed even Max Weber.
 
-He observes a new anxiety forming, a fear not that all loss of value may at some time happen in the future, but that it has been happening for about 400 years now, and that he is powerless to stop it. He is not actually anxious yet - he has faith; after all, *he* survived this process so far - but it worries him.
+Yet, I observe a new anxiety forming, a fear not that all loss of value may at some time happen in the future, but that it has been happening for about 400 years now, and that I'm powerless to stop it. I'm not actually anxious yet - I have faith; after all, *I* survived this process so far - but it worries me.
 
 Also:
 
@@ -45,5 +81,73 @@ Also:
 >
 > How are we to decide whether this attempt to formulate a decisive test for the maxims of morality is successful or not? Kant himself tries to show that such maxims as 'Always tell the truth', 'Always keep promises', 'Be benevolent to those in need' and 'Do not commit suicide' pass his test, while such maxims as 'Only keep promises when it is convenient to you' fail. In fact however, even to approach a semblance of showing this, he has to use notoriously bad arguments, the climax of which is his assertion that any man who wills the maxim 'To kill myself when the prospects of pain outweigh those of happiness' is inconsistent because such willing 'contradicts' an impulse to life implanted in all of us. This is as if someone were to assert that any man who wills the maxim 'Always to keep my hair cut short' is inconsistent because such willing 'contradicts' an impulse to the growth of hair implanted in all of us. But it is not just that Kant's own arguments involve large mistakes. It is very easy to see that many immoral and trivial non-moral maxims are vindicated by Kant's test quite as convincingly - in some cases more convincingly - than the moral maxims which Kant aspires to uphold. So 'Keep all your promises throughout your entire life except one', 'Persecute all those who hold false religious beliefs' and 'Always eat mussels on Mondays in March' will all pass Kant's test, for all can be consistently universalized.
 
-He recognizes himself in this characterization and finds it hilarious. He integrates the criticism, is now even more eager to learn from MacIntyre how to do it *right*. Clearly the man understands the problem, understands even failed solutions that hadn't been invented at the time of writing, unless muflax had an unhealthy obsession with Kant throughout his youth and unknowingly reinvented his whole approach, which is ridiculous. Someone supporting Stannis "The Mannis" Baratheon, a Kantian? Unthinkable.
+I definitely recognize myself in this characterization and find it hilarious. I'll integrate the criticism, and now I'm even more eager to learn from MacIntyre how to do it *right*. Clearly the man understands the problem, understands even failed solutions that hadn't been invented at the time of writing, unless muflax had an unhealthy obsession with Kant throughout his youth and unknowingly reinvented his whole approach, which is ridiculous. Someone supporting Stannis "The Mannis" Baratheon, a Kantian[^kant]? Unthinkable.
 
+[^kant]:
+    <% skip do %>
+    I'm aware of the irony of my political anti-Enlightenment positions, and me being a Kant fanboi. I never claimed to be the least bit consistent, you know.
+
+    (Although I'm mostly against the results, not necessary the foundational philosophy. The Enlightenment ideals, before the French hijacked them and they all descended into crypto-protestantism, are actually kinda cool. It's mostly the utter denial of the frequent dogmatism and frankly childish rationalism that pisses me off.
+
+    Can't blame Kant for the French Revolution, or Marx for the Russian one.)
+    <% end %>
+
+(I also really liked his discussion of Kierkegaard, merely because it's the first time I actually *got* Kierkegaard. I read him a few years ago in a class on.. I don't even remember - fear in religion? something like that - and found him impenetrable. But now he makes a lot of sense. I'd recommend After Virtue for this alone.)
+
+---
+
+A short intermission!
+
+> Heute wollen wir [ein Liedlein singen][Englandlied],  
+> trinken wollen wir den kühlen Wein  
+> und die Gläser sollen dazu klingen,  
+> denn es muß, es muß geschieden sein.  
+>
+> Gib mir deine Hand, deine weiße Hand,  
+> leb wohl, mein Schatz, lebe wohl, mein Schatz, leb wohl.  
+> Lebe wohl, denn wir fahren, denn wir fahren,  
+> denn wir fahren gegen Engeland, Engeland!  
+
+I've watched the Hellsing OVA again, and I'm kinda impressed how much my Japanese has improved. Two years ago, I could barely understand a word. (And still watched the OVA on a regular basis. It's that awesome.) Now I understand a lot, and with (Japanese) subtitles, more or less everything.
+
+Yay!
+
+<% skip do %>
+(Also, WW2 marches are the best songs to drink to <del>and invade weak neighbors with</del>. Probably the only reason I know the lyrics to the [Stuka song][]. Say what you want about militarism, but it produces [great music][Königgrätzer].)
+<% end %>
+
+---
+
+More After Virtue. Besides showing *that* and *how* the "Enlightenment Project of Justifying Morality" has failed, as MacIntyre calls it, he also attempts to explain *why* this has happened. (And if the quotes sound a bit harsh, it's because I leave out the qualifications and details. He's not merely criticizing, but unraveling.)
+
+> Thus all these writers share in the project of constructing valid arguments which will move from premises concerning human nature as they understand it to be to conclusions about the authority of moral rules and precepts. I want to argue that any project of this form was bound to fail, because of an ineradicable discrepancy between their shared conception of moral rules and precepts on the one hand and what was shared - despite much larger divergences - in their conception of human nature on the other. Both conceptions have a history and their relationship can only be made intelligible in the light of that history.
+>
+> Consider first the general form of the moral scheme which was the historical ancestor of both conceptions, the moral scheme which in a variety of diverse forms and with numerous rivals came for long periods to dominate the European Middle Ages from the twelfth century onwards, a scheme which included both classical and theistic elements. Its basic structure is that which Aristotle analyzed in the *Nicomachean Ethics*. Within that teleological scheme there is a fundamental contrast between man-as-he-happens-to-be and man-as-he-could-be-if-he-realized-his-essential-nature. Ethics is the science which is to enable men to understand how they make the transition from the former state to the latter. Ethics therefore in this view presupposes some account of potentiality and act, some account of the essence of man as a rational animal and above all some account of the human *telos*. The precepts which enjoin the various virtues and prohibit the vices which are their counterparts instruct us how to move from potentiality to act, how to realize our true nature and to reach our true end. To defy them will be to be frustrated and incomplete, to fail to achieve that good of rational happiness which it is peculiarly ours as a species to pursue. The desires and emotions which we possess are to be put in order and educated by the use of such precepts and by the cultivation of those habits of action which the study of ethics prescribes; reason instructs us both as to what our true end is and as to how to reach it. We thus have a threefold scheme in which human-nature-as-it-happens-to-be (human nature in its untutored state) is initially discrepant and discordant with the precepts of ethics and needs to be transformed by the instruction of practical reason and experience into human-nature-as-it-could-be-if-it-realized-its-*telos*. Each of the three elements of the scheme - the conception of untutored human nature, the conception of the precepts of rational ethics and the conception of human-nature-as-it-could-be-if-it-realized-its-*telos* - requires reference to the other two if its status and function are to be intelligible.
+>
+> [...]
+>
+> But the joint effect of the secular rejection of both Protestant and Catholic theology and the scientific and philosophical rejection of Aristotelianism was to eliminate any notion of man-as-he-could-be-if-he-realized-his-*telos*. Since the whole point of ethics - both as a theoretical and a practical discipline - is to enable man to pass from his present state to his true end, the elimination of any notion of essential human nature and with it the abandonment of any notion of a *telos* leaves behind a moral scheme composed of two remaining elements whose relationship becomes quite unclear. There is on the one hand a certain content for morality: a set of injunctions deprived of their teleological context. There is on the other hand a certain view of untutored-human-nature-as-it-is. Since the moral injunctions were originally at home in a scheme in which their purpose was to correct, improve and educate that human nature, they are clearly not going to be such as could be deduced from true statements about human nature or justified in some other way by appealing to its characteristics. The injunctions of morality, thus understood, are likely to be ones that human nature, thus understood, has strong tendencies to disobey. Hence the eighteenth-century moral philosophers engaged in what was an inevitably unsuccessful project; for they did indeed attempt to find a rational basis for their moral beliefs in a particular understanding of human nature, while inheriting a set of moral injunctions on the one hand and a conception of human nature on the other which had been expressly designed to be discrepant with each other. This discrepancy was not removed by their revised beliefs about human nature. They inherited incoherent fragments of a once coherent scheme of thought and action and, since they did not recognize their own peculiar historical and cultural situation, they could not recognize the impossible and quixotic character of their self-appointed task.
+
+<% skip do %>
+This is exactly the absurd notion of what I've come to call "bottom-up morality". You start with a set of intuitions, desires and concepts already in your head somewhere, then extrapolate and simplify as far as you can without becoming incoherent, ask yourself how to implement them most efficiently, then call this "morality".
+
+I have an analogy-to-math draft about that too I plan on finishing once I'm in a good mood for trolling. In math, it takes a very stubborn kind of mind to say that there isn't a genuine human-independent territory mathematicians are exploring, and that elegance is a social construction. This is rightfully considered absurd, and most mathematicians are intuitive Platonists for a reason. (They might eventually drift away from Platonism in particular, but it's replaced by something-in-the-direction-of-Platonism, not, say, fictionalism.) In morality though, somehow this is acceptable.
+
+And then they look at all those different people in different cultures and periods, and how their "intuitions" differ, and they take this as evidence that there isn't an objective morality, because they mistakenly think that the status quo is normative.
+
+Aggregating all beliefs and calling it Truth, as Will described it.
+<% end %>
+
+He also gives a nice short rejection of utilitarianism. I might quote him on this again:
+
+> John Stuart Mill was right of course in his contention that the Benthamite conception of happiness stood in need of enlargement; in *Utilitarianism* he attempted to make a key distinction between 'higher' and 'lower' pleasures and in *On Liberty* and elsewhere he connects increase in human happiness with the extension of human creative powers. But the effect of these emendations is to suggest - what is correct, but what no Benthamite no matter how far reformed could concede - that the notion of human happiness is not a unitary, simple notion and cannot provide us with a criterion for making our key choices. If someone suggests to us, in the spirit of Bentham and Mill, that we should guide our own choices by the prospects of our own future pleasure or happiness, the appropriate retort is to enquire: 'But which pleasure, which happiness ought to guide me?' For there are too many different kinds of enjoyable activity, too many different modes in which happiness is achieved. And pleasure or happiness are not states of mind for the production of which these activities and modes are merely alternative means. The pleasure-of-drinking-Guinness is not the pleasure-of-swimming-at-Crane's-Beach, and the swimming and the drinking are not two different means for providing the same end-state. The happiness which belongs peculiarly to the way of life of the cloister is not the same happiness as that which belongs peculiarly to the military life. For different pleasures and different happinesses are to a large degree incommensurable: there are no scales of quality or quantity on which to weigh them. Consequently appeal to the criteria of pleasure will not tell me whether to drink or swim and appeal to those of happiness cannot decide for me between the life of a monk and that of a soldier.
+>
+> To have understood the polymorphous character of pleasure and happiness is of course to have rendered those concepts useless for utilitarian purposes; if the prospect of his or her own future pleasure or happiness cannot for the reasons which I have suggested provide criteria for solving the problems of action in the case of each individual, it follows that the notion of the greatest happiness of the greatest number is a notion without any clear content at all. It is indeed a pseudo-concept available for a variety of ideological uses, but no more than that. Hence when we encounter its use in practical life, it is always necessary to ask what actual project or purpose is being concealed by its use.
+
+MacIntyre goes into a lot more details, even game-theoretic concerns, and then concludes:
+
+> For it follows from my whole argument that the realm of managerial expertise is one in which what purport to be objectively-grounded claims function in fact as which what purport to be objectively-grounded claims function in fact as expressions of arbitrary, but disguised, will and preference. Keynes's description of how Moore's disciples advanced their private preferences under the cover of identifying the presence or absence of a non-rational property of goodness, a property which was in fact a fiction, deserves a contemporary sequel in the form of an equally elegant and telling description of how in the social world of corporations and governments private preferences are advanced under the cover of identifying the presence or absence of the findings of experts. And just as the Keynesian description suggested why emotivism is so convincing a thesis, so would such a modern sequel. The effects of eighteenth-century prophecy have been to produce not scientifically managed social control, but a skillful dramatic imitation of such control. It is histrionic success which gives power and authority in our culture. The most effective bureaucrat is the best actor.
+>
+> To this many managers and many bureaucrats will reply: you are attacking a straw man of your own construction. We make no large claims, Weberian or otherwise. We are as keenly aware of the limitations of social scientific generalizations as you are. We perform a modest function with a modest and unpretentious competence. But we do have specialized knowledge, we are entitled in our own limited fields to be called experts. Nothing in my argument impugns these modest claims; but it is not claims of this kind which achieve power and authority either within or for bureaucratic corporations, whether public or private. For claims of this modest kind could never legitimate the possession or the uses of power either within or by bureaucratic corporations in anything like the way or on anything like the scale on which that power is wielded. So the modest and unpretentious claims embodied in this reply to my argument may themselves be highly misleading, as much to those who utter them as to anyone else. For they seem to function not as a rebuttal of my argument that a metaphysical belief in managerial expertise has been institutionalized in our corporations, but as an excuse for continuing to participate in the charades which are consequently enacted. The histrionic talents of the player with small walking-on parts are as necessary to the bureaucratic drama as the contributions of the great managerial character actors.
+
+Which is a good point to stop on. Next time, let's look at how to get out of this mess.
