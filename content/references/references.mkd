@@ -204,6 +204,7 @@
 [How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
 [Moldbug Left Right]: http://unqualified-reservations.blogspot.com/2008/06/olxi-truth-about-left-and-right.html
 [Moldbug Condensed]: http://www.corrupt.org/columns/martin_regnen/condensed_moldbuggery
+[Moldbug alignment]: http://unqualified-reservations.blogspot.de/2007/05/what-if-theres-no-such-thing-as-chaotic.html
 
 <!-- Meaningness -->
 [Buddhism for Vampires]: http://buddhism-for-vampires.com

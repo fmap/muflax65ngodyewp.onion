@@ -1,0 +1,50 @@
+---
+title: Instant Frappé is actually quite nice
+date: 2012-07-09
+techne: :done
+episteme: :log
+---
+
+Anki day!
+
+Did a few minor improvements to the MCD code, cleaned up the internals somewhat. I've decided to do a minor rewrite so I can improve the card layout a bit, and now that Anki 2 is actually coming out soon and is reasonably stable, I've finally bitten the bullet and ported everything to Anki 2.
+
+So that took a while.
+
+I've thrown out most plugins simply because I didn't actually use them. I only use the Japanese one (but with minor technical adjustments), my Beeminder plugin (private because the API isn't public (or secure) yet, but message me if you want it) and a few statistics thingies. I even scrapped the custom hotkeys because I do all reviews on my phone anyway, and so don't need them anymore.
+
+The only thing missing is the new MorphMan version, but I only re-tag once a month or so, so that can still wait a while. (And overture2112 said he's mostly done anyway.)
+
+I re-organized my cards, simplified some models, yadda yadda. The desktop version runs just fine, but the AnkiDroid beta is still a bit wonky and I had to manually disable media syncing for now.
+
+Then noticed that Anki 2 *throws away statistics for deleted cards*. MFW:
+
+<%= image("wtf.jpg", "WTF") %>
+
+This... fucks up everything. I delete *a lot* of cards. This makes all my past statistics deeply Orwellian. "Haha, everything is awesome, look how often I get cards right!" - no shit when all the crappy ones *aren't showing up*. But worse, this means I could do a review session and end up with *fewer total reps* at the end because I deleted some old boring cards.
+
+Like seriously, *what*?!
+
+I decide I'm not interested in Caesar anymore and remove all his cards and suddenly my rep total gets a -500 and I fail my Beeminder goal instantly?!
+
+I... there's... but...
+
+Ok. This port will take longer than I thought. Will finish this tomorrow.
+
+---
+
+<% skip do %>
+**Game of Thrones TV show spoilers.**
+
+GoT alignment charts always bothered me. Granted, I haven't read the books (I know! It's on the todo!), so maybe Everything Changes In Book Four or whatever, but as [Moldbug has correctly observed][Moldbug alignment], most D&D players have *very* weird ideas about morality.
+
+I agree with him that D&D Chaotic Good is actually evil, and that Lawful captures most of morality, with Lawful Neutral as the clear Most Morally Good position on the chart. However, I'm not quite so sure that Lawful captures *all* of morality, so a distinction between Lawful Good and Lawful Evil still seems somewhat sensible. Maybe Lawful/Chaotic should be Honorable/Dishonorable and Good/Evil should be Virtuous/Sinful, roughly.
+
+For example, Stannis is clearly the <del>sexiest</del> most honorable character, with some virtue caveats. However, he's still overall good and can find redemption, like Davos.
+
+On the other hand, Ned is evil. (You heard me. I may be the only person who applauded during That Scene.) He betrayed his honor to protect his family, a clearly evil act. He may have a lot of virtue, I'll give him that, but when it mattered most, he sacrificed it all and so is no better than Lannister scum. (He's actually very similar to Cersei, I think.)
+
+Regardless, GoT is remarkable for having sympathetic evil characters. Like Tyrion, who I simultaneously want dead asap, but will still miss.
+
+Well, just wanted to say that, and destroy all nerd sympathy forever.
+<% end %>
