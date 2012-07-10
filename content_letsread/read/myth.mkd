@@ -1,13 +1,12 @@
 ---
 title: The Christ Myth Theory And Its Problems
-date: 2012-06-28
-techne: :wip
+date: 2012-07-11
+techne: :done
 episteme: :believed
 ---
 
-I've started reading Robert M. Price's [The Christ-Myth Theory And Its Problems][], mostly in the hope of getting a complete overview of his main arguments.
+I've been reading Robert M. Price's [The Christ-Myth Theory And Its Problems][], mostly in the hope of getting a complete overview of his main arguments.
 
-<% skip do %>
 Price is my favorite[^fav] New Testament scholar, but his main problem is that he has *hundreds* of live hypotheses flying around, all fascinating, but it's all spread out over a huge amounts of talks, podcasts and a [humongous reading list][Price Reading List]. Now, I'm an obsessive bible nerd and I've listened to literally hundreds of hours of Price's podcast and read many of his books, and I'll be working myself through his reading list as soon as I can read Latin and Greek, but one good collection of at least the Jesus material would be cool. (I'm also really excited about his upcoming book on Paul.)
 
 [^fav]: Ok, Richard Carrier is pretty neat too. Carrier is better at analytical thought (*much* better), but Price gets the tropes and Christian way of thinking. They complement each other perfectly.
@@ -16,15 +15,31 @@ Right now, the best recommendation is the [Pre-Nicene New Testament][], Price's 
 
 But still, it's got 1200+ pages, and a neat summary of all major hypotheses would be very useful.
 
-Once I'm done with it (this week likely, review then), I'll either read something science-y ([Thinking, Fast and Slow][], maybe) or MacIntyre's [After Virtue][]. I've listened to a talk about some of his ideas and found them fascinating enough that I might just jump in. MacIntyre is *the* leading virtue ethicist and that's the meta-ethical branch of theories I'd really love to understand *much* better. (He's also another Catholic convert and Thomist. Just sayin'.)
-
-If I get stuck, I'll just switch to one of the dozen or so half-finished books on my list. Oh well.
-<% end %>
-
-It mostly lives up to my expectations and gives a good detailed presentation for myth hypothesis. There are some alternative constructions Price doesn't go much into, but he namedrops everyone that matters, so that's not a problem.
+The Christ-Myth Theory mostly lives up to my expectations and gives a good detailed presentation for the myth hypothesis. There are some alternative constructions Price doesn't go much into, but he namedrops everyone that matters, so that's not a problem.
 
 My main problem, and it's not an important one, with Price is that he seems to suffer somewhat from selection bias, or at least the presentation does. While you can successfully deconstruct, say, the Gospel of Mark as a re-telling of several source texts, like 1 Kings and the Iliad, and it's hard to unsee this once you compare the texts (which Price fortunately quotes extensively), but *what else* can you deconstruct this way?
 
 When I've been immersed in Higher Criticism texts for a while, *everything* looks blatantly fictitious to me, including *stuff that happened to me*. If you consistently apply these methods, most pre-modern texts should be considered fiction! This isn't necessarily *wrong*, and I'm sure Price is a fair bit agnostic of any narrative's truthfulness, but it's still a *far* more radical claim than he lets on.
 
-Regardless, best one-book summary of the myth hypothesis right now. (I haven't yet read Carrier's latest book because I'm still waiting for the Kindle version. Maybe his is even better. I have high hopes.)
+Also, while it *is* a complete summary of the core Higher Criticism arguments, some seem a little under-motivated. If you are familiar with Price or the (German and Dutch) scholars he gets most of his ideas from, that's not a problem, but if you're reading the book, you likely haven't read Bultmann etc., so his case looks weaker than it is. Additionally, Price focuses entirely on text criticism, not say material evidence or anything like that. This is to be expected - it's Price's specialty - but may seem a bit one-sided. 
+
+I also fear that the presentation is not ideal for *convincing* someone of a mythicist perspective - Carrier's writing, or the [Pre-Nicene New Testament][], or Price's earlier books, are much better at getting the core ideas across. CMTAIP spends very little time on the meta arguments, like why the Criterion of Embarrassment is invalid, and instead focuses on a complete (but somewhat superficial, due to space constraints) deconstruction of the New Testament material.
+
+At some point, Price concludes:
+
+> I have more than once drawn attention to D.F. Strauss' critical axiom that, once we expose the mythical *Tendenz* of a gospel story, we have no right to try to salvage specifics, secondary details, from it. That is just a lame attempt to try to make bad evidence into good, and it partakes of a kind of [Euhemerism][], arbitrarily positing a more modest, possibly original version underlying that which we can in good conscience no longer accept. If we can no longer affirm as historians that Jesus walked on water, we cannot pretend that the story in which he did is still good as evidence that knew where the stepping stones were. There is no reason to insist that secondary details, there just to background or advance the story, have an independent historicity when the main story dissolves under critical scrutiny.
+>
+> I will ask no one to follow me here, but I cannot deny that the question weighs more and more on my critical conscience whether the same thinking ought not apply to the mythos of Jesus Christ as a whole. I mean, the story of Jesus which we have, in every form, remains a redemption myth constructed along the lines of the universal Mythic Hero Archetype, with no "secular", biographical material left over. When we are done dismantling the records and we begin ghoulishly picking through the scanty remains for clues to an underlying "historical Jesus", like people scavenging gold from the teeth and fingers of the battlefield dead, are we perhaps engaging in Euhemerism? I have assumed throughout the present chapter that we could picture a forceful itinerant preacher in a first-century Jewish context. But, based on that paradigm, the Jesus Seminar found precious little data fitting the model, and I have found even less. Is this because we have been trying to interpret the data against their intent? The story wants to preach to us a divine savior who entered this world from heaven and shortly returned there, betrayed, repudiated, martyred, but vindicated. We are having none of that. We can tell that is myth, pure and simple. So we ask what bits would make sense if we abstracted them from their familiar context and made them mean something else, as if the atheist should take the Psalm verse out of context, stripping away the introduction, "The fool has said in his heart", then triumphantly quoting what is left: "There is no God!".
+
+I completely agree with this, and would similarly extend this to *any* mythological text. I'm just as much a mythicist about Siddhartha, for example.
+
+To paraphrase C.S. Lewis:
+
+> You must make your choice. Either these men were, and are, gods, or else mythological or something worse. You can deconstruct them as myths, you can despise them for lying, or you can fall at their feet and call them lord. But let us not come with any patronizing nonsense about their being great human teachers. They have not left that open to us. They did not intend to.
+
+Which is why, for example, I have a lot of respect for [Bhikkhu Bodhi][] and none for proponents of "mindfulness". You don't get to throw out the whole framework of justification, like the fundamental evil of existence in Theravada, and still keep the parts you kinda like. There's no "nice" or "productive" or "sane" vipassana.
+
+Similarly, the divine aspect is inseparable from Jesus. You don't get to construct an "historical" version for rationalists - there's no such thing. Miracle or myth, everything else is intellectually dishonest[^dishonest].
+
+[^dishonest]:
+    Though you are excused from believing the majority opinion of there having been an historical Jesus when you're not familiar with the evidence, I think. Most New Testament experts are worthless, but an outsider wouldn't know that, and shouldn't be expected to realize it right away.
