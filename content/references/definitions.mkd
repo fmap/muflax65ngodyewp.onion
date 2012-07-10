@@ -228,3 +228,16 @@
 [K&R]: https://en.wikipedia.org/wiki/The_C_Programming_Language
 [John Tromp]: http://homepages.cwi.nl/~tromp/
 [Emotivism]: https://en.wikipedia.org/wiki/Emotivism
+[Euhemerism]: https://en.wikipedia.org/wiki/Euhemerus#Euhemerism_and_Christians
+[Bhikkhu Bodhi]: https://en.wikipedia.org/wiki/Bhikkhu_Bodhi
+[Gunsmith Cats]: https://en.wikipedia.org/wiki/Gunsmith_Cats
+[Neon Genesis Evangelion]: https://en.wikipedia.org/wiki/Neon_genesis_evangelion
+[Sailor Moon]: https://en.wikipedia.org/wiki/Sailor_Moon
+[Planescape Torment]: https://en.wikipedia.org/wiki/Planescape_torment
+[Cioran]: https://en.wikipedia.org/wiki/Emil_Cioran
+[Illuminatus!]: https://en.wikipedia.org/wiki/Illuminatus!
+[Pi]: https://en.wikipedia.org/wiki/Pi_%28film%29
+[The Tao of Pooh]: https://en.wikipedia.org/wiki/The_Tao_of_Pooh
+[Alpen Rose]: https://en.wikipedia.org/wiki/Alpen_Rose
+[Rose of Versailles]: https://en.wikipedia.org/wiki/The_Rose_of_Versailles
+[Calimero]: https://en.wikipedia.org/wiki/Calimero

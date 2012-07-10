@@ -1,0 +1,19 @@
+---
+title: A Point About Realism
+date: 2012-07-09
+techne: :wip
+episteme: :speculation
+---
+
+What's "realism", in the philosophical sense?
+
+Consider the following topics:
+
+- moral realism
+- physical realism
+- scientific realism
+- wave function realism
+- modal realism
+- mathematical realism
+
+What do they have in common? 

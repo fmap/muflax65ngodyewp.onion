@@ -1,0 +1,117 @@
+---
+title: Realists Don't Exist, Actually
+date: 2012-07-09
+techne: :done
+episteme: :log
+---
+
+So turns out my advisor hasn't yet given up on me and I may actually finish my project, get a co-authored[^co] paper out of it and later finish my undergrad degree based on it. Yay?
+
+[^co]:
+    Meaning I don't have to write it, but he uses my data and credits me, which is the second-best kind of co-authorship. (The best is "I'm your advisor / I gave you the idea / it's my lab, so credit me maybe", of course.)
+
+---
+
+<% skip do %>
+Also, bought a train ticket with *exact change*. Like, I noticed I didn't carry any bills they'd accept, so I dug into my change and it matched *exactly*. Thanks, Simulation God!
+<% end %>
+
+---
+
+Did more Anki work. I managed to compile the Android version and disabled the media syncing by hand. The next alpha should fix my issues, but I was impatient. So now the phone part is completely usable.
+
+I also petitioned Damien to not delete the log entries, and thought about ways to deal with it if he keeps it. I can hack around it, but would prefer not to. I have a few days of Beeminder buffer, so I'll wait for Damien's reply first. (And do my reps anyway in the meantime.)
+
+---
+
+I've finished Price's [The Christ Myth Theory And Its Problems][].
+
+Well, it *is* a complete summary of the core Higher Criticism arguments. Some seem a little under-motivated, but if you are familiar with Price or the (German and Dutch) scholars he gets most of his ideas from, that's not a problem, but if you're reading the book, you likely haven't read Bultmann etc., so his case looks weaker than it is. Additionally, Price focuses entirely on text criticism, not say material evidence or anything like that. This is to be expected - it's Price's specialty - but may seem a bit one-sided. 
+
+I also fear that the presentation is not ideal for *convincing* someone of a mythicist perspective - Carrier's writing, or the [Pre-Nicene New Testament][], or Price's earlier books, are much better at getting the core ideas across. CMTAIP spends very little time on the meta arguments, like why the Criterion of Embarrassment is invalid, and instead focuses on a complete (but somewhat superficial, due to space constraints) deconstruction of the New Testament material.
+
+At some point, Price concludes:
+
+> I have more than once drawn attention to D.F. Strauss' critical axiom that, once we expose the mythical *Tendenz* of a gospel story, we have no right to try to salvage specifics, secondary details, from it. That is just a lame attempt to try to make bad evidence into good, and it partakes of a kind of [Euhemerism][], arbitrarily positing a more modest, possibly original version underlying that which we can in good conscience no longer accept. If we can no longer affirm as historians that Jesus walked on water, we cannot pretend that the story in which he did is still good as evidence that knew where the stepping stones were. There is no reason to insist that secondary details, there just to background or advance the story, have an independent historicity when the main story dissolves under critical scrutiny.
+>
+> I will ask no one to follow me here, but I cannot deny that the question weighs more and more on my critical conscience whether the same thinking ought not apply to the mythos of Jesus Christ as a whole. I mean, the story of Jesus which we have, in every form, remains a redemption myth constructed along the lines of the universal Mythic Hero Archetype, with no "secular", biographical material left over. When we are done dismantling the records and we begin ghoulishly picking through the scanty remains for clues to an underlying "historical Jesus", like people scavenging gold from the teeth and fingers of the battlefield dead, are we perhaps engaging in Euhemerism? I have assumed throughout the present chapter that we could picture a forceful itinerant preacher in a first-century Jewish context. But, based on that paradigm, the Jesus Seminar found precious little data fitting the model, and I have found even less. Is this because we have been trying to interpret the data against their intent? The story wants to preach to us a divine savior who entered this world from heaven and shortly returned there, betrayed, repudiated, martyred, but vindicated. We are having none of that. We can tell that is myth, pure and simple. So we ask what bits would make sense if we abstracted them from their familiar context and made them mean something else, as if the atheist should take the Psalm verse out of context, stripping away the introduction, "The fool has said in his heart", then triumphantly quoting what is left: "There is no God!".
+
+I completely agree with this, and would similarly extend this to *any* mythological text. I'm just as much a mythicist about Siddhartha, for example.
+
+To paraphrase C.S. Lewis:
+
+> You must make your choice. Either these men were, and are, the gods, or else mythological or something worse. You can deconstruct them as myths, you can despise them for lying, or you can fall at their feet and call them lord. But let us not come with any patronizing nonsense about their being great human teachers. They have not left that open to us. They did not intend to.
+
+<% skip do %>
+
+Which is why, for example, I have a lot of respect for [Bhikkhu Bodhi][] and none for proponents of "mindfulness". You don't get to throw out the whole framework of justification, like the fundamental evil of existence in Theravada, and still keep the parts you kinda like. There's no "nice" or "productive" or "sane" vipassana.
+
+Similarly, the divine aspect is inseparable from Jesus. You don't get to construct an "historical" version for rationalists - there's no such thing. Miracle or myth, everything else is intellectually dishonest[^dishonest].
+
+[^dishonest]:
+    Though you are excused from believing the majority opinion of there having been an historical Jesus when you're not familiar with the evidence, I think. Most New Testament experts are worthless, but an outsider wouldn't know that, and shouldn't be expected to realize it right away.
+
+<% end %>
+
+---
+
+I also added a [Twitter backup][] to my daily cronjobs. Stuff is important, you know.
+
+---
+
+<% skip do %>
+Personal anecdote time!
+
+My mother is a big believer in immersion and massive input. She started reading books to each of her children from the day they were born. As a result, my oldest brother has been speaking in full sentences before he was 2. (But to be fair, he was babbling the day he was born. Couldn't shut him up, ever.)
+
+In elementary school at age 8, they asked us to track how many books we read, so they could reward us for milestones and so on. We were allowed to fill in books we had already read before. I had learned to read at age 6. My mother intentionally didn't teach me earlier because she didn't want me to be bored in school, but we'd still go through a lot of stories together. Nevertheless, I could fill out the whole card, easily several dozen books[^books], just based on those two years. (Including the mighty Brothers Grimm's tome. Hey, she's a German teacher and fairy tales nerd, what did you expect?)
+
+My birthday is just after the cut-off date for a new school year. They intended to have me start one year early because of my good performance in kindergarten (despite my severe lack of scooter-riding ability), but my mother decided I'd be working for The Man soon enough, and I'd rather enjoy another year of childhood instead, so she insisted on a delay. Thus, I was typically the oldest child in class, giving me a natural advantage, regardless of innate intelligence, making it easy for me to believe that I was always smart enough to solve whatever problems life gave me.
+
+Once I've become World Dictator of the World, my mother gets the epic monument she fucking deserves.
+
+[^books]:
+    Books are actually kinda weird for me. I go through long stretches were I read almost nothing and just run through forests, play games and hang out with friends, and then go back to reading 30+ books a year, writing a lot of weird metaphysical rambling as a result.
+
+    (On that note, I'm kinda thinking about getting back into semi-coop games I played a lot as a teenager, meaning a friend and I would play independent sessions of the same game and talk throughout. I miss that, a lot. Haven't yet gotten over my fear of Speaking To Strangers On The Internet, and lost my old friends, but yeah, getting that back should be somewhere on my todo, I think. Liked that a lot. Hm.)
+
+    Yet, if I tried to reconstruct a rough list of Emotional Milestones, of media that utterly changed me as a person, it would probably look like this (dates guessed, I suck at keeping track of time), and it would include few books:
+
+    1. [Alpen Rose][], anime, age 10-ish. (Also [Rose of Versailles][] and similar shows.) How do you implant the ideas of romance and honor in a little boy too young to even be confused about them? Shoujo anime, of course.
+    
+    1. [Sailor Moon][], anime, age 11. First anime (that I perceived as anime). Pretty much everything before Sailor Moon was just The Way Things Are, just installed the background that wasn't there yet. (Like, [Calimero][] is just how friendships work.) But Sailor Moon *changed* things. It made me go, for the first time, "[am I even supposed to watch this?][viðrar vel til loftárása]". (Also, the [Sailor Moon Live Action][] is *hilarious*.)
+    
+    1. [Gunsmith Cats][], anime, age 15. First non-dubbed anime. Randomly saw it on TV (Vox late-night anime, fuck yeah!), became an anime and Japanese nerd that day. Soon ordered several imported shows based on dubious internet recommendations. (This was pre-download, people! The dark ages!) Still one of my favorite shows.
+    
+    1. [Neon Genesis Evangelion][], anime, age 15. One of these imported shows. Took my lifeless body and gave me a soul. I can't understate the importance of That Show About My Life, Except They Call Me Shinji There, But It's Otherwise Exactly What My Bipolar Teenage Years Were Like. (First crush ever: Kaworu. Obviously.) Got me into writing Gothic poetry on the internet, exploring The Madness, and a relationship that could never possibly have worked out, and screwed me up forever.
+
+       Thanks, Anno.
+
+    1. [Illuminatus!][], book, age 17. A friend told me that she'd go the local public pool, lie in the sun and read Illuminatus! all day. After a while, reality would fade and she'd feel like on LSD. For a few weeks, nothing in the world would make sense, and then everything.
+
+       (At some point I drew a mindmap of all the characters and their plot relationships. It covered half my floor.)
+
+       (Also, got into my first ontological arguments on the largest German conspiracy forum back in the days. Crackpottery; crackpottery never changes.)
+
+    1. [Pi][], movie, age 18. Hey Guys They Made A Sequel About My Life And The Stuff That Happened After I Wasn't Depressed Anymore [But Still Crazy][How My Brain Broke].
+
+       Favorite quote that sums up my 18-22 years:
+
+       > 9:22, personal note: When I was a little kid my mother told me not to stare into the sun, so once when I was six, I did. At first the brightness was overwhelming, but I had seen that before. I kept looking, forcing myself not to blink, and then the brightness began to dissolve. My pupils shrunk to pinholes and everything came into focus, and for a moment I understood. 
+
+    1. [The Tao of Pooh][], book, age 18-ish. About 50 pages in, I literally ran up to my mother and told her I now understand Fate. (No, it can't be explained further. It's a Gnostic thing.)
+
+       7 out of 8 muflaxes agree that Fate is bullshit and you shouldn't believe in it, it's not healthy, it made you move 800km and study religions and archeology on a whim, and meet the perfect girl, and ended almost in suicide because you *hated* the perfect girl because she was just as broken as you, and Getting What You Want is the worst thing ever. Yet, 1 out of 8 muflaxes pull off amazing stunts of sheer magic every once in a while and credit Fate and it all kinda makes sense, so the other 7 don't dare question it *too* much.
+       
+    1. De l'inconvénient d'être né (The trouble with being born) by [Emile Cioran][Cioran], book, age 19. Let me put it like this. I was suicidal at the time and read a lot of texts about suicide. (Ok, I still kinda do. I blame Sister Y.) I bought the book merely based on the title, not knowing what to expect at all. I read it in one session, put it down and exclaimed that this was the Perfect Book. It was everything I ever wanted to write. I knew I could never do better, so I deleted my websites and didn't write anything for years.
+
+       On a melancholic day, I still think that I'll never be that good. On a good day, I think his aphorisms may have been *the shit* pre-Twitter, but honestly, some of [my tweets][Twitter] aren't that bad either.
+
+    1. [Moulin Rouge!][], movie, age 20-ish. Thanks for ruining my chances of ever having a healthy relationships ever, guys. Also, Beauty, Freedom, Truth, and above all things, Absinthe.
+       
+    1. The [Less Wrong Sequences][LW Sequences], blog, age 23. I don't even remember how I first found them - I think through Tim Tyler and an interest in memetics - but I read them all in one big 2-day session and my mind went "whaaaaa" for quite some time. I've since completely re-read them maybe 5 times, despite their massive lengths and flaws I only now recognize. Still way awesome.
+
+    1. This [Thích Quảng Đức recreation][Mooncake], youtube, age 24. You know, for all the times that I praise the [Visuddhimagga][], and all the meditation work I've done before - lots of kasina and anapana practice when I was 15 - this one video got me into Theravada. *Suffering can be overcome*.
+
+<% end %>
+
