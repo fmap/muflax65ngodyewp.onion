@@ -1,0 +1,34 @@
+---
+title: Summer Make Good
+date: 2012-07-11
+techne: :done
+episteme: :log
+---
+
+I've taken the [Beeminder dlog goal][Beeminder daily] of 300 words of log / day back online. I'm still thinking about some rule changes etc., but overall, I think it's net-positive even as is.
+
+It doesn't exactly work as I intended it - daily practice of essentially the same core techniques - but it's still getting *some* cool stuff done. I fear my mind is just too jumpy and fractured to really stick with an idea for more than a few days at best.
+
+Well, maybe it all converges in the end. Fat chance, but stranger things have happened.
+
+<% skip do %>
+(Is there a meditation practice that requires no commitment and can be done anytime, anywhere, in any kind of mindset? Ideal for the <del>bi</del>multipolar hyperactive crackpot of today?
+
+Vipassana can be done during any activity, sure, but it's emotionally unstable until you master it, and then it's emotionally dead, so not what I want. (I should finally read those tantra books, but it's all on *paper*, so yeah...))
+<% end %>
+
+---
+
+<%= image("just.jpg", "Just and Unjust") %>
+
+---
+
+Also switched to my Anki 2 config now. (This took way longer than I thought.) The next alpha will keep old reviews, so all problems are now fixed. :)
+
+Benefits I noticed so far: way faster, smaller deck, two-way syncing, learning mode is neat, decks better organized, cooler graphs.
+
+<%= image("anki2.png", "Anki 2") %>
+
+(That's after 2 days of not doing any reps because of the transition. Also, number counts for parents include their children, so the total number of reps due is 73+138=211.)
+
+I've also made my MCD code a bit more elegant. Should finish the second half of the Latin posts soon-ish. Really just turn my notes into full paragraphs. (Ugh.)
