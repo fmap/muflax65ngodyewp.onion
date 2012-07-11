@@ -241,3 +241,4 @@
 [Alpen Rose]: https://en.wikipedia.org/wiki/Alpen_Rose
 [Rose of Versailles]: https://en.wikipedia.org/wiki/The_Rose_of_Versailles
 [Calimero]: https://en.wikipedia.org/wiki/Calimero
+[Boltzmann Brain]: https://en.wikipedia.org/wiki/Boltzmann_brain
