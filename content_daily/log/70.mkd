@@ -31,4 +31,4 @@ Benefits I noticed so far: way faster, smaller deck, two-way syncing, learning m
 
 (That's after 2 days of not doing any reps because of the transition. Also, number counts for parents include their children, so the total number of reps due is 73+138=211.)
 
-I've also made my MCD code a bit more elegant. Should finish the second half of the Latin posts soon-ish. Really just turn my notes into full paragraphs. (Ugh.)
+I've also made my MCD code a bit more elegant. Should finish the second half of the Latin posts soon-ish. Really just gotta turn my notes into full paragraphs. (Ugh.)
