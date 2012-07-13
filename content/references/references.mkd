@@ -112,6 +112,10 @@
 [make people alive]: http://www.lettersofnote.com/2011/03/i-think-i-no-how-to-make-people-or.html
 [Twitter backup]: http://blog.jphpsf.com/2012/05/07/backing-up-your-twitter-account-with-t
 [Bodhi talk]: http://www.buddhanet.net/audio-lectures.htm
+[Witch Watch]: http://shamusyoung.com/author/
+[Jaynes Society]: http://www.julianjaynes.org/
+[Legend of Grimrock]: http://store.steampowered.com/app/207170/
+[Space Pirates and Zombies]: http://store.steampowered.com/app/107200/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
