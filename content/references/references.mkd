@@ -116,6 +116,7 @@
 [Jaynes Society]: http://www.julianjaynes.org/
 [Legend of Grimrock]: http://store.steampowered.com/app/207170/
 [Space Pirates and Zombies]: http://store.steampowered.com/app/107200/
+[HPMOR]: http://hpmor.com/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/

@@ -1,0 +1,77 @@
+---
+title: Spehss Mahreens!
+date: 2012-07-13
+techne: :done
+episteme: :log
+---
+
+So I've started reading [HPMOR][]. (Yeah, I'm late, I know. Just really dislike HP[^dislike]. Took me a long time to get past this negative association.)
+
+I'm 8 chapters in and... yeah. Maybe it gets better later, and it's not badly *written* per se[^badly], and I can definitely see how the plot could become interesting... but... well...
+
+Right after Death Note[^dn] had just aired, I thought, damn I wish someone *way smarter* than 小畑健 would write a gambit-rich story. Maybe even someone with the guts to let Light win, *as he deserves*. I tried, but couldn't find anything better than DN (in that regard) and was quite disappointed for a while.
+
+So when I found out that Eliezer was working on something just like that, I was *delighted*. Turns out: it doesn't work. It's the characters and their morality that actually interests me. The exactly-as-planned is only the mental equivalent of a good fight scene. You can't live on plot alone.
+
+You know the dreaded [Eight Deadly Words][]?
+
+"I don't care what happens to these people."
+
+That's the problem. Not a single character seems to be interesting, sympathetic or moral, *at all*. If this were W40K, I'd call for an Exterminatus and never look back.
+
+I'll give it a bit more time, at least until a few more characters are introduced, hoping by then I don't have to *endure* Harry so much anymore. But I already hate him and everything he stands for *even more* than canon!Harry, and that's quite a feat.
+
+[^badly]:
+    In r/circlejerk terms, I'd say it feels like it's written by an autistic neckbeard. (And I say this as someone who otherwise likes Eliezer's writing.) It's done so badly that it's outright impossible for me to *not* psychoanalyze Harry as a Mary Sue in the worst kind of way.
+
+[^dislike]:
+    I dislike HP and its entire 'verse so much, that any attempt to rewrite it according to my tastes and values would look more like the [Albigensian Crusade][] than fan-fic.
+
+[^dn]:
+    Read the manga, folks. The ending is slightly different, and better. But the anime compresses the second half a lot, which is good because the second half kinda sucked. (Except for [Matt][Death Note Matt], of course.) So maybe just read the last few chapters?
+
+---
+
+Does "I coulda wrote a stupid rant but didn't" count as practice? I sure hope so because that was my weekend, folks. That and starting the Kingdom of Burgundy. (And bitch-slapping the Holy Roman Emperor around. Feels good man.)
+
+Hey past-muflax, interested in sharing some of this "energy" with me? No? Just playing games all day? That's fine too, I guess...
+
+Oh right, a couple of things I did that weren't entirely a waste of time.
+
+I completed about half of [Bikkhu Bodhi's talks][Bodhi talk], simply because I like his voice. I find it really hard to care about the actual content of philosophies or ideologies these days. It's like, it's all the same standard techniques again and again, dressed up in slightly different terms, using slightly different mnemonics, but content-wise, the same stuff.
+
+<% skip do %>
+I've been listening to (and to a lesser degree, reading) a lot of Theravada, Vajrayana, Catholic and Naturalist stuff the last month or so, and honestly, half the time I can't even tell who is currently talking. I mean sure, they all have a bunch of Unique Philosophical Positions Or Lines Of Arguments Everyone Else Misunderstands, but what practical relevance do they have? If you, say, buy the Evolutionary Argument Against Naturalism, but I didn't listen to the noises coming out of your mouth, *could I even tell*?
+<% end %>
+
+So I guess what I'm saying is, I'm bored with -isms and attractors.
+
+---
+
+I practiced being fine with changing my tribal signals at will. Really getting used to it by now. So much so that I find it hard to care about content, or anything besides "which group is this, what is their lingo?". (Which relates to the previous point, I guess.)
+
+I've done this in a kind of uncontrolled way so far. Friend has a minor problem, there's a solution that works but they hate because it's associated with a rival tribe, I bring up a bridge person - someone we both respect that vouches for that tribe - they're fine with the solution now. Noticed that in my actual life, any actual disagreement is easily solved by removing any tribal tension between where the other person is and where I want them to be, and basically never otherwise.
+
+I was thinking about practicing this deliberately - pick a tribe at random, learn their signals until they consider me a respectable in-group member, next tribe, repeat. (As a test condition, I could use something like "get high-status member to follow me on Twitter or cite me on a central blog".)
+
+The only reason I haven't done this yet is that my existing experience with this is actively poisoning my mind, especially combined with hedonic treadmill and happiness-as-high-status ideas. The only work actual ideas do, regardless if they're practical or not, seems to function as a tribal marker. More sophisticated, high-status tribes have more complicated, easier-to-get-terribly-wrong, harder-to-fake signals, but beyond that, nothing that matters.
+
+I'm sure I'm exaggerating, but I'm genuinely unsure how much. Doing this with awareness puts me in an outright sociopathic and massively nihilistic mode of operation. I lose the ability to genuinely commit to any particular tribe or belief, start consciously doing active status grabs, manipulate friends to be less of a bother.
+
+In HPMOR, Harry calls science "the power that cannot be removed from me without removing *me*", and says, "every time you change your mind, you change yourself". Reading this chapter made me realize what it had already done to many people, how learning these kind of deep skills *changes* someone permanently, unintentionally, unbeknownst to them, in ways they would *never* approve of if told in advance.
+
+This frightens me so much that I'm really warming up to extreme forms of dogmatism *just to protect whatever fragmented mess I've got left*.
+
+---
+
+So I thought about how to make choices and commitments stick, and how to genuinely get myself, in general, to not do something I'm very well capable of doing, and how to permanently remove "I could change my mind about that" for a given thing.
+
+Like, Beeminder is a (crude) first step in that direction. It's sufficiently strong as a commitment to be really useful and overcomes "meh, skipping one day won't hurt" nicely, but it's not very strong in an absolute sense. I can, at any point, input false data, change any parameter in any way (with one week's notice), and of course just weasel myself out of the contract.
+
+I'm not the kind of person who does those things, but I also haven't been tempted much yet. So I thought, abstractly, how to actually get these things right, if I ever need them.
+
+Choices are bad, all hedonic research tells me. None of it tells me how to get rid of them, if you have decades of practice in avoiding commitments (aka "school"), and enough meta-awareness to always see when a process is designed to fuck with you.
+
+Still no good ideas. Any system I can come up with, I'm also smart enough to circumvent. Most of my value is in my mind, and can't be given away, so I can't even use hostage-style commitment devices.
+
+Researching more.

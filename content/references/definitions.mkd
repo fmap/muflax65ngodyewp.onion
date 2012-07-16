@@ -243,3 +243,6 @@
 [Calimero]: https://en.wikipedia.org/wiki/Calimero
 [Boltzmann Brain]: https://en.wikipedia.org/wiki/Boltzmann_brain
 [Raël]: https://en.wikipedia.org/wiki/Ra%C3%ABl
+[Albigensian Crusade]: https://en.wikipedia.org/wiki/Albigensian_Crusade
+[Eight Deadly Words]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EightDeadlyWords
+[Death Note Matt]: http://deathnote.wikia.com/wiki/Matt
