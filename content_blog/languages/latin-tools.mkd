@@ -9,6 +9,16 @@ This is the second post in a 2-part series about learning to read Latin, or any 
 
 ---
 
+How would one learn to read Latin, [systematically][AJATT system]? Well, it only needs to fulfill two requirements.
+
+First, **the rate at which you learn new stuff must be greater than the rate at which you forget old stuff**. If that is not the case, then you're the poor shmuck trying to save the Titanic by being really fast with your single bucket. But if your skill always increases, even if just a little bit, then as long as you keep going, You Will Win. There are no dead-ends for [monontonic functions][monotonic], my friend.
+
+"But", I hear you lament, "maybe it gets really hard at some point! I'm a lazy-ass learner and I hate any effort whatsoever!" My, how honest of you! But don't worry - me too. Keep the effort for the workaholic law school students, we'll be eating pizza and reading Roman poetry instead.
+
+This brings us the other rule: *every single step along the way must be doable*. It must always be easy. *Always*. No "[three easy payments and one fucking complicated one][Mitch payments]".
+
+Fortunately, there are plenty of such systems. Here is mine.
+
 So what's important?
 
 First, we want to understand the sentence. That's the whole point of this journey after all. Not to brag how large our vocabulary is, or how we know what an ablative is, or how intelligent it would makes us look when we tell them we're fluent in Latin. No, *we want to actually read texts*. People forget that, sometimes.

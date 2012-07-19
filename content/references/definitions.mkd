@@ -246,3 +246,5 @@
 [Albigensian Crusade]: https://en.wikipedia.org/wiki/Albigensian_Crusade
 [Eight Deadly Words]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EightDeadlyWords
 [Death Note Matt]: http://deathnote.wikia.com/wiki/Matt
+[monotonic]: https://en.wikipedia.org/wiki/Monotonic_function
+[Dependent Arising]: http://www.buddhanet.net/bud_lt12.htm

@@ -1,5 +1,4 @@
 <!-- external links -->
-[AJATT]: http://www.alljapaneseallthetime.com/
 [Age of Decadence]: http://www.irontowerstudio.com/
 [Alan Dawrst]: http://www.utilitarian-essays.com/suffering-nature.html
 [Anders Shirt]: http://www.katzundgoldt.de/ru_anders.htm
@@ -117,6 +116,7 @@
 [Legend of Grimrock]: http://store.steampowered.com/app/207170/
 [Space Pirates and Zombies]: http://store.steampowered.com/app/107200/
 [HPMOR]: http://hpmor.com/
+[Khatz System]: http://www.alljapaneseallthetime.com/blog/the-search-for-the-system-how-i-found-one-why-you-need-one
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -165,6 +165,7 @@
 [LW virtues]: http://yudkowsky.net/rational/virtues
 [LW timeless physics]: http://lesswrong.com/lw/qp/timeless_physics/
 [LW fun theory]: http://lesswrong.com/lw/y0/31_laws_of_fun/
+[LW obvious]: http://lesswrong.com/lw/9q5/on_saying_the_obvious/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
@@ -236,6 +237,10 @@
 <!-- reddit -->
 [reddit lain]: http://www.reddit.com/r/AskReddit/comments/t0ynr/throwaway_time_whats_your_secret_that_could/c4inqul
 [Xmonad Bug]: http://www.reddit.com/r/xmonad/comments/fdp4o/let_focus_follow_mouse_only_on_certain_layouts/
+
+<!-- ajatt -->
+[AJATT]: http://www.alljapaneseallthetime.com/
+[AJATT system]: http://www.alljapaneseallthetime.com/blog/the-search-for-the-system-how-i-found-one-why-you-need-one
 
 <!-- books -->
 [Introduction to Bayesian Statistics]: http://libgen.info/view.php?id=12067

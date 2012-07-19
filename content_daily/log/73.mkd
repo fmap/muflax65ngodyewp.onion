@@ -1,0 +1,42 @@
+---
+title: Not Now Sweetie, Daddy Needs A Little Jesus First
+date: 2012-07-18
+techne: :done
+episteme: :log
+---
+
+I hate it when [Khatz writes what I want to say][Khatz System], but shorter and better.
+
+<% skip do %>
+
+But seriously, I actually *don't* hate it when I see the same points re-iterated in a new form. I actually love that, and re-read it whenever I can (assuming I care about the topic).
+
+As [Grognor correctly observed][LW obvious], saying the obvious might be bad if you're trying to signal intelligence, but is absolutely crucial otherwise. Topics are complex and have lots of interdependencies, so even being told the same thing five different ways might teach you something new every time.
+
+And, repetition matters if you want to actually remember anything. And because we're all lazy and don't put new information in our SRS right away, as a semi-sane species would[^sane], we can compensate for that by re-visiting points all the time. By saying the obvious, again, in our own words.
+
+[^sane]: A fully sane species would design better memory that doesn't need repetition, of course.
+
+<% end %>
+
+Anyway, despite all that, I've basically finished the second Latin post. Only I currently don't have The Funny, so it's much less fun to read (and write). I'll wait a few days, maybe some inspiration will come up. If not, I'll just wrap it up and publish it anyway.
+
+---
+
+I've also been reading more HPMOR (chapter 17 or so). I mean, it's still funny, well-written and the plot is getting interesting. It does get more tolerable now that Harry isn't entirely in the foreground anymore, and now that he becomes more self-aware. I expect I'm still gonna read the whole thing, and enjoy it, but needlessly complain about it all the way.
+
+---
+
+Tried something I pretentiously call "meaninglessness yoga". It's pretty simple. You do something, say eat breakfast, just like you always do. Except, while you do it, you say, "this is meaningless, that is meaningless; when this arises, it is meaningless, when that arises, it is meaningless".
+
+Something in my head is obsessed with this vague notion of meaningfulness, and complains constantly about its absence. When I'm especially tired or low on energy, it tends to dominate my internal chatter. Unfortunately, it can't tell me *what* this "meaning" is, and so I can't ever satisfy it.
+
+Thus, meaninglessness yoga. If all is meaningless, breakfast is meaningless. [If this arises][Dependent Arising], that arises meaninglessly. If this ceases, that ceases meaninglessly. The monk attends to all sensations and notes their meaninglessness. Seeing thus, the monk grows disenchanted with meaninglessness. Disenchanted, he is still hungry, and eats his meaningless breakfast in peace.
+
+(1 hour of noting meaninglessness.)
+
+---
+
+Have been working somewhat on my MCD code. (Again.) So the idea was that instead of only looking at individual morphemes, I could also track n-grams. Most n-grams would be useless, but some frequent ones might be interesting to generate cards for (e.g. by tracking better-than-chance collocations).
+
+No results yet, still experimenting.
