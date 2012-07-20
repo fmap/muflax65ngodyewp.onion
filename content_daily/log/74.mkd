@@ -1,0 +1,40 @@
+---
+title: Dreaming of a World Undone
+date: 2012-07-19
+techne: :done
+episteme: :log
+---
+
+I imported the review stats that the automatic Anki 2 upgrade missed. Now up to 22.4k reps again, not merely 6.7k. ([Simple script][gist revlog].) It now covers all my reps back until 2010. Unfortunately, I don't have any backups or stats for the thousands of cards I did before that, back until 2008 or so when I started using Anki.
+
+Statistics! Graphs! (Hope you like scrolling.)
+
+<%= image("report.png", "Report") %>
+
+(Yeah, that's a huge image. Anki 2 exports it like this. I could also limit it to just one month, but lazy.)
+
+A few notes.
+
+1. If you look at the Review Count, you can clearly see the point when I started using Beeminder. It's like a completely different world.
+
+2. You can see my Hardcore Phase(s) in 2010. (However, I only use auto-generated cards since 2011, so the total count is necessarily somewhat lower (fewer and harder cards). Review Time looks much more similar.)
+
+3. Some simple math. Average answer time is ~10s (now at ~8s due to better layouts). Mature cards (i.e. with a new review scheduled months, if not years from now) have ~7 reps. (Eyeballed. Almost all in the range 4-8.) So the average time it takes to completely learn a fact is ~70s, or roughly a minute. Let's say 2 minutes, if we add the time it takes to add it to the deck etc. and round up generously. That's the "worth putting it into Anki?" threshold.
+
+---
+
+Unlocked[^sober] the Happy State again in which everything is beautiful and nothing hurts.
+
+[^sober]: While sober. Roughly, finding new mental states through blind experimentation is boring and tedious. But constant drug-use is unsustainable. Thus, find the state through drugs, then stabilize it (if it's worthwhile) through meditation. Besides, I like that this reverse the typical dynamic where the drug pulls me, screaming and kicking, into weird states, and instead I drag the weirdness, slowly but surely, into my normal life.
+
+I had just taken a hot shower and had stepped outside into the windy autumn weather[^g] to just be sad for a few moments, because sadness is actually such an amazing emotion, a prime candidate for That's What Wireheaded Transhumans Will Experience All The Time. After a while, I recalled Ze Frank's fix to the [Everything Thing][], and so I gave it a shot, lying down on the ground, staring at the giant chestnut tree up the hill that looms over our house, promising, one day, maybe during a powerful storm or after being hit by lightning, to crash down and kill us all. (Or, as we hope, the neighbors, who totally deserve it.)
+
+[^g]: Everyone complains about how shitty this summer is, but I think they just misunderstood its message, and should instead talk about how awesome this extended autumn weather is, even this far from the Prussian Homeland.
+
+And as I was lying there, slowly relaxing muscles I had forgotten about, stretching my spine, feeling the cold wind on my skin, I found Her again. If I were a Catholic, I would say the Virgin Mary visited me at this point, but I'm not, so I'll say I experienced Sophia from beyond the Abyss, that's clearly less insane, or maybe I could say it's a Jungian archetype entangled with a particular memory, and as the rationalizing parts were busy with figuring out what exactly She is and isn't, She just smiled.
+
+I jumped at the chance to go past thought and just to this smile, just experience it, nothing more, and rest in it. The world fades, and colors drain out of it, and just this emotional state remains, long enough that I figure out how to incline myself towards it at will.
+
+I open my eyes, and as color returns to the world, so does beauty. And I realize that what I have here is the layer of Beauty itself, not connected to anything in particular, and that in simply keeping it active, *anything* becomes beautiful, mysterious, intense, happiness-inspiring. Some parts of me protest a little, that this is a fake beauty, but the rocks don't complain about being seen as beautiful, so these parts failed to convince me.
+
+Then stepped back inside and took a nap, like the cat that I secretly am.

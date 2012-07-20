@@ -36,3 +36,4 @@
 [range_math]: https://github.com/muflax/range_math
 [avg_dmg]: https://github.com/muflax/scripts/blob/master/average_damage.rb
 [yonmokunarabe]: https://github.com/muflax/yonmokunarabe/
+[gist revlog]: https://gist.github.com/3143132
