@@ -5,11 +5,11 @@ techne: :done
 episteme: :log
 ---
 
-> Stay for a while, stay forever.
-> Sing for the times you are bound to betray.
-> Run for your life, run forever,
-> your eyes tell a lie
-> and the liar must always die.
+> Stay for a while, stay forever.  
+> Sing for the times you are bound to betray.  
+> Run for your life, run forever,  
+> your eyes tell a lie  
+> and the liar must always die.  
 >
 > -- [8th Commandment, Sonata Arctica][Sonata Arctica 8th]
 
