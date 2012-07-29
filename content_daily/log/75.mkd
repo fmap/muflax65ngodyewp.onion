@@ -1,0 +1,180 @@
+---
+title: Grim Darkness And Shoulder Pads
+date: 2012-07-29
+techne: :done
+episteme: :log
+---
+
+> Stay for a while, stay forever.
+> Sing for the times you are bound to betray.
+> Run for your life, run forever,
+> your eyes tell a lie
+> and the liar must always die.
+>
+> -- [8th Commandment, Sonata Arctica][Sonata Arctica 8th]
+
+<% skip do %>
+(Spoilers for [HPMOR][], Death Note, Game of Thrones.)
+<% end %>
+
+I think one main problem with HPMOR - besides everyone being a loathsome hylic - is that there is no threat for me the reader. In one commentary, Eliezer notes how awesome his idea was to have Voldemort put a Horcrux in the Pioneer probe. Which is kinda neat, but actually I just went, yeah so what? There will be *some* solution. No *character* is in any serious danger. You ain't GRRM, Slayer of Starks, Corruptor of Children.
+
+Eliezer is entirely predictable, on a meta-level. Harry *inside* HPMOR is in serious trouble. But *to me*, he isn't. And so he is just an incredibly annoying Mary Sue. Death Note, for example, actually surprised me. Wait, L just *tells* him who he is? He can *do* that?! And then... Rem concedes and they *die* half-way through?!
+
+It's not that Death Note is so much more intelligent, but that it breaks genre expectations. HPMOR does no such thing. I'm 30% through, and I'm not impressed by anyone because they are utterly predictable to me the genre-savvy reader. Eliezer needs to *break* something, *fast*.
+
+Until I had read HPMOR, every time I watched a show with a villain I liked and sided with (which is practically all of them), I *wished* the creators would stop forcing them to lose, would kill the Hero, let Evil win *as they deserve*. Or at least, if that went too far, let Evil *not be stupid*, which is rare enough already. Now, having seen how *boring* the same shitty writers making Evil reasonably competent actually is, I don't wish for that anymore.
+
+Evil doesn't lose because it makes for a better story or because competence is hard to write. Evil doesn't win because most writers don't *understand* Evil. Because they *aren't* Evil. I am, though.[^evil] And so I'll just sigh, and wait patiently for the few stories in which only happens what is proper, what *ought* to happen, not what we wish to happen.
+
+[^evil]:
+    <% skip do %>
+    In almost all moral theories except for the most vacuous forms of preference utilitarianism (and anti-realism, obs), doing The Right Thing is seriously hard. The set of good actions, compared to the set of all possible actions available to an agent, is tiny. Isn't it *convenient* then that most people, including the proponents of said theories, just *happen* to be basically good?
+
+    The Calvinists at least had the guts to say that in the eyes of God, *no one* was worthy, and that only through His unconditional and undeserved grace could we ever hope to find any means of salvation. Unfortunately, they then declared themselves to have been chosen just so.
+
+    [God hates the world][], as the True Heirs of Calvin say. Do not believe yourself to be an exception.
+    <% end %>
+
+And then there's shit like this:
+
+>  Harry was doing better in classes now, at least the classes he considered interesting. He'd read more books, and not books for eleven-year-olds either. He'd practiced Transfiguration over and over during one of his extra hours every day, taking the other hour for beginning Occlumency. He was taking the worthwhile classes *seriously*, not just turning in his homework every day, but using his free time to learn more than was required, to read other books beyond the given textbooks, looking to master the subject and not just memorize a few test answers, to excel. You didn't see that much outside Ravenclaw. And now even *within* Ravenclaw, his only remaining competitors were Padma Patil (whose parents came from a non-English-speaking culture and thus had raised her with an actual work ethic), Anthony Goldstein (out of a certain tiny ethnic group that won 25% of the Nobel Prizes), and of course, striding far above everyone like a Titan strolling through a pack of puppies, Hermione Granger.
+
+This is the kind of thing that I'd expect to see quoted on LGBT tumblrs[^tumblr] or r/ShitRedditSays. I can say nothing nice about this and its highly-compressed awfulness, and so will only highlight this as my prime example of What Is Wrong With HPMOR And Its Fans And Author.
+
+[^tumblr]:
+    <% skip do %>
+    Seriously, like half the stuff on Tumblr is about Marxism and Gender Theory. It's worse than Reddit and cats!
+    <% end %>
+
+However, overall I find it hard to say *exactly* why HPMOR fails so hard for me. It has a strong Uncanny Valley effect, as if it were written by someone with (most) of the correct belief-in-beliefs, but who's otherwise totally alien and twisted. Many *values* Harry espouses - be weird, be empirical, become stronger, empower the weak, crush the bully - I would've agreed (or at least tolerated) before reading HPMOR. However, seeing an attempted non-evil implementation of that in the form of Harry, I'm left to wonder why exactly he disgusts me so much. (Everyone[^every] else in HPMOR is easy to pin down.)
+
+[^every]: Except for the Weasley twins. They're the only light shining in the darkness of Magical Britain.
+
+Just to purge my mind, I've also begun to re-read Hanns Heinz Ewers' [Der Zauberlehrling][] (The Sorcerer's Apprentice) because it's in many ways (object and meta) so similar to HPMOR, except *good*.
+
+Basically, Der Zauberlehrling is a 1909 book about Frank Braun, a highly charismatic and competent Mary Sue, and because I'm lazy, here's a tl;dr I googled:
+
+> Traveller extraordinaire Frank Braun decides to retire for a while in a little village in the Italian mountains to write a book. On his arrival, he notices a preacher, a local who recently came back from America. Stunned by his charisma, Frank Braun decides to start what could be the religious phenomenon of the 20th century. However, like the sorcerer's apprentice, he rapidly loses control of the forces he unleashed. 
+
+Reading both of them side-by-side, I notice that almost every tendency[^ten] or skill that Harry has, Frank has too, except Frank *knows* he's a manipulative asshole who's only in it for the sadistic control, and runs off as soon as things get out of hand. Harry is still in denial. (Also, Frank isn't a broken mess of a person, but I guess I can cut an 11-year-old some slack...)
+
+[^ten]: Even the pseudo-scientific transhumanist megalomania, which I find *hilarious*. Seriously, it's only lacking gratuitous references to highly questionable studies, and it would be just as "rational".
+
+I suspect another contributing factor is that Harry fundamentally threatens [Dom/sub][] relationships in the world. By empowering everyone and tearing down authority, everyone is forced into a self-controlled pseudo-Dom role, and as someone *far* in sub territory, this pisses me off like crazy. (This extends to much of progressive politics in general, natch.)
+
+However, I find it genuinely hard to talk (or even think) about this, as I just get a huge mental warning light of "EVIL!" every time Harry appears, but I can't tell *why* exactly. (And yes, it's light!Harry that's the problem, not his dark side.) Mostly, he seems like a completely immoral, barely domesticated psychopath who's picked up the *language* of morality, vaguely, but twists it in unimaginable ways, threating All That Is Good And Holy with his latent powers.
+
+I mean, in Paradise Lost, even Satan himself had *some* awareness of his own monstrosity. *No one* in HPMOR has that. It's like a world in which Sophia had never been born, the Father was never revealed, the Demiurge was, is and always will be utterly in control.
+
+---
+
+Speaking of wastes of time, I've also started, then thrown away a few drafts, mostly about utilitarianism. I wanted to explain some (I think) basic improticisms (that's criticisms that improve a theory so it puts up a better fight[^troll]; because today is Unnecessary Neologism Day and I dislike "steelmanning"), but I feared they would be simultaneously too obvious for non-utilitarians and too obscure for utilitarians.
+
+[^troll]:
+    <% skip do %>
+    Worst of all, I have some neat troll arguments and caricatures I can't use without looking bitter or like I'm attacking a strawman, even though it's actually a steelman! I can't imagine the pain William Lane Craig must feel, winning every single debate ever with the most basic of arguments, never getting to the good stuff. Yet, I can't quite feel sorry for his Protestant ass. That's what you get when you abolish scholastic training - you have to debate idiots, and can fail if your audience is too incompetent to understand your arguments or even that they lost.
+
+    It's like trying to out-tech Orks. They don't care that their stuff is an incoherent mess without structure or safety. "Look, your epistemology isn't grounded, it can't possibly be correct" is like saying "your slugga has neither trigger nor bullets, it can't possibly hit anyone". Fucker's still gonna shoot you, somehow.
+
+    Sola fide sucks, doesn't it?
+    <% end %>
+    
+Then a few days later, I tried checking LW again (ugh still nothing of interest), and noticed that Will mentioned how priors and utility functions are the same thing, which is one of the points I wanted to explain, and how no one got that. Sigh.
+
+> The knowledge of the secrets of the Kingdom of Heaven has been given to you, but not to them. Whoever has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken from him. This is why I speak to them in parables: though seeing, they do not see; though hearing, they do not hear or understand. (Matthew 13:11-13)
+
+<% skip do %>
+(Note that this is not about deliberate secrecy or avoiding the heathen, but effective teaching. If the heathen does not hear because their heart still rejects God, teaching them about the Kingdom is a waste of time. And similarly, the convert who sees the Kingdom directly does not need your instructions.)
+<% end %>
+
+---
+
+<% skip do %>
+Some short game reviews, now that I bought a new graphics card and actually got around to playing some of the games I bought.
+
+- [Eufloria][]: Excellent. I loved it when it was still called Dyson, and I love it now. It's a bit shallow and repetitive, but somehow it stimulates my "amass troops, swarm the enemy" center. I like to imagine that the seedlings are actually an Imperial invasion fleet.
+- [Limbo][]: Actually good. Didn't expect I'd like it, and the controls are a bit meh, but overall very nice.
+- [Space Marine][]: Waaaaargh! \m/ Instead of a comment, let's just say that the time from pressing start to muflax loudly shouting "FOR THE EMPEROR!" was about 15 seconds.
+- [Legend of Grimrock][]: Haven't played very much, but really nice so far. Very oldschool, though I fear that the map design might be a bit shallow later on. (And I dislike the food mechanic, but it's fairly mild and doesn't annoy me much.) The map editor should fix all that soon.
+- [Stalker][]: Ugh. Can't say anything about the game yet because I spent over an hour trying to even get it to work, and now I'm porting the subtitles mod, which will take even more time. I'm too old for this shit.
+
+<% end %>
+
+---
+
+You might've noticed a certain lack of actual practice logs. That's because muflax wasn't practicing, or doing much of anything. (Except for push-ups[^push], Anki reps and reading.)
+
+[^push]: I'm now at 1-2x10 push-ups daily, and 4x10 push-ups today. woot! Also, using surplus energy to kick neighbors teeth in for blasting Dead Can Dance, brb.
+
+Reason: muflax' head is a complete mess, and if this were the W40K 'verse, it would've already spontaneously collapsed into a Warp gate. (Also, muflax feels very... Nurgelian. Frequent body horrors, high levels of mental noise, but simultaneously bliss and embracing love. Very confusing. On an object-level, I feel utterly twisted, overcome by disgust, anxiety and panic, but on a meta-level, I'm completely calm. I see those things happen, but they don't affect me negatively. Heck, I *enjoy* them immensely.[^tokyo] They just make it impossible to use The Body for anything useful.)
+
+[^tokyo]:
+    <% skip do %>
+    I mean, if my [rationalization][Dark Stance] of my [Too Kinky To Torture][] tendencies hadn't already tipped you off that I'm turning into little [赤ずきん][Tokyo Akazukin], minus the loli. (Maybe post-Singularity. It's on The List.)
+    <% end %>
+
+I tried to wait it out, but it's been over a week now and my head has [only become messier][My Last Sunrise], and I find it hard to concentrate for even 10 seconds, so I'll try something else now.
+
+So I thought, I need more data first. Like, what fails, where, when? Can't even come up with reasonable hypotheses because "I didn't study because my skin was a crawling monstrosity and also I kinda didn't feel like it" is not something I can work with. I can't commit to intentions and feelings. There's no "[feel like it][Mitchell job interview] for at least 10 minutes" option on Beeminder.
+
+And the failure is almost universal, in that nothing that didn't already have a Beeminder goal and finished implementation got done, even the fun stuff, so I need a meta-fix that I can beemind. (And raw "hours worked" doesn't work 'cause then I just read.)
+
+*And*[^and] I noticed before that my old time-tracking tool was in need of some improvements. So I mustered whatever concentration I had left and hacked together some changes that were long overdue. It should've taken me 2 hours, but actually took me 6 days because fuck it. Behold the incredible levels of ambition characteristic of Nurgle's children!
+
+[^and]:
+    <% skip do %>
+    Yes, I need to come up with some better filler words. Pretend it's cute until I get to it?
+    <% end %>
+
+So I made the smallest possible set of changes I could get away with that still constituted an improvement. And because muflax is in one of her moods again, just short notes:
+
+1. Previously, I planned / tracked individual tasks within a context, e.g. what specific meditation I did, or what book I read. That's *way* too much hassle. I've been tracking this for many months now, and I've never once looked at the stats or used them for anything important.
+
+   Initially, I tracked them because I thought my job required it (I r profeshunal bizniz cat lol), but turns out, my boss doesn't give a shit as long as the total hours are reasonably plausible, so there.
+
+   So simplified everything to only use broad contexts. (Besides, I have screenshots every 5 minutes, so I can reconstruct most tasks anyway.) Fuck specificity. 
+
+2. I'm also back to timeboxes, again, but not. 
+
+   > Look! Deadlines! DEEEEAAADLIINEEES! Our work hides in TEMPORAL BAWKSES, da cowards! Da fewls! We... \*asthma\*... we should take away... their temporal bawkses!
+
+   Timeboxes have a critical frequency. Basically, the minimum amount of time the task has to be visited, regardless for how long. "1 minute" is a perfectly acceptable timebox. Same trick as "put on shoes and step outside door" vs. "run". Showing up is harder than actually doing the thing.
+
+   There's also a no-ignoring-shit requirement, meaning muflax isn't allowed to start a timebox in a context if there are others left that haven't reached their critical number yet.
+
+3. Accordingly, I've started a new [Beeminder goal][Beeminder timeboxes] of 20 timeboxes per day, in addition to the 5 hours of cumulative work. "Show up 20 times" is something I can do. Doesn't matter how far I get, as long as I'm *there*, and not missing for days.
+
+---
+
+Did several sessions, about 10-20 minutes each, of desperately trying to grasp *that moment*. Like metta meditation, except for something I can't induce at will, can't recreate, can't intensify - yet. It's so fleeting, I fear in a few years, I might not even be able to get it back. So I try my best to hold on to it now, and if that fails, I will at least get the most out of it, knowing my present days of near-constant arousal and overwhelming bliss I have to dial down to not completely incapacitate myself, will have been worth something.
+
+What moment? It's... [well, it feels like this song sounds][Lacrimosa Straße der Zeit], or [maybe this one][Lacrimosa Herz], or heck, everything Lacrimosa ever did. A not-mixture-of-but-still-related-to regret, calm, sehnsucht, sadness and kenosis, most easily attainable during a summer night, thinking about everything that went wrong and can never be repaired, widening all attention to capture even the faintest of shadows, wanting to dissolve and intensify at the same time.
+
+I can't seem to ever get into it without actually feeling the wind on my skin. So I sit outside, tracing it through my body, looking for triggers, and until I find them, I will watch the storm slowly climb over the mountains, bringing cool air with it, and opportunities to wash away sin.
+
+Who needs love when you can have regret? It's so much more beautiful a state to rest in.
+
+---
+
+I did some work on my MCD algorithm. Previously, I selected the most interesting words in a sentence simply by sorting according to some criteria, mostly frequency. This was a bit hard to optimize and didn't quite pick out the best candidates, so I thought about some generalized score I could tweak more.
+
+Remember that the basic algorithm looks like this:
+
+1. Show me every sentence of a text, in order.
+2. For every sentence, make separate cards for interesting stuff in it.
+3. Avoid generating any cards that are too boring or difficult.
+
+(As such, it is simply an automatic and everything-in-Anki implementation of Khatzu's 10,000 sentences approach, with some standard card improvements, like MCD and i+1. I'm just proving that I'm so smart, I can be *even lazier* than him. Which is the best kind of competition, if you ask me.)
+
+The tricky parts is, what is "interesting", and what is "too boring"?
+
+I want interestingness to be a modular lists of features with weights, so the selection algorithm should reflect this. A simple sorting algorithm doesn't quite do it. I then tried thinking in terms of scores, and how next-best (which I discussed before) is a step in the right direction, meta-wise, even though it's not yet superior to "just go by frequency".
+
+So I finally noticed that I was thinking the wrong way around. I was trying to map features to a score, say from 1 to 100, with higher being more important, but couldn't normalize anything. Instead, everything falls into place when you think of it in terms of *costs*.
+
+Now, there's a kind of *budget* of points per sentence, which the program can invest in cards. The more boring, difficult or unimportant a card is, the more it has to pay. If all value has been used up, go to the next sentence. There's a straightforward base unit of boredom: the easiest possible card has cost 1. Now I can add various ugh factors, efficiency scores (the rarer the word is, the more it costs) and so on.
+
+Afterwards, just take a sentence, generate all possible cards for it, assign a proper cost, "buy" as many cards as possible with the sentence budget, discard the rest, next sentence.
+
+Wrote the implementation for that, but the cost function still needs more tweaking. Will also try to add some rudimentary support for n-grams next.

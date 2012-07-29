@@ -248,3 +248,5 @@
 [Death Note Matt]: http://deathnote.wikia.com/wiki/Matt
 [monotonic]: https://en.wikipedia.org/wiki/Monotonic_function
 [Dependent Arising]: http://www.buddhanet.net/bud_lt12.htm
+[Too Kinky To Torture]: http://tvtropes.org/pmwiki/pmwiki.php/Main/TooKinkyToTorture
+[Dom/sub]: https://en.wikipedia.org/wiki/Dominance_and_submission

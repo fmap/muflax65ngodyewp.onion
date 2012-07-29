@@ -117,6 +117,12 @@
 [Space Pirates and Zombies]: http://store.steampowered.com/app/107200/
 [HPMOR]: http://hpmor.com/
 [Khatz System]: http://www.alljapaneseallthetime.com/blog/the-search-for-the-system-how-i-found-one-why-you-need-one
+[God hates the world]: http://godhatestheworld.com/
+[Eufloria]: http://www.eufloria-game.com/
+[Space Marine]: http://www.spacemarine.com/
+[Limbo]: http://limbogame.org/
+[Stalker]: http://www.stalker-game.com/
+[Tokyo Akazukin]: https://animekritik.wordpress.com/2009/01/16/tokyo-akazukin-and-the-dark-side-of-surrealism-nsfw/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -250,6 +256,8 @@
 [After Virtue]: https://en.wikipedia.org/wiki/After_Virtue
 [Thinking, Fast and Slow]: https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
 [The Christ-Myth Theory And Its Problems]: http://www.amazon.com/The-Christ-Myth-Theory-Problems-ebook/dp/B00771ZPZA
+[Freedom Evolves]: https://en.wikipedia.org/wiki/Freedom_Evolves
+[Der Zauberlehrling]: https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice_%281910_novel%29
 
 <!-- internal links -->
 [main]: http://muflax.com
