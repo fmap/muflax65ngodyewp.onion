@@ -10,12 +10,16 @@
 [Ajatasattu]: https://en.wikipedia.org/wiki/Ajatasatru
 [Ajita Kesakambali]: https://en.wikipedia.org/wiki/Ajita_Kesakambali
 [Aki Sora]: http://en.wikipedia.org/wiki/Aki_Sora
+[Albigensian Crusade]: https://en.wikipedia.org/wiki/Albigensian_Crusade
 [Algorithmic Probability]: http://en.wikipedia.org/wiki/Algorithmic_probability
+[Alpen Rose]: https://en.wikipedia.org/wiki/Alpen_Rose
 [Anatta]: http://en.wikipedia.org/wiki/Anatta
 [Anhedonia]: http://en.wikipedia.org/wiki/Anhedonia
 [Anicca]: http://en.wikipedia.org/wiki/Anicca
 [Animal Rights]: http://en.wikipedia.org/wiki/Animal_rights#Main_philosophical_approaches
+[Antediluvian]: https://en.wikipedia.org/wiki/Antediluvian
 [Apocrypha Discordia]: http://appendix.23ae.com/apocrypha/index.html
+[Arguelles]: http://foreignlanguageexpertise.com/
 [Arising and Passing Away]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/The%20Arising%20and%20Passing%20Away?p_r_p_185834411_title=The%20Arising%20and%20Passing%20Away
 [Arrow Paradox]: http://en.wikipedia.org/wiki/Zeno%27s_paradoxes#The_arrow_paradox
 [Astronomical Waste]: http://www.nickbostrom.com/astronomical/waste.html
@@ -24,31 +28,49 @@
 [BG2]: https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn
 [Benatar]: http://en.wikipedia.org/wiki/David_Benatar
 [Better Never to Have Been]: http://www.amazon.com/Better-Never-Have-Been-Existence/dp/0199296421
+[Bhikkhu Bodhi]: https://en.wikipedia.org/wiki/Bhikkhu_Bodhi
+[Boltzmann Brain]: https://en.wikipedia.org/wiki/Boltzmann_brain
 [Book of the Dead]: https://en.wikipedia.org/wiki/Bardo_Thodol
 [Brainfuck]: http://en.wikipedia.org/wiki/Brainfuck
 [Bushido]: http://en.wikipedia.org/wiki/Bushido
+[Cala Sutta]: http://www.accesstoinsight.org/tipitaka/sn/sn05/sn05.006.bodh.html
+[Calimero]: https://en.wikipedia.org/wiki/Calimero
 [Catuskoti]: http://en.wikipedia.org/wiki/Catu%E1%B9%A3ko%E1%B9%ADi
 [Child sexual abuse]: http://en.wikipedia.org/wiki/Child_sexual_abuse
 [Choronzon]: https://en.wikipedia.org/wiki/Choronzon
+[Cioran]: https://en.wikipedia.org/wiki/Emil_Cioran
+[Computronium]: http://www.orionsarm.com/eg-article/4637faafa6437
 [Convict Conditioning]: http://www.dragondoor.com/b41/ 
 [Core Dump]: http://en.wikipedia.org/wiki/Core_dump
 [Crank]: http://en.wikipedia.org/wiki/Crank_%28person%29
 [Crocker's Rules]: http://wiki.lesswrong.com/wiki/Crocker%27s_rules
 [Crown of Thorns]: http://en.wikipedia.org/wiki/Crown_of_Thorns
 [Crusader Kings II]: http://www.paradoxplaza.com/games/crusader-kings-ii
+[DSL]: http://c2.com/cgi/wiki?DomainSpecificLanguage
 [DXM]: https://www.erowid.org/chemicals/dxm/faq/dxm_faq.shtml
+[Death Note Matt]: http://deathnote.wikia.com/wiki/Matt
 [Deontology]: https://en.wikipedia.org/wiki/Deontology
+[Dependent Arising]: http://www.buddhanet.net/bud_lt12.htm
+[Desire for Deliverance]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/MCTB 9. Desire for Deliverance
 [Desirism]: http://commonsenseatheism.com/?p=2982
 [Dirk Gently TV]: https://en.wikipedia.org/wiki/Dirk_Gently_%28TV_series%29
 [Discordianism]: http://en.wikipedia.org/wiki/Discordianism
 [Divine Simplicity]: http://en.wikipedia.org/wiki/Divine_simplicity
+[Docetism]: https://en.wikipedia.org/wiki/Docetism
+[Doctrine of Double Effect]: http://plato.stanford.edu/entries/double-effect/
+[Dom/sub]: https://en.wikipedia.org/wiki/Dominance_and_submission
 [Dukkha]: http://en.wikipedia.org/wiki/Dukkha
 [Dunbar's Number]: http://en.wikipedia.org/wiki/Dunbar's_Number
+[E']: http://en.wikipedia.org/wiki/E%27
 [Egoism]: http://en.wikipedia.org/wiki/Ethical_egoism
+[Eight Deadly Words]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EightDeadlyWords
 [Eliezer Yudkowsky]: https://en.wikipedia.org/wiki/Eliezer_Yudkowsky
+[Emotivism]: https://en.wikipedia.org/wiki/Emotivism
 [Entheogen]: http://en.wikipedia.org/wiki/Entheogen
 [Epistemology]: http://en.wikipedia.org/wiki/Epistemology
+[Eristische Dialektik]: https://en.wikipedia.org/wiki/The_Art_of_Being_Right
 [Eternal Return]: http://en.wikipedia.org/wiki/Eternal_return#Friedrich_Nietzsche
+[Euhemerism]: https://en.wikipedia.org/wiki/Euhemerus#Euhemerism_and_Christians
 [Evil Is Cool]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilIsCool
 [Evil Trope]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTropes
 [Existential Risks]: http://en.wikipedia.org/wiki/Risks_to_civilization,_humans_and_planet_Earth
@@ -61,23 +83,32 @@
 [Fomenko claims]: http://en.wikipedia.org/wiki/New_Chronology_%28Fomenko%29#Fomenko.27s_claims
 [Fomenko]: http://en.wikipedia.org/wiki/New_Chronology_%28Fomenko%29
 [Frankl]: http://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning
+[Great Filter wiki]: https://en.wikipedia.org/wiki/Great_Filter
+[Gunsmith Cats]: https://en.wikipedia.org/wiki/Gunsmith_Cats
 [Hanlon's Razor]: http://en.wikipedia.org/wiki/Hanlon%27s_Razor
 [Hedonic Treadmill]: http://en.wikipedia.org/wiki/Hedonic_treadmill
+[Heimat]: https://en.wikipedia.org/wiki/Heimat
 [Higher Criticism]: http://en.wikipedia.org/wiki/Historical_criticism
 [Hot Fuzz]: http://en.wikipedia.org/wiki/Hot_Fuzz
+[Hug Machine]: https://en.wikipedia.org/wiki/Hug_machine
 [Hypothetical Consent]: http://simonamey.com/Philosophy/Entry.php?entryid=314
+[Illuminatus!]: https://en.wikipedia.org/wiki/Illuminatus!
 [Implied Consent]: http://en.wikipedia.org/wiki/Implied_consent
 [Inerrancy]: http://en.wikipedia.org/wiki/Biblical_inerrancy
 [Jetpack Hitler]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StupidJetpackHitler
 [Jhana]: http://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism#Usage_of_jh.C4.81na
+[John Tromp]: http://homepages.cwi.nl/~tromp/
 [Judea Pearl]: http://en.wikipedia.org/wiki/Judea_Pearl
 [Julian Jaynes]: http://en.wikipedia.org/wiki/Julian_Jaynes
+[K&R]: https://en.wikipedia.org/wiki/The_C_Programming_Language
 [Kai Lexx]: http://en.wikipedia.org/wiki/Kai_(Lexx)
+[Kaldor Hicks]: https://en.wikipedia.org/wiki/Kaldor%E2%80%93Hicks_efficiency
 [Kali]: http://en.wikipedia.org/wiki/Kali
 [Kant]: https://en.wikipedia.org/wiki/Immanuel_Kant
 [Kasina]: http://en.wikipedia.org/wiki/Kasina
 [Kenosis]: http://en.wikipedia.org/wiki/Kenosis
 [Kerghan]: http://en.wikipedia.org/wiki/Arcanum:_Of_Steamworks_and_Magick_Obscura
+[Krashen]: https://en.wikipedia.org/wiki/Input_Hypothesis
 [Ksitigarbha]: http://en.wikipedia.org/wiki/Ksitigarbha
 [LZ77]: http://en.wikipedia.org/wiki/LZ77_and_LZ78_%28algorithms%29
 [Lain]: https://en.wikipedia.org/wiki/Serial_Experiments_Lain
@@ -85,9 +116,14 @@
 [Laws of Form]: http://en.wikipedia.org/wiki/Laws_of_Form
 [Lelouch]: http://en.wikipedia.org/wiki/Lelouch_Lamperouge
 [LenPEG]: http://www.dangermouse.net/esoteric/lenpeg.html
+[Lingua Latina]: http://www.lingua-latina.dk/index2.htm
+[Logical Positivism]: https://en.wikipedia.org/wiki/Logical_positivism
 [Lossless Data Compression]: http://en.wikipedia.org/wiki/Lossless_data_compression
 [Lucid dreaming]: http://en.wikipedia.org/wiki/Lucid_dreaming
 [Lucius Vorenus]: http://en.wikipedia.org/wiki/Lucius_Vorenus_%28Rome_character%29
+[Luminosity]: http://wiki.lesswrong.com/wiki/Luminosity
+[Löb's Theorem]: https://en.wikipedia.org/wiki/L%C3%B6b%27s_theorem
+[MAO-I]: https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor
 [MCD]: http://www.alljapaneseallthetime.com/blog/series/mcd-revolution
 [MCTB]: http://www.interactivebuddha.com/mctb.shtml
 [Mahavira]: https://en.wikipedia.org/wiki/Mahavira
@@ -98,13 +134,17 @@
 [Mere Addition]: http://en.wikipedia.org/wiki/Mere_addition_paradox
 [Michael Persinger]: http://en.wikipedia.org/wiki/Michael_Persinger
 [Mirror Test]: http://en.wikipedia.org/wiki/Mirror_test
+[Misery]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/MCTB 7. Misery
 [Missionary Paradox]: http://everything2.com/title/Missionary+Paradox
+[Modal Realism]: https://en.wikipedia.org/wiki/Modal_realism
 [Moral Luck]: http://plato.stanford.edu/entries/moral-luck/
+[MorphMan]: http://rtkwiki.koohii.com/wiki/Morph_Man
 [Moulin Rouge!]: http://en.wikipedia.org/wiki/Moulin_Rouge!
 [Multiple Drafts]: http://www.scholarpedia.org/article/Multiple_drafts_model
 [Multiple Realizability]: http://en.wikipedia.org/wiki/Multiple_realizability
 [Nagarjuna]: http://en.wikipedia.org/wiki/Nagarjuna
 [Naraka]: http://en.wikipedia.org/wiki/Naraka
+[Neon Genesis Evangelion]: https://en.wikipedia.org/wiki/Neon_genesis_evangelion
 [Nirodha Samapatti]: http://web.mac.com/danielmingram/iWeb/Daniel%20Ingram%27s%20Dharma%20Blog/The%20Blook/2CECD5EA-6058-4428-8DDD-002856C2E28A.html
 [Non-Dualism]: http://en.wikipedia.org/wiki/Non-dualism
 [Olsenbande]: https://en.wikipedia.org/wiki/Olsen_Gang
@@ -114,9 +154,17 @@
 [Paleo]: http://www.archevore.com/archevore/
 [Pali Canon]: https://en.wikipedia.org/wiki/Pali_canon
 [Paperclipper]: http://wiki.lesswrong.com/wiki/Paperclip_maximizer
+[Pareto]: http://en.wikipedia.org/wiki/Pareto_efficiency
 [Pascal's Mugging]: http://lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/
+[Pascal's Wager]: https://en.wikipedia.org/wiki/Pascal%27s_Wager
 [Phantom Time]: http://en.wikipedia.org/wiki/Phantom_time_hypothesis
+[Pi]: https://en.wikipedia.org/wiki/Pi_%28film%29
+[Pineal Gland]: https://en.wikipedia.org/wiki/Discordianism#Pineal_gland
 [Pirates Who Don't Do Anything]: http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePiratesWhoDontDoAnything
+[Planescape Torment]: https://en.wikipedia.org/wiki/Planescape_torment
+[Plantinga naturalism]: https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism
+[Predestination]: http://en.wikipedia.org/wiki/Predestination_%28Calvinism%29#Double_predestination
+[Preikestolen]: https://encrypted.google.com/search?btnG=Google+Search&q=prekestolen
 [Principle of Charity]: http://en.wikipedia.org/wiki/Principle_of_charity
 [Profiling]: http://en.wikipedia.org/wiki/Profiling_(computer_programming)
 [Purana Kassapa]: https://en.wikipedia.org/wiki/Purana_Kassapa
@@ -124,23 +172,37 @@
 [Quantum Monadology]: http://cognet.mit.edu/posters/TUCSON3/Yasue.html
 [RMS]: http://en.wikipedia.org/wiki/Richard_Stallman
 [RTK]: http://en.wikipedia.org/wiki/Remembering_the_Kanji
+[Raël]: https://en.wikipedia.org/wiki/Ra%C3%ABl
+[Re-Observation]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/MCTB%2010.%20Re-observation
+[Red Forman]: https://en.wikipedia.org/wiki/Red_Forman
 [Regex 2 problems]: http://www.codinghorror.com/blog/2008/06/regular-expressions-now-you-have-two-problems.html
 [Repugnant Conclusion]: http://en.wikipedia.org/wiki/Repugnant_Conclusion
+[Rigid Designator]: https://en.wikipedia.org/wiki/Rigid_designator
 [Risk Aversion]: http://en.wikipedia.org/wiki/Risk_Aversion
 [Robert M. Price]: http://robertmprice.mindvendor.com
+[Rose of Versailles]: https://en.wikipedia.org/wiki/The_Rose_of_Versailles
+[Rule of Funny]: http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFunny
+[Runner's High]: https://en.wikipedia.org/wiki/Endorphin#Runner.27s_high
+[SRS]: http://www.gwern.net/Spaced%20repetition
+[Sailor Moon]: https://en.wikipedia.org/wiki/Sailor_Moon
 [Sakadagami]: http://en.wikipedia.org/wiki/Sakadagami
 [Sanjaya Belatthaputta]: https://en.wikipedia.org/wiki/Sanjaya_Belatthaputta
+[Sarashi]: http://tvtropes.org/pmwiki/pmwiki.php/Main/Sarashi
 [Satan]: http://en.wikipedia.org/wiki/Satan
 [Sathya Sai Baba]: http://en.wikipedia.org/wiki/Sathya_Sai_Baba
 [Satipatthana Sutta]: http://en.wikipedia.org/wiki/Satipatthana_Sutta
+[Schizotypy]: http://en.wikipedia.org/wiki/Schizotypy
 [Scope Insensitivity]: http://lesswrong.com/lw/hw/scope_insensitivity/
 [Sensates]: http://mimir.net/psmush/sensates.shtml
+[Sephirot]: https://en.wikipedia.org/wiki/Sephirot
 [Serotonin Syndrome]: http://en.wikipedia.org/wiki/Serotonin_syndrome
 [Shangri-la diet]: https://en.wikipedia.org/wiki/The_Shangri-La_Diet
 [Shinto]: http://en.wikipedia.org/wiki/Shinto
 [Signaling]: http://wiki.lesswrong.com/wiki/Signaling
 [Simon Magus]: http://en.wikipedia.org/wiki/Simon_Magus
 [Sisyphus]: http://en.wikipedia.org/wiki/The_Myth_of_Sisyphus
+[Sophia]: https://en.wikipedia.org/wiki/Wisdom_in_Gnosticism
+[Sophie's Choice]: http://www.penny-arcade.com/comic/2009/10/07
 [Start of Darkness]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StartOfDarkness
 [Status]: http://wiki.lesswrong.com/wiki/Status
 [Strawman Has A Point]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawmanHasAPoint
@@ -149,8 +211,13 @@
 [Tarot Fool]: http://en.wikipedia.org/wiki/The_Fool_%28Tarot_card%29
 [Tathagata]: http://en.wikipedia.org/wiki/Tath%C4%81gata
 [Ted Kaczynski]: http://en.wikipedia.org/wiki/Ted_Kaczynski
+[The Tao of Pooh]: https://en.wikipedia.org/wiki/The_Tao_of_Pooh
 [Theravada]: http://en.wikipedia.org/wiki/Theravada
+[Theseus' Ship]: https://en.wikipedia.org/wiki/Ship_of_Theseus
+[Three Virtues]: https://en.wikipedia.org/wiki/Larry_Wall
+[Too Kinky To Torture]: http://tvtropes.org/pmwiki/pmwiki.php/Main/TooKinkyToTorture
 [Trivialism]: http://en.wikipedia.org/wiki/Trivialism
+[Truman Show]: https://en.wikipedia.org/wiki/The_Truman_Show
 [Turing Machine]: http://en.wikipedia.org/wiki/Turing_machine
 [Unity of Knowledge and Action]: http://www.iep.utm.edu/wangyang/#H4
 [Unknown God]: http://en.wikipedia.org/wiki/Unknown_God
@@ -158,6 +225,7 @@
 [VHEMT]: http://en.wikipedia.org/wiki/Voluntary_human_extinction_movement
 [Vajrayana]: http://en.wikipedia.org/wiki/Vajrayana
 [Vampire RPG]: http://en.wikipedia.org/wiki/Vampire:_The_Masquerade
+[Vatican]: https://en.wikipedia.org/wiki/Holy_See
 [Vilayanur S. Ramachandran]: http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran
 [Visuddhimagga]: http://en.wikipedia.org/wiki/Visuddhimagga
 [Wang Yangming]: http://www.iep.utm.edu/wangyang/
@@ -167,8 +235,13 @@
 [Yamantaka]: http://en.wikipedia.org/wiki/Yamantaka
 [Yana]: http://en.wikipedia.org/wiki/Yana_%28Buddhism%29
 [Yotsuba]: http://en.wikipedia.org/wiki/Yotsuba&!
+[_why]: https://en.wikipedia.org/wiki/Why_the_lucky_stiff
 [al-Ghazali]: http://en.wikipedia.org/wiki/Al-Ghazali
+[birdmen]: http://web.archive.org/web/20100831084607/http://malstrom.50webs.com/birdman.html
+[conditional baptism]: https://en.wikipedia.org/wiki/Conditional_baptism
 [meme]: https://en.wikipedia.org/wiki/Meme
+[monotonic]: https://en.wikipedia.org/wiki/Monotonic_function
+[neti]: https://en.wikipedia.org/wiki/Neti_neti
 [quadtree]: https://en.wikipedia.org/wiki/Quadtree
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
 [schächten]: http://en.wikipedia.org/wiki/Shechita
@@ -176,77 +249,3 @@
 [unsupervised universe]: http://wiki.lesswrong.com/wiki/Unsupervised_universe
 [ジャックと豆の木]: http://en.wikipedia.org/wiki/Jack_and_the_Beanstalk_%281974_film%29
 [秒速5センチメートル]: http://en.wikipedia.org/wiki/5_Centimeters_Per_Second
-[_why]: https://en.wikipedia.org/wiki/Why_the_lucky_stiff
-[Pascal's Wager]: https://en.wikipedia.org/wiki/Pascal%27s_Wager
-[Rigid Designator]: https://en.wikipedia.org/wiki/Rigid_designator
-[conditional baptism]: https://en.wikipedia.org/wiki/Conditional_baptism
-[Lingua Latina]: http://www.lingua-latina.dk/index2.htm
-[Arguelles]: http://foreignlanguageexpertise.com/
-[neti]: https://en.wikipedia.org/wiki/Neti_neti
-[Preikestolen]: https://encrypted.google.com/search?btnG=Google+Search&q=prekestolen
-[Vatican]: https://en.wikipedia.org/wiki/Holy_See
-[Schizotypy]: http://en.wikipedia.org/wiki/Schizotypy
-[Truman Show]: https://en.wikipedia.org/wiki/The_Truman_Show
-[Luminosity]: http://wiki.lesswrong.com/wiki/Luminosity
-[Theseus' Ship]: https://en.wikipedia.org/wiki/Ship_of_Theseus
-[Red Forman]: https://en.wikipedia.org/wiki/Red_Forman
-[E']: http://en.wikipedia.org/wiki/E%27
-[Dom/sub]: https://en.wikipedia.org/wiki/Dominance_and_submission
-[birdmen]: http://web.archive.org/web/20100831084607/http://malstrom.50webs.com/birdman.html
-[Three Virtues]: https://en.wikipedia.org/wiki/Larry_Wall
-[MAO-I]: https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor
-[Heimat]: https://en.wikipedia.org/wiki/Heimat
-[DSL]: http://c2.com/cgi/wiki?DomainSpecificLanguage
-[Löb's Theorem]: https://en.wikipedia.org/wiki/L%C3%B6b%27s_theorem
-[Cala Sutta]: http://www.accesstoinsight.org/tipitaka/sn/sn05/sn05.006.bodh.html
-[Pareto]: http://en.wikipedia.org/wiki/Pareto_efficiency
-[Kaldor Hicks]: https://en.wikipedia.org/wiki/Kaldor%E2%80%93Hicks_efficiency
-[Runner's High]: https://en.wikipedia.org/wiki/Endorphin#Runner.27s_high
-[Sephirot]: https://en.wikipedia.org/wiki/Sephirot
-[Eristische Dialektik]: https://en.wikipedia.org/wiki/The_Art_of_Being_Right
-[Predestination]: http://en.wikipedia.org/wiki/Predestination_%28Calvinism%29#Double_predestination
-[Sophie's Choice]: http://www.penny-arcade.com/comic/2009/10/07
-[Doctrine of Double Effect]: http://plato.stanford.edu/entries/double-effect/
-[Sophia]: https://en.wikipedia.org/wiki/Wisdom_in_Gnosticism
-[Docetism]: https://en.wikipedia.org/wiki/Docetism
-[Logical Positivism]: https://en.wikipedia.org/wiki/Logical_positivism
-[Plantinga naturalism]: https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism
-[Pineal Gland]: https://en.wikipedia.org/wiki/Discordianism#Pineal_gland
-[Rule of Funny]: http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFunny
-[Computronium]: http://www.orionsarm.com/eg-article/4637faafa6437
-[Modal Realism]: https://en.wikipedia.org/wiki/Modal_realism
-[Antediluvian]: https://en.wikipedia.org/wiki/Antediluvian
-[Hug Machine]: https://en.wikipedia.org/wiki/Hug_machine
-[Sarashi]: http://tvtropes.org/pmwiki/pmwiki.php/Main/Sarashi
-[Great Filter wiki]: https://en.wikipedia.org/wiki/Great_Filter
-[Misery]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/MCTB 7. Misery
-[Desire for Deliverance]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/MCTB 9. Desire for Deliverance
-[Re-Observation]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/MCTB%2010.%20Re-observation
-[Krashen]: https://en.wikipedia.org/wiki/Input_Hypothesis
-[MorphMan]: http://rtkwiki.koohii.com/wiki/Morph_Man
-[SRS]: http://www.gwern.net/Spaced%20repetition
-[K&R]: https://en.wikipedia.org/wiki/The_C_Programming_Language
-[John Tromp]: http://homepages.cwi.nl/~tromp/
-[Emotivism]: https://en.wikipedia.org/wiki/Emotivism
-[Euhemerism]: https://en.wikipedia.org/wiki/Euhemerus#Euhemerism_and_Christians
-[Bhikkhu Bodhi]: https://en.wikipedia.org/wiki/Bhikkhu_Bodhi
-[Gunsmith Cats]: https://en.wikipedia.org/wiki/Gunsmith_Cats
-[Neon Genesis Evangelion]: https://en.wikipedia.org/wiki/Neon_genesis_evangelion
-[Sailor Moon]: https://en.wikipedia.org/wiki/Sailor_Moon
-[Planescape Torment]: https://en.wikipedia.org/wiki/Planescape_torment
-[Cioran]: https://en.wikipedia.org/wiki/Emil_Cioran
-[Illuminatus!]: https://en.wikipedia.org/wiki/Illuminatus!
-[Pi]: https://en.wikipedia.org/wiki/Pi_%28film%29
-[The Tao of Pooh]: https://en.wikipedia.org/wiki/The_Tao_of_Pooh
-[Alpen Rose]: https://en.wikipedia.org/wiki/Alpen_Rose
-[Rose of Versailles]: https://en.wikipedia.org/wiki/The_Rose_of_Versailles
-[Calimero]: https://en.wikipedia.org/wiki/Calimero
-[Boltzmann Brain]: https://en.wikipedia.org/wiki/Boltzmann_brain
-[Raël]: https://en.wikipedia.org/wiki/Ra%C3%ABl
-[Albigensian Crusade]: https://en.wikipedia.org/wiki/Albigensian_Crusade
-[Eight Deadly Words]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EightDeadlyWords
-[Death Note Matt]: http://deathnote.wikia.com/wiki/Matt
-[monotonic]: https://en.wikipedia.org/wiki/Monotonic_function
-[Dependent Arising]: http://www.buddhanet.net/bud_lt12.htm
-[Too Kinky To Torture]: http://tvtropes.org/pmwiki/pmwiki.php/Main/TooKinkyToTorture
-[Dom/sub]: https://en.wikipedia.org/wiki/Dominance_and_submission
