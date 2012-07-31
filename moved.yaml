@@ -57,6 +57,10 @@ sites:
       to: muflax:stuff/kanji/simplified.txt
     - from: kanji/traditional.txt
       to: muflax:stuff/kanji/traditional.txt
+
+    # merged
+    - from: tl;dr
+      to: muflax:contact
       
   blog:
     - from: personal/3-months-of-beeminder

@@ -15,6 +15,7 @@
 [PredictionBook]: http://predictionbook.com/users/muflax
 [Twitter]: https://twitter.com/#!/muflax
 [whatiswrongwith.me]: http://whatiswrongwith.me/muflax
+[Steam wishlist]: http://steamcommunity.com/id/muflax/wishlist
 
 <!-- tweets -->
 [Twitter pali]: https://twitter.com/#!/muflax/status/66635052242567168
