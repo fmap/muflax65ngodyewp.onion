@@ -37,7 +37,7 @@ As a stylistic convention, I will refer to all good experiences as a "benefit" a
 
 I'd also like to stress that I use negations in their strict sense, i.e. "not good" does not mean "bad", but rather "either bad or neutral".
 
-I try to limit the amount of details and disclaimers. For this I just refer you to the linked blogs and books, mostly [Better Never to Have Been][] and [The View from Hell][]. However, I do strive to cover all the arguments and their criticisms. [Contact][] me or leave a comment if you think I missed or misrepresented something, but consider the [Principle of Charity][] as well. Assume that obvious gaps are just omissions on my side for the sake of brevity, not fundamental flaws.
+I try to limit the amount of details and disclaimers. For this I just refer you to the linked blogs and books, mostly [Better Never to Have Been][] and [The View from Hell][]. However, I do strive to cover all the arguments and their criticisms. [Contact][] me or leave a comment if you think I missed or misrepresented something, but consider the [Principle of Charity][] as well. Assume that obvious gaps are just omissions on my side for the sake of brevity, and that perceived flaws are a result of the still draft-like nature of the FAQ, not an accurate representation of someone's arguments.
 
 As this is a FAQ arguing *for* antinatalism, it focuses on the antinatalist arguments and treats pronatalist positions as rebuttals of specific assumptions or lines of reasoning.
 
