@@ -111,18 +111,8 @@
 [make people alive]: http://www.lettersofnote.com/2011/03/i-think-i-no-how-to-make-people-or.html
 [Twitter backup]: http://blog.jphpsf.com/2012/05/07/backing-up-your-twitter-account-with-t
 [Bodhi talk]: http://www.buddhanet.net/audio-lectures.htm
-[Witch Watch]: http://shamusyoung.com/author/
-[Jaynes Society]: http://www.julianjaynes.org/
-[Legend of Grimrock]: http://store.steampowered.com/app/207170/
-[Space Pirates and Zombies]: http://store.steampowered.com/app/107200/
-[HPMOR]: http://hpmor.com/
 [Khatz System]: http://www.alljapaneseallthetime.com/blog/the-search-for-the-system-how-i-found-one-why-you-need-one
 [God hates the world]: http://godhatestheworld.com/
-[Eufloria]: http://www.eufloria-game.com/
-[Space Marine]: http://www.spacemarine.com/
-[Limbo]: http://limbogame.org/
-[Stalker]: http://www.stalker-game.com/
-[Tokyo Akazukin]: https://animekritik.wordpress.com/2009/01/16/tokyo-akazukin-and-the-dark-side-of-surrealism-nsfw/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
