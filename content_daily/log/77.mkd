@@ -30,7 +30,7 @@ A quick highlight of an *hilarious* passage in [After Virtue][] as your daily do
 
 ---
 
-Did some experiments how to learn grammar, automatically.
+Did some experiments about how to learn grammar, automatically.
 
 All of my existing techniques are designed around the fact that virtually all existing teaching material is either complete bullshit (like classes) or woefully incomplete (like the rare good textbook, or Michel Thomas courses), and most of it is based on really boring source material. I dare you to find a single textbook, parallel reader or vocab list that has space pirates in it! There aren't any![^any] That's how shitty this industry is.
 
