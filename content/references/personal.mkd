@@ -39,3 +39,4 @@
 [avg_dmg]: https://github.com/muflax/scripts/blob/master/average_damage.rb
 [yonmokunarabe]: https://github.com/muflax/yonmokunarabe/
 [gist revlog]: https://gist.github.com/3143132
+[Michel Thomas Anki]: http://muflax.com/stuff/french_foundation.tsv

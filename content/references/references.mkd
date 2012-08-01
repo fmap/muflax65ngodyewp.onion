@@ -113,6 +113,12 @@
 [Bodhi talk]: http://www.buddhanet.net/audio-lectures.htm
 [Khatz System]: http://www.alljapaneseallthetime.com/blog/the-search-for-the-system-how-i-found-one-why-you-need-one
 [God hates the world]: http://godhatestheworld.com/
+[Michel Thomas French course]: http://www.amazon.com/Michel-Thomas-Foundation-Course-French/dp/0340938919/
+[The Language Revolution]: http://www.amazon.com/Michel-Thomas-Jonathan-Solity/dp/0340928336
+[Michel Thomas preview]: http://www.audible.co.uk/pd?asin=B004GYSQZC
+[Michel Thomas booklets]: http://www.michelthomas.com/downloads.php
+[lang-8]: http://lang-8.com/
+[Warranted Neo-Confucian Belief]: http://www.davidtien-phd.com/publications/warranted-neo-confucian-belief/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -162,6 +168,9 @@
 [LW timeless physics]: http://lesswrong.com/lw/qp/timeless_physics/
 [LW fun theory]: http://lesswrong.com/lw/y0/31_laws_of_fun/
 [LW obvious]: http://lesswrong.com/lw/9q5/on_saying_the_obvious/
+[LW review]: http://lesswrong.com/lw/7qq/review_michel_thomas_french_direct_instruction/
+[LW owen]: http://lesswrong.com/r/discussion/lw/7d1/scientifically_optimizing_education_hard_problem/
+[LW DI]: http://lesswrong.com/r/discussion/lw/7g3/what_direct_instruction_is/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
@@ -248,6 +257,7 @@
 [The Christ-Myth Theory And Its Problems]: http://www.amazon.com/The-Christ-Myth-Theory-Problems-ebook/dp/B00771ZPZA
 [Freedom Evolves]: https://en.wikipedia.org/wiki/Freedom_Evolves
 [Der Zauberlehrling]: https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice_%281910_novel%29
+[Japanese in Mangaland]: https://en.wikipedia.org/wiki/Japanese_in_Mangaland
 
 <!-- internal links -->
 [main]: http://muflax.com

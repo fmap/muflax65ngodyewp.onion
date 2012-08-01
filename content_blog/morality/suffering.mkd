@@ -1,0 +1,47 @@
+---
+title: Suffering? What suffering?
+date: 2012-07-31
+techne: :done
+episteme: :speculation
+---
+
+I'm confused by "suffering". I'm no longer sure it even exists in a morally relevant sense. That's a weird position to be in.
+
+(Maybe that means I'm enlightened. If so, I accept sacred offerings in return for favors in the afterlife, and will petition Papa Nurgle on your behalf.)
+
+I'm not saying "the experience of suffering" doesn't exist, in the sense that "the experience of an integer between 3 and 4, but neither 3 nor 4" doesn't exist. The experience sure does exist, just as the experiences of bliss, joy, sadness, that cramp in your leg that just won't go away, sweetness, anger, and so on, all do exist.
+
+I'm also not saying that nothing is morally relevant in a metaphysical sense, but without suffering as one foundation, moral realism becomes quite a bit smaller, and I'm not sure if the concept of "harm" even makes sense without it. (Of course, "suffering" is obviously important even for moral anti-realists as a political tool. I'm not giving up this use, the same way that consequentialist hedonists would agree that sacredness is not a moral property, but still a very useful social property.)
+
+What I mean is this: I cannot tell a difference, experientially, between "suffering" and "bliss", any more than between "calmness" and "bliss". It is as if someone had declared "green" is an Evil Color that must be eradicated, but "purple"[^jcm] and "yellow" are Good or Neutral Colors. They are different experiences, of course, but one isn't privileged over another, and they are all Just Fine As They Are.
+
+[^jcm]: Jesus Christ, Marie!
+
+In Theravada Buddhism (and Zen, to the extent that I understand it), this is very likely the actual position behind the teachings, hidden behind complex [lies to children][lie to children]. You can't tell the new monk that "you being freaked out by suffering is a delusion on your side; experience the full suchness of the experience and you will realize your mistake". They'd believe you're bullshitting them or not taking them seriously. But what you are really trying to tell them is that suffering-as-bad is an erroneous belief-in-belief, but not an actual belief.
+
+Consider what the Buddha actually *does*. He proposes that suffering (dukkha) is a fundamental property of all experience, in the same way that subject-lessness (anatta) and impermanence (anicca) are. This doesn't *change* for the Buddha. He's not part of a different reality. He also still experiences everything he did before, including pain in the form of frequent headaches, and he still dies. Yet, he is liberated, independent of his death, merely through observation. Liberated of what, exactly?
+
+"In the seeing, just the seen; in the hearing, just the heard; in the thinking, just the thought", as the sutra goes. What is gone is the belief-in-belief, the idea that he was a separate floating ego somewhere, being harmed by the experience of suffering. The actual object-level of experience, the actual dukkha, doesn't change - it can't. What is gone is the mistaken belief that merely *declared* that "this is bad", even though it was not the case that "this is bad", as can be learned by, for example, experiencing "this" in a concept-free way, and then finding no flaw with it. Liberation is the realization that Samsara didn't exist to begin with.
+
+This is clearly analogous to the realization of anatta. It's not like people have a self before they practice, then the practice actively destroys it, and finally they don't have a self anymore. (Though that is the pop-cultural idea.) What's really happening, in the Buddhist framework, is that the belief of having a self clearly distinct from objects it experiences is false, and through practice and arguments this is *demonstrated*[^demo], and in the end, the practitioner understands how they were non-dual all along, without a dividing line between subject and object, without a stable core of experience.
+
+[^demo]:
+    As an obvious implication, this means that realization of anatta (and the rest of enlightenment) is a *conceptual* thing. Zen and early Theravada clearly understand that, and they accept e.g. parables and koans as effective teaching tools. (In LW lingo, anatta is dissolving the question of subjectivity.) However, only some folks might be able to get the necessary conceptual steps. Not everyone has +10 meta (da fewls!).
+
+    Furthermore, in the fundamental sense, this doesn't *matter* - everyone *already* is enlightened, they just don't *know* that. Getting them to know that is hard, though. (But their dana is still green, as some would say.) This still leaves "normal" problems, and chopping that wood, and getting on with your life, now that "Samsara" has been taking care of.
+
+    I'm sure this makes Theravada's ultra-seriousness *hilarious* for Zennists and Tantrikas.
+
+So, what is bad about suffering, or any experience for that matter? "Ah, *pain* clearly is bad! You can just *feel* it!" So as a good empiricist, I waited for the next headache, or any other source of pain, and then I put my ass on my cushion, and tried to investigate this feeling for myself, paying close attention, as if I had never encountered it before.
+
+And sure enough, there is the sensation of pain. It has a distinct texture, maybe a location and extension, and a certain frequency[^frequency] of being there, like all sensations. But there is no badness to be found. It can't be found, just as there is no self, distinct from the sensation, that experiences it. 
+
+[^frequency]: All experiences flicker. Start looking, you'll see it. Some flicker quite fast, but they all do. Even walls.
+
+However, there might well be the *additional* sensation of a thought that says, "this is bad". But this thought itself, despite its alleged content, is itself not bad, nor is it fundamentally connected to the experience of pain. It might just as well say this about bliss, or cats, or itself. Most importantly, it is clearly false - the pain itself isn't bad. Lastly, I might sometimes find flinching sensations, attempts to push away my attention, but those flinches themselves aren't bad either (as they are the same thing that pushes my attention *towards* things when I concentrate). And so, having investigated all components, there is no mysterious "badness" left over at the end. 
+
+And [then I thought][Dark Stance], maybe I'm not looking at the right thing. So I investigated sorrow, grief, sadness, disappointment, laziness, disgust, and all the other candidates I could think of, and they are all alike. There is an experience, which is not bad, and maybe a belief about the experience, which is not bad (and demonstrably false if it claims the experience is bad), and if I feel particularly meta, there are beliefs about beliefs, and there even might be complicated webs of experiences, but all of that can similarly be investigated.
+
+I can't even tell the difference, in a thought-experimental way, from a world *with* inherently bad experiences, and a world *without* them. "Behold, I flip this switch, and *now* this sensation is *bad*! It is now *true* suffering!" just... doesn't work. The referent of the thought "this is bad, make it stop" cannot be found - the thought is empty, a behavioristic gesture.
+
+So where is it? Where's the invisible dragon of bad experiences? Because I sure can't find any.

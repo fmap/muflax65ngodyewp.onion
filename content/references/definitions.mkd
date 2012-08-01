@@ -261,3 +261,15 @@
 [Jaynes Society]: http://www.julianjaynes.org/
 [Legend of Grimrock]: http://store.steampowered.com/app/207170/
 [Space Pirates and Zombies]: http://store.steampowered.com/app/107200/
+[lie to children]: http://en.wikipedia.org/wiki/Lie-to-children
+[loop unrolling]: http://en.wikipedia.org/wiki/Loop_unwinding
+
+
+
+
+
+
+
+
+
+

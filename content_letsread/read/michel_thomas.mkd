@@ -1,0 +1,70 @@
+---
+title: Michel Thomas French
+date: 2012-07-31
+techne: :done
+episteme: :believed
+---
+
+(This review originally [appeared on LW][LW review].)
+
+# Purpose of Review
+
+Owen's [recent post][LW owen] brought up the topic of optimizing education. One particular approach, Direct Instruction (Misha's [better explanation][LW DI]), claims to have essentially solved the problem. In particular, Direct Instruction (DI) does allegedly not only work for basic reading skills, but any teaching task. Owen brought up the Michel Thomas language courses as a good application. Language learning is one of my main interests, so I gave the [French Foundation][Michel Thomas French course] course a try.
+
+The main point of the review is to summarize what Michel Thomas actually does, how it differs from other common paradigms and how effective it seems to me.
+
+**Summary**: Nice for beginners and people with bad learning experiences; limited use afterwards. The audio-only aspect is very convenient. It complements other strategies well and I see it as a good proof-of-concept of DI-like methods for language learning.
+
+# Overview
+
+Let's start with a disclaimer. Michel Thomas (MT) is not officially a DI course and as far as I could google, Thomas propbably wasn't aware of DI at all. However, according to Solity's [The Language Revolution][] and Owen, the reason MT works so well is that it applies (an approximation of) DI techniques. It is right now the best realistic example beyond the grade school level, so it'll have to do.
+
+I had some French in high school and thanks to fluency in German and English, I can read some French, but I have no active skill at all, nor have I ever used French in a serious way.
+
+I have now completed the first half of the French Foundation course and skimmed many other courses. You can listen to the first [20 minutes here][Michel Thomas preview]; they are very representative. Furthermore you can [read the booklets][Michel Thomas booklets] to get an idea of the material covered in each course. The whole course is audio-only, consists of 8 CDs (and 2 review CDs) and is intended to be listened to only once.[^1] There are several advanced courses which merely cover more grammar points and vocabulary. Structurally, they are all the same.
+
+# Method
+
+MT teaches the course to two new students[^2]. You're supposed to take the role of a third student, pausing the recording whenever MT asks a question so that you can say your own answer. One of the two students also answers and you can compare your reply and listen to MT’s advice and error correction. Both students are beginners, so most of your mistakes will be covered that way.
+
+MT introduces one language component at a time and makes you use it in a given sentence. He provides a short explanation first and then lets the students answer a couple of examples by giving them an English sentence and asking them to translate it into French. Each component is thus reinforced through many examples.
+
+MT also tries to combine the translation tasks over time by re-using partial sentences. This way, sentence quickly look complex, but always stay easy. ("What impression do you have of the political and economical situation in France at the present time?" is used about one hour in!)
+
+Vocabulary is only introduced as necessary and relies heavily on cognates. The primary focus is on teaching structure. MT strongly emphasizes not to guess or try to remember anything, but instead to rely on induction ("Do not guess, but think it out!"). This works because the examples are carefully chosen to be as obvious as possible. All translation tasks have only one correct answer. All production is tightly controlled. MT relies on the constant tests to see that the students are successfully keeping up. He is never unsure if some concept has been understood or not.
+
+Complex rules that might thematically belong together (like verb conjugations) are broken apart so that each individual new form or word is learned on its own. Similar rules that might be confused are deliberately spread out.
+
+MT stresses that you aren't supposed to try to remember anything. If you don't know something, then he has not succeeded as a teacher yet and he will take care of it, not you. He does this by doing manual [spaced repetition][SRS], i.e. he repeats previous questions (or similar ones) over time and tests the students constantly. If they have trouble answering, then he quickly goes back to the relevant lesson. This is of course how most language textbooks are supposed to be used, but they rely entirely on the student doing the testing themselves. Instead, MT provides the complete lesson including all necessary repetitions so the student doesn't have to do anything at all except answer MT’s constant stream of translation tasks. (As a programmer, I'm strongly reminded of [loop unrolling][].)
+
+What I stood out for me was the reward structure. Students rarely make big mistakes and actual correction is mostly needed for pronunciation issues. The major way students do fail is by simply not remembering something, which MT easily fixes by reminding them again. The students have good confidence in their answers and don't have to guess. The lessons are fast-paced and consist mostly of tests. MT is constantly positively reinforcing the students, rarely correcting them. The whole lesson looks a lot more like an Anki session than a class room or a traditional textbook.
+
+# Comparison to other methods
+
+The course is basically a (minimally edited) live class MT teaches. The result is a very natural pacing. This has the major advantage that it never goes too fast. Most other courses edit out mistakes or necessary repetitions out of fear they might be too boring, but by doing so, no student can actually keep up. This can't happen with MT's untrained live students. (Unfortunately, MT's courses are also unscripted, so he does make a few organizational mistakes and the later courses don't exactly fit together. Fortunately this is not a big issue due to MT's large experience.)
+
+A major difference to most other approaches is that MT actively implements what [Krashen][] calls "i+1", where i is the current level of a learner, meaning that concepts are taught in the order of minimal effort. Each new step contains exactly one new rule. Most language courses group rules according to some underlying pattern, like tenses, and expect you to learn a whole group at once.
+
+MT focuses entirely on production, both by using only translation tasks and by teaching only useful components, i.e. parts of the language you need for a wide variety of contexts. No lesson has only one narrow use. This creates a very active learning experience. I fully agree with this early focus on grammar (but not grammar theory!). Once you're done with that, you can go more-or-less monolingual and immerse yourself in the target language, relying on spaced repetition software to rapidly build your vocabulary.
+
+Furthermore, MT's course is very engaging. There is little downtime where you merely listen. It consists almost exclusively of quick tests. Thanks to i+1, you never have to juggle more than one new rule at a time. The subject matter does not get repetitive and MT is a very enthusiastic teacher. This can be a major problem with other language courses.
+
+My main criticism, especially as an autodidact, would be that MT never makes his methods explicit. You entirely rely on him. He may have an awesome lesson plan, but you're never taught how he arrived at it or how to continue beyond that.[^3] Hopefully that's not a general problem with DI. In particular, any language course should teach you how to use [spaced repetition][SRS]. It's the only sane way to handle vocabulary and prevent unnecessary review sessions.[^4]
+
+For contrast, look at the (excellent) [Remembering The Kanji][RTK], which similarly teaches Japanese characters through decomposition, logical ordering and the use of mnemonics. However, much of the book focuses on teaching the method and the logic behind it, so that you can use it for any amount of characters you want. It is very simple to move beyond the scope of the book. I wish every textbook worked like this.
+
+# Outlook
+
+I'm quite impressed by the course design. It's really effective at building a solid speaking foundation. It won’t get you anywhere near fluency and, being audio-only, totally ignores literacy, but by the end of the course you should have enough skill to actively engage the language.
+
+After finishing MT, you should have a good grasp of the grammar. A good follow-up course might be something like Assimil ([video overview][Arguelles Assimil]), which would take care of literacy and fill in any remaining grammar gaps. After that, the only thing missing is vocabulary and general practice. This is the point where traditional language teaching ends, but graded readers, parallel texts and so on, combined with [spaced repetition][SRS], solve this problem nicely. Or, you know, start talking, maybe on [lang-8][].
+
+Personally, I plan to work through the full French, Spanish and Italian courses, and would recommend checking them out. Again, try listening to the [preview][Michel Thomas preview] to see if this approach appeals to you.
+
+[^1]: MT recorded the whole course on one weekend, so listening once might work, but I find it too overwhelming. Spreading it out over a few weeks is probably the way to go.
+
+[^2]: The students have quite a different aptitude for the language. \<harsh\>I like that one of them sucks; it makes me feel superior. I suspect this is intentional, but regardless, it certainly is rewarding. You don’t feel so bad about making minor mistakes or for forgetting something.\</harsh\>
+
+[^3]: Further evidence for MT's lack of meta-teaching is the poor quality of the courses produced after his death. They strongly diverge from his method and outright remove crucial features like the natural pacing.
+
+[^4]: I converted the French Foundation course into an Anki deck based on the official booklet. It's available as a shared deck in Anki (search for Michel Thomas) or as a [tab-separated text file][Michel Thomas Anki].
