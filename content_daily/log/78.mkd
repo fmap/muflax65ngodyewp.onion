@@ -1,0 +1,69 @@
+---
+title: Fetch the comfy chair!
+date: 2012-08-02
+techne: :done
+episteme: :log
+---
+
+So before I went to bed last night, I had an idea for a meditation technique which I just *had* to try today. I call it Nurgle's Cuddle Meditation. As is said about the Great Corruptor:
+
+> Nurgle and his daemons, in contrast to their putrid appearance, are jovial and friendly in demeanor. His daemon servants and mortal followers usually demonstrate a disturbing joviality and joy at the pestilence that he inflicts, seeing the plagues as gifts and the cries of their victims as gratitude rather than agony. This is demonstrated on the Daemon World of Bubonicus, where an endless chain of crazed revellers circle the planet's equator in a never-ending dance.
+
+The meditation works like this. You sit in a deliberately uncomfortable position. I choose [Seiza][] because it's neat, stable and hurts like a bitch. Back when I used to do a lot of [Pranayama][], I was told to sit in Seiza and not move under any circumstance, and not to worry if my legs felt asleep or I had to vomit due to the pain, I should just relax and continue breathing, there wouldn't be any permanent damage. (Srsly.)
+
+Because I'm out of practice, I can sit somewhat comfortably for 5min, and in tolerable pain for 10-15min, so I set my alarm to 20min, got on the cushion, closed my eyes, and wouldn't move in any way whatsoever until the time was up. The actual technique, slightly dramatized as internal dialog:
+
+- Skeptic: Alright. Meditation has barely begun and this leg hurts already. Ow.
+- Nurgelian: Awesome! Papa Nurgle's garden is open to all. Let's welcome Brother Pain! (a faint cheering is heard)
+- S: Ok... you do that while I.. aw shit, there's this stupid itch on the side of our neck again. I bet that's a mosquito!
+- N: Yay! Welcome, Brother Itch! (cuddles up to it) You are the most amazing itch I've ever seen![^amazing] You are so warm and comfortable and this high-frequency vibration, I didn't know blood vessels could do that!
+- S: Must.. resist... temptation.. to.. scratch...
+- N: Brother Temptation-To-Scratch! The garden grows and grows! (a louder cheer is heard) Don't change, Brother T. I like you as you are. Please, continue to be displeased and uncomfortable and pushy. Papa Nurgle loves everyone just as they are! (It's impossible for me not to smile and occasionally laugh at this point.)
+- S: Stupid nutjob. FYI, the feeling in our left foot is gone now, and here come the needles.
+- N: Yay! (I start getting random visions of Boxxy.)
+- S: Ah, but *this* you won't be able to accept. Here's the stomach ache and slime in our nose again. That's because last night, you ate cookies, and you *know* we have trouble digesting them and get flu-like symptoms. Let's see you cuddle with *that*!
+- N: Brothers, let's hear a warm welcome for the bestest ache in weeks! (loud cheer now) I fear it is getting a bit crowded now, and we might accidentally start to ignore some of us. Sensate Roll Call! Itch! (vibrate) Pain! (needle) Temptation-To-Scratch! (aaah) Ache! (make-it-stop-ow-ow-ow) Sliiiime!
+
+I think you get the idea. You have no idea how much this fucks with the thoughts that just *insist* that you can't *enjoy* stomach cramps, they're *awful*, everyone knows that!, and then you just shower them with acceptance and encourage them to shine *even brighter*, to be *more* of a cramp, to be the crampiest they can be, and how that's *awesome*.
+
+And while that's going on, occasionally, I notice that the actual sensations haven't changed. The cramp now is the same cramp as before, the worst itch *in the world* is unchanged, nothing on the object-level has been altered *at all*, and still, I'm enjoying the shit out of it. And all the thoughts popping up being really indignant about how this is *bad*, this is *suffering*, you can't just *decide* to enjoy suffering, look here's the sensation of impatience wanting to get this over with, *this* sensation must be bad, it's a pure form of aversion, surely aversion can't be welcomed!, what, you're *still* cuddling, you are not even trying to change it, you *monster*?!, these thoughts are the best.
+
+Om nom nom, delicious impossibility. Nurgle accepts all.
+
+[^amazing]:
+    <% skip do %>
+    As the <del>con-man</del> Discordian saint [Osho][] once said:
+
+    > The second question:
+    >
+    > > Osho, what do you mean by saying that life is perfect?
+    >
+    > I mean exactly that. Life is perfect. But I understand why the question has arisen. The question has arisen because you have some ideas about perfection and life does not fit with your ideas, hence you call it imperfect. When I call life perfect, I don't mean that it fits with my idea of perfection – I have none. When I call life perfect, I simply mean there is nothing else to compare it with, there is no ideal. This is all there is; it has to be perfect.
+    >
+    > Your perfection is always comparison; my perfection is just a simple statement of fact, it is not a comparison. You compare, you say, "Yes, this is perfect, that is not perfect", and you have a criterion of what is perfect.
+    >
+    > I have heard about a Sufi master who was talking to a few people in the coffee house and he said an old Sufi saying: "Life is perfect, everything is perfect, everybody is perfect." A hunchback was listening, he stood up and he said, "Look at me! I am the proof that life is not perfect. Look at me! Is this not enough to disprove your idea that life is perfect? Look at me – how ugly I am, and in how much difficulty. I am a hunchback." The Sufi looked and said, "But you are the most perfect hunchback that I have ever seen."
+    >
+    > The most perfect hunchback...
+    >
+    > Once you start seeing life as it is, and you have no idea how it should be, everything is perfect. Even imperfection is perfect. What I mean when I say life is perfect is a simple thing: I mean don't bring your ideals to it, otherwise you make life imperfect: because once you bring the ideal then you are creating the imperfection.
+    >
+    > If you say man has to be seven feet tall and he is not, there is difficulty. Or if you have the idea that man has to be only four feet tall and he is not, then there is difficulty. Life simply is. Somebody is seven feet tall and somebody is four feet tall. One tree grows to the clouds, another remains small. But all is perfectly well, all is as it should be, because there is no "should" in my mind. I simply listen and see life as it is. I have no idea how it should be. That's why I say it is as it should be, there is no other life.
+    >
+    > The message is: drop comparing, drop judging, otherwise you will remain miserable – and just because of your judgments and comparisons. Look at life without being a judge. Who are you to judge? What do you know about life? What do you know even about yourself? Who are you to judge? Judgment comes from the idea that you know; judgment is knowledgeability.
+    >
+    > Look at life with a state of not-knowing, through a state of not-knowing. Look at life through wonder – and suddenly all is perfect. Yes, sometimes it is cloudy, but it is perfect. And sometimes it is sunny and it is perfect. And sometimes it rains and sometimes it doesn't rain, but it is perfect. As it is, it is a blessing. To be in tune with this blessing is to be prayerful.
+
+    <% end %>
+
+---
+
+HPMOR complaining!
+
+Actually not. Just past the big Three Armies plot, and I'm a bit divided about it. I liked Harry's tactics and rational ass-kicking, and I *really* liked Hermione and her development. She's currently my favorite character, and has a lot of potential - may she awaken soon. I'm mostly reading because of her at this point. The whole section felt a bit gimmicky and forced, and I'm not a fan of Quirrell. I'd have preferred if the whole war was *way* longer and more detailed, and that we'd see all the minor characters, but I understand that would be way beyond Eliezer's scope and unrelated to his purpose, but it would've been nice anyway. Someone write a fanfic of the fanfic fleshing this out, plzkthx.
+
+What I didn't like was Harry's ironical use of Chaos. I mean, it's *realistic*. 11-year-old me was fighting for Cthulhu too. And it's probably a bit hypocritical to be worried about proliferation of Chaos literally right after describing a meditation of Nurgle. (I'm definitely projecting here.)
+
+But what worried me is that Harry is using *tame* forms of Chaos without *actually* embracing them. He's not unified, isn't *virtuous* in his use. He's just throwing around The Goat With A Thousand Young to confuse his enemies and because he kinda needs a war chant that none of his soldiers might actually take seriously, and for that purpose I think they work. I'm disappointed that he just leaves these vast reservoirs of madness unexplored. Even worse, him using Chaos is *incongruent* with the rest of his personality. His whole rationality stick deeply rests on the assumptions of lawfulness, of order and control, and then for him to invoke forces that eat order for breakfast... yeah. So impure.
+
+Also, the democracy vs. union vs. Hitler!!w! debate? Ugh. I'm just sitting there, chanting, "he's 11, he's 11, he's 11, he can't hear your rebuttals, it's just a book, you should really just relax,  ...", but it's still so *ugh*. Thankfully it was fairly short.

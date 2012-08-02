@@ -263,13 +263,6 @@
 [Space Pirates and Zombies]: http://store.steampowered.com/app/107200/
 [lie to children]: http://en.wikipedia.org/wiki/Lie-to-children
 [loop unrolling]: http://en.wikipedia.org/wiki/Loop_unwinding
-
-
-
-
-
-
-
-
-
-
+[Seiza]: https://en.wikipedia.org/wiki/Seiza
+[Pranayama]: https://en.wikipedia.org/wiki/Pranayama
+[Osho]: https://en.wikipedia.org/wiki/Osho
