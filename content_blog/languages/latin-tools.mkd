@@ -76,7 +76,7 @@ Are these tools user-friendly, well-documented and thoroughly tested? Bwahaha, *
 
 
 [^installation]:
-    Install instructions, for \*nix users. Needs Ruby 1.9 and currently supports Latin, French and Japanese. If it doesn't work, *tough luck*. Read the code, fix it yourself.
+    Install instructions, for \*nix users. Needs Ruby 1.9 and currently supports Latin, French and Japanese. If it doesn't work, *tough luck*. Read the code, fix it yourself. (Or ask me, I might be able to help. I'm just more interested in learning than writing nice interfaces.)
 
     ~~~
     #!sh
@@ -88,6 +88,31 @@ Are these tools user-friendly, well-documented and thoroughly tested? Bwahaha, *
 
     The first run will take a while because it needs to cache all the translations, both from the dictionary in `./tools/words` and from Google Translate. But those are saved in `*.cache` files, so additional runs take only seconds.
 
-    If you already have some known words you'd like to add, save them as `known/latin/*.txt` or take a look at `anki_to_known.rb` for a script to extract them from your Anki decks.
+    If you already have some known words you'd like to add, save them as `known/latin/*.txt` or take a look at `anki_to_known.py` for a script to extract them from your Anki decks.
 
-    Yes, this is all ugly code. I know.
+    You'll end up with a `cards_*.csv` which you can import into Anki, using the fields question / hint / answer / glosses / known, and template like so:
+
+    ~~~
+    #!html
+    <span style="font-size: 17px; ">{{question}}</span>
+    <br/><br/>
+    {{#hint}}<span style="font-size: 15px; ">{{hint}}</span><br/><br/>{{/hint}}
+    <span style="font-size: 13px; ">({{Tags}})</span>
+    ~~~
+
+    and:
+
+    ~~~
+    #!html
+    {{FrontSide}}
+
+    <hr id=answer>
+
+    <span style="font-size: 18px; ">{{answer}}</span><br>
+
+    {{#glosses}}<br><div style="text-align: left;">--<br>
+    <span style="font-size: 13px; ">{{glosses}}</span></div>
+    {{/glosses}}
+    ~~~
+
+    And yes, this is all ugly code. I know.

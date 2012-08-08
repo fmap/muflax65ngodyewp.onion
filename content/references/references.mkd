@@ -119,6 +119,8 @@
 [Michel Thomas booklets]: http://www.michelthomas.com/downloads.php
 [lang-8]: http://lang-8.com/
 [Warranted Neo-Confucian Belief]: http://www.davidtien-phd.com/publications/warranted-neo-confucian-belief/
+[tweet suffering]: https://twitter.com/KimKierkegaard/status/231883915034492929
+[Manifeste du Futurisme]: http://www.italianfuturism.org/manifestos/fondation-et-manifeste-du-futurisme/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/

@@ -1,0 +1,101 @@
+---
+title: Chiki-briki!
+date: 2012-08-07
+techne: :done
+episteme: :log
+---
+
+> My listener! Perhaps you tire of so much talk of suffering. My angst coach says we are going on hiatus. Happy August. LOVE YOU!
+>
+> -- [Kim Kierkegaardashian][tweet suffering]
+
+<% skip do %>
+Language recap. 3 weeks and over 1k MCD cards later, I must say it works really well for (passive) vocab building and getting myself to read native texts as early as possible. The quality of the generated cards is a lot better than I initially expected. I thought I'd throw away over half of them, but it's 10% at most. So it's a Huge Success as far as I'm concerned.
+
+However, there are a few problems. I won't be able to use these cards *exclusively* to learn a language. (Besides the standard steps of "learn script" (~1 day for alphabets, ~1 month for ideograms) and "learn just enough grammar to parse any sentence in terms of noun / verb / modifier / glue, and recognize its tree structure" (2-3 days).)
+
+I'm pretty sure I could learn all vocabulary with reasonable efficiency and pick up more-or-less all simple grammar through MCD cards alone, and so they solve like 90-95% of the learning problem. That's still awesome. But they miss complex analytical grammar, which in the end screws over production skills and makes long sentences a bitch. However, I found that after I've done all the MCD cards for a certain text (section), I do know enough to go through and analyze its structure, given a reference grammar[^ref] or two.
+
+[^ref]:
+    Despite my hatred for traditional language education and "grammar", reference grammars are still useful, and good ones exist for literally all written languages. (Though sometimes only in German or Russian, if the language is obscure enough.) You just can't use them directly.
+
+(Also, I'm slowly becoming one of those freaks who want to "speak" a language, not just read it, and so lack of production isn't acceptable anymore. Those damned obscure puns in dead languages! Why must they be so attractive?)
+<% end %>
+
+So I went through Theory of Instruction and my Michel Thomas courses again, trying to pick up some ideas. Using these (broad) methods, the main problem is that to teach the structure, you already need to know the structure. That can't possibly be right. It might be efficient in the rare circumstance that you have access to a fluent, intelligent and good-looking teacher with a charming-yet-not-distracting accent, and can get that mythological creature to design material for you. Autodidacts are screwed, though.
+
+A bit frustrated, I went through the immersion literature. "So I'm already semi-fluent, and now I'd like to learn how to write simple rants on Youtube. How do I go about this?" But there seems to be no systematic answer. Just "well speak when you're ready". Gah.
+
+Ultimately, I settled on roughly three methods that *might* work (without being too boring):
+
+1. Build speaking ability through transformations. Start with simple example sentence, turn into mental algorithm, vary it (through positive and negative examples) until the concept sticks. Learn grammar points using a certain optimized organization (ToI etc.).
+2. Rack up the immersion and comprehension levels until you're *ultra*-familiar with the language (in at least some context), then copy, then slightly modify, then speak.
+3. Analyze text on a structural level until the structure becomes obvious and I can think entirely in terms of structure (as I do for code), i.e. treat complex structure as yet another form of vocab to learn.
+
+So instead of figuring out which is The Best Method on intellectual grounds, I'm just gonna try all of those for a bit this week, see how feasible (for an autodidact) and productive they actually are. (And as my text for 2, I picked the [Manifeste du Futurisme][]. So I'll be shouting stuff like "Nous voulons chanter l'amour du danger, l'habitude de l'énergie et de la témérité!" until it sticks <del>and I've established a [fascist][外山恒一] government</del>.)
+
+<% skip do %>
+(I want to complete at least some output first, as proof-of-concept, and finish my (minor) algorithm rewrite. When I'm done, I'll finally post the second (and maybe third) half of the Latin Series.)
+<% end %>
+
+---
+
+<% skip do %>
+I love Stalker. Just sayin'.
+
+Was worried it had too much zombie crap, not enough miserable people fighting over shitty equipment. Has exactly the right amount of everything.
+
+Them Russians, I tells ya.
+<% end %>
+
+---
+
+Tried despair today. Still no suffering. Despair has become boring. It's so easy to invoke, so bland in its texture.
+
+Got frustrated with the lack of frustration. Nurgle is kind - *too* kind. I wish he were a bit more cruel, gave me back some unsatisfactoriness.
+
+So I intensified the experience, and sat in [Seiza][] for 35min, paying attention to anything that could possible be suffering. After about 15min, my legs fell asleep. After 25min, I lost all feeling and had that nice, comfortable "omg gimme some blood, I'm dying down here" sensation continuously for the remaining time. (Got some other body sensations, some quite intense, none suffering.)
+
+Tried a few things. "Hey, I'm always impatient! I'm sure I'm impatient again! Wanna know how long you'll have to sit? Move a bit, look! Come on, look!" And yes, there was the familiar pulling sensation and the expectation and all that, but no suffering. It just happened. In fact, the sensation faded away instantly when I *deliberately* repeated it. "Oh, impatience? That's cool! But that wasn't long enough! I could barely experience you! Come back, impatience! I want to feel you again!" Kinda spooked it.
+
+About midway through, I spontaneously jumped into jhana. I just looked at a certain spot on the floor, and tried to invoke some craving/aversion by focusing on it, hoping distractions would come up. (And they might contain suffering.) But something new happened. I noticed the familiar intensification, got instant access concentration (unusual, but happens on good days), then the level shift (when the background fades and the spot "jumps off"), and then the new thing: I noticed how I drifted away in an "oh, jhana" symbol that actually hindered my jhana progression, and how there was a second "I'm returning to the jhana" symbol that would have been a really mean trap, had I confused it with the real thing. I decided to not go there, to just gently return to the actual focus, and moved to 2nd jhana, effortlessly. *Teh fuck*.
+
+It's like I can keep meta-levels between mental symbols straight. Without any effort or weird drugs. They.. just look different. Because now is the first time I'm actually *looking*. I have no idea what I'm doing, and it's the most amazing thing.
+
+(Also, I effortlessly put back a pack of donuts 3 days ago. I was in the supermarket, picked it up, thought "you don't have to - that compulsion is just a symbol", thought "oh, right", and put them back. *This has literally never happened before.* Tempt[^tempt] this, Satan!)
+
+[^tempt]:
+    There was the obvious "this is all a fluke; if you're so awesome, demonstrate by being ultra-productive this week" thought, which I loved because it's so true, and because "you're fake, asshole!" thoughts are very promising in terms of suffering. Still, enjoyed it. I'm a bad sufferer.
+
+Then[^then] when the 35min were over, normally it would have been time for "fall over, try to wiggle toes until feeling returns" that I used to do after seiza. Thought, "fuck this noise!", jumped up, grabbed the pull-up bar, held myself upright as blood and pain (mostly pain) shot back into my legs. There's this short "please, this is too intense, look away!" sensation, and I can see how I might've *confused* it with suffering, but when I actually paid attention, I just felt bright, glowing, beautifully intense pain.
+
+(I now understand why tantrikas talk so much about sex, though. Once you flip the intensity switch, it's hard to constrain the near-constant arousal[^slaanesh] and not let it spill over into all kinds of kink. I'll just leave it at that, for TMI's sake.)
+
+Hurm.
+
+[^then]:
+    <% skip do %>
+    <del>And then, I drew a dinosaur, and I ate some ice cream, and one time, I saw a duck.</del>
+    <% end %>
+
+[^slaanesh]:
+    <% skip do %>
+    Setting up Nurgle and Slaanesh as enemies is the biggest error in W40K, imo. They are literally aspects of the same thing and complement each other perfectly. Really, they are only "enemies" because Nurgle is hogging the hot Eldar chick. Though I'm sure the denial turns Slaanesh on.
+    <% end %>
+
+So to control this a bit better, I tried the standard psychology method of putting my right hand in a bucket of water until it becomes intolerable to do so. This is normally done with 5°C cold water, but I can't get any sufficient amount that cold (I tried). However, I found a gated paper that claimed comparable effects (strength and duration) for hot water as well, so I used that. I filled a bucket with ~60°C hot water right out the tap and dumped several heating pads in as well to keep the temperature stable for the full trial. I then let it cool down to 47°C (measured with tea thermometer), the temperature used in the study. I set a typical cut-off point of 5min to avoid burns.
+
+Normally, you'd expect pain to set in after about 1min, and to be quite strong after 3-4min. As I'm not using any kind of mitigation technique (to the contrary - I deliberately intensify any hint of unpleasantness I can find), that should stay the same. I also don't have any special heat tolerance.[^heat] I should just not suffer, and easily last the full 5min, despite experiencing serious pain.
+
+[^heat]: Though I did once take a >40°C bath because fire cannot kill the dragon.
+
+Result:
+
+- put my hand in: *Shit* that's hot, didn't thought it would be *that* hot, alright, pay attention.
+- 30s: Ok, the pain, the averse reaction, and the symbol of the pain are clearly distinct. The aversion is like a warning light: grabs my attention, but doesn't compel me in any way. It is trivial to just ignore it, to tell it "I got this, bro".
+- 60s: The symbol disappeared. (It was boring anyway.) I'm left with the relaxed aversion and the raw cluster of sensations that make up the pain. Lots and lots of tiny vibrations. This is so beautiful; it's impossible to ignore this bright sensation. How could anyone ever *suffer* from this? This is better than pizza!
+- 5min: What, already over? Aw. :(
+
+So there. From what I can tell, my heartbeat and blood pressure went up slightly (especially at the beginning), then remained stable. I'm gonna repeat this soon with actual measurements and a different thermometer (to be sure). The actual sensation of pain didn't change at all after about 30s. My fingers are very slightly burned, but should heal in a few hours.
+
+As soon as you stop running away and just listen to the pain as it is, not trying to change it in any way, it turns into the [Wish-fulfilling Jewel][].
