@@ -34,7 +34,7 @@ I intend to repeat this with ice-cold water come winter, but until then I think 
 <% skip do %>
 Having listened to Hanson's [Uploads Economics 101][] talk, and based on the recent thinking about autocracies, feudalism, caste systems, small societies, etc. (and how all of those things are really good, if you can get them to work), I'm surprised to say that I *don't* consider a Hansonian future to be dystopian any longer.
 
-It looks actually pretty nifty. What freaked me out previously was an instinctive reaction of "A bazillion people at sustenance level! Huge slums!!! Complete breakdown of stable personalities!!!w!", but all that went away when I realized that sustenance level for ems is actually really cool, that the specific uploaded humans are selected for, that there won't be massive random variance anymore (which is always good), and that the resulting personalities will be outright eldritch[^eldritch], in a good way. (And I don't care about "selfs" anymore.)
+It looks actually pretty nifty. What freaked me out previously was an instinctive reaction of "A bazillion people at sustenance level! Huge slums!!! Complete breakdown of stable personalities!!!w!", but all that went away when I realized that sustenance level for ems is actually really cool, that the specific uploaded humans are selected for, that there won't be massive random variance anymore (which is always good), and that the resulting personalities will be outright eldritch[^eldritch], in a good way. (And I don't care about "selves" anymore.)
 
 The Demiurge is making a pretty good case for his creation, I must say.[^case]
 
