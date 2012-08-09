@@ -1,0 +1,82 @@
+---
+title: 諸君！
+date: 2012-08-08
+techne: :done
+episteme: :log
+---
+
+Repeated the hot water immersion test. I borrowed a proper digital thermometer[^cali] from a physics teacher, used 47-48°C hot water, a 5min cut-off, and my left hand this time. Again, the point is not to figure out how "tough" I am[^tough] or to endure anything, but to elicit some suffering - *any* suffering - from the sensation of pain.
+
+[^cali]: I also calibrated the old thermometer using boiling water and body temperature, and it's off by only -2°C. I measured 47-48°C last time, so that was likely "merely" 45°C.
+
+[^tough]: Though interestingly, according to [the paper][pain paper] 2 of their 32 initial subjects reported no pain, and the range of unpleasantness (on a scale of 0-100, with 100 the worst pain imaginable) was 28-100, mean 75. (I would rate intensity at 70-80, and unpleasantness at 0.) Typical tolerated immersion time was 150s, but several subjects went for the full 5min. The hot condition (47-48°C) was found to be similar to, but somewhat worse than the cold one (3-4°C).
+
+Result: same, this time even without the surprise. Just clear, beautiful pain. After 3min, I moved my hand around to intensify the crystalline tingling sensation, which was quite fun. My heartbeat and blood pressure, measured before, halfway through and directly after, were normal and didn't change. (Consistent with the findings in the paper.) I didn't even have any significant amount of aversion anymore.
+
+I intend to repeat this with ice-cold water come winter, but until then I think I'm done with pain. I'm working with boredom next. Maybe finally get those 2h+ meditation sits done I've been meaning to do for a while.
+
+<% skip do %>
+(I'll also shut up about suffering after I've done boredom, assuming there are no additional Promising Ideas Where Dukkha Could Be Hiding. If I don't find it there either, I'll conclude that I at least genuinely don't suffer, at this point in time (and possibly never have, as I can see the confusion now that would've let me to falsely believe I did), and conclude weakly that no one is, at least through raw experiences. (And that this takes the wind out of pretty much all torture / Boltzmann pain / theodicy problems. Which is nice.[^nice]) Not sure how I could test "Are you getting confused by the symbol or are you genuinely experiencing something different than I am?" for other people though. Not that I care all that much anyway.)
+
+[^nice]:
+    Note to future self, in case you want to backtrace / teach this some day: before you noticed that suffering had gone, you had already concluded that the Problem of Evil is almost certainly not valid, that Boltzmann pain etc. is morally irrelevant (and suffering likely not an aspect of evil anyway, except indirectly), and that you were genuinely comfortable with this. You doubt any of these beliefs have anything to do with it.
+
+    The thought process was triggered by noticing that you really *enjoyed* the sensation of being sad when you unexpectedly experienced it one day, and (rightly) being called out on that. It made you appreciate how monstrous in some form you had become, and to see how far that monstrosity goes.
+
+    This has happened *after* (weakly) endorsing Nurgle and *after* (very weakly) affirming an [amor fati][Amor fati] due to the metaphysically / morally necessary existence of all possible suffering, and the purification made possible through it.
+
+    You suspect that a requirement is an unconditional surrender to the experience-as-it-happens, and a full embrace of all suffering as necessary (compare [Saint Dismas][penitent thief]), in a way that you now understand and can repeat, but have no idea how to teach, even to yourself. What you have been doing as "surrender" in the face of Re-observation before is nowhere close, but you can't point out what is missing exactly. It has nothing to do with the intensity or sincerity of the surrender or the experience prompting it, you suspect, but the intent behind it. Surrender as "make this stop" is still getting it wrong, as is "fuck you; hurt me if you want, I don't care". You sure wish possible-future-you good luck with teaching anyone the Dark Stance.
+
+<% end %>
+
+---
+
+<% skip do %>
+Having listened to Hanson's [Uploads Economics 101][] talk, and based on the recent thinking about autocracies, feudalism, caste systems, small societies, etc. (and how all of those things are really good, if you can get them to work), I'm surprised to say that I *don't* consider a Hansonian future to be dystopian any longer.
+
+It looks actually pretty nifty. What freaked me out previously was an instinctive reaction of "A bazillion people at sustenance level! Huge slums!!! Complete breakdown of stable personalities!!!w!", but all that went away when I realized that sustenance level for ems is actually really cool, that the specific uploaded humans are selected for, that there won't be massive random variance anymore (which is always good), and that the resulting personalities will be outright eldritch[^eldritch], in a good way. (And I don't care about "selfs" anymore.)
+
+The Demiurge is making a pretty good case for his creation, I must say.[^case]
+
+[^eldritch]:
+    I don't understand how "eldritch abomination" has become a *bad* thing to be. I mean, ever read the Bible? Angels are outright lovecraftian entities, God is unfathomable, and the sheer otherness that is Jesus makes even [Yamantaka][], Glorious Lord of Literally Scaring Death To Death, blush. (Also, calling the "Jesus is Yamantaka" interpretation. It's semi-obvious, but someone's got to say it.)
+
+    Catholics, incidentally, [get this][Resurrection Statue]. (May I just say how absofuckinglutely amazing this sculpture is? Because it totally is.)
+
+[^case]:
+    And yes, this is obviously conditioned on tractable brain emulation ever happening, and so on. But *if* there's an intelligence explosion, *then* uploads are one of the most plausible (starting) scenarios.
+
+<% end %>
+    
+---
+
+So tried one 30min sits, doing nothing, hoping I'd get bored (and then look closely at it and its characteristics). I noticed I spontaneously drift into the wide-open awareness typical for Equanimity / 4th jhana, without fully hitting the stage (or trying to), and that again there is a distinction between "the actual awareness" and "the symbol of the awareness", and that focusing on the wrong thing traps me.
+
+It's like, the point of [Mahasi Noting][] is to train you to return to The Actual Thing, not just various symbols of it, or to get distracted, or lose Awareness Of Actual Things altogether. Right now, I don't even need that. I can just see directly when I'm experiencing *raw* and when I drift into stored symbols.[^af] I notice that in the experience, there is no suffering (or self or continuity), but in the referential content of the symbol there sure is. But that's mistaken, so just let it go. And then just return to the suchness again, and again, and again - and with it, the ñana becomes more pronounced.
+
+[^af]:
+    <% skip do %>
+    In AF, I think they call this Pure Consciousness Experiences (PCEs), but AF lingo isn't exactly clear, so I might easily misunderstand them. *If* these are PCEs, then they sure have all the properties AF describes: raw brilliance, no affect (or rather, clear affect, like a polished mirror), suppressed ñana cycling, "happy and harmless", no me-ness, a certain timelessness.
+    <% end %>
+
+At this stage, I did't care about any ñanas / jhanas yet, so I just ignored them. (Even deliberately broke Equanimity because it makes boredom much harder.) 
+
+So there's boredom. There is craving and its typical tension everywhere, but that's not bad. It's just there. However, there is a certain reaction: "Hey, know what's more fun than boredom? Jhana! Here's a jhana. Do that instead!", and I know that *if I did go there*, if I ran from the boredom to a more exciting state, *then* I would confuse myself into thinking the boredom was actually bad. Through running, you build up a shadow of dukkha that follows you everywhere. (Channeling my inner Chopra there for a second.) But now here's boredom, and it's boring (duh), but it's not itself bad. There is no unpleasantness to be found.
+
+<% skip do %>
+(The word "unpleasant" has become semantically saturated, and I'm beginning to forget what it could even possibly mean. Like, any kind of aversion? That's absurd. "Stuff I don't want to happen to me"? What's this "to me"? What's so bad about the stuff? (And how does "inherently bad experience" even make any ontological sense?)
+
+I can understand "badness" in terms of preferences (but then there are no inherently bad things), and in terms of unfulfilled teloi (and as a political tool). But not as experience. It's like saying "throwing an exception" is inherently bad for a program. That's absurd - it can be indicative of something bad, but is not *itself* bad.)
+<% end %>
+
+---
+
+Tried a second 30min sit, this time straightforward vipassana, hoping to visit <del>the [Duke of Bananas][]</del> the dukkha ñanas. They used to really fuck me up, so if *anything* is suffering, *they* are. Let's get that [anxiety][Wall] back online! Also wanted to see how different vipassana / samadhi practice is right now.
+
+Spoiler: still no suffering, and no hint of intensification uprooting it anywhere, so I'm calling off the search, as they say. 100 times 0 is still 0.
+
+However, I'm intrigued by the changed practice. Noting has become easier in that it's much more obvious when I'm "touching" a sensation and when I'm confabulating one, but it's also slower. The "edges" of sensations have also become much clearer, as have the back-and-forth jumps between "the object" and "the subject observing it" (actually, just two different sensations, that get falsely post-hoc'ed into dualism). Yet, that itself hasn't magically made me super-proficient at vipassana. In fact, I completely suck; couldn't control shit. Which I found liberating. (Whew, haven't accidentally become a god over night.)
+
+So let's get back on that ox. (I mean, the first log had "[Nirodha Samapatti][] or bust!" in it, and I *still* haven't done that.) [Beeminded][Beeminder meditation] 2 meditations / day, with no time requirements for now. (All planned as vipassana, but might do samadhi as I see fit.)
+
+(Also improved the Beeminder auto-reports in my time-tracking tools. That should make adding more beeminded goals based on them simpler.)

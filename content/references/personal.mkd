@@ -5,6 +5,7 @@
 [Beeminder daily]: https://www.beeminder.com/muflax/goals/dailylog
 [Beeminder fitocracy]: https://www.beeminder.com/muflax/goals/fitocracy
 [Beeminder fume]: https://www.beeminder.com/muflax/goals/fume
+[Beeminder meditation]: https://www.beeminder.com/muflax/goals/meditation
 [Beeminder timeboxes]: https://www.beeminder.com/muflax/goals/bawkses
 [Beeminder weight]: https://www.beeminder.com/muflax/goals/weight
 [Beeminder]: https://www.beeminder.com/muflax/goals/
