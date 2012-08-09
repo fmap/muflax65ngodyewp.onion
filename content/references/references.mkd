@@ -122,7 +122,7 @@
 [tweet suffering]: https://twitter.com/KimKierkegaard/status/231883915034492929
 [Manifeste du Futurisme]: http://www.italianfuturism.org/manifestos/fondation-et-manifeste-du-futurisme/
 [pain paper]: http://onlinelibrary.wiley.com/doi/10.1016/j.ejpain.2009.05.011/abstract
-[Duke of Bananas]: www.dharmaoverground.org/web/guest/discussion/-/message_boards/message/2560532
+[Duke of Bananas]: http://www.dharmaoverground.org/web/guest/discussion/-/message_boards/message/2560532
 [Resurrection Statue]: https://encrypted.google.com/search?tbm=isch&q=resurrection+pericle+fazzini
 
 <!-- onion -->
