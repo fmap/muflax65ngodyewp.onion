@@ -1,0 +1,67 @@
+---
+title: Halfassery Appreciation Day
+date: 2012-08-12
+techne: :done
+episteme: :log
+---
+
+I'm slowly getting some of my analytical thinking back (it's been a while) and stopped forgetting that I already knew the answers to my language production skills. I mean, I could've just thought, What Would Prof. Arguelles Do?, and I would've remembered that shadowing would fix all my problems (despite his minor eccentricities).
+
+Except I'm not sure it's the *most* efficient way to do it, but at least it's a good fallback. So until I've figured out a way to do MT-style stuff for autodidacts, I'll add two changes:
+
+1. Fewer cards per sentence to allow a higher throughput of sentences.
+2. A separate, second deck of cards meant for shadowing, mined from good sentences I encounter through normal reviews.
+
+So I worked on the MCD algorithm, finished the current iteration. (Instead of the stuff I get paid for because I'm an idiot who'll be homeless soon enough.)
+
+I'm now down to ~3.7 (from ~5.5) cards per sentence (in Latin) and the cards themselves are easier and more intelligently selected. I also fixed a few minor parsing glitches.
+
+Added new chunks of MCD cards (now with some poetry spliced in). Testing nao.
+
+---
+
+PRACTICED THAT STUPID ROLLED R TODAY BECAUSE OF REASONS. GUESS HOW WELL IT WENT.
+
+Finally gave up with all this tongue position and p-t crap and practiced it The Polish Way by getting shitfaced and screaming kurwa a lot. I seem to be improving. Can only take yet more months until I get it.
+
+When I'm World Dictator of the World, I'm going to force everyone to pronounce Eichhörnchenschwanz and Streichholzschächtelchen, *and shoot everyone who even slightly messes them up*.
+
+I MAY NOT LIKE THE ROLLED R.
+
+---
+
+Got my depression back. Cute little critter. It's definitely a level up from pain. Much harder to deal with. This one still confuses me.
+
+Practiced not believing the thoughts in my head. ("A happened.") Then, not believing the thoughts about my thoughts. ("A happened. This means B.") Then, thoughts about motivations. ("You want A.") Then, thoughts about thoughts about my motivation. ("A happened. So you must now want B.")
+
+I find it funny how easy it is to disbelieve all of those when you try so explicitly. Getting slowly back into vipassana, even though I still don't recognize the cycles. I'm not sure if I just lost them (and will get them back), if I destroyed them, if I never had them, if I'm too stupid to notice them, or whatever. Doesn't matter - just going back to the experience is entertaining enough for now.
+
+Weirdly, I'm no longer perceiving some stuff I thought were sensations as sensations, but actually as symbols now. (Note: I should at some point explain what I mean with sensations vs. symbols. (Note: I should at some point understand what symbols are.))
+
+I tried standard anapana, paying attention to the breath, making a mental note whenever I had any actual sensation of the breath. (And not a thought about it, an unrelated experience, or just the expectation of it.) I then noticed, holy shit, that thing I've been noting as "breath" all the time *isn't actually the breath*, it's just a symbol "here there be breathing". I rejected it, looked for the actual sensation. After maybe a minute, I got worred because *I couldn't find any*, but I was still clearly breathing.
+
+I compromised and started noting warmth in my lungs, contraction of certain muscles etc. as "breath"(-ish), but *those began to disappear too*. The warmth mostly stayed, but muscle movement has a separate kinetic layer (independent from "intentions to move" and "spatial orientation") on top of it *that I never really noticed*. (Which makes me think my previous vipassana must have been really shitty if I missed *that*.)
+
+Maybe I'll find some real sensations next time. Can't all be as obvious as pain.
+
+<% skip do %>
+(Crazy speculation: It feels like energy levels are themselves something I can, to some degree, dissociate from. Ditto generally all aversion, at least when it's controlled enough that my attention catches it, and certain (limited, but still useful) conditions hold. That'd be way awesome if I could pull this off.
+
+Two observations, both pain-related. (Because pain is beautiful and easy to experiment with.)
+
+1. Stepped in several small thorns. Too small (and deeply embedded) to grab them with my normal tweezers, so I had to use sharper ones and cut through some skin.
+
+   Until recently, I was incredibly aversive to this kind of pain, and the self-cutting involved. Last time I stepped into some glass, I had to get quite drunk to muster the will to dig in and get the glass out, even though it wasn't very painful, objectively. Just really hated causing damage to myself.
+
+   So this time, I was trying to get hold of this thorn, and there's the OUCH THIS HURTS pain, very short-lived but somewhat intense, and I thought, "this is silly, it isn't *bad*, it's just *pain*, stop with the learned helplessness and *embrace* the pain", and that worked. I could make a few minor cuts, move away some skin, get everything out, without caring about the automatic flinching. Nice.
+
+2. Was working on improving my push-ups using [Scooby's progression][Scooby pushup] (phase 3). In one set, I had just done some normal push-ups (until I couldn't anymore), then switched to kneeling push-ups to fill up the set.
+
+   Half-way through, a familiar attitude and accompanying thought cropped up. "You're done. You know you don't have the strength to do anymore. You are exhausted. You can stop now." And before, I'd have listened. Or bargained. Or pleaded.
+
+   Instinctively decided I wasn't going to do any of that. Just made a note "intention to give up" and threw all my attention at the pain and exhaustion. Wanted to get every little detail because I knew this would be grueling and I was going to enjoy every bit of it. Which worked.
+
+   Because giving up is for those who still have hope, still think they can avoid something. Nurgle knows no hope, only acceptance.
+
+Gonna try to disbelieve my depression next.)
+<% end %>
