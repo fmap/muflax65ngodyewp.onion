@@ -9,15 +9,18 @@ This is the second post in a 2-part series about learning to read Latin, or any 
 
 ---
 
+> Vorwärts immer, rückwärts nimmer! (Always forwards, never backwards!)
+
 How would one learn to read Latin, [systematically][AJATT system]? Well, it only needs to fulfill two requirements.
 
 First, **the rate at which you learn new stuff must be greater than the rate at which you forget old stuff**. If that is not the case, then you're the poor shmuck trying to save the Titanic by being really fast with your single bucket. But if your skill always increases, even if just a little bit, then as long as you keep going, You Will Win. There are no dead-ends for [monontonic functions][monotonic], my friend.
 
 "But", I hear you lament, "maybe it gets really hard at some point! I'm a lazy-ass learner and I hate any effort whatsoever!" My, how honest of you! But don't worry - me too. Keep the effort for the workaholic law school students, we'll be eating pizza and reading Roman poetry instead.
 
-This brings us the other rule: *every single step along the way must be doable*. It must always be easy. *Always*. No "[three easy payments and one fucking complicated one][Mitch payments]".
+This brings us the other rule: *every single step along the way must be doable*. It must always be easy. *Always*. No "[three easy payments and one fucking complicated payment][Mitch payments]".
 
-Fortunately, there are plenty of such systems. Here is mine.
+
+Fortunately, there are plenty of such systems. Here is mine.[^installation]
 
 Anki as ratchet.
 
@@ -26,7 +29,6 @@ Grammar as ease guarantee.
 You should learn just enough grammar to recognize the general structure of a sentence. Don't bother memorizing any rules or, heavens forbid, conjugation tables, just get the structure.
 
 Noun, verb, modifier, glue.
-
 
 So what's important?
 
@@ -73,46 +75,5 @@ Are these tools user-friendly, well-documented and thoroughly tested? Bwahaha, *
 - LWT
 - Yomichan for Japanese
 
-
-
 [^installation]:
-    Install instructions, for \*nix users. Needs Ruby 1.9 and currently supports Latin, French and Japanese. If it doesn't work, *tough luck*. Read the code, fix it yourself. (Or ask me, I might be able to help. I'm just more interested in learning than writing nice interfaces.)
-
-    ~~~
-    #!sh
-    git clone http://github.com/muflax/MCD-card-generator.git mcd
-    cd mcd
-    bundle install
-    bundle exec ruby latin-cards.rb ./txt/bello_gallico.txt
-    ~~~
-
-    The first run will take a while because it needs to cache all the translations, both from the dictionary in `./tools/words` and from Google Translate. But those are saved in `*.cache` files, so additional runs take only seconds.
-
-    If you already have some known words you'd like to add, save them as `known/latin/*.txt` or take a look at `anki_to_known.py` for a script to extract them from your Anki decks.
-
-    You'll end up with a `cards_*.csv` which you can import into Anki, using the fields question / hint / answer / glosses / known, and template like so:
-
-    ~~~
-    #!html
-    <span style="font-size: 17px; ">{{question}}</span>
-    <br/><br/>
-    {{#hint}}<span style="font-size: 15px; ">{{hint}}</span><br/><br/>{{/hint}}
-    <span style="font-size: 13px; ">({{Tags}})</span>
-    ~~~
-
-    and:
-
-    ~~~
-    #!html
-    {{FrontSide}}
-
-    <hr id=answer>
-
-    <span style="font-size: 18px; ">{{answer}}</span><br>
-
-    {{#glosses}}<br><div style="text-align: left;">--<br>
-    <span style="font-size: 13px; ">{{glosses}}</span></div>
-    {{/glosses}}
-    ~~~
-
-    And yes, this is all ugly code. I know.
+    Bla.
