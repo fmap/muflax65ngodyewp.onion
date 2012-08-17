@@ -124,6 +124,8 @@
 [pain paper]: http://onlinelibrary.wiley.com/doi/10.1016/j.ejpain.2009.05.011/abstract
 [Duke of Bananas]: http://www.dharmaoverground.org/web/guest/discussion/-/message_boards/message/2560532
 [Resurrection Statue]: https://encrypted.google.com/search?tbm=isch&q=resurrection+pericle+fazzini
+[xkcd nihilism]: https://xkcd.com/167/
+[smbc nihilism]: http://www.smbc-comics.com/index.php?db=comics&id=2394
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/

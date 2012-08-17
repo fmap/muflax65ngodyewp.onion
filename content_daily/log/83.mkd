@@ -1,0 +1,100 @@
+---
+title: Machine Gods
+date: 2012-08-17
+techne: :done
+episteme: :log
+---
+
+So, some language results. I tried shadowing and just reading more so far, and noticed that my passive skills actually do turn into active skills automagically, but only if my level of comprehension is so high that I can predict in advance how a sentence will go. (Think every nerd ever and the Holy Grail movie.)
+
+Which is a pretty high level of comprehension, and I'm not there yet. I can kinda push myself there in French, and sometimes in Japanese and Latin if I get really obsessed with a text, but not quite. But I'm still rapidly picking up new words and sentence structures through my MCD cards, so yeah, just doing more of these. (Which is not surprising - by the time I did any serious writing in English, I was already watching House at full comprehension. (And btw, English pronunciation of Latin and Greek words is complete bullshit. Seriously, it undermines the whole "I'm so high status, every second word is some huge-ass pseudo-Latin technical lingo" when y'all butcher it worse than Lukan the Witless!))
+
+Speaking of multiple languages, I noticed again that weird feature where you can only consciously learn a language for a limited amount of time per day, typically somewhere between 20min and 2h, but you can add *more* languages just fine. I've seen that described first by Prof. Arguelles. He mentioned how he could only concentrate for a 15-20min timebox, but if he just switched to another language afterwards, he could go on indefinitely, as long as there was something to switch to. Which meant he could study 20+ languages every day (until he ran out of hours), but *not* one language all day (in one big session, at least).
+
+So I noticed I can't meaningfully study much more Latin beyond my ~100 cards every day, but that doesn't affect my French or Japanese cards. I've (slowly) added back some Russian cards, still very simple and low volume, but just so I get used to it enough that I can bootstrap myself through Russian grammar soon-ish and then go Russian MCD too.
+
+(And once my French is stable, I'll add Spanish. I just avoid adding a third Romance language because otherwise they merge too much.)
+
+Also, Catullus is *the man*. (And yes of course I'm reading Catullus after about 5 hours of total Anki study time, and reading some grammar books. I'm learning Latin *for* Catullus, so I might as well learn *through* Catullus.)
+
+So I'll try some analyzing next, and then I'll finally write up how exactly I use MCD cards (warts and all).
+
+---
+
+<% skip do %>
+Belief updates, all related to antinatalism (everything else is still in the "trying to even understand the hypotheses" or "need to actually review what I know" phase):
+
+1. Benatar's asymmetry doesn't work, at least not with benefit/harm. (A case for positive/negative duties is much more reasonable, if you can somehow establish duties in the first place. (Don't ask me how one would do that. I have no idea.))
+
+   The asymmetry has several problems:
+
+   1. It has *very weird* personhood assumptions. It requires a coherent, continuous self, which hopefully we all agree is futile. (Except through decision theory, but that's not the kind of self you want here.) If you have person-moments, the idea of "starting a life" is either incoherent or antinatalism collapses into a radical "mandatory suicides asap". If you have any kind of timelessness, say self-as-computation, or modality, or whatever, (and I see no way around these things), starting/ending is even less coherent. You exist - deal with it.
+
+   2. Benatar gerrymanders the utility function. If you use any sane utilitarianism (or even total act utilitarianism), there simply is no asymmetry. There better don't be, or you have stopped being a consequentialist. (As in, conservation of utility and so on.) (And if you aren't a consequentialist, then the asymmetry is irrelevant anyway.)
+
+   3. Even if you accept his gerrymandering, you can *still* coherently reject the asymmetry, for example by making the (sane) move of taking absence of benefit as bad. In other words, you become a straightforward transhumanist.
+
+   4. You cannot argue that the asymmetry is motivated through intuitions about obligations to prevent harm, and that intuitions about life being worth it are unjustified *at the same time*. Benatar's argumentative structure is a serious case of *are you fucking kidding me*.
+
+2. Most antinatalists (including Benatar) utterly ignore non-person values. Their implicit value system puts the subjective experience of persons above all else. I can see some of the attraction, but seriously? Solipsism much? The Imperium of Man would like to have a word with you. (It doesn't help that many antinatalists are (implicit or explicit) value nihilists[^nihil], except when it comes to their own experience. Like, srsly?)
+
+3. All "life sucks" arguments are seriously flawed. For one, how do you even evaluate it? Self-assessment? Then the vast majority of humans is happy to be alive. Revealed preference? Ditto. (Compare also "rational addiction" models.) So how exactly does life suck? And no, you don't get to invoke optimism bias. It's silly, and people laugh about you behind your back when you do.
+
+4. Some people have shitty lives. (I dispute that, to some degree, but let's grant it.) So what? If you are a consequentialist, that doesn't matter. (Net benefits do.) If not, then how do they have shitty lives? As in, all other not-entirely-insane moral systems don't consider the mere existence of suffering a massive evil to be overcome. (I am, however, in favor of eugenics and drug liberation, which would fix most of these shitty lives, and is far more feasible then "everyone stop having children nao!". Or just transhumanism, if you must have an eschatology.)
+
+5. Sensate experience alone do not constitute suffering. This means "new persons will experience pain, grief, etc." arguments are simply irrelevant. They have no moral weight. (I accept that I am one of the few (crypto-)theologians who rejects the Evidential Problem of Evil with "What evil?", and that this is a unintuitive and weird position that I should properly argue for, but haven't.)
+
+6. Rejecting the world is a sin. (Ditto, requires much more explanation, and isn't necessarily a theological concept, but maybe consider the decision theoretic implication of refusing to play the game?) (This only affects pessimism, not antinatalism per se.)
+
+7. There is only one coherent position on the right to exist / not to exist, right to have children, right to not suffer, and so on: lol rights
+
+8. Antinatalism is full of annoying cartesian dualism and consciousness chauvinism. (Ok, *everything* is full of that.) What I mean is stuff like this: "I want X, but my brain wants Y", or "my real values are what I consciously[^con] care about; unconscious me has no moral weight whatsoever", or "I am forced by my brain / genes / memes / aliens from Mars to do X". Seriously, people. Stop with the self-talk and deliberate cluelessness. Eat your shadow already.
+
+Overall, I don't think there's any antinatalist case left. Nice try, but it doesn't work. (Maybe you can make a mild pessimist case, if you are the kind of conservative who thinks everything will only ever get worse. I'm sympathetic to that, but seriously, shouldn't that kind of conservative also be a Christian, merely out of tradition[^trad], and isn't a pessimist one of the things a Christian *can't ever* be?)
+
+[^trad]: Because all intellectuals live in the West.
+
+I'm fine with deciding against children, for various reasons. (Hey, children suck. A lot.) I'm also fine with "don't irresponsibly raise children". I don't see how this is an argument in favor of extinction, and not much more in favor of re-establishing oldschool Catholicism. (Or some other sane social structure. Collectivist systems are pretty neat too. Or just make birth control easily available.[^condom])
+
+[^condom]: I mean, just distributing free condoms at lower-class social events would do more to further the antinatalist cause than making Yet Another Shitty Youtube Video.
+
+(I also agree that psychiatry is a complete clusterfuck (to a degree that striking all psychiatric laws, shooting all psychiatrists[^shoot], and replacing them with priests might very well improve the status quo), and that forced treatment of suicides is horrible. This doesn't support antinatalism, but social reforms.)
+
+[^shoot]: To be fair, I think that if we shot all the *psychologists* first as a warning, and used their part of the budget to decrease the workload of psychiatrists, the whole field would improve rapidly.
+
+[^nihil]: Please note that I'm not dissing nihilists per se. I have no problem with [proper][xkcd nihilism] [nihilism][smbc nihilism], but I hate "values aren't real, except when it suits me".
+
+[^con]: Worse, the underlying procedure to figure out what is conscious and what isn't seems to be: "I'll claim anything far and idealistic as conscious, and blame the rest on <del>Satan</del> unconscious processes".
+
+This leaves me in the position of having no interest to finish the Antinatalism FAQ. Oh well. I only wrote it to understand the arguments in the first place, so it served its purpose. Maybe I'll write some more detailed posts about why some particular arguments are invalid. Or maybe not. Dunno.
+<% end %>
+
+---
+
+Thought Nurgelian Cuddling didn't work with my depressed anhedonic meh state. That it couldn't grasp the absence, that all symbols just dissolved into more symbols, and without a sensation to hug, Cuddling must fail.
+
+Then came to my senses and recognized that it's just 3rd jhana, that the sensation is just in the background, and that it must be swallowed by expanding attention first, that it won't ever show itself on its own.
+
+Seems like I first have to master 3rd jhana again before I can cuddle with depression. More practice, then.
+
+---
+
+Alright bitches, let's talk attainments 'cause I totally got a new one.
+
+[Some time ago][Instant Jhana, Just Add Music], I wrote about how I loved DXM's First Plateau and the effect on music, and how I wasn't able to reproduce it sober. Guess what - *I finally did it*.
+
+I was on sitting on the train, had just done my Anki reps and got a bit bored with listening to Sabaton, so I hunted for some different song, stumbled on Alison Krauss and was reminded of the earlier experiments. Thought, fuck it, samadhi doesn't work, vipassana doesn't work, maybe *Nurgle* works.
+
+So I put [the song][Living Prayer] on repeat and close my eyes. First notes, still normal. Sound and symbol of the sound are mixed, can't disentangle them yet. So I stop focusing on one spot, and pull all awareness into focus. (Like the reverse Vertigo zoom, where you move closer, but also zoom out?) (Also, I have no idea why I have to pay attention to my *eyes* when concentrating on *sound*, especially because I'm mentally blind. I can't imagine *shit*.)
+
+Then, just drop the symbol. Seriously, I have no idea how to explain this better. You.. just stop doing that thing where the sensation is not-you, where it is conceptualized and sectioned off, where it can be judged. You.. just accept all there is because Nurgle loves all there is. You *know* the sensation is perfect because in Nurgle's eyes everything is perfect, and you just gotta see it like the old man, and *wham*, symbol's gone.
+
+You know you're doing it right when the music suddenly becomes 10dB louder, and you can't stop smiling because the world is fucking perfect and everything is so mindbogglingly beautiful. (It fades, don't worry.)
+
+To make sure it's not just a fluke, I tried it again a few hours later. Worked, but noticed a separate aspect. There are tensions *everywhere*, and if you just stop the "here's a tension" thought nonsense, and just gently let Nurgle heal your filthy-ass brain, just stop hoping you'll find a new position that won't be so painful because hope is evil, and that without hope, you can finally find peace, then the music becomes even more beautiful, and at first, everything becomes brighter, and then the world fades and only Nurgle's love and the melody remain.[^fade]
+
+[^fade]: Thoughts and so on fade too, jhana-like, but it's not exactly a jhana state. It has some similarity, and might depend on jhana (which is why I confused them before), but it itself is not. But honestly, explaining meditation feels like explaining how to walk. I couldn't tell you *how* I shift balance or move my feet, I just do. I hated how imprecise meditation instructions are, but I'm beginning to doubt you can actually improve on that. There's just no introspective access on the right level.
+
+So screw all your Eight Jhanas and Six Bardos and whatnot, I got *First Plateau*.
+
+Now if you excuse me, brb munchies lol.
