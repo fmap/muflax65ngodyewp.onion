@@ -1,0 +1,75 @@
+---
+title: I'm Pretty Gangster Myself
+date: 2012-08-17
+techne: :done
+episteme: :log
+---
+
+(HPMOR spoilers.)
+
+Past the Azkaban sequence. I'm not sure I have much left to say about HPMOR. The plot is getting a bit tighter, the characters are better developed (still liking Dumbledore, also the little we see of Bellatrix so far) and bla, but.. yeah, it's mostly *bla*.
+
+The good pieces suffer without interesting characters to ground them, the bad pieces are, for lack of a better word, *childish* (if childish weren't a bad word because being-childlike isn't a *bad* thing, but there's no alternative, so there), and overall, I just don't give a damn, largely out of value dissonance.
+
+Just a few quick notes I made, and then I think I'm done talking about HPMOR.
+
+1. I don't understand the wildly contradictory stands on personhood and value of life shown by Harry (and real-life counterparts too).
+
+   Presumably, Harry doesn't believe in personal continuity, ideal forms or "sticky" selfhood that clings to some material configuration. Why, then, is *healing* Bellatrix so important? As far as the evidence goes, the Dementors have destroyed more or less all of her memories, especially all good ones. She is little more than a bundle of loyalty by now. (Which makes her the most moral character in all of HPMOR, which is a bit sad.) Why would you *rescue* her? There's nothing to *rebuild*, only to build *again* from scratch. Coulda just made a new person.
+
+   (Also, self-as-computation and death don't mix. A* doesn't stop existing when I stop running a search. But yeah, the old "you cry over death, and call yourself a Christian?" argument applies here too.)
+   
+2. Even more so, if Bellatrix has lost almost all her memories, and so almost all that makes her Bellatrix, why does her possible innocence matter at all? The one who is suffering now is no longer entangled with any guilt. I don't understand Harry's weird-ass value system.
+
+3. It makes sense in context, but "that may be the Dementation talking rather than an accurate estimate" really bugs me. In that particular situation with an hostile agent actively trying to take over your mind, yes, rejecting some parts of your mind as not-you is reasonable. *Any other time* it isn't. It's a great sin to say "this isn't my real self". As long as you keep up your separations, refuse to integrate *all* of you, you will suffer[^suffer]. (Compare "I and the Father are one".)
+
+4. The [Stormboy][] escape? Awesome. Had he smashed into something and/or burned someone? Even better. Harry's denial of death isolates him from his inner Ork.
+
+5. What's up with all the chocolate? Like, seriously? (googles) Huh, it's a canon artifact. Still stupid. It feels completely out of place. Even just a random Potion of Life would work better. (Which could be later revealed to be just chocolate milk.)
+
+[^suffer]:
+    <% skip do %>
+    It is said of [Rabia Basri][] that she was once seen carrying a torch and a bucket of water. When asked what she doing, she said:
+
+    > I am going to set fire to Paradise and pour water into Hell so that both these veils may disappear, and that seekers of God may worship Him without any object of hope or motive of fear, but only for His everlasting beauty.
+
+    <% end %>
+
+---
+
+Tried to nurgle up my intentionality. Like, I can drop "omg this so awful make it stop" by directly tuning into the sensation and by changing my attitude from rejection to acceptance. I then thought, that should work with intentions too. Like, when I want to do X, but can't quite act on it, I similarly tune into the raw intention and attain unity again.
+
+Haven't been able to make it work. Nurgle is too passive. I can *accept* the intention, but that just takes away the "I really oughta do that" unpleasantness. I still don't do anything. So I can't *literally* nurgle all my problems away. Or I'm not meta enough and I still have some ignored element of "if I do anything more than lie here in acceptance, it will hurt and I don't want that" that screws me over, and if I could accept *that*, I'd act.
+
+Dunno.
+
+There's *something* to grasp, something unresolved I'm not fully integrating, but I don't quite get what. In vipassana, not yet integrated aspects tend to manifest as *noise*, as a kind of grinding against your awareness. (Which is why vipassana practitioners without some solid relaxation technique often turn into balls of anxiety.) This feels similar.
+
+More practice, I guess.
+
+---
+
+<% skip do %>
+Deutschsprachige Verschwörungstheoretiker, die [letzte Alternativlos-Folge][alternativlos 26] mit Gaby Weber über Altnazis und Atomprogramme ist sehr empfehlenswert.
+<% end %>
+
+---
+
+I've been playing [The Gostak][]. I *highly* recommend that any language learner try it. (And any fans of weird games with really clever ideas.) I'm so impressed by it, once I've finished it, I'll write up a post for propaganda purposes.
+
+<% skip do %>
+It illustrates my main point: *grammar is important, simple and irrelevant*. (Yes.) What I mean is, without a good meta-structure of how a language works (structural grammar), you can't figure out shit. If I translated The Gostak to a language where you don't know the grammar, even if you knew a similar amount of vocab (so maybe French or German, if you know English?), and even though most words would still be unknown, you suddenly would be utterly lost.
+
+But learning this meta-structure is easy. It doesn't have very many rules. (Notice how *regular* and *simple* sentences in The Gostak are, even when you don't know most of the content words, only the (very limited set of) glue words. From personal experience, it takes merely *days* to learn it, not months or years, even for completely new languages.
+
+And still, even if you know it, the majority of the learning task is still not done. You need to learn a shit-ton of new words. Each of these words is fairly simple (try figuring out a word in The Gostak; now imagine you also had a (simple) translation and a dictionary), but there are a lot of them. In that sense, you can be perfect at grammar, and still have 99% of the language left to learn. Most of your time will be spent on "here's the word X, it means Y" and managing the memory load. Which is why (automated, fun, easy) Anki cards for unknown words are so awesome. (At least if you enjoy learning (written) languages to begin with. If you don't like The Gostak, my approach likely won't appeal to you either.)
+
+So yeah. The Gostak. It's awesome. Go distim some doshes.
+
+<% end %>
+
+---
+
+<% skip do %>
+What, productive practice? Hey, I read stuff, and nurgled some sensations, and I didn't collapse into outright depression despite having left mania-space for a while. That's almost success right there!
+<% end %>

@@ -126,6 +126,8 @@
 [Resurrection Statue]: https://encrypted.google.com/search?tbm=isch&q=resurrection+pericle+fazzini
 [xkcd nihilism]: https://xkcd.com/167/
 [smbc nihilism]: http://www.smbc-comics.com/index.php?db=comics&id=2394
+[alternativlos 26]: http://alternativlos.org/26/
+[The Gostak]: http://playthisthing.com/gostak
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
