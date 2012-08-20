@@ -72,8 +72,7 @@ Are these tools user-friendly, well-documented and thoroughly tested? Bwahaha, *
 
 
 - LingQ
-- LWT
-- Yomichan for Japanese
+- https://code.google.com/p/fltr/
 
 [^installation]:
     Bla.
