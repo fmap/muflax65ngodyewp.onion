@@ -20,8 +20,6 @@ Nurgle[^nurgle] scares me.
     I do this, of course, so that once I have become canonized in whatever religion takes me up, they will also be forced to assimilate large chunks of nerd culture. I'm looking forward to Saint Lovecraft and Mindful Orkishness.
     <% end %>
 
-<% skip do %>
-
 Back in the old days, I settled on one rule with regards to drug use: no opiates. I know that I won't be able to handle them and that bliss is the most treacherous of all sensations.
 
 Yesterday, I found myself in a deeply unsettling situation (details omitted because of reasons), doing what I thought would be congruent with a Nurgelian approach, but still feeling unsatisfied. I was surprised by that - Nurgle rejects nothing - so I wondered what I was doing wrong. I then realized that I was *expecting* something, that I was forcing something to happen because I had a certain hope, wanted it to do something in particular. I had thought, "this is disgusting, but Nurgle is disgusting, and if I do that, I will be more like Nurgle". Yet I felt stupid and rejected.
@@ -35,7 +33,6 @@ When I try to engage them, as I have engaged sensations, I can't yet let go. I t
 It's all so slippery and disjointed. As soon as I try to direct any attention at the component sensations, I lose track and get distracted. I can't focus for a second, can't think a single sentence, feel so very sluggish and slow.
 
 Third Jhana, you're cramping my style.
-<% end %>
 
 ---
 
