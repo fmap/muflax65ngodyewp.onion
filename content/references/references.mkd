@@ -251,6 +251,7 @@
 <!-- reddit -->
 [reddit lain]: http://www.reddit.com/r/AskReddit/comments/t0ynr/throwaway_time_whats_your_secret_that_could/c4inqul
 [Xmonad Bug]: http://www.reddit.com/r/xmonad/comments/fdp4o/let_focus_follow_mouse_only_on_certain_layouts/
+[reddit dinosaurs]: http://www.reddit.com/r/AskReddit/comments/yflfl/if_you_could_play_god_and_wipe_one_species_off/c5v8k52?context=1
 
 <!-- ajatt -->
 [AJATT]: http://www.alljapaneseallthetime.com/

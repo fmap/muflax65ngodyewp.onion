@@ -1,0 +1,83 @@
+---
+title: Nurgle nich so rum, Alda
+date: 2012-08-26
+techne: :done
+episteme: :log
+---
+
+> Es gibt ein Bild von Klee, das Angelus Novus heißt. Ein Engel ist darauf dargestellt, der aussieht, als wäre er im Begriff, sich von etwas zu entfernen, worauf er starrt. Seine Augen sind aufgerissen, sein Mund steht offen und seine Flügel sind ausgespannt. Der Engel der Geschichte muß so aussehen. Er hat das Antlitz der Vergangenheit zugewendet. Wo eine Kette von Begebenheiten vor uns erscheint, da sieht er eine einzige Katastrophe, die unablässig Trümmer auf Trümmer häuft und sie ihm vor die Füße schleudert. Er möchte wohl verweilen, die Toten wecken und das Zerschlagene zusammenfügen. Aber ein Sturm weht vom Paradiese her, der sich in seinen Flügeln verfangen hat und so stark ist, daß der Engel sie nicht mehr schließen kann. Dieser Sturm treibt ihn unaufhaltsam in die Zukunft, der er den Rücken kehrt, während der Trümmerhaufen vor ihm zum Himmel wächst. Das, was wir den Fortschritt nennen, ist dieser Sturm.
+>
+> -- Walter Benjamin, [Engel der Geschichte][] (untranslatable)
+
+---
+
+Nurgle[^nurgle] scares me.
+
+[^nurgle]:
+    <% skip do %>
+    At some point, I might actually get good at certain Nurgelian practices. When that happens, I'd like to write it all up in a post or two. I would then also explain how "Nurgle" is somewhat of a useful fiction, a Jungian archetype for a certain frame of mind, and that while tantra and others already have those, I find all of them culturally alien. Who knows who these yidams really are? W40K I know and trust.
+
+    I do this, of course, so that once I have become canonized in whatever religion takes me up, they will also be forced to assimilate large chunks of nerd culture. I'm looking forward to Saint Lovecraft and Mindful Orkishness.
+    <% end %>
+
+<% skip do %>
+
+Back in the old days, I settled on one rule with regards to drug use: no opiates. I know that I won't be able to handle them and that bliss is the most treacherous of all sensations.
+
+Yesterday, I found myself in a deeply unsettling situation (details omitted because of reasons), doing what I thought would be congruent with a Nurgelian approach, but still feeling unsatisfied. I was surprised by that - Nurgle rejects nothing - so I wondered what I was doing wrong. I then realized that I was *expecting* something, that I was forcing something to happen because I had a certain hope, wanted it to do something in particular. I had thought, "this is disgusting, but Nurgle is disgusting, and if I do that, I will be more like Nurgle". Yet I felt stupid and rejected.
+
+I was mistaken, I thought. Nurgle already loves me as I am, why should I change? I have been sneaking in a new hope. When I dropped it, stopped wanting anything, I expected to find comfort again.
+
+Unfortunately, Nurgle seems to have taken my early enthusiasm for pain as a sign that I'm ready for the big guns now, and has blessed me with new diseases, ones I can't yet handle. They are not simple sensations, not just emotional states that distract me. They are more complex intentional thoughts and desires.
+
+When I try to engage them, as I have engaged sensations, I can't yet let go. I thought, "I will just accept them as they are", but that doesn't work. It feels like an endless spiral of despair. I embrace some failure, but then it changes into "you're just doing that to avoid facing how awful you are", which I embrace, so it encompasses *that*, and so on. I get constantly diagonalized and can't successfully accept *all* of the despair.
+
+It's all so slippery and disjointed. As soon as I try to direct any attention at the component sensations, I lose track and get distracted. I can't focus for a second, can't think a single sentence, feel so very sluggish and slow.
+
+Third Jhana, you're cramping my style.
+<% end %>
+
+---
+
+<% skip do %>
+
+I had a dream in which I changed reality. If something seems weird to you, sorry, my fault.
+
+When I dream, I'm often at home, in the old town I grew up in. Even though I'm much older, and newer friends are there too, my own room never changes. It's always the same old room, and despite this predictability, I haven't been to use it as a reality check for lucid dreaming.
+
+When I was 16 or so, I experimented a lot with lucid dreaming.[^lucid] I noticed that in dreams I had a separate memory. My background knowledge was still intact, and I would recognize people, but I could not recall what year it was, and if I asked myself where I live, I'd remember outdated answers. I would also remember *new* things, things I wouldn't remember when awake, unless I made a conscious effort to carry them over, and even then most of the information was lost. This included characters in dreams and conversations with them.[^side]
+
+[^side]: As a side-note, separate memories also seem to occur with certain drugs. I read that a lot about DXM and Salvia in particular. I've never experienced it, though.
+
+When I tried lucid dreaming, I found it really easy to get into. I started using reality checks (like spin and see if the world turns with you, or try to look at your hands), and after 2 or 3 days, I already had my first lucid dream. However, while I could easily remember what happened in dreams, I had a really hard time to bring any information in with me. No matter how awake I was, and how clearly I knew that I was dreaming, I would never recognize that it was absurd that I was still attending old classes years after graduating. Similarly, often when I dream, I remember a certain purpose, a clear sense of Meaning Of Why I'm Alive that I can never bring with me when I wake up.
+
+Last night, I suddenly noticed. I remember being *surprised* to be in my old bedroom, not my current one, and then concluding that this was the wrong way around - when I dream, I'm *here* (the reality you're in), and when I'm awake, I'm *there* (let's call it the pleroma), and the bedroom in my dream was the wrong one, so I *switched them back*.
+
+I turned the dream world into the real world and vice versa, or at least moved my locus of control back here. You see, when I dream, I seem to be under the impression that my dream existence is an aspect of my real (you might say, gnostic) being, but this waking world is just an illusion I'm refusing to let go of.[^letgo]
+
+[^letgo]:
+    Last time I tried letting go of it, I had a nice (if a bit cliché) breakdown, including disjointed writing, hallucinations and intense paranoia. I'm not sure if it was an ironic schizophrenic episode, or if it was real and I was aware enough to have some fun with it. There seems to be a certain realization involved that I'm adamantly refusing to face, that would force me to take something (either in the dream world or here) seriously that right now, I can't, and that this realization would scare the everliving irony out of me.
+
+    Regardless, I like my irony and care not about repeating the experience, which is why I don't do lucid dreaming anymore. Unfortunately, *all* dreams since then are lucid, even if I don't try, to the degree that asking myself "Am I dreaming right now?" always returns "yes" when dreaming, and occasionally "I don't know" or even "no" when awake.
+
+    So I try not to dream or ask myself that question. It works better than you'd expect.
+
+Apparently, someone screwed up and my dream personality had to exist in this world for quite some time now, and vice versa. This has now been corrected, as far as I know, and reality has been correctly [rewritten][Reddit dinosaurs].
+
+If this change inconveniences anyone, I apologize.
+
+<% end %>
+
+---
+
+As for practice, Nurgle and reading have basically occupied whatever crappy resources I currently run on. I did dig a bit more into Early Christian theological debates (clearly the most important subject in the world), and I'm surprised how often I side with the Catholic position just on grounds of internal consistency.
+
+<% skip do %>
+Before I gave it much thought, I was quite comfortable with Marcionite / Paulinist / Gnostic positions, and thought that Catholic redactions and interpretations were often clearly pandering or lame compromises, if not outright corruptions of original intent. That might still be true (in the sense that I still believe that the Catholic versions of the NT texts are late and highly edited), but they make a lot more sense than the alternatives.
+
+For example, I find docetism (Jesus' suffering was just an illusion), a very common Gnostic position, now actively repugnant, and was surprised that Augustine rejected donatism, i.e. the idea that you can't receive valid sacraments from sinful priests. If that were the case, of course, *no* sacrament would ever work 'cause we're all stuck in a world of sin. (You might recall that this worried me [a while ago][Self-Baptism].) 
+
+So even if none of that stuff is actually true or relevant, the Catholics still know how to pick the best set of tropes. Dudes seriously thought this shit through.
+<% end %>
+
+Anyway, I'm now getting to the point where I can't yet actually debate theology on its own turf, but I can play a theologian on TV. Even a Catholic one. This will *so* get me laid.
