@@ -272,3 +272,4 @@
 [Mahasi Noting]: http://www.dharmaoverground.org/web/guest/dharma-wiki/-/wiki/Main/Mahasi%20Noting
 [Stormboy]: http://wh40k.lexicanum.com/wiki/Stormboyz
 [Rabia Basri]: https://en.wikipedia.org/wiki/Rabia_Basri
+[furigana]: https://en.wikipedia.org/wiki/Furigana

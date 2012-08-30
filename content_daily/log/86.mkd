@@ -1,0 +1,75 @@
+---
+title: Therefore, Magic
+date: 2012-08-30
+techne: :done
+episteme: :log
+---
+
+> あれでいい  
+> ということはない  
+> これでいい  
+> ということもない  
+> それでいい
+>
+> -- 日常 第18話
+
+Added (Japanese) reading generation to my MCD script 'cause Anki messed up the formatting. (This also makes it possible to add [furigana][] to other scripts later, like cuneiform.) Additionally, I can now make reading cards.
+
+<% skip do %>
+(Interestingly, when I started out with Japanese I thought - like probably all learners do - that furigana are totally important. That all your learning material should have them until you really know all those pesky readings. But now I'm through a whole bunch of MCD cards of new text without furigana, and somehow I still manage, and even pick up readings automatically, without trying to. "Leave the thinking to your unconscious brain, just throw content at it" shouldn't surprise me anymore, but it still does.)
+<% end %>
+
+I've also added a new card format for sentences with no unknown words, inspired by something Owen came up with. It goes like this: "Here's a sentence X. (It means Y.) Can you repeat it back - *without looking at it*?" The idea is that this tests your internal model of the sentence, and is a bit simpler than shadowing.
+
+It would work particularly well with subs2srs cards, of course, so I added support for those too. The MorphMan guy seems to have gone missing and it's still not been ported, and besides, I have implemented pretty much all its features except direct Anki implementation anyway.
+
+<% skip do %>
+That got me thinking. The main advantages of something integrated like MorphMan over my external tool are:
+
+1. You can rerun it (say, daily) and re-order cards according to your performance.
+2. You can modify cards, for example by adding or removing hints.
+3. You can detect and remove redundant cards.
+
+I'm not sure any of that actually matters. (At least it's not worth the effort of implementing it.)
+
+Hints are already implemented through native hint fields. Just don't use them when you no longer need them. I can't think of any card modification you'd want to do except "swap this field with that field on the question", which hints can do just fine.
+
+Redundant cards are detected by what experts call "fun". I delete anything that bores me, so whatever's left will already be fairly minimal.
+
+So the only advantage would be re-ordering of unseen cards. I've thought about keeping a database of morphemes etc. and tracking how well you're doing. I could easily store this information on cards and then extract and track it. I wouldn't have to re-order or modify anything, but could use that information to generate the next batch of cards. But I'm still not sure that actually buys you much. You could just use short-ish texts (say, a chapter of a book at most), which is already what I'm doing. Still, some of that functionality would be neat.
+<% end %>
+
+So the whole live adjustment stuff seems like needless geekery to me, especially if you're interested in going through material sequentially. I've checked several MorphMan setups and can't see any additional advantage that "throw more material at it" doesn't already improve on, so yeah, I'm now no longer using MorphMan or out-of-order sentences.
+
+<% skip do %>
+That leaves two major improvements left to implement:
+
+1. Collocations. I'm not sure they actually matter much because everything is already sentence-based. I thought they might help with those few common verbs with a million meanings, like "to put", but so far I'm doing just fine. Still gonna give it a shot, even if it helps with only 1% of the words.
+
+2. A persistent morpheme database. Right now, I just build one on-the-fly for a given text, but don't track words across texts. That's good enough to generate cards for a while, but makes it harder to re-import info from Anki and so on. This change requires a bit of a rewrite, but it'll be useful later on.
+
+Once the database is done and I find some time, I'll actually finish the Latin post.
+
+(Since when is writing blog posts my job anyway? It's like I have pareidolia for obligations. Sheesh.)
+<% end %>
+
+---
+
+<% skip do %>
+[Favorite crackpot theory this month][cleve enkidu]. (Read all of Cleve's posts further downthread.)
+<% end %>
+
+---
+
+Otherwise, just been frustrated with my own inability to think or work, for various (non-akratic) reasons, and throwing the few mental resources I do have at my job.
+
+I'm also coming to terms with the understanding that I've fucked up, and that no matter how hard I'll work now, I won't be catching up to some deadlines, and that I'm now in the "minimizing damage and getting third chances" business.
+
+For someone who's allegedly not suffering, I sure do a lot of stupid shit.[^shit]
+
+[^shit]:
+    <% skip do %>
+    If I wanted to put an optimistic spin on it, then I'd observe that there's a true saying that every good painter has 10,000 bad paintings in them and that the faster they get them out, the earlier they'll stop sucking. Similarly, every saint has 10,000 bad decisions in them, and it's better I fuck up some course in college than real responsibility later.
+
+    But I also feel that optimistic spins, useful as they are, somewhat belittle experiences as they happen by refusing to face the awfulness of your own suckage, and so that won't be the official interpretation. But it's fanon.
+    <% end %>
