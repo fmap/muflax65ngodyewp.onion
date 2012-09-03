@@ -1,0 +1,50 @@
+---
+title: Ruinenwert
+date: 2012-09-03
+techne: :done
+episteme: :log
+---
+
+<% skip do %>
+Says [Brother Y][LW skill], on a "strangest thing you kinda believe could be true" thread:
+
+> On any task more complicated than sheer physical strength, there is no such thing as inborn talent or practice effects. Any non-retarded human could easily do as well as the top performers in every field, from golf to violin to theoretical physics. All supposed "talent differential" is unconscious social signaling of one's proper social status, linked to self-esteem.
+>
+> A young child sees how much respect a great violinist gets, knows ey's not entitled to as much respect as that violinist, and so does badly at violin to signal cooperation with the social structure. After practicing for many years, ey thinks ey's signaled enough dedication to earn some more respect, and so plays the violin better.
+>
+> "Child prodigies" are autistic types who don't understand the unspoken rules of society and so naively use their full powers right away. They end out as social outcasts not by coincidence but as unconscious social punishment for this defection.
+
+I feel a bit more confident that this is actually the case, for a large class of skills and for people who are muflax.[^mu]
+
+[^mu]:
+    I'd like to point out that I've recently been granted the title "Prior of Maximum Entropy". If you're unsure who you are, *you are a part of muflax too*. May you know nothing and still be wise.\</ominous\>
+
+I've been unusually stressed out the last year or so. I've been telling people I can't sit down and talk, I have deadlines dammit, and I've neglected several projects because I've Got Important Stuff To Do. Signaling-wise, I was a busy and productive student. Close friends can attest to that.
+
+So here's a confession: I didn't do *squat*. I've studied a grand total of *5 hours* this year. I know because I keep track. I've spent more time organizing what exams to take when than actually studying for them. Unsurprisingly, I didn't show up to any of them. So now I'm officially one year behind on everything. This isn't catastrophic because, hey, the <del>communist dictatorship</del> <del>benevolent social democracy</del> bankrupt welfare state at least prevents any devastating student debt. So I'm only down on time and ego.
+
+I feel like the least productive person in the universe. (I know this isn't true because I'm friends with the actual least productive person in the universe.) But even though I did literally as close to nothing as I could get away with, I still felt the same stress, if not more. *Faking* being a student and *being* a student feel exactly the same, and most of the time, even look the same. So now I feel entitled to my degree in Being A Hypocrite. I have lots of job experience in Being A Hypocrite. I might even qualify for a PHD in Believing Your Own Lies.
+
+Interestingly, I do not seem to be in any way worse off. I have no idea what lesson I'm supposed to learn from this except that being stressed out is completely ridiculous and that there's no end to how lazy you can be and still get away with it.
+<% end %>
+
+---
+
+Ported my Beeminder plugin for Anki to the new Beeminder API. It's now available [in Anki's repo][Beeminder addon] too.
+
+Also fixed some other stuff, worked a bit on my MCD stuff. I'll just do the database, some subs2srs improvements, and then I'm done for now. It works really well already for people who are muflax.[^tbh] Guess next log should also see the Latin post with some examples. I'll throw in a few Japanese examples because I wanna show of the subs2srs stuff and there isn't any for Latin.
+
+it's hard to find time // for this baby // but I am trying // so next log maybe?
+
+[^tbh]:
+    And tbh, I don't care that much about people who aren't muflax. Cleaning up interfaces for non-muflaxes is my least favorite thing about hacking something together.
+
+---
+
+<% skip do %>
+On a meta note, I'm no longer sure the logs actually do anything for me. There's this awkward valley between "interested in X" and "awesome enough at X to meaningfully talk about it", and any writing during this period is pretty much a waste of time. For most of the X I care about, this gap is quite large, and I'm not sure "did 300 reps, read some book, did chin-ups" every day is interesting. Besides, Beeminder has my consistency covered already.
+
+What I'm saying is I don't want to contribute to the mass of amateur bloggers talking about shit they don't understand, but I don't have anything substantial left to say that I *do* understand, so... see you in a few years?
+
+I'll give it a week or two, maybe relax the word requirement. Dunno.
+<% end %>

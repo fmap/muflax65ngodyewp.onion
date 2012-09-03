@@ -182,6 +182,7 @@
 [LW review]: http://lesswrong.com/lw/7qq/review_michel_thomas_french_direct_instruction/
 [LW owen]: http://lesswrong.com/r/discussion/lw/7d1/scientifically_optimizing_education_hard_problem/
 [LW DI]: http://lesswrong.com/r/discussion/lw/7g3/what_direct_instruction_is/
+[LW skill]: http://lesswrong.com/lw/12s/the_strangest_thing_an_ai_could_tell_you/2ssn
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
