@@ -1,0 +1,25 @@
+---
+title: Sleep is Overrated
+date: 2012-09-06
+techne: :wip
+episteme: :log
+---
+
+Did the first half of my [epistemic tag][Epistemic State] update. I wanted to add more fine-grained distinctions, but I had a hard figuring out how to rank a metaphysical belief. The main problem of accurate belief assignments is that it depends on a good prior. But even getting a well-defined prior (i.e. one that isn't zero on the best answer, which is typically by making it non-zero everywhere) requires you to know what the hypothesis-space even *is*.
+
+Say you've only heard of consequentialism and nihilism, and nothing else. You hear the arguments and assign consequentialism a 60% probability and nihilism 40%. Now Kant comes along and blows your mind with deontology, but unfortunately you've already used up all the probability. Dammit, so you switch over to likelihood ratios. Consequentialism is at least as likely as deontology, and each is twice as likely as nihilism, so it's 2:2:1. Fine, if something better comes along, you can easily add it. But now how can you express how certain you are of consequentialism? You'd have to say "I give consequentialism 2:5 odds, compared to everything else I've heard", but for that to be meaningful, you'd *also* have to tell me *what else* you've heard.
+
+Compression sucks. But wait a minute - I'm a [Yangming][Wang Yangming]-ite, I believe in the unity of knowledge and action. Correct beliefs must result in virtue[^virtue] and vice versa. So why not just express *that*?
+
+[^virtue]:
+<% skip do %>
+Yangming only made the argument in case of moral beliefs and actions, but I think it should extended to the general case, but I also think morality should be extended to swallow everything. (Eventually.) I suspect (but I'm not sure) that Yangwing would agree with that.
+<% end %>
+
+So now for anything that I believe in, to some degree, instead of saying how much I do believe in it, I'm saying what kind of duel I would accept over it. For a mild speculation, I'd . Sure, I'm likely to lose, but it sounds like fun and I don't mind losing. For something more serious, I'd fight you in Quake 3 *like a [man][Notch Q3]*. For the true hardcore stuff, I'd accept a fight to the death.
+
+If you challenge me, and you win, I concede the belief and accept whatever you hold. If I win, I expect you to do the same. Yes, I'm completely serious. No, there is no hardcore belief yet. (In public anyway.)
+
+Rules are outlined on the [Epistemic State][] page. I've yet to re-tag old pages. (That's the second half.)
+
+(HT to Will for the idea.)

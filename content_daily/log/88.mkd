@@ -1,0 +1,106 @@
+---
+title: One Church To Bind Them
+date: 2012-09-06
+techne: :done
+episteme: :log
+---
+
+Gah work project gah.
+
+Also, I already didn't trust engineering papers too much, but working on a "let's write the paper first before we have the results, we don't have time to do it any other way" paper myself disillusioned me completely. Apparently, I don't know what I'm doing, but neither does anyone else.
+
+<% skip do %>
+I tend more and more towards the hypothesis that machines run on magic and pure belief, like in W40K. Anything else is just too improbable given actual industry practices.
+<% end %>
+
+---
+
+<% skip do %>
+I was tempted to write a big This Is What You'd Have To Convince Me Of To Convert Me To Catholicism post, including getting me to admit that I'm a real theist and not just a theology hipster, but then I had this internal dialogue:
+
+- 1: I want to write a post why muflax cannot into catholicism.
+- 2: Are you fucking kidding me? Do we have to start this "taking things seriously" thing all over again? What could you possibly gain from that?
+- 1: But I've recently seen the Taoist do a lot of magic and reality shaping, and he credits Catholicism, and...
+- 2: Since when do we listen to the Taoist?! Even he agrees that he's probably just doing memory manipulations and so on, and that his main goal is to bring about desirable affective states!
+- 1: Well, ok, but I thought it would help us settle some of these philosophical questions...
+- 2: Oh come on now! Do you *know* our track record with this?!
+- 1: I guess you're right. Is there something that *could* make it a good idea to consider taking Catholicism seriously?
+- 2: Well, maybe if -
+- 1: Ha!
+
+So yeah. A very quick overview, just so I can get "lol muflax is a catholic nao" out of my head and move on with my life:
+
+1. Catholic claims about history, particularly the first 5 centuries or so, are completely laughable. There are good political reasons *why* they are so ridiculous, and I even approve of (some of) those, but it undermines their claim to authenticity.
+
+   I'm unsure if I get the "useful fiction" joke and refuse to wink-wink nudge-nudge it away, or if they seriously depend on the correctness of their claims and I'd be a dirty hipster if I merely played along.
+
+2. I'm not convinced that their overall metaphysics are coherent, and not just a very elaborate cargo cult. But I also haven't studied it much, so I don't know. I'm also seriously unsure if the beliefs might be false but extremely useful, and poking them too much would just be The Thing That Happened To Marriage all over again.
+
+3. What about Nurgle? Or more generally, if I converted, could I still do the hipster tantra crap I'm doing? I like what I have going right now. I don't want to be consumed by a less productive framework.
+
+4. I have no idea if I even *can* take beliefs seriously any more. One meta level up, I don't know when it is appropriate to take beliefs seriously, ever. (In the "philosophical positions" sense, not the "anticipations in daily life" sense.) I'm thoroughly confused, psychologically, if I even should attempt to consider Catholicism as A Real Thing that I could actually convert to or just some contrarian position I amuse myself with.
+
+   This is completely independent from the correctness of Catholicism, or any belief really. I've just gone so hipster, I'm not sure anything but constructivist postmodernism can still take hold. I feel like breaking character.
+
+   Troll Invictus only remains untrollable as long as it holds nothing sacred. Do I want to be untrollable? Is taking something seriously always a matter of sacredness? Is being selective about sacredness stupid? I have no idea.
+
+So that's it. Should those 4 obstacles magically disappear, I'd seriously evaluate conversion. Until then, it's yet another song of the week. 
+<% end %>
+   
+---
+
+<% skip do %>
+I wish someone smarter and better educated than me would write a "The people who believe most in irreplaceable complexity of value, shouldn't also be the first to throw away Schelling Points and Chesterton Fences." post, including why Truth is a very dangerous thing to teach humans and their fucked up brains, and maybe a defense of Reason primarily as debating tool, and how turning it into a truth-finding tool destroys a lot of complex equilibria. Maybe add in how historically most slippery slope arguments have been correct, regardless how reasonable the case may have seemed.
+
+It would be fun to read. By now it's just contrarian porn, and so it probably shouldn't be written. But it would be fun to read. 
+<% end %>
+
+---
+
+Wrote a [Ruby gem for Beeminder's API][Beeminder gem] and a [simple Fitocracy cronjob][Fitocracy script]. I is automatic cat, I can has lazy.
+
+---
+
+Did some more Nurgelian practice. Figured out one problem I cannot describe. (I tried. Sorry.) Helped somewhat with disentangling Slaanesh (transgression, intensity, ecstasy) and Nurgle (acceptance, decay, synthesis). 
+
+However, I seem to have "lost" corpse meditation. I tried one longer session, with all the visualizations[^vis] and whatnot, and it just doesn't work for the intended purpose.
+
+You know how in Asterix, they're sailing across the ocean and meet some pirates, and the pirate captain gives a speech about he's about to cut their throat, and when he gives the word, his men will board their ship, and the same moment Asterix is like, "Come on, board 'em!" and they take over the pirate ship instead? Exactly that happens to me. I turn on the disgust, and *wham* it floods everything else and becomes this highly intense and peaceful state, and I'm being eaten by maggots and I love the shit out of it, and my skull rots away and I'm drifting into absorption land, and spiders crawl into my mouth and I'm happy.
+
+I mean, it's a lot of fun. But I don't think Theravada would approve.
+
+I've *tried* getting the "AAH DISGUST TAKE IT AWAY" emotional state back, but I just can't. I'm now *way* over in guro land. That was fast. Of course, the magnificent [Jonathan Wojcik made the point][Bogleech Spiders] that it takes only 2 hours to cure even severe arachnophobia. So getting them to find disgusting and decaying things *pretty* and cute should only take another hour of /b/ or something like that.
+
+I've also noticed that this shifts my intuitive attitude towards life and death. I've always liked death, aesthetically, but now I really like life and its inevitable blooming, decay and rebirth too. That's quite new. (And it's only an aesthetic change, but I find it surprisingly hard to keep it out of other judgments. I shouldn't, but I think I'm still underestimating the importance of Beauty as an argument in itself.)
+
+<% skip do %>
+Have you accepted maggots into your heart? They are quite hungry. As you have eaten Azathoth's children, so [they would like to eat you][Gaia]. Don't be a pessimistic [negentropist][negentropy], be a *pos*entropist!
+<% end %>
+
+[^vis]: Not visual visualization 'cause I'm mostly blindsighted, but kinetic imagination etc., but there isn't a good word for that.
+
+---
+
+<% skip do %>
+I had a dream. The details are irrelevant, but the setting was weird for me. As usual, I was in school, but it was a *new* school, with dozens of new unique characters I've never met, detailed locations I don't know, but *all* of which I was kinda familiar with in the dream. Apparently whatever designs dreams finally got the hint that I was bored with my actual old school and now I got a reboot. I approve.
+
+(Also, I apparently was doing fMRI sessions during class. I don't remember what for, but if the KGB is secretly reading my brain and trying to distract me with mystic subtexts, then it's working. I hope they'll let me know if they find out what's wrong with me.)
+<% end %>
+
+---
+
+<% skip do %>
+I've taken the [Political Compass][] regularly for like a *decade* or so. My trajectory looks roughly like this:
+
+<%= image("compass.png", "Political Compass") %>
+
+Some of the questions are increasingly "not even wrong". Like, there's "In criminal justice, punishment should be more important than rehabilitation. (Agree/Disagree)". I think that's a false dichotomy.
+
+I agree that rehabilitation is very important for *society* (when possible - I think a good case can be made that many criminals *can't* be efficiently rehabilitated and that more use of exile, death penalty etc. might be appropriate). I don't think locking up potheads does anyone any good, and lots of "criminals" really need therapy sessions and psychiatric help, not prison. (And whoever came up with the clever idea to put all dangerous criminals in the same place so they could teach each other to be even more criminal should be shot.)
+
+But at the same time, punishment and purification are very important *morally* for the *criminal's* sake. "An eye for an eye, a tooth for a tooth" is - morally - a very good practice. (It also has significant game theoretic advantages, but those aren't the point. I would support it even if it did nothing but harm.)
+
+So to slightly caricature myself, I'm *both* for Sharia Law and Legalizing It (and I think medieval institutions did a much better job here than post-Enlightenment ones), so what exactly is my answer to the original question? I went with "agree", but "punish first, then rehabilitate if (efficiently) possible, otherwise (permanently) remove from society" would be my *real* answer. (And I don't see much use for prison as such, except for temporary confinement before a trial.)
+
+So yeah. My current position does not mean I'm much of a centrist, but more that I'm too far out of the mainstream for the compass to make much sense.
+<% end %>

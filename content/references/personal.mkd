@@ -42,3 +42,5 @@
 [gist revlog]: https://gist.github.com/3143132
 [Michel Thomas Anki]: http://muflax.com/stuff/french_foundation.tsv
 [Beeminder addon]: http://beta.ankiweb.net/shared/info/3491889895
+[Beeminder gem]: https://github.com/beeminder/beeminder-gem
+[Fitocracy script]: https://github.com/muflax/scripts/blob/master/beemind-fitocracy
