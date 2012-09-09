@@ -134,6 +134,8 @@
 [Bogleech Spiders]: http://www.bogleech.com/halloween/hall12-spiders.html
 [Political Compass]: http://www.politicalcompass.org/
 [Gaia]: http://humon.deviantart.com/art/Mother-Gaia-207388674
+[Kindle Paperwhite]: http://www.amazon.com/gp/product/B008GEKXUO/
+[Yangming Influence]: https://en.wikipedia.org/wiki/Wang_Yangming#Influence
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -187,6 +189,8 @@
 [LW owen]: http://lesswrong.com/r/discussion/lw/7d1/scientifically_optimizing_education_hard_problem/
 [LW DI]: http://lesswrong.com/r/discussion/lw/7g3/what_direct_instruction_is/
 [LW skill]: http://lesswrong.com/lw/12s/the_strangest_thing_an_ai_could_tell_you/2ssn
+[LW quantum retro]: http://lesswrong.com/r/discussion/lw/ee4/debugging_the_quantum_physics_sequence/
+[LW dndis]: http://lesswrong.com/lw/6t9/dungeons_and_discourse_implementation/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html

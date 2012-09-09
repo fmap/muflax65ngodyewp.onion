@@ -1,25 +1,68 @@
 ---
-title: Sleep is Overrated
+title: I Don't Need A Mind Reader, I Need A Mind Writer
 date: 2012-09-06
-techne: :wip
+techne: :done
 episteme: :log
 ---
 
-Did the first half of my [epistemic tag][Epistemic State] update. I wanted to add more fine-grained distinctions, but I had a hard figuring out how to rank a metaphysical belief. The main problem of accurate belief assignments is that it depends on a good prior. But even getting a well-defined prior (i.e. one that isn't zero on the best answer, which is typically by making it non-zero everywhere) requires you to know what the hypothesis-space even *is*.
-
-Say you've only heard of consequentialism and nihilism, and nothing else. You hear the arguments and assign consequentialism a 60% probability and nihilism 40%. Now Kant comes along and blows your mind with deontology, but unfortunately you've already used up all the probability. Dammit, so you switch over to likelihood ratios. Consequentialism is at least as likely as deontology, and each is twice as likely as nihilism, so it's 2:2:1. Fine, if something better comes along, you can easily add it. But now how can you express how certain you are of consequentialism? You'd have to say "I give consequentialism 2:5 odds, compared to everything else I've heard", but for that to be meaningful, you'd *also* have to tell me *what else* you've heard.
-
-Compression sucks. But wait a minute - I'm a [Yangming][Wang Yangming]-ite, I believe in the unity of knowledge and action. Correct beliefs must result in virtue[^virtue] and vice versa. So why not just express *that*?
-
-[^virtue]:
 <% skip do %>
-Yangming only made the argument in case of moral beliefs and actions, but I think it should extended to the general case, but I also think morality should be extended to swallow everything. (Eventually.) I suspect (but I'm not sure) that Yangwing would agree with that.
+The new [Kindle Paperwhite][] looks really nice. Now if they also have a usable zoom function for PDF files[^skim], I'll buy one even though I already have a Kindle and do a lot of reading on my phone these days. Dammit, consumerism, why you so sexy?!
+
+[^skim]:
+    A good general skim function would be a blessing, but that will always be hard with e-ink's high lag. I can live with that and just skim on my laptop, but there's no excuse for their awful zoom function.
+
 <% end %>
 
-So now for anything that I believe in, to some degree, instead of saying how much I do believe in it, I'm saying what kind of duel I would accept over it. For a mild speculation, I'd . Sure, I'm likely to lose, but it sounds like fun and I don't mind losing. For something more serious, I'd fight you in Quake 3 *like a [man][Notch Q3]*. For the true hardcore stuff, I'd accept a fight to the death.
+I've also looked into electronic scales so I can finally find a practical way to sync my daily weight with Beeminder, but 100+ bucks just for that is way too much. So moved my current scales into my room instead. Also upped my weight loss commitment to 30$ and bought new slim jeans that are deliberately *slightly* too small for my current weight. Hope that's enough to lose those last 2-3kg.[^lose]
 
-If you challenge me, and you win, I concede the belief and accept whatever you hold. If I win, I expect you to do the same. Yes, I'm completely serious. No, there is no hardcore belief yet. (In public anyway.)
+[^lose]: I find those particularly tricky because I can't just go into full Weight Loss Mode without screwing over my workouts.
 
-Rules are outlined on the [Epistemic State][] page. I've yet to re-tag old pages. (That's the second half.)
+Speaking of Beeminder, I've also increased my Anki goal from 140 reps/day (1000/week) to 210 reps/day (1500/week) 'cause I have over 2 weeks of buffer already, and the new language cards have proven themselves. I'd like to go up even more, but it's better to be very conservative with Anki goals.
 
-(HT to Will for the idea.)
+(And did some bugfixing on the Beeminder gem.)
+
+---
+
+So I read one of [Mitchell's posts][LW quantum retro] and got reminded of backwards causality. That prompted me to think about the relationship between time and causality, and that reminded me that I have no clue whatsoever what "time" is.
+
+Then my curiosity went online and I wondered, can causation have loops? What implicaWHAM, short circuit, now a *whole bunch of shit* becomes possible, a lot more stuff makes sense, and what the fuck was I doing privileging "you can't change the past" in my thinking, and oh my gods I'm updating on *everything* EMERGENCY BRAKES ENGAGED.
+
+Sigh. I finally gotta solve metaphysics, yo. I can't go on like this.
+
+---
+
+Worked on the morpheme database. I now wonder why exactly I wanted one anyway, but implemented it anyway. (I'll remember soon enough.) Now all with shiny SQLite and whatnot. At least it's a bit faster now and the code sucks a lot less.
+
+Also finished subs2srs support and all the card types. So now Everything Works. Generated a new bunch of cards, next iteration here we go!
+
+---
+
+<% skip do %>
+Have you seen Robin Hanson's avatar on Disqus? It looks like this:
+
+<%= image("hanson.png", "Hanson Avatar") %>
+
+Holy shit! He's not even trying to hide the evil anymore! He always had this lingering "psychopath about to screw you over" smile befitting an economist, but that right there is outright anti-christ material!
+
+Please no, Robin, not my signals, no! Don't take them away from me! No! Aaaaah!
+<% end %>
+
+---
+
+<% skip do %>
+Had a minor enlightenment.
+
+You probably know Yvain's [Dungeons and Discourse][LW dndis]. (If not, you should. The top comment is mine btw.) Since its release, I've occasionally thought about how to translate certain philosophical / theological ideas into the game.
+
+My favorite hammer is of course the unity of knowledge and action. The obvious way to implement that was to make it a skill that allows a character to do anything they sufficiently understand and vice versa. Basically their "knowledge of X" and "ability to do X" skill levels are always identical. Explain to them in sufficient detail how martial arts work, they instantly know kung-fu. But that always seemed a bit bland.
+
+For a while, I've been thinking about time travel, and how I would identify myself. Like, future-me walks in, what can they say that makes it clear to me it's me, not just my doppelgänger or some psychiatrist trolling me. (Or my future self, having earned a psychiatry degree in the meantime, gettier'ing me by showing up with what looks like me, but is an actor, who's been trained in advance to act as if he were me by me, so that my model is right for all its predictions, but utterly unjustified. I'd totally do that to me.)
+
+Anyway, I always thought that those elaborate passwords other nerds use to identify themselves seemed a bit weird. I could just, you know, talk about a private memory I never shared, like my first experience of love. I can always expect me to know that, unless I have to convince, like, 3-year-old me, in which case why bother?
+
+So today I was cooking some sweet pasta, and I thought, hey I have this linguistic quirk in German where I use the wrong gender for a certain item because I learned it wrong as a child or something, I could use that. No, I talked about this once on Usenet, *way* back, that wouldn't do. But wait - if someone went through all that trouble, researched me *that* well, shouldn't we team up anyway, screw the identity? I instantly thought, that's fine, anyone who understands me is automatically *like* me. If you look into the muflax, the muflax looks back at into you, right?
+
+Then, enlightenment. *Unity of knowledge and action*, bitches. Anyone who understands me, is not just like me, but must act like me, and so *is* me. Thus, the skill should really be a passive feat, a truly eldritch ability, reserved for an [Ancient Chinese Vampire][Wang Yangming] who can't seem to die. Many adventurers have tried to kill him, but in preparation of their quest, they have studied their foe, and to their horror, the more they learn about him, the more they *become* like him. Chessmasters have plotted against him, but as they predict his actions, the knowledge takes over their minds and turns them into his willing minions. [Whole empires][Yangming Influence] have fallen under his influence merely from studying his texts, and like a certain [Greek Vampire][Aristotle], even the wisest of men have failed to defeat him in battle yet.
+
+There is only one hope - a hero capable of controlling their own ignorance. One day they will rise to the Vampire's challenge and fight what they do not know, for they are the Knight of Cognitive Dissonance.
+<% end %>
