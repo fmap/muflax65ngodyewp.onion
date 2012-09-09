@@ -5,6 +5,7 @@ techne: :done
 episteme: :fiction
 ---
 
+<% poem do %>
 After the Singularity  
 I will wear new bodies,  
 fitting shells for my mind,  
@@ -102,3 +103,4 @@ chasing the perfect phrase.
 After the Singularity  
 I will no longer  
 need justifications.  
+<% end %>

@@ -6,13 +6,22 @@ def meta &block
   end
 end
 
+# wrap in div tags
 def div_wrap tag, text
   "<div class='#{tag}' markdown='1'>#{text}</div>"
 end
 
+# don't parse this when counting words
 def skip &block
   annotate block do |c|
     c unless @item_rep.name == :wordcount
+  end
+end
+
+# replace end-of-line with "  " used by markdown
+def poem &block
+  annotate block do |c|
+    c.split("\n").join("  \n")
   end
 end
 
