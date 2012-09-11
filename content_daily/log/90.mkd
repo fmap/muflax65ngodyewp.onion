@@ -1,0 +1,64 @@
+---
+title: South America Has Good Red Wine
+date: 2012-09-11
+techne: :done
+episteme: :log
+---
+
+> Donnons-nous à manger à l'Inconnu, non par désespoir, mais simplement pour enrichir les insondables réservoirs de l'Absurde. (Manifeste du Futurisme)
+
+Upgraded my Fitocracy goal from 35 to 50 points/day. (For comparison, 5 close-grip chin-ups are 28 points.) So I'm now at 5x my original rate. I *think* I can go up to 100 points/day, but I'm not sure if I regenerate fast enough, so I'll informally try to go as high as possible, but only enforce 50/day until I have a week or so of data.
+
+For calibration, I checked this week's leading <del>meat bag</del> athlete on Fitocracy who also relies on bodyweight exercise. I found it quite motivating that exercise-wise, he's not doing anything different from me, and in some cases, even does about as many reps per set as I am. (And where he's clearly superior, he's still in a range I consider physically possible, even for me (in due time). It's not like he's lifting trucks or something.) He's just doing *a lot* more sets, and with 100/set, he earns >8000/workout.
+
+So new goal: move up to 200/day asap. That would finally put me in the better half[^half] of Fitocracy users.
+
+[^half]:
+    <% skip do %>
+    Right now, I currently earn ~500 points/week. Fitocracy had ~22k active users on its leaderboard this week. The thresholds for percentiles are:
+
+    - 90% -> 150/week
+    - 75% -> 450/week
+    - 50% -> 1,200/week
+    - 25% -> 2,800/week
+    - 10% -> 5,000/week
+    - 1% -> 12,300/week
+    - best (bodyweight) -> 57,000/week
+    - best -> 183,400/week (wtf?)
+
+    <% end %>
+
+This might be the first time I'm actually feeling ever-so-slightly competitive about something others are actually better at. I'm nourishing the shit out of this emotion because I'll need a lot more of it.[^more]
+
+[^more]:
+    <% skip do %>
+    Whenever I get bored with push-ups, I remind myself that every time I successfully pushed myself up, I have overcome the gravitational pull *of the entire planet Earth*. There's 10^50 of those little atomic fuckers doing their best to keep me down, *and they have all failed*, *every single time*.
+    <% end %>
+
+---
+
+Fiddled more with the subs2srs cards. Don't have the perfect mix yet, but getting there. Also converted a whole bunch of episodes.
+
+---
+
+> Il n'y a plus de beauté que dans la lutte. Pas de chef-d'œuvre sans un caractère agressif. La poésie doit être un assaut violent contre les forces inconnues, pour les sommer de se coucher devant l'homme. (Manifeste du Futurisme)
+
+Sigh.
+
+Tried to write about ambiguity, couldn't get it to work.
+
+There's this weird territory of magic you can't talk about. It's not that it's *forbidden*, it's just that it's impossible. It fundamentally runs on ambiguity. It's like Mitch said:
+
+> I think Bigfoot is blurry, that's the problem. It's not the photographer's fault. Bigfoot is blurry, and that's extra scary to me. There's a large, out-of-focus monster roaming the countryside. Run, he's fuzzy, get out of here.
+
+I'm not sure if I'm becoming *way* more powerful or going insane again. I'm sitting on more and more incommunicable evidence, and results that work only *because* they are ambiguous and uncertain. The power balance in my head is shifting dramatically. I've given the Taoist a bit more freedom, and now he's running the show. He has resolved half our problems already and vastly improved everything else. I'm not exaggerating - I went through that old 200+ item list of Everything That Is Wrong With My Life and *every single item* has made progress and it's now, like, a 20 item list.
+
+But I *can't* clarify how he does it, what attitudes he induces, what beliefs needed hacking. I can't even *understand* them because that would remove the necessary ambiguity.
+
+There's this quote from some weird crackpot text I once read. It goes like this:
+
+> Q: How can I flow in time? A: You are already flowing in time. Stop flowing out of time.
+
+That's how I feel.
+
+Sigh.
