@@ -19,6 +19,12 @@ def episteme_title status
     "semi-believed"
   when :discredited
     "not believed"
+  when :fitness
+    "fitness challenge"
+  when :quake3
+    "Quake 3"
+  when :death
+    "fight to the death"
   else
     status.to_s
   end

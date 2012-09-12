@@ -276,3 +276,4 @@
 [negentropy]: https://en.wikipedia.org/wiki/Negentropy
 [Aristotle]: https://en.wikipedia.org/wiki/Aristotle
 [Sita Sings The Blues]: http://www.sitasingstheblues.com/
+[trial by combat]: https://en.wikipedia.org/wiki/Trial_by_combat
