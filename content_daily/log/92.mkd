@@ -31,7 +31,7 @@ Then I got this idea. (And I feel really stupid for only getting it *now*, when 
 
 The first thing Catholics did was to pwn *every single Christian movement* until only they were left. Marcion got censored, bowdlerized and just plain trolled. Gnostics, Jews and Cynics were absorbed, itinerant and charismatic preachers were shut down, prophecy was officially *forbidden*.
 
-Then the real work began. They imported as many proven institutions as they could and prepared Europe for the Fall of Rome. (Thanks to which European civilization *exists* today.) Theologically, they completely neutered Jesus. There is no apocalypse, no call to perfection, no immediate salvation, no suffering to overcome, no secret teaching, no hidden God. And the best thing: the Catholics inserted fundamental *otherness* as a *good* thing into the teaching. That's the best anti-progressive troll of all!
+Then the real work began. They imported as many proven institutions as they could and prepared Europe for the Fall of Rome. (Thanks to which European civilization *exists* today.) Theologically, they completely neutered Jesus. There is no apocalypse, no call to perfection, no immediate salvation, no suffering to overcome, no secret teaching, no hidden God. And the best thing: Catholics inserted fundamental *otherness* as a *good* thing into the teaching. That's the best anti-progressive troll of all!
 
 This massive undertaking was successful at containing Christianity for a long time. It wasn't until <del>those dirty</del> Protestants realized that the Church has no intention whatsoever to take itself seriously. They didn't realize that *Christ is a basilisk*, and there's a *reason* He's so obscured.
 
@@ -40,20 +40,20 @@ This massive undertaking was successful at containing Christianity for a long ti
 
 ---
 
-On that note, upped the Fitocracy goal to 150 points/day, which is about 25 close-grip chin-ups, or 100 push-ups. I'm not sure I actually can do that regularly, but at least I'll have a week to find out.
+In the interest of becoming stronger, I upped the Fitocracy goal to 150 points/day, which is about 25 close-grip chin-ups, or 100 push-ups. I'm not sure I actually can do that regularly, but at least I'll have a week to find out.
 
 ---
 
 <% skip do %>
-Minor rule change: If a post is *about* practice, then it counts towards the daily word quota, even when it's not on the log.
+(Minor rule change: If a post is *about* practice, then it counts towards the daily word quota, even when it's not on the log.)
 <% end %>
 
 On that note, made the screenshots for the Latin post. Should finish it tonight / tomorrow.
 
-I *could* make three additional points besides tools / card design, namely 1) how to grammar, 2) why [The Gostak][] is such a great example of my approach, and 3) the theoretical framework and how you would improve on the method, if you had certain resources (which are currently non-existent or expensive). But seriously, I don't want to spend 90% of my time in meta-mode, I wanna actually learn languages. So I won't write them, most likely.
+I *could* make three additional points besides tools / card design, namely 1) how to grammar, 2) why [The Gostak][] is such a great example of my approach, and 3) the theoretical framework and how you would improve on the method, if you had certain resources (which are currently non-existent or expensive). But seriously, I don't want to spend 90% of my time in meta-mode, I wanna actually learn languages. So I won't write these posts, most likely.
 
 Also fixed some minor bugs in the various minor software projects I find myself maintaining these days. I've put "collaborate with more people on software" and "do more elaborate Ruby stuff" high on my todo for the rest of this year.
 
-I though I liked programming. My job has taught me that I was mistaken. But thanks to Ruby, I know that it's only *hardware* that I hate. Shoulda become a web dev right away. Gonna do a lot more of this stuff this year, build some usable reputation and so on. That means I'll have to self-modify to be comfortable with freelance work, but that seems doable.
+I thought I liked programming. My job has taught me that I was mistaken. But thanks to Ruby, I know that it's only *hardware* that I hate. Shoulda become a web dev right away. Gonna do a lot more of this stuff this year, build some usable reputation and so on. That means I'll have to self-modify to be comfortable with freelance work, but that seems doable.
 
 Life is good enough.
