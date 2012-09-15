@@ -1,0 +1,59 @@
+---
+title: I'm a lumber jack and I'm ok...
+date: 2012-09-15
+techne: :done
+episteme: :log
+---
+
+Finished The Work Project. Well, its first incarnation anyway. Lesson learned: you can slack off for an entire year, do a half-assed job in one week, rush everything, scratch 80% of what you promised, and still be Good Enough. Well, not really, but you won't get fired, and that's all that counts, right?
+
+I am gaining so much valuable Work Experience.
+
+---
+
+<% skip do %>
+(I initially wrote a long-ish rant about modus pwnens vs. modus trollens, and an important related failure mode. I then considered the rant harmful, and so deleted it. This is slightly unfortunate because I reached kind of an important conclusion, which now I can't even mention.
+
+Alas. I'll just have to become stronger, and write a new version later, one worthy of being published.)
+<% end %>
+
+---
+
+<% skip do %>
+There is one idea though that I've been thinking about recently. I wondered, what exactly makes the Catholic Church *not* progressive, in the Moldbugian sense? It has been argued that Christianity *is* progressivism (and vice versa), and that seems really plausible to me. It's fundamentally a monist, universalist, transgressing salvation movement.[^anti]
+
+[^anti]:
+    I sometimes wonder, just for the lulz, what would the most *un-progressive* kind of belief system look like? It would have no salvation, no deliverance, no unity, no equality, no hope, no mercy. It would be painful, and gladly so. It would have strict hierarchies you couldn't even in principle overcome. There would be no goal, and only purity. It would *want* you to be alone, sick and other. 
+
+    It sounds pretty good, actually.
+
+Then I got this idea. (And I feel really stupid for only getting it *now*, when I've personally *argued* every single component of it before.) Catholicism is a *containment procedure*. The point of the Catholic faith is to *defeat* Christianity. It's a *long troll*.
+
+The first thing Catholics did was to pwn *every single Christian movement* until only they were left. Marcion got censored, bowdlerized and just plain trolled. Gnostics, Jews and Cynics were absorbed, itinerant and charismatic preachers were shut down, prophecy was officially *forbidden*.
+
+Then the real work began. They imported as many proven institutions as they could and prepared Europe for the Fall of Rome. (Thanks to which European civilization *exists* today.) Theologically, they completely neutered Jesus. There is no apocalypse, no call to perfection, no immediate salvation, no suffering to overcome, no secret teaching, no hidden God. And the best thing: the Catholics inserted fundamental *otherness* as a *good* thing into the teaching. That's the best anti-progressive troll of all!
+
+This massive undertaking was successful at containing Christianity for a long time. It wasn't until <del>those dirty</del> Protestants realized that the Church has no intention whatsoever to take itself seriously. They didn't realize that *Christ is a basilisk*, and there's a *reason* He's so obscured.
+
+*You can't handle the truth and the way and the life!*
+<% end %>
+
+---
+
+On that note, upped the Fitocracy goal to 150 points/day, which is about 25 close-grip chin-ups, or 100 push-ups. I'm not sure I actually can do that regularly, but at least I'll have a week to find out.
+
+---
+
+<% skip do %>
+Minor rule change: If a post is *about* practice, then it counts towards the daily word quota, even when it's not on the log.
+<% end %>
+
+On that note, made the screenshots for the Latin post. Should finish it tonight / tomorrow.
+
+I *could* make three additional points besides tools / card design, namely 1) how to grammar, 2) why [The Gostak][] is such a great example of my approach, and 3) the theoretical framework and how you would improve on the method, if you had certain resources (which are currently non-existent or expensive). But seriously, I don't want to spend 90% of my time in meta-mode, I wanna actually learn languages. So I won't write them, most likely.
+
+Also fixed some minor bugs in the various minor software projects I find myself maintaining these days. I've put "collaborate with more people on software" and "do more elaborate Ruby stuff" high on my todo for the rest of this year.
+
+I though I liked programming. My job has taught me that I was mistaken. But thanks to Ruby, I know that it's only *hardware* that I hate. Shoulda become a web dev right away. Gonna do a lot more of this stuff this year, build some usable reputation and so on. That means I'll have to self-modify to be comfortable with freelance work, but that seems doable.
+
+Life is good enough.

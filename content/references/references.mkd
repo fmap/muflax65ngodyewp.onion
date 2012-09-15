@@ -136,6 +136,8 @@
 [Gaia]: http://humon.deviantart.com/art/Mother-Gaia-207388674
 [Kindle Paperwhite]: http://www.amazon.com/gp/product/B008GEKXUO/
 [Yangming Influence]: https://en.wikipedia.org/wiki/Wang_Yangming#Influence
+[Jim's Blog]: http://blog.jim.com/
+[SU GDP]: http://charleskenny.blogs.com/weblog/files/russ6.pdf
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -258,6 +260,9 @@
 
 <!-- Yvain Disease -->
 [Yvain Disease]: http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/
+[Yvain Creepiness]: http://squid314.livejournal.com/328267.html
+[Yvain social]: http://squid314.livejournal.com/322213.html
+[Yvain Worst]: http://squid314.livejournal.com/323694.html
 
 <!-- reddit -->
 [reddit lain]: http://www.reddit.com/r/AskReddit/comments/t0ynr/throwaway_time_whats_your_secret_that_could/c4inqul
