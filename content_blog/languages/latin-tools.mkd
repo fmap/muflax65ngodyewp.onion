@@ -1,78 +1,122 @@
 ---
 title: Reading Latin (Part 2)
-date: 2012-07-04
-techne: :wip
-episteme: :speculation
+date: 2012-09-18
+techne: :done
+episteme: :believed
 ---
 
-This is the second post in a 2-part series about learning to read Latin, or any language, really. See [Part One - Methods and Mindset][Reading Latin (Part 1)] first. This is Part Two - Tools and Examples.
+This is the second post in a 2-part series about learning to read Latin, or any language, really. See Part One, [Methods and Mindset][Reading Latin (Part 1)] first. This is Part Two, Tools and Examples.
 
 ---
 
 > Vorwärts immer, rückwärts nimmer! (Always forwards, never backwards!)
+>
+> -- [Erich H.][Erich Honecker] on mechanism design
 
-How would one learn to read Latin, [systematically][AJATT system]? Well, it only needs to fulfill two requirements.
+So you want to read Latin. If only you had a [system][AJATT system]! Well then, let's design one! There are only two rules to follow.
 
-First, **the rate at which you learn new stuff must be greater than the rate at which you forget old stuff**. If that is not the case, then you're the poor shmuck trying to save the Titanic by being really fast with your single bucket. But if your skill always increases, even if just a little bit, then as long as you keep going, You Will Win. There are no dead-ends for [monontonic functions][monotonic], my friend.
+First, we need to guarantee victory. That's actually a really simple requirement. We just have to make sure that *the rate at which you learn new stuff is always greater than the rate at which you forget old stuff*. If that is not the case, then you're the poor shmuck who thinks they can save the Titanic with only a bucket if they're just fast enough.
 
-"But", I hear you lament, "maybe it gets really hard at some point! I'm a lazy-ass learner and I hate any effort whatsoever!" My, how honest of you! But don't worry - me too. Keep the effort for the workaholic law school students, we'll be eating pizza and reading Roman poetry instead.
+But if your skill always increases, even if just a little bit, then as long as you keep going, you will win. There are no dead-ends for [monotonic functions][monotonic], my friend.
 
-This brings us the other rule: *every single step along the way must be doable*. It must always be easy. *Always*. No "[three easy payments and one fucking complicated payment][Mitch payments]".
+"But", I hear you lament, "maybe it gets really hard at some point! I'm a really lazy person and I hate to put in any effort whatsoever!" My, how honest of you! But don't worry - me too. Keep the effort for the workaholic law school students, we'll be eating pizza and reading Roman poetry instead.
 
+This brings us the other requirement: *every single step along the way must be doable*. It must always be easy. *Always*. No "[three easy payments and one fucking complicated payment][Mitch payments]".
 
-Fortunately, there are plenty of such systems. Here is mine.[^installation]
+And that is all. If every step is doable, and every step moves you forward, you *will* win. Taste that sweet inevitability! It's the taste of victory.
 
-Anki as ratchet.
+So how do we actually implement these two rules? The first is easy. We just use [spaced repetition][SRS].[^srs] Done. Isn't it nice to deal with solved problems? So now we have a ratchet, a system that cannot turn *backwards*. The only remaining step is making sure we can always turn it *forward*.
 
-Grammar as ease guarantee.
+[^srs]:
+    I recommend [Anki][], especially the new [Anki 2][] and [AnkiDroid][] versions. But it's not too important what kind of SRS you use, as long as you're comfortable with the tool. Heck, write your own, the core algorithm is literally just a few lines of code. The rest is just fancy interfaces and stuff. I also recommend you use [Beeminder][] to further [strengthen your ratchet][Beeminder Habit].
 
-You should learn just enough grammar to recognize the general structure of a sentence. Don't bother memorizing any rules or, heavens forbid, conjugation tables, just get the structure.
+[^grammar]:
+    I feel like I should at least *mention* grammar because people make such a big deal out of it, but personally, I found it utterly useless beyond a very basic breakdown.
 
-Noun, verb, modifier, glue.
+    I think there are four categories of words worth paying attention to. Let's call them "nouns" (i.e. things), "verbs" (actions), "modifiers" (anything that changes the meaning of another word, but isn't really meaningful on its own, like "fat", as in "your fat momma"), and lastly "glue" (stuff that keeps the sentence together, like "and"). Once you know enough about a language to pick out those four categories at sight, even when you don't know what the words mean, you're done with grammar.
 
-So what's important?
+    Learning this takes just a few days at most. You might be able just skim through wiki-sama or a random textbook and pick them up. It took me all of 2 days to be able to do that in Japanese, back when I knew only a few dozen words (and [all the kanji][RTK]). Just use your meta, and treat all those inflections and crap as mere additional words to learn.
 
-First, we want to understand the sentence. That's the whole point of this journey after all. Not to brag how large our vocabulary is, or how we know what an ablative is, or how intelligent it would makes us look when we tell our friends we're fluent in Latin. No, *we want to actually read texts*. People forget that, sometimes.
+    But don't trust me, trust a [dead Polish veteran][Michel Thomas].
+ 
+Here we use what [Krashen][] calls "i+1", which just means we treat the language as huge list of small items that need be learned (or bugs to be fixed). There may be 10,000 of them, but that doesn't matter. We have a ratchet. Bring it on!
 
+But remember what we're here for - *reading Latin*. Not doing senseless exercises all day. Not meeting [a bunch crazy people talking about where stuff is][Bald Soprano] or learning about [how the Romans hated money][Dowling Latin]. Not to brag how large our vocabulary is, or how we know what an ablative is, or how intelligent it would makes us look when we tell our friends we're fluent in Latin.[^laid] No, *we want to actually read texts*. And if a text doesn't *at least* have some pirates or sexual innuendos in it, we're not interested. That's the whole point of this effort after all. People forget that sometimes.
 
+[^laid]: If flaunting your Latin skills *does* get you laid and no one told me, I'll be so pissed.
 
+So we just do the straightforward thing - we *read texts*. And if you're as lazy as I am (and this is the internet, so I know you are), you don't want to do Anki sessions at one time, and reading sessions at another time. You can barely do *one* thing, you'd never do *two* things, let alone keep them synchronized. So just move the text *into* Anki. Meet the sentence card:
 
+<%= image("anki_hint.jpg", "Anki Sentence Card") %>
 
-So what kind of cards do you generate? There are three kinds.
+Read the sentence, try to understand it, compare with the translation[^trans] on the answer side. That's too hard, even with the bit of context before and after? I hear ya. That's why we put a hint on difficult cards. It contains the full translation of the sentence, like this:
 
-The most important card is the "do you know this word?" card. It looks like this:
+<%= image("anki_sentence.jpg", "Anki Sentence Card (hint shown)") %>
 
-<%= image("anki_word.jpg", "Anki Word") %>
+[^trans]:
+    Where do you get the translation? You *could* use a proper translation, maybe through a bilingual reader, line up the sentences and all that crap, but we're lazy. So we'll just use Google Translate. Yes, really.
 
-You are given a sentence with some extended context, and a single word is highlighted. If the sentence is a bit tricky, (e.g. because it contains multiple unknown words), you are also given the full translation. The point is not to get the sentence - only one word.
+    Let me generalize this point: if you have the choice between a good but labor-intensive option, and a half-assed but cheap option, *you go with the cheap one*. Your most important resource is fun. If you run out of fun, *it's over*. Deleting 30% of your sentences because the automatic translation sucks and you don't understand what's going on? You'll still do 70%, you'll still read most of the text, you'll still be fluent in time. Run out of fun? Game over.
 
-Do you know what "mensum" means? Yes? Pass. No? Fail.
+    By the time you have manually entered or corrected even one chapter, I'll have done hundreds if not thousands of reviews, despite having to delete 10-20% of new cards. If you still think manual design is worth your time, I'm not impressed by your priorities.
 
-The answer looks like this:
+"Wait a minute", I hear you think, "if the translation is already on the question side, isn't that *too easy*?", to which I reply, of course it is! That's the point!
 
-<%= image("anki_answer.jpg", "Anki Answer") %>
+You couldn't actually read the whole sentence without any help right now. But you still want to expose yourself to the real language, and learn what the sentence means. You'd still like to know what these Romans had to say about dealing with uppity Germans. But due to i+1, everything on the question side should always be known *except for one thing*, which is the new piece of information to be learned. So we have to use extensive hints, and in this case, a full translation. Later on you'll rely less on hints, of course.
 
-(Yes, this is for a different word. Fuck consistency.)
+But wait, there's more! Look at all those *words* in this sentence. You probably don't know those words. So let's make word cards:
 
-It contains the full dictionary translation. This is enough for us to figure out what the word means, most of the time. If not, we just delete the card. Eh, it's a target-rich environment and there are thousands of unknown words. Volume matters, individual cards don't.
+<%= image("anki_cloze_question.jpg", "Anki Cloze Card (question)") %>
 
-As your skill grows, you switch more and more to production cards, like this:
+And put the dictionary definition on the answer side:
 
-<%= image("anki_produce.jpg", "Anki Production") %>
+<%= image("anki_cloze_answer.jpg", "Anki Cloze Card (answer)") %>
 
-Now you are given the translation of the word, and must produce the Latin word. At first, does cards are rare. They are slower, harder and there's no use doing them before you actually know some words. Of the first 200 or so cards, only 2 are production cards. But as your skill grows, you will transition almost entirely to these cards.
+(And yes, that's a different sentence. Consistency, who needs it, amirite?)
 
-But before you learn
+With the help of the sentence translation, general context and the full dictionary entry, we can figure out what the word means, most of the time. If not, we just delete the card and move on. Eh, it's a target-rich environment and there are thousands of unknown words. Volume matters, individual cards don't. The same goes for thoroughness: just pick *some* new things. (And old words you still don't quite know count as new.) Don't force yourself to learn every single unknown word of every sentence. Just keep incrementing this i. (And please, for the love of all that is awesome, [delete boring cards instantly][ajatt delete].)
 
-<%= image("anki_sentence.jpg", "Anki Sentence") %>
+Once you're more familiar with a word, we move in the opposite direction, and do production cards:
 
-Don't worry too much
+<%= image("anki_prod.jpg", "Anki Production") %>
 
-Are these tools user-friendly, well-documented and thoroughly tested? Bwahaha, *hell no*. Do they work? Sure, most of the time.
+And for variation, we can also use production cards that give the base form of a word and need to be inflected:
 
+<%= image("anki_base.jpg", "Anki Production (base)") %>
 
-- LingQ
-- https://code.google.com/p/fltr/
+These three card types are our bread and butter.[^cards] (Well, nuts and butter, if you're paleo.) Pick a text you'd *actually* like to read, not some artificial textbook crap, turn it into sentence cards, add word cards after each sentence so you can do your vocab during your reading, and do your reps every day. That's it. Come back to me after you've done a few thousand of those cards and are still allegedly unable to read Latin. I'll compensate you with free pictures of at least 3 kittens, I promise.
 
-[^installation]:
-    Bla.
+[^cards]:
+    There are a few more card types I find useful, though not always for Latin. There's the reading card, for words with unknown pronunciation:
+
+    <%= image("anki_reading.jpg", "Anki Reading") %>
+
+    In case you have access to movies or TV shows, you can use [subs2srs][] to generate fantastic raw material for listening cards:
+
+    <%= image("anki_listen.jpg", "Anki Listen") %>
+
+    In this case, I recommend you escalate how much you show. For completely new stuff, play the sound, put on the transcript and the translation. Then as words become more familiar, leave out the translation, and when all words are known, play only the sound.
+
+    And finally, once you have sentences where you already know everything, you can turn them into complete production cards. You only show the sentence / play the sound, and then you look away and repeat the sentence *from memory*. This forces you to create a mental model of the sentence, and is a great way to effortlessly activate your passive skills. It just looks like this:
+
+    <%= image("anki_repeat.jpg", "Anki Repeat") %>
+
+    Generally speaking, you cannot say what you do not understand, so production should always follow comprehension. If you're at all unsure if what you're saying is right, you probably shouldn't be speaking, even if you're just repeating.
+    
+
+So now that we know the design of our system and all its components, how do we actually *make* the cards?
+
+We enter them by hand, every single one of them.
+
+Bwahaha, *of course not*. What, do we look like we have too much free time? We're busy with this Catullus dude!
+
+The easiest way to get started is probably to use something LingQ-like. You put in the text, it highlights your unknown words, and you can select which ones you'd like to see on cards later. It's not *quite* fully integrated and effortless, but it's pretty good. So check out [LingQ][], or one of its two [free][LWT] [clones][fltr].
+
+Or you're a hacker and write your [own, fully automated tool][mcd tool] that generates all cards in advance, because hey, predicting what words you'll like and in what order you should introduce them isn't very hard, so maybe our electronic slaves can do it for us.[^mcd] And then you just throw in a text, wait a few seconds for all your cards to come out, and you'll do reps for a few months, undisturbed, until it's time for a new text.
+
+Now go set up your ratchet and feed it words. It's so easy, children can do it *without* a system, so why aren't you kicking their collective asses already?
+
+[^mcd]:
+    Is my card tool user-friendly, well-documented and thoroughly tested? Bwahaha, *hells no*. Does it work? Sure, most of the time. I've done over a thousand cards with it already, and I'm very happy with the results. But it's very much a "works for me" kind of tool. If you're a hacker, you can probably get it running on any kind of *nix system with fairly minimal effort, but I don't have the time to make it actually user-friendly.
+
+    And if you complain how automatic cards are bullshit, you need to use The One True Method Of Efficient Teaching or how back in your days, You Made Cards By Hand Uphill Both Ways And You Liked It, you can suck my 7k+ deck.

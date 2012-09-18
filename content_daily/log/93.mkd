@@ -1,0 +1,64 @@
+---
+title: God's a DM, so His dice rolls are kinda fake
+date: 2012-09-18
+techne: :done
+episteme: :log
+---
+
+I'm beginning to think 2012 is not the end of the world, but the end of the Great Decline, what with all those [great games][Faster Than Light] coming out now and next year. Honestly, that's good enough for me. I'm not ready for the Apocalypse anyway. Can't even ride a horse yet.
+
+---
+
+<% skip do %>
+Semi-troll argument.
+
+It's pretty clear that humans aren't universal intelligences. We are exceptionally bad at some tasks that universal intelligences should be good at, like chess. (A decent CS student can easily write a chess program on their laptop that can beat most humans.[^chess]) At the same time, we are very good at other tasks that all known AI sucks at, [as observed by Moravec][Moravec's Paradox].
+
+[^chess]:
+    Even a chess grandmaster checks a minuscule amount of positions compared to an AI, and yet they can still kick ass, not by gaming the rules, but the *other player*.
+
+    Write a program that is non-agentic and half-decent at chess, and the human advantage disappears.
+
+What *are* humans good at? Motion, vision, modeling others. Most problems have to be transferred into these domains before humans can approach them. If you can't get a visual or kinetic model of a situation, you're probably stuck.[^stuck]
+
+[^stuck]: Minor simplification. Yes, you're a special snowflake that thinks through smell, I know.
+
+Vision and motion are obviously useful in our environment, but it leads to a spatialization of thought. (Compare Julian Jaynes.) What does the rest of our advanced faculties make the world look like? *Agents*.
+
+So through a human's eyes, everything is spatial and agent-y.[^obv] This has, however, not *hurt* our philosophy. Only [some of us][Plantinga naturalism] are (rightfully) surprised that understanding our immediate environment is nonetheless possible. Fewer still are also surprised that *reason* works, that we can even *do* philosophy and metaphysics. We certainly don't have a philosophy module, and philosophy being inherently spatial seems implausible. What is spatial about meta-ethics, exactly?
+
+[^obv]: Obvious connection to autism and schizophrenia as related biases.
+
+So it must be agent-y. That means the underlying structure of that what reason studies, must itself be agent-y, to a decent approximation at least. Thus, the study of reason through the lens of agents - theology.
+
+Checkmate, atheists.
+<% end %>
+
+---
+
+Finished the [Latin post][Reading Latin (Part 2)]. I mean, it's "do i+1, systematically, all ratchet like", and letting The Computer do all the chores. I feel like I'm simultaneously saying the obvious[^banal], and not making it clear enough why it's so awesome and (subtly) different from most methods. Eh, it's probably good enough, and if you share my motivations, you're probably getting value out of it, as it's exactly what I was looking for in Khatzu's writing and never found.
+
+[^banal]: "banal shit boring", as they say among gentlemen.
+
+I've also noticed something. I've tested all card types now, and while the relative composition might still change, I'm really happy with the results. It's even beginning to activate my passive skills. I'm fairly confident now that using merely these cards, I can become fully fluent in a language, up to a level where I can bootstrap the rest, without hitting any major problems along the way.
+
+But my approach is easily quantifiable. Breaking morphemes into individual features, there are about 10,000 "things" you need to learn for fluency. Maybe it's 15k, maybe just 8k, depending on familiarity, but let's do a basic Fermi calculation. I need about 2-4 cards per thing.  Let's say 4. Each one takes 7s per card on average. It takes about 7 repetitions for a card to be truly mature.
+
+That's a total effort of 10000 * 4 * 7 * 7 seconds, or 540 hours. That's *everything* up to boostrapable fluency in an unknown language. Probably half that in Latin. That also means I can learn *any* individual point in 3 minutes, and keep it for *years*. You have to be faster than 3 minutes and need retention of years for me to even *consider* your alternative proposal. And it better involve pirates.
+
+---
+
+I wrote some time ago that I unlocked First Plateau while sober. That's still true, at least as far as music is concerned. There are missing effects I thought didn't quite matter, like the changes to your feedback loops and motion stacking and all that, at least while listening to music.
+
+That's not true, unfortunately. I wouldn't have expected that my sense of gravity is actually affecting my appreciation of music, but it really is.[^grav]
+
+[^grav]:
+    Watch the dancer in [this video][99injections]. She *has* to be familiar with at least one NMDA antagonist. That movement is just so *dex*.
+
+And I can't add feedback delays through mere meditation. (Not yet  anyway.) I can turn off inputs, which causes some of the same stack distortions. I can add new inputs, and today I learned that I can override my size perception and [turn myself into Godzilla][Yü-Gung], crushing mere mortals under my feet. But it's just not the same.
+
+More practice and chemical supplements then until I'm On Dex By Default.
+
+---
+
+For the naive [sensate][Sensates], no world is a just world, for there is always something they can't experience themselves. For the experienced sensate, every world is just, for exclusion is experience, just as form is emptiness.

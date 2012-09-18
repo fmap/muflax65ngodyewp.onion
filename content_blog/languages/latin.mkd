@@ -2,12 +2,12 @@
 title: Reading Latin (Part 1)
 date: 2012-07-04
 techne: :done
-episteme: :speculation
+episteme: :believed
 ---
 
 This is the first post in a 2-part series about learning to read Latin, or any language, really. Even though the Four Evangelists - [Khatzu of the Moto clan][AJATT], [Steve "Doing What I Do, Better, Earlier and Getting Paid For It" Kaufmann][Steve Kaufmann],  [Prof. Alexander "The Shadow" Arguelles][Arguelles] and [Stephen "The" Krashen][Krashen] - have already brought us the Holy Scripture of Language Learning, my approach is slightly different, more hacker-friendly, and a bit more text-focused. [Saint Morph Man][MorphMan] covers TV, I cover books.
 
-This is Part One - Method and Mindset. Part Two - Tools and Examples - will be posted shortly. The whole thing is still considered experimental, not proven, despite the confident tone. Once results are clearer, this tentative warning will disappear, and the confidence will fit the results.
+This is Part One, Method and Mindset. Part Two is about [Tools and Examples][Reading Latin (Part 2)].
 
 ---
 

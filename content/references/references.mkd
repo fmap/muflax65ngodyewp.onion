@@ -138,6 +138,17 @@
 [Yangming Influence]: https://en.wikipedia.org/wiki/Wang_Yangming#Influence
 [Jim's Blog]: http://blog.jim.com/
 [SU GDP]: http://charleskenny.blogs.com/weblog/files/russ6.pdf
+[Faster Than Light]: http://www.ftlgame.com/
+[Moravec's Paradox]: https://en.wikipedia.org/wiki/Moravec%27s_paradox
+[Anki]: http://ankisrs.net/
+[Anki 2]: http://ankisrs.net/docs/dev/changes.html#_trying_it_out
+[AnkiDroid]: https://code.google.com/p/ankidroid/
+[Beeminder Habit]: http://blog.beeminder.com/habits/
+[Dowling Latin]: https://www.rci.rutgers.edu/~wcd/Latin.htm
+[ajatt delete]: http://www.alljapaneseallthetime.com/blog/deletions
+[LingQ]: http://www.lingq.com/
+[LWT]: http://lwt.sourceforge.net/
+[fltr]: https://code.google.com/p/fltr/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/

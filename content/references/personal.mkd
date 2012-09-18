@@ -25,22 +25,23 @@
 [comment Church]: http://blog.muflax.com/jesus/self-baptism/#comment-513169408
 
 <!-- software -->
+[Beeminder addon]: http://beta.ankiweb.net/shared/info/3491889895
+[Beeminder gem]: https://github.com/beeminder/beeminder-gem
 [Config]: https://github.com/muflax/config
+[Fitocracy script]: https://github.com/muflax/scripts/blob/master/beemind-fitocracy
 [Github]: https://github.com/muflax/
+[Michel Thomas Anki]: http://muflax.com/stuff/french_foundation.tsv
 [Pororo]: https://github.com/muflax/pororo
 [RBS]: https://github.com/muflax/scripts/blob/master/rbs
 [Source]: https://github.com/muflax/muflax.com
 [ashuku]: https://github.com/muflax/ashuku
+[avg_dmg]: https://github.com/muflax/scripts/blob/master/average_damage.rb
 [backup video]: https://github.com/muflax/muflax.com/blob/master/backup-videos.rb
 [daily screenshot]: https://github.com/muflax/scripts/blob/master/daily_screenshot.sh
 [fume]: https://github.com/muflax/fume
 [fumetrap]: https://github.com/muflax/fumetrap
+[gist revlog]: https://gist.github.com/3143132
 [github web history]: https://github.com/muflax/scripts/blob/master/google_web_history.rb
 [range_math]: https://github.com/muflax/range_math
-[avg_dmg]: https://github.com/muflax/scripts/blob/master/average_damage.rb
 [yonmokunarabe]: https://github.com/muflax/yonmokunarabe/
-[gist revlog]: https://gist.github.com/3143132
-[Michel Thomas Anki]: http://muflax.com/stuff/french_foundation.tsv
-[Beeminder addon]: http://beta.ankiweb.net/shared/info/3491889895
-[Beeminder gem]: https://github.com/beeminder/beeminder-gem
-[Fitocracy script]: https://github.com/muflax/scripts/blob/master/beemind-fitocracy
+[mcd tool]: https://github.com/muflax/MCD-card-generator

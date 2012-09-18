@@ -277,3 +277,5 @@
 [Aristotle]: https://en.wikipedia.org/wiki/Aristotle
 [Sita Sings The Blues]: http://www.sitasingstheblues.com/
 [trial by combat]: https://en.wikipedia.org/wiki/Trial_by_combat
+[Erich Honecker]: https://en.wikipedia.org/wiki/Erich_Honecker
+[Bald Soprano]: https://en.wikipedia.org/wiki/The_Bald_Soprano
