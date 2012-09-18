@@ -15,7 +15,7 @@ This is the second post in a 2-part series about learning to read Latin, or any 
 
 So you want to read Latin. If only you had a [system][AJATT system]! Well then, let's design one! There are only two rules to follow.
 
-First, we need to guarantee victory. That's actually a really simple requirement. We just have to make sure that *the rate at which you learn new stuff is always greater than the rate at which you forget old stuff*. If that is not the case, then you're the poor shmuck who thinks they can save the Titanic with only a bucket if they're just fast enough.
+First, we need to guarantee victory. That's actually a really simple requirement. We just have to make sure that *the rate at which you learn new stuff is always greater than the rate at which you forget old stuff*. If that is not the case, then you're the poor shmuck who thinks they can save the Titanic with a bucket if they're only fast enough.
 
 But if your skill always increases, even if just a little bit, then as long as you keep going, you will win. There are no dead-ends for [monotonic functions][monotonic], my friend.
 
