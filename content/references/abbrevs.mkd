@@ -16,3 +16,6 @@
 *[RuleUtil]: Rule Utilitarianism
 *[PrefUtil]: Preference Utilitarianism
 *[MFW]: My Face When
+*[RMP]: Robert M. Price
+*[FAI]: Friendly AI
+*[uFAI]: unFriendly AI

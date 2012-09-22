@@ -1,0 +1,68 @@
+---
+title: And God said, u man bro?
+date: 2012-09-21
+techne: :done
+episteme: :log
+---
+
+I observe that I'm likely to be a good utilitarian in games or when solving other people's problems, but explicitly not when it comes to morality. What's up with that?
+
+I'm not sure if that means I've become comfortable with the idea that morality is a meta-level above preferences (namely it tells you what you should want), and that resolving preferences through consequentialism is just fine, but you can't use it for morality. Or if I'm a hypocrite who uses consequentialism when it benefits me and rejects it when it would force me to make stupid sacrifices myself.[^socio]
+
+[^socio]:
+    <% skip do %>
+    I'm actually very comfortable with that idea. *Condemning* hypocrisy is understandable, but *disliking* it is a sign of insufficient meta.
+    <% end %>
+
+Whatever, man. Moral purity is mostly a Protestant thing anyway. I'm not a [donatist][Donatism]. Institutions and roles are important, not personal character.[^virtue]
+
+[^virtue]:
+    <% skip do %>
+    Of course once you do buy the God thing, you can easily reject consequentialism anyway. If the world is moment-to-moment sustained by an all-powerful, all-good being, do you think for a second that anything truly bad would ever happen? That if results *mattered*, you'd have any choice whatsoever over them? Of course not. God would never let you influence the ends, so just concern yourself with the means. (And Jesus says exactly that.)
+
+    Not saying the premises of this argument are correct, but the implications certainly are.
+    <% end %>
+
+---
+
+There's a distinct discontinuity between my left and right consciousness.
+
+Jaynes (and others) made the argument that the left hemisphere and the right hemisphere of the brain are essentially autonomous agents that coordinate through the corpus callosum (to varying degrees). I was dancing on Dex yesterday and noticed that I was very strongly focused on my left side of the body. I had noticed before that I can put myself in a "left" and "right" mode, but I was unsure if that was just pretend play for certain personalities or a real thing.
+
+So I paid attention to my awareness as I moved around and shifted my center of gravity to either the left or right side[^dxm], and who would've thought, every time I cross over, there's a blip of "no awareness"[^blip] and then awareness shifts and I'm now "in charge" of the other side of the body. I then practiced flipping that switch intentionally without moving. (I used which of my eyes was dominant as a reliable anchor.)
+
+<% skip do %>
+(There was supposed to be a minor point about the nature of the discontinuity here, but I couldn't explain it. Maybe next time.)
+<% end %>
+
+[^dxm]:
+    This is vastly easier on Dex. The only reason that no spiritual tradition I know of has incorporated NMDA antagonists must be that they aren't easily available except through modern chemistry. Unless somehow all traditions filter out schizotypals before codifying their practices. Which, come to think of it, isn't *too* unlikely.
+
+[^blip]:
+    I used to think that you can basically trigger buffer underruns, i.e. notice attention blindness in yourself by catching yourself being unaware if you practice enough, and that's kinda the point of vipassana. I'm not sure that's what's really going on, but at least it kinda feels like that.
+
+---
+
+<% skip do %>
+At the back of every Baileys' bottle, there's a small depression behind the label, right at the bottom. I swear they put that there so that every time I succumb to the Devil's Brew, I freak out for just a moment that the bottle is literally melting in my hand because one of my fingers is pushing the glass inwards, oh no, wait, just the label, phew, thought I was having an acid flashback.
+
+It's intentional, I just know it.
+<% end %>
+
+---
+
+<% skip do %>
+I'd like to point out [this specific episode][Bible Geek Summary] of the Bible Geek podcast, in which RMP gives a complete summary of his best guess who wrote the Christian canon and when. He has all his theories spread out over a huge amount of books and references, so it's nice to have a basic outline in one place.
+<% end %>
+
+---
+
+<% skip do %>
+[Here's a story about a girl with childhood-onset schizophrenia.][Jani]
+
+I wish I could point out why specifically it makes me angry, in a way that makes me train harder and practice my ability to lie, but every time I try, I just get angrier and descend into accusations which would be right at home in an L. Ron Hubbard novel, which helps no one. So I'll just let it stand as a somewhat vague warning: If you are in contact with demons, very broadly construed, and you are not in a position of power or in the hands of a priest with authority, *you do not talk about it*.
+
+It's also a good example of how to distinguish a virtuous from a corrupt institution. If, at any point, for any reason, it is in your best interest to "not talk to the police", cast the institution into the fire, for it cannot be saved.
+
+Incidentally, outside of Asia or the past, the only institutions I personally trust in this sense are religious in nature. I'm not sure if this is a sign of the morality of religion, or the immorality of modernity.
+<% end %>

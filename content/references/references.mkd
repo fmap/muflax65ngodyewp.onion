@@ -141,7 +141,7 @@
 [Faster Than Light]: http://www.ftlgame.com/
 [Moravec's Paradox]: https://en.wikipedia.org/wiki/Moravec%27s_paradox
 [Anki]: http://ankisrs.net/
-[Anki 2]: http://ankisrs.net/docs/dev/changes.html#_trying_it_out
+[Anki 2]: http://ankisrs.net/anki2.html
 [AnkiDroid]: https://code.google.com/p/ankidroid/
 [Beeminder Habit]: http://blog.beeminder.com/habits/
 [Dowling Latin]: https://www.rci.rutgers.edu/~wcd/Latin.htm
@@ -149,6 +149,8 @@
 [LingQ]: http://www.lingq.com/
 [LWT]: http://lwt.sourceforge.net/
 [fltr]: https://code.google.com/p/fltr/
+[Bible Geek Summary]: http://recordings.talkshoe.com/TC-20430/TS-623515.mp3
+[Jani]: http://www.smh.com.au/lifestyle/edge-of-the-abyss-20120820-24h4r.html
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
