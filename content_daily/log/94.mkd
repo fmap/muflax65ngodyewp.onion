@@ -44,7 +44,7 @@ So I paid attention to my awareness as I moved around and shifted my center of g
 ---
 
 <% skip do %>
-At the back of every Baileys' bottle, there's a small depression behind the label, right at the bottom. I swear they put that there so that every time I succumb to the Devil's Brew, I freak out for just a moment that the bottle is literally melting in my hand because one of my fingers is pushing the glass inwards, oh no, wait, just the label, phew, thought I was having an acid flashback.
+At the back of every Baileys bottle, there's a small depression behind the label, right at the bottom. I swear they put that there so that every time I succumb to the Devil's Brew, I freak out for just a moment that the bottle is literally melting in my hand because one of my fingers is pushing the glass inwards, oh no, wait, just the label, phew, thought I was having an acid flashback.
 
 It's intentional, I just know it.
 <% end %>
