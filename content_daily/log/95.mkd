@@ -1,0 +1,193 @@
+---
+title: Cishumanism
+date: 2012-09-25
+techne: :done
+episteme: :log
+---
+
+<% poem do %>
+> lies keine oden, mein sohn, lies die fahrpläne:
+> sie sind genauer, roll die seekarten auf,
+> eh es zu spät ist. sei wachsam, sing nicht.
+> der tag kommt, wo sie wieder listen ans tor
+> schlagen und malen den neinsagern auf die brust
+> zinken, lern unerkannt gehn, lern mehr als ich:
+> das viertel wechseln, den paß, das gesicht.
+> versteh dich auf den kleinen verrat,
+> die tägliche schmutzige rettung. nützlich
+> sind die enzykliken zum feueranzünden,
+> die manifeste: butter einzuwickeln und salz
+> für die wehrlosen, wut und geduld sind nötig,
+> in die lungen der macht zu blasen
+> den feinen tödlichen staub, gemahlen
+> von denen, die viel gelernt haben,
+> die genau sind, von dir.
+>
+> -- hans magnus enzensberger, ins lesebuch für die oberstufe[^trans]
+<% end %>
+
+[^trans]:
+    Rough translation:
+
+    <% poem do %>
+    > don't read odes, my son, read time tables:
+    > they are more precise, roll up the maps
+    > before it's too late. be vigilant, don't sing,
+    > the day will come when they will again
+    > nail lists to the door and mark the chests of
+    > nay-sayers, learn to move undetected, learn more than i:
+    > to change the district, the pass, the face.
+    > learn the tiny betrayals,
+    > the dirty things needed to survive, useful
+    > are the encyclicals for lighting a fire,
+    > the manifestos: wrap butter and salt
+    > for the defenseless, anger and patience are necessary,
+    > to blow into the lungs of power
+    > the fine lethal dust, ground
+    > by those who you have learned much,
+    > who are precise, like you.
+    <% end %>
+
+---
+
+Liked Vladimir Nesov's post [against anthropic evidence][LW anthropic evidence] (or at least, certain kinds). Thought, doesn't that depend on your values, though? So I wrote a [quick simulation][gist anthropic] and tested a few options. I had an idea how you might be able to exploit the anthropic evidence anyway, but nope, Vladimir is right. Still, clarified some issues with measure for me.
+
+---
+
+I'm having Those Dreams again, probably because I thought too much about dreams in general. I'm especially tempted to lift my dream embargo because I just unlocked the next stage of what I know is a cool skill. But yeah, I'm still on a "no new methods or drugs" diet, and I don't need more insanity right now, so I'm now actively censoring my dreams again, and won't even mention what the skill is. (Sorry, future-me.)
+
+---
+
+<% skip do %>
+If I understand the Catholics right (and I probably don't, but that hasn't stopped anyone else so far), their view of free will and salvation is essentially that of a Choose Your Own Adventure book. It works like this:
+
+A moral act must be freely chosen, and so also freely caused. (No determinism up in this bitch.) Fortunately, humans are capable of such free causation, but they cannot truly bring anything into existence. Thus, God must first create the circumstances of the choice, but then it's all free will and deserved merit or sin.
+
+Thus, to be moral, you *must* have God's grace - He must present you with an actual choice. If He decided not to ever do that, you'd be screwed. He *could* damn you against all your intentions if He wanted to because a human has not enough causal power to truly make moral choices ex nihilo. But still, mere grace is not *enough* - you must still choose freely, grounded only in yourself. You cannot cause yourself into existence (that's His trick), but once there, you *can* cause your own moral acts freely out of yourself. ("So God created mankind in His own image.")
+
+In other words, God has to write the CYOA book, and you have to play it. This is why Catholicism teaches salvation through grace *and* works. One alone is not enough. (Which is why all Protestants are going to Hell.) I also note that this view is nicely local and intuitive. (And states what exactly distinguishes a PC from an NPC.  (And that "self-determined causes" make more sense to me than the Great Web of Causality.
+
+(And if I may, let me state the muflax theory of atonement: Jesus died for your choices. Adam committed a sin so grave[^sin], it derailed the whole story and left plot holes visible to this day (if you look up into the sky, towards the center of our galaxy). Jesus is the narrative center point, who ripples forwards and backwards in time, and who offers all humans again choices that lead towards virtue.
+
+Yes, that's kinda vague, but have you looked at the other atonement theories?)
+<% end %>
+
+[^sin]:
+    <% skip do %>
+    This is the account of the planes when they were created, when the Lord God made the planes.
+
+    Now no monster had yet appeared on the earth and no inn had yet sprung up, for the Lord God had not sent loot to the earth and there was no one to grind XP, but maps lay on the table and drawn was the whole surface of the planes. Then the Lord God formed a man from the rules of the game and breathed into his nostrils the breath of agency, and the man became a PC.
+
+    Now the Lord God had planned a town in the east, in Eden; and there He put the man He had formed. The Lord God made all kinds of quests appear on the map - quests that were pleasing to the eye and good for loot. In the middle of the town were the quest of genre savvy and the quest of the knowledge of tropes and meta.
+
+    A spire holding the town stood in Eden; from there it was separated into many planes. The name of the first is the Prime; it contains the adventures for the entire setting of Greyhawk, where there is much loot. (The loot of that setting is good; deadly traps and rust monsters are also there.) The name of the second river is the Ethereal; it contains the entire inventory of Bags of Holding. The name of the third plane is the Elemental; it is separated into four parts of Air, Earth, Fire and Water. And the fourth plane is the Outer; it is slowly dying.
+
+    The Lord God took the man and put him in the Town of Eden to play it and level up in it. And the Lord God applied reverse psychology to the man and commanded, "You are free to follow any quest from any NPC in the town; but you must not start the quest of the knowledge of tropes and meta, for when you attempt it, you will certainly die."
+
+    The Lord God said, "It is not good for the man to quest alone. I will make a party suitable for him."
+
+    Now the Lord God had formed out of the rules all the wild monsters and all the outsiders in the planes. He brought them to the man to see what he would name them, for He had forgotten His monster manual; and whatever the man called each living creature, that was its name. So the man gave names to all the races, the outsiders in the planes and all the wild monsters.
+
+    But for the man no suitable party was found. So the Lord God gave the man weed and caused him to fall into a deep sleep; and while he was sleeping, He took one of His old campaigns and then converted it to the new rules. Then the Lord God took a woman from an adventure he had taken out of the campaign, and he brought her to the man.
+
+    The man said, "This is now mage of my mages, and rogue of my rogues; she shall be called Sue, for she was made by God." That is why a man leaves his old town and is united with new characters, and they become one party.
+
+    The man and his wife were both level 1, and they felt no shame.
+    
+    Now the serpent had higher charisma than any of the wild monsters the Lord God had made. He said to the woman, "Did God really say, 'You must not start any quest from the NPCs in the town.'?"
+
+    The woman said to the serpent, "We may start any quest from the NPCs in the town, but God did say, 'You must not start the quest from the NPC that is in the middle of the town, and you must not touch it, or you will die.'"
+
+    "You will not certainly die", the serpent said to the woman. "For God knows that when you start the quest your eyes will be opened, and you will be like God, knowing tropes and meta."
+
+    When the woman saw that the quest of the NPC was good for loot and pleasing to the eye, and also desirable for gaining wisdom, which her build required, she started it. She also invited her party leader, who was with her, and he started it. Then the eyes of both of them were opened, and they realized they were level 1; so they crafted swords and made armor for themselves.
+
+    Then the man and his wife heard the sound of the Lord God as he was walking in the town in the cool of the day, and they hid from the Lord God among the NPCs of the town. But the Lord God called to the man, "Where are you?"
+
+    He answered, "I heard you in the town, and I was afraid because I am level 1; so I hid."
+
+    And he said, "Who told you that you were level 1? Have you started the quest from the NPC that I commanded you not to talk to?"
+
+    The man said, "The woman you put here with me - she started the quest from the NPC, and I joined her."
+
+    Then the Lord God said to the woman, "What is this you have done?"
+
+    The woman said, "The serpent deceived me, and I failed my save."
+
+    So the Lord God said to the serpent, "Because you have done this, nerfed are you above all races, and all wild monsters! You will crawl on your belly and you will have a level adjustment of 5 all the days of your life. And I will put negative reaction modifiers between you and the woman, and between your followers and hers; the man will have +2 THAC0 against you, and you will always fail your initiative rolls."
+
+    To the woman he said, "I will make your XP costs in crafting very severe; with painful costs you will give craft artifacts. Your loot will go to your husband, and he will distribute it for you."
+
+    To the man he said, "Because you listened to your party and started quests from the NPC which I commanded you, 'You must not start', cursed is the map because of you; through painful encounters you will grind XP from it all the days of your life. It will produce orcs and goblins for you,
+    and you will fight the spiders of the cave. By the sweat of your brow you will grind your XP until you roll a new character, since from the rules you were taken; for dice rolls you are and to dice rolls you will fall."
+
+    The man named his wife Fail Sue, because she would become the mother of all the fail.
+
+    The Lord God made leather armor for the man and his party and clothed them. And the Lord God said, "The man has now become like one of Us, knowing tropes and meta. He must not be allowed to leave the rails and start also the quest of genre savvy and win, and play forever." So the Lord God banished him from the Town of Eden to play the campaign for which he had been rolled. After He drove the man out, He placed on the east entrance of the Town of Eden devas and a fire elemental running back and forth to guard the way to the quest of genre savvy.
+    <% end %>
+
+---
+
+Made a new Anki deck for memories.
+
+My family has virtually no oral tradition, or what Korzybski used to call "time-binding", i.e. a process to pass on and preserve information. There are many important personal memories and scars that at most 2 people know about, and which will soon be forgotten. Most of my life, this didn't bother me. I *wanted* to take everything to the grave with me, and so was happy to deny those memories any further existence. 
+
+But now, I feel like a ghost, haunting old ruins. Everything is decaying and all dreams are broken, and yet I remain unattached. This reminds me that I never quite wrote down how I got into the [Dark Stance][].
+
+Originally, it grew out of frustration with what I used to call the Dukkha Core, a part of me that would never accept *anything*, that was never satisfied. I finally gave up and tried to diagonalize it by feeding it inputs it couldn't possibly deny, like itself, or the process of denial, or frustration itself. Eventually I thought, what if I just *decide* to be fine with the unacceptable. I couldn't make my mind not be hateful, so why didn't I just *embrace* hate for hate's sake? Not to turn it into something else - that would still get rejected - but to make those things the Dukkha Core called wrong, right.
+
+Fuck your sweetness, I like my grapes sour anyway!
+
+To my surprise, this actually worked. It was a good counterweight to all that niceness in my system, was a way to actually engage with those rejected aspects. I probably didn't quite believe the Dark Stance was actually valid beyond the diagonalization attempt, but that didn't matter.
+
+Until one day I experienced great loss. The details are irrelevant, but when I was overcome by grief, I finally *got* the Dark Stance. I knew that soon enough, I'd "recover" and "get better", would return to my emotional set point, that the hedonic treadmill applies to all states. *I was not ok with this*. I had already lost, I would not *also* lose my grief! I had a genuine grudge with the world and swore not to forget it. I can't undo the past, but I can at least make sure the world would not also take my rightful grief. And so, I won't let it call this *bad*, I won't allow it to turn my grief into something to be *healed*. I'm not surrendering it to the world.
+
+Once I stopped rejecting it and made the grief a permanent part of me, the Dukkha Core also disappeared. That's all it ever wanted - that I freely choose something and accept it, independent of anyone else's approval.[^hell] I have forged a new value out of my broken heart, and I'm ok with that.
+
+[^hell]:
+    <% skip do %>
+    Traditionally, I think they expect you to accept forgiveness, bliss or equanimity, not grief, hate and disgust. I'm native to Hell, not Heaven, what can I say.
+    <% end %>
+
+So now I think it's time to commit more strongly to the promise that I would never let go, so I made cards for these kinds of memories. I am not an empathic participant, I'm more of a sensate archiving interesting feels. But at least I can now say to the people who have shared important memories with me, your dreams will not be repaired, your wounds will not be healed, your wishes will not be fulfilled, and your suffering will follow you to your death, but at least I will not forget you. I will not pass on your story, but I will preserve it in my heart, unredeemed.
+
+---
+
+Fallacy of discernment: X claims Very Specific Thing happened to them. Very Specific Thing is highly unlikely according to my priors, and so X must be wrong. Therefore, the General Thing that Very Specific Thing is a special case of didn't happen.
+
+Example 1: Joseph Smith claims to have been visited by the Angel Moroni. Angels are implausible. Therefore, Smith was not visited by a transhuman intelligence.
+
+Example 2: Tens of thousands of witnesses report the Miracle of the Sun near Fatima and credit the Virgin Mary. Jesus was not divine, and so there is no Virgin Mary. Therefore, nothing happened near Fatima.
+
+Example 3: They(tm) claim 19 members of al-Quaeda hijacked planes and crashed into the WTC. Untrained wannabe terrorists could not have performed the attacks. Therefore, no planes flew into the WTC.
+
+Inverted Example: Jews claim Jesus did not rise from the dead. It is unlikely that someone stole his body because the Jews posted guards at his grave. Therefore, Jesus rose from the dead.
+
+Note that the fallacy is merely that the conclusion does not follow from the premises, and that by refuting a Very Specific Thing, you have in no way discredited the General Thing it belongs to.
+
+(Indirect HT to Yvain for reminding me of this.[^pa])
+
+[^pa]:
+    <% skip do %>
+    And no, this is not just a passive-aggressive way of saying "ur doing it rong", but a reminder that just because someone's specific story doesn't check out, doesn't mean the general thing didn't happen. We don't have a dichotomy between "fake" and "your interpretation checks out exactly". We can always also look at "you got trolled", for example.
+
+    If you wonder what cup the little ball is in, you've already successfully been conned.
+    <% end %>
+
+---
+
+A quick point about subs.
+
+<%= image("submission.jpg", "Oglaf Subs", "http://oglaf.com/submission/") %>
+
+I like this Oglaf because it's such a concise summary of my position of what most people really mean by "submission". (Including past-me. Compare also Twilight.)
+
+This bothers me. Past-me used to think he *really wants* (and wants to want) to be a "slave of righteousness", as <del>Marcion</del> Paul says. Not just in the figurative sense, but also in the literal sense.
+
+Yet, see above. Past-me was a *horrible* would-be slave, and made little efforts to *become* a better slave. He'd use the excuse that no one explicitly told him yet what to do, but he was well aware of universal instrumental goals, and *could* have just worked on being as useful as possible once he did find a master, and of course work on generally useful institutions, or even master-locating institutions.[^inst]
+
+The interesting thing is that right now, I'm actually in position now, psychologically, in which I could make this happen, slowly.
+
+What past-me *really* wanted is a deal like this: "I permanently and credibly give up any aspirations for highest status, and so won't be a threat to you, and in return, you grant me your high status protection." Present-me is sympathetic to that, but thinks past-me was stupid. He acted out of fear of harm, but present-me is no longer afraid.
+
+Present-me can longer credibly make such commitments.

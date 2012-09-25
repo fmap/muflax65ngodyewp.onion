@@ -206,6 +206,7 @@
 [LW skill]: http://lesswrong.com/lw/12s/the_strangest_thing_an_ai_could_tell_you/2ssn
 [LW quantum retro]: http://lesswrong.com/r/discussion/lw/ee4/debugging_the_quantum_physics_sequence/
 [LW dndis]: http://lesswrong.com/lw/6t9/dungeons_and_discourse_implementation/
+[LW anthropic evidence]: http://lesswrong.com/r/discussion/lw/emt/no_anthropic_evidence/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html

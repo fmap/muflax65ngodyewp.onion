@@ -45,3 +45,4 @@
 [range_math]: https://github.com/muflax/range_math
 [yonmokunarabe]: https://github.com/muflax/yonmokunarabe/
 [mcd tool]: https://github.com/muflax/MCD-card-generator
+[gist anthropic]: https://gist.github.com/15d4d930aed8ee3a2fb1
