@@ -1,0 +1,133 @@
+---
+title: I did not come to bring peace of mind, but the Word
+date: 2012-09-29
+techne: :done
+episteme: :log
+---
+
+<% poem do %>
+> Don't expect too much from my poor old heart
+> You can blame the unforgiving for my scars
+> You might just be the best that I can find
+> But I can't seem to forget the tears I've cried
+>
+> I don't know that I will ever trust again
+> It's a price I must pay for all my sins
+> Time has changed me and left me full of doubt
+> And my heart may be lost never to be found
+>
+> Once upon a time I did believe
+> In my true love that swept me off my feet
+> The wind of change swept him away
+> And left me drowning in my pain
+>
+> I don't know that [I will ever love again][Komm Süßer Tod]
+> It's a price that I must pay for all my sins
+> Time has changed me and left me full of doubt
+> And my heart may be lost never to be found
+>
+> -- Alison Krauss & Union Station, [My Poor Old Heart][]
+<% end %>
+
+---
+
+<% skip do %>
+*Holy shit* [Kol Nidre][Yvain Kol Nidre]. The only holiday that would make me even more suspicious of my neighbors would be "Let's Murder All The Kittens Day".[^heresy]
+
+[^heresy]:
+    If I ever get to teach Heresy 101 in a Jesuit seminary (or equivalent), my first rule of thumb will be: "Does it allow the breaking of oaths, desecration of holy sites *even of false religions*, or has it non-local requirements for salvation? If so, cast it into hell, where the fire is never quenched and where the worm never dies." My respective examples will be Kol Nidre, Gnosticism and [Donatism][].
+
+I do approve of Yvain's point though. I like that on Beeminder you can back out of any commitment at one week's notice. Additionally, I often set end dates about a month or so in the future, and then regularly renew the commitment if it has been valuable. Generally, having a non-slippery way to get out of (minor) harmful commitments is a Good Thing. You don't want to sign a [billion-year contract][] to fix a weight problem. 
+
+But still. *Vows do not work that way*.
+<% end %>
+
+---
+
+<%= image("running.jpg", "Running") %>
+
+Went for a 4 hour walk with the help of a supplementary dose of low First Plateau DXM, Ibuprofen and minor sleep deprivation.
+
+Once I got deep enough into the forest, I forgot about the mountains and the different air, forgot about the lack of desperation[^des], and for a moment at least, it felt like home.
+
+Tried to think. About memories, and if I have become a traitor. About relationships. About forgiveness, and lack of focus.
+
+But none of this works anymore. When I used to take these walks, I imagined a friend, walking to my right. Sometimes it was a dog, sometimes an old soulmate[^under], sometimes one like a son of man. Often, I just confessed to them - my true feelings, my worries, my sins. Now, I can't do this. *I* walk on the right. If I summon a friend to walk beside me, they appear on my left. I forgive *them*, give them calm, not the other way around.
+
+I feel happy with this progress, but it's also disorienting. There are no dead left to bury, the sacraments have been said, and I'm one. But at the same time, I'm now left without a clear goal to pursue. I can't find guidance in my own mind anymore.
+
+However, I have some ideas how to proceed from here. You know what they say:
+
+<% poem do %>
+> Ich stampfe durch den Dreck bedeutender Metaphern
+> Meta, Meta, Meta, Meta für Meter.
+>
+> -- Einstürzende Neubauten, [Die Interimsliebenden][] [^trans]
+<% end %>
+
+[^trans]:
+    <% skip do %>
+    Roughly:
+
+    <% poem do %>
+    > I wade through the filth of important metaphors,
+    > meta, meta, meta, meta by meter.
+    <% end %>
+    
+    The whole song is amazing, but nigh-untranslatable. I have a whole draft about failing to translate it. Alas.
+    <% end %>
+
+[^under]:
+    When you understand a person well enough to accurately model them, you have truly made them a part of yourself. Eat your friends.
+
+[^des]:
+    <% skip do %>
+    I'm not saying that places can have emotional scars in their morphogenetic fields, but if they *do*, then my home has a thousand-year stare.
+    <% end %>
+
+---
+
+<% skip do %>
+RMP's [The Case For Cthulhu sermon][Bible Geek Cthulhu] rocks. Transcript:
+
+> Brethren, we live in a time when thanks to all those "New Atheists" on the Internet (which I prefer to call the World Wide Web of Atlach-Nacha), more and more of our young people are beginning to doubt our precious faith in the Great Old Ones. They're beginning to take the Old Ones as fiction and metaphor. They're even beginning to mock the Old Ones, wearing blasphemous Cthulhu bedroom slippers and ski masks with tentacles hanging from them!
+>
+> They clutch plush-stuffed Cthulhus to their breasts as they toss and turn, and the cold sweat brought on by night terrors induced by eating Innsmouth sea weed pizzas - I tell you, I don't like it! I'm disturbed! For if this unsavory trend continues, what will become of them when Great Cthulhu rises from his watery seclusion in oddly angled R'lyeh? Is it possible he may awaken famished and not find ranks of adoring believers jostling one another to be first to jump into his ravening maw to satisfy his aeons-long hunger? I hope not, brothers and sisters! Because if he thinks it's our fault, he may spit us back out!
+>
+> So let me spend a little time today trying to lay the foundations of an intellectually sound faith in Great Cthulhu and the Great Old Ones. Only so can we hope to get our youth back to a faith that is more than t-shirt deep.
+>
+> Some doubt the truth of the Cthulhuian faith because it came to light in the pages of cheap pulp magazines, despised by the smirking sophisticates of our time. Just you remember what the apostle Abdul says: "Cthulhu has chosen the foolish things in the world to shame the wise!" And that's why the faith of the Old Ones was first revealed in the pages of Weird Tales and Strange Stories. Would you find it more convincing if it were in National Geographic?
+>
+> I would ask you to turn your attention to the sacred text of the Johansen narrative. Forget for the moment that we revere it as scripture and think of it as an historical document. Remember the cardinal rule of the historian: If it's written in narrative form, it must have happened. It claims to be the product of an eyewitness, so it must be! We know no fictions are ever written in the first person, didn't they tell you that in school?
+> 
+> I tell you, the Johansen narrative and its account of Cthulhu's emergence from his tomb in R'lyeh is the best attested fact in history! After all, what possible motive could Johansen have had for making it up? Skeptics have argued that Johansen had just had too much too drink, and that seeing a giant octopus-headed man with wings was no more than delirium tremens. But I ask you, have you ever seen such things when intoxicated? Pink Chaugnar Faugns maybe, rats in the wall maybe, Shoggoths and Shathaks flying out of your butt perhaps, but a squid-headed titan? Preposterous!
+>
+> And remember, Johansen was not the only one who saw this so-called hallucination. You don't mean to tell me there can be shared hallucinations like those in Fatima, do you? Besides, there were other witnesses on the scene to corroborate the testimony of Johansen and his men. How about the cast-aways found living in mud huts in R'lyeh? Gilligan, the skipper, Mary Ann, Ginger and the rest? Why would they lie?
+>
+> Now here's a list of foundational facts that no Lovecraft scholar will dispute:
+>
+> 1. Johansen and his men found themselves on an uncharted Pacific island.
+> 2. That island had rocks and ruins with acute angles that behaved as if they were obtuse. (Though I admit it's not that uncommon for people to behave as obtuse.)
+> 3. The great crypt of Cthulhu was found open and empty.
+> 4. Johansen was later found with one or two crewmen with their minds gone, drifting aimlessly on the ocean.
+>
+> My friends, I ask you two questions.
+>
+> What do you think happened to the body of Great Cthulhu? Did Johansen and his men steal it and hide it somewhere? Where, for Pete's sake? The boat wasn't that big! 
+>
+> And if Cthulhu had not really risen from his crypt, how do you explain the transformation of the sailors from sea-worthy old salts to blithering mad-men? They must've seen something, right? Sea gulls?
+>
+> But as important as history is, there are other factors to be considered in making the case for Cthulhu. Let's not forget the argument from Unintelligent Design. You know what I mean - does this world look much like it is the product of a rational deity, planning it out carefully and systematically? Just look at the ever-present plagues and famines, pestilence and natural disasters! Look at the aeons-long process of evolution, blind, aimless and incredibly bloody. Why all that suffering and agony if a wise God was using the process as his tool to create his favorite species, men? If he had been aiming at that, why the heck wouldn't have he create the whole shebang in seven days? In seven seconds?
+>
+> No, the bloody blundering train wreck is clearly the work of a negligent, careless, even insane demiurge - in other words, Azathoth!, that monstrous nuclear chaos "whence flow the aimless waves whose chance combining gives each frail cosmos its eternal law".
+>
+> I don't know about you, brothers and sisters, but I feel renewed in the confidence of a faith built solidly upon the rocky devil reef of evidence and reason. It's a great creed of which we need not be ashamed! As we go forth from here to win a world for the forces of idiocy, depravity, unspeakable abomination, miscegenation and loathsome revelry. Hallelujah! Ia R'lyeh! Ia R'lyeh!
+
+Eerily, right after I finished the transcript, and I swear I'm not making this up, my candle went up in flames as the wick had fallen to the side and melted the wall away, so that all the wax spilled down on the ground, forming clearly a right hand throwing the horns:
+
+<%= image("sign_rmp.jpg", "A Sign!") %>
+
+You can even see RMP's [Pre-Nicene New Testament][] lying right next it, as I was just looking up a Markan passage a few hours earlier.
+
+If that's not a divine endorsement, I don't know what is.
+<% end %>

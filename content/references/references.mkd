@@ -151,6 +151,7 @@
 [fltr]: https://code.google.com/p/fltr/
 [Bible Geek Summary]: http://recordings.talkshoe.com/TC-20430/TS-623515.mp3
 [Jani]: http://www.smh.com.au/lifestyle/edge-of-the-abyss-20120820-24h4r.html
+[Bible Geek Cthulhu]: http://recordings.talkshoe.com/TC-20430/TS-628204.mp3
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -277,6 +278,7 @@
 [Yvain Creepiness]: http://squid314.livejournal.com/328267.html
 [Yvain social]: http://squid314.livejournal.com/322213.html
 [Yvain Worst]: http://squid314.livejournal.com/323694.html
+[Yvain Kol Nidre]: http://squid314.livejournal.com/331223.html
 
 <!-- reddit -->
 [reddit lain]: http://www.reddit.com/r/AskReddit/comments/t0ynr/throwaway_time_whats_your_secret_that_could/c4inqul
