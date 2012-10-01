@@ -249,6 +249,7 @@
 [Caplan Szasz]: http://econlog.econlib.org/archives/2006/09/they_called_me.html
 [AntiAN tweet depression]: https://twitter.com/AntiANtrollbot/status/200630646425653248
 [AntiANtrollbot]: https://twitter.com/#!/AntiANtrollbot
+[Sister Y nerd]: http://theviewfromhell.blogspot.de/2012/09/trying-to-see-through-unified-theory-of.html
 
 <!-- Moldbug -->
 [How Dawkins got pwned]: http://unqualified-reservations.blogspot.com/2007/10/how-dawkins-got-pwned-part-5.html
@@ -300,6 +301,8 @@
 [Freedom Evolves]: https://en.wikipedia.org/wiki/Freedom_Evolves
 [Der Zauberlehrling]: https://en.wikipedia.org/wiki/The_Sorcerer%27s_Apprentice_%281910_novel%29
 [Japanese in Mangaland]: https://en.wikipedia.org/wiki/Japanese_in_Mangaland
+[When God Talks Back]: http://www.amazon.com/When-God-Talks-Back-Understanding/dp/0307264793
+[Feser Aquinas]: http://www.amazon.com/Aquinas-Beginners-Guide-Guides-ebook/dp/B005KR0LUC/
 
 <!-- internal links -->
 [main]: http://muflax.com

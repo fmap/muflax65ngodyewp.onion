@@ -1,0 +1,72 @@
+---
+title: Autotrophs
+date: 2012-09-30
+techne: :done
+episteme: :log
+---
+
+Wrote[^wrote] a [minor Anki add-on][Anki time search] so I can search for cards based on their review time.
+
+[^wrote]:
+    That moment when you realize you maintain several projects people actually use and you have to write announcements now. Feels so weird.
+
+(I was surprised to find that I only have 61 cards with a total review time of over 3min, and most of those are caused by a review timing out at 1min (aka I got distracted). Assuming decent card design, a more realistic threshold of Anki-worthiness is probably at most 1min, not 3min.)
+
+Deleted a few hundred language cards with a review time below 1.8s at their last review, on the assumption that those are too easy anyway.
+
+I've also finished the [Manifeste du Futurisme][]. When I made the first French cards, I couldn't read it. (Disclaimer: French was still my third-best language. I just hadn't used it in a long time and had limited vocab.) After I did the last card, tried again. Now I *can* read it, fluently.
+
+So my cards work, at least for intermediate level languages and building vocab. Even if that's all they do, I'm happy 'cause that was the only important (and tedious) problem left.
+
+Also got bored with Le Petit Prince (mostly because my mom uses it like every 2 years or so in her classes and we constantly talk about it), so I *tried* to find some French movies, but there are literally *none* I like.[^none] I went through a Top 100 French Movies list and *not a single one* of them looked interesting. (Except Enter The Void, *which isn't even in French*.)
+
+I think I can find more *Latin* movies than French ones. I have no idea who to blame, but French cinema is completely worthless. Le sigh.
+
+So instead, I'm reading Leibniz' La Monadologie (which is surprisingly short) and some random French thinkers. I guess I'll just throw chapters from random Great Books I can find into the card grinder until I'm reasonably fluent and then I'll work through my actual French reading list. (Which consists of actual paper books. Look, it's like 5 years old, it was a different time back then!)
+
+[^none]:
+    <% skip do %>
+    Ok, there's Amélie and the Asterix movies, but I've watched those way too much. I meant movies I *haven't* been watching regularly since I was a child.
+    <% end %>
+
+---
+
+Started Feser's [Aquinas][Feser Aquinas]. (Skipping his Last Superstition, mostly because I can't find an ebook version, and because I'm already annoyed with those Gnu Atheists and their weak-ass metaphysics, so whatever man, gimme the *good* stuff.)
+
+<% skip do %>
+(I also feel that there's a very promising economical / decision-theoretical way to disentangle the metaphysics of agency, but I don't feel smart enough to do it or even develop good intuitions for it. Sometimes I feel inadequate for thinking in a theological / scholastic / pragmatic way, and not a solid math-y / algorithmic / functional way, but then I remember what tended to happened to those people (\*cough\*GödelBoltzmannCantor\*cough\*), and I feel slightly better.)
+<% end %>
+
+---
+
+Also started [When God Talks Back][], which is fun. I find it amusing (and inspiring) that there are so many people trying to become *more* schizotypal. They know where all the action is.
+
+<% skip do %>
+(I'm adding a mental +1 to my long-standing almost-certainly-way-oversimplified-but-maybe-not-quite idea that there's a special schizotypal / dissociative / meta / gods-as-directly-experienced-agents / sacredness / eldritch cluster of people, clearly distinct from the [insight porn nerd][Sister Y nerd]. When God Talks Back is pretty much what you get when an insight nerd tries their best to understand the schizotypal nerd.
+
+I like the idea that what separates a post-rationalist from a rationalist is whether they get Jesus or not, but that's not quite strong enough. Even some rationalists get trolling without getting sacredness. I could postulate some better criteria, but those are likely to be only meaningful to people in the schizotypal cluster, and then I realized that this *is* the feature that separates them. It's no coincidence that Malkavians form a hivemind, and that post-rationalists care about acausal interactions and weird ontologies, and that the Catholic Church sees itself as part of the Timeless Church, coordinating through the spiritual realm and not just the material one.
+
+So instead I propose, once you have identified the general nerdiness, ask how they feel about ambiguity. If they answer "ugh, I hate it, I want clarity and resolved conflicts!", they are an insight porn nerd (and likely an NPC). But if they answer, "gimme more, muddle my signals, multiply the mysterion and add more layers, syncretize the unsyncretizable and other the consubstantial", you're dealing with a schizotypal nerd (and likely a PC or alt of a PC).)
+<% end %>
+
+---
+
+*Fine*, people. Did some calculations, noticed that I need to reset my sleep cycle almost on a weekly basis by now, checked the legal situation[^legal], checked drug interactions[^drug], gave up. Bought some modafinil.
+
+[^legal]: It's reasonably legal, provided you get it shipped from within the EU to bypass customs.
+
+[^drug]: It may fuck with every hallucinogen / dissociative I'm on, but everything does, so that's not a surprise. I'll just schedule around it, like I always do.
+
+(Yeah, no new drugs, I know, but on the other hand, the less I sleep, the less I dream, and so the less I'm in danger of ending the world. I think that's a net benefit. You're welcome.)
+
+I expect it to arrive in a few weeks, and to use it at most 1-2 times a week, mostly to reset my sleep. Also, I guess that ends my nootropic experimentation because there's nothing interesting left. (Except maybe testosteron. I remember it being hard to dose and/or being expensive, but maybe I'll look into it again soon-ish.)
+
+---
+
+I officially hate time zones and all time zone implementations in all programming languages.
+
+I thought Ruby was stupid for having multiple incompatible classes, inconsistent time zone implementations unless you pull in Rails libraries, and no way to change a Time object's time zone. Then I had to implement the same thing in Python and it's *even more* retarded. datetime.now() *doesn't set a time zone*. strftime is *platform-dependent*, so on Windows you don't have "%s". That's right: *you have to generate Unix timestamps by hand*. I have no words.
+
+Time libraries have been written specifically to torment me. I have no other explanation.
+
+muflax out.

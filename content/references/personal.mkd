@@ -46,3 +46,4 @@
 [yonmokunarabe]: https://github.com/muflax/yonmokunarabe/
 [mcd tool]: https://github.com/muflax/MCD-card-generator
 [gist anthropic]: https://gist.github.com/15d4d930aed8ee3a2fb1
+[Anki time search]: https://beta.ankiweb.net/shared/info/3262774902
