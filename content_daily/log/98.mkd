@@ -1,0 +1,153 @@
+---
+title: Lemonadologie
+date: 2012-10-05
+techne: :done
+episteme: :log
+---
+
+I like that it's finally getting cold.
+
+My grandpa disliked winter. He said that heat isn't too bad, you can always take off your clothes. But if it gets cold enough, you can't do anything. Which is understandable, I think, because he fought on the Eastern Front, and told me about soldiers who'd take off their boots, only to notice that their feet were still in there. So I feel like a wuss hating winter because it slightly messes with my skin, and therefore I have decided to like winter from now on.
+
+It's now cold enough that hot showers don't feel hot anymore, just cleansing. Also, [lebkuchen][].
+
+I think the secret to happy, sentimental traditionalism is always being slightly drunk.
+
+---
+
+<% skip do %>
+I sometimes wonder if I have a Hyperactive Muflax Detection Device in my head. I recognize people as similar to me when they clearly aren't, and then I'm disappointed when they're not me. This is silly.
+<% end %>
+
+---
+
+Some rambling thoughts on Feser's [Aquinas][Feser Aquinas] now that I'm about half-way through.
+
+Feser starts off with a quick introduction to forms and substances, and the four causes[^cause], and how they relate to each other. I don't have much to add to that except two minor points, and a meta-point.
+
+For one, I think Feser glosses over forms a little too fast. It isn't relevant to the argumentation exactly how forms work, but he could at least give a basic overview of the competing theories. (I feel tempted to say that Feser should explain form/matter in terms of cellular automatons, mostly because I find them so neatly intuitive, but then I remember that Dennett used them in his horrible [Freedom Evolves][], and I think upon reflection I prefer *no* philosopher using them ever again over another such crime against philosophy.)
+
+Besides that, I was at first confused what *potency* would be exactly. Fortunately, Feser resolved this confusion in literally one paragraph, like so:
+
+> For instance, the rubber ball of our example is composed of a certain kind of matter (namely rubber) and a certain kind of form (namely the form of a red, round, bouncy object). The matter by itself isn't the ball, for the rubber could take on the form of a doorstop, an eraser, or any number of other things. The form by itself isn't the ball either, for you can't bounce redness, roundness, or even bounciness down the hallway, these being mere abstractions. It is only the form and matter together that constitute the ball. The difference between the act/potency distinction and the form/matter distinction is one of generality. Anything compounded of form and matter is also compounded of act and potency, but there are compounds of act and potency that have no matter (namely angels, as we shall see later on). Being compounds of form and matter is the specific way in which the things of our everyday experience are capable of undergoing change.
+
+So there, act is just a generalization of matter, and potency of form. Gotcha. Similarly, I wasn't quite sure how Aristotle would apply a telos to all things because I had so far only thought about teloi in relation to (decision-theoretic) agents.
+
+> For the Aristotelian, final causality or teleology (to use a more modern expression) is evident wherever some natural object or process has a tendency to produce some particular effect or range of effects.
+
+Which *should* have been obvious to me from the beginning and now I feel stupid for not already having realized this, especially because I already had all the concepts in my head and just didn't make the connection. I'm delighted he doesn't ever bother with the common "Reification!" bullshit[^rei] and just generalizes over all processes equally, as one should, and moves on.
+
+But this also means I'm actually kinda disappointed with the book because it doesn't tell me anything *new*. I *already* think in these terms, if not that particular language[^lang], and I find it really hard to even conceive of an intelligible alternative[^mad]. 
+
+I'm also relieved because I thought, "man, I bet this scholastic stuff is *hard* and confusing and totally alien" because that's how everyone except the Catholics acts when they talk about it, and I'm finding it all straight-forward and as clear as it gets. (Within the limitations of being an introduction.) So at least I won't have to write a guide to Thomism, and can just point to Feser's book(s). (And put my energy into more interesting projects.)
+
+[^rei]:
+    I find the reification fallacy very silly because there's no such thing. *Everything* is an abstraction! Saying "Reification!" as if that meant or even refuted anything is the best way to get ignored by me. It's like saying "No fair, you can't be more meta than me!".
+
+[^cause]:
+    "Cause" is a misleading name due to the more narrow modern conception of causality. "Four Features That Make A Thing A Thing" is probably better, but not very catchy. Or just look at the *whole* causal graph and name *all* the features you need to (locally) define a node. (And remember that Aristotelians reduce to nodes / agents, not edges / events. Which is more sensible anyway.)
+
+
+[^cause]:
+    "Cause" is a misleading name due to the more narrow modern conception of causality. "Four Features That Make A Thing A Thing" is probably better, but not very catchy. Or just look at the *whole* causal graph and name *all* the features you need to (locally) define a node. (And remember that Aristotelians reduce to nodes / agents, not edges / events. Which is more sensible anyway.)
+
+[^lang]:
+    Dude should really talk about attractors and computation, not final causes and matter. I guess Thomas can be excused for not getting the connection and Feser wants to be true to his source, but still. We need more layers!
+
+[^mad]:
+    Then I remember how big a deal Eliezer made out of the "optimization process" idea, and how many people don't get that, and I despair a little. Aristotle did that shit over 2 millennia ago and he wasn't even all that great. I'm warming up to teaching philosophy through the ancients because apparently, everything is just getting shittier forever.
+
+I mostly expect the book to be an exercise in decompartmentalization (i.e. I'm possibly already an Aristotelian and just didn't know it, so Aquinas' arguments instantly apply, so let's see where they lead) and to serve as a basic translation guide to scholastic philosophy, which would be quite useful.
+
+I'm not convinced yet that this framework is *enough* to do much interesting work with it (kinda how the Peano axioms aren't that useful to an engineer, and there are obviously good alternative approaches to forms, although they might not affect the important arguments), but Aquinas is a smart cookie, so I'll be [patient][Heidegger xtra].
+
+Furthermore, I'm not yet convinced that a) teloi are in nature in general and not just in minds (which isn't *fatal* to teleology because there is still intentionality in the world, and Feser is right that standard mechanistic[^mecha] philosophers can't account for its existence *at all*), b) potency/forms really work that way, and c) a kind of Leibnizian monism isn't actually better. I'm open to alternatives and will defer judgment until I've read a lot more, but the basic direction and background assumptions in Scholasticism seem interesting enough.
+
+[^exi]:
+
+[^mecha]:
+    <% skip do %>
+    I should really settle on a consistent label for the Cartesian / materialistic / physicalistic / scientistic cluster that isn't also offensive to them ("scientism") or their opponents ("supernaturalism"). Maybe I'll just appropriate the term ["rationalist" in the theological sense][Rationalism], even though there are several competing meanings. I think the equivocation is acceptable because all the other groups descend from these Protestants anyway.
+    <% end %>
+
+Moving on, Feser jumps into the First Way aka the argument from movement (or more appropriately, change), i.e. everything that changes must be changed by something else, but there can't be an infinite regress, so there must be an unchanged change, or unmoved mover, which we call God.
+
+First off, Feser's presentation is not particularly clear or well-organized. He gives a account of the basic argument, and then just rambles on about several possible objections and how they fail. Furthermore, I remain unconvinced by the argument. It isn't clear to me why there *can't* be an infinite regress (or more likely, a loop[^loop]) and why the unmoved mover is *unique*. It seems perfectly possible to me that you could have a causal graph[^graph] with *multiple* roots, viz.[^viz] Feser has not properly shown that the causal graph must be a *tree*.
+
+Additionally, I don't see why *all* changes should map to the same kind of "reduction of potency to act", and can't have different types. Maybe all changes in spatial relations are one type of potency, while all changes in substance are another. Each of those has an unmoved mover, but they aren't the same one. There would be, so to speak, a Pure Act of Space, a Pure Act of Substance and so on. Scholastics can't just beg the question that obviously all change is metaphysically unified.
+
+As the Second Way is very similar to the First Way, let's move on to the Third, i.e. "if it is possible for a thing not to exist, then at some time, it doesn't exist, but if it were possible for *everything* not to exist, nothing ever would exist, so some thing must necessarily exist, which we call God". I agree with half that argument, but again I don't see at all why it picks out God *uniquely*. Why not just say that *everything* necessarily exists? In general, I find "act of existing" very questionable, and don't see any good reason to assume existence is a predicate at all. It's certainly very mysterious and not just something you can assume. Modal realism seems far more plausible to me than "some stuff exists and other stuff doesn't, don't ask me why, I have no idea, God[^god] dunnit".
+
+Even worse, even the premise doesn't seem to work as I could just channel my inner Theravadin and gleefully[^glee] say that of course all things are impermanent, and eventually *nothing* will exist. (And let's make that happen asap!) It just *hasn't happened yet*. Similarly, just because every single thing at some point does not exist, doesn't mean they all don't exist *simultaneously*. I don't see how you can get the Third Way past non-dualism or modal realism, both of which seem more intuitive and experientially secure than this "act of existence" stuff.
+
+[^glee]: Proof that I'm just faking it, as Theravada forbids glee or any emotion whatsoever besides contempt for other schools.
+
+[^god]: This is of course not just a problem for theists, but for everyone except modal (or Platonic) realists. In fact, "God dunnit" is *less* mysterious than "dunno laws of physics lol".
+
+[^viz]:
+    <% skip do %>
+    "viz." is so much fancier than "like".
+    <% end %>
+
+[^graph]:
+    Again, I wish Feser would bring in graphs and a more Pearlian construction of causality. He is unnecessarily vague in his descriptions, as if he's not sure how technical he is allowed to get, or (more likely) because he *doesn't fully understand it himself*. He sees value in Aristotle and Aquinas, and how many common criticism are fallacious (and I agree on both counts), but *not* how the positive argument actually works beyond some very clever password-guessing.
+
+    This may be unfair to him and wrong, but it's my current impression. (And why the fuck are we even discussing Newton? It's not just outdated, but horribly wrong, ontologically. Spacetime isn't Newtonian *at all*.)
+
+[^loop]:
+    This isn't quite true. Craig has made a good argument why that can't be the case (if something contingent was truly uncaused or loop-caused, the conditions for its existence would *always* be met, and it would *always* exist, i.e. it wouldn't be contingent), assuming you buy the "come into existence" premise to begin with, but Feser certainly just skips over it. 
+    
+---
+
+<% skip do %>
+Belief update time! (I just like to fill out questionnaires and personality profiles from time to time, and I successfully modified myself to enjoy filling out the *same* questionnaires again and again. Sustainable entertainment!)
+
+Let's do the [PhilPapers Survey][] again. (Answers in parentheses are my last answers from around February if they differ.)
+
+- A priori knowledge: yes or no? -> **No.** I reject the idea of a priori knowledge.
+- Abstract objects: Platonism or nominalism? -> **Neither.** I find Aristotelianism quite convincing, but otherwise I default to (computational) Platonism. (Reject idea of abstract objects, in a way that makes anything but (radical) Platonism incoherent.)
+- Aesthetic value: objective or subjective? -> **Undecided, tend towards subjectivism.** (Subjectivism.)
+- Analytic-synthetic distinction: yes or no? -> **No.**
+- Epistemic justification: internalism or externalism? -> **Externalism is false, but I'm unsure if internalism is coherent.** (Reject distinction.)
+- External world: idealism, skepticism, or non-skeptical realism? -> **Reject distinction.** I find "external world outside me" unintelligible, and prefer a non-dual conception.
+- Free will: compatibilism, libertarianism, or no free will? -> **Compatibilism.** I suspect libertarianism might not be as incoherent as I thought, and I'll have to re-evaluate this soon-ish. (Compatibilism, but also rejected the idea of free will as useless. I now find it useful.)
+- God: theism or atheism? -> **It's complicated.** (Atheism.)
+- Knowledge: empiricism or rationalism? -> **Empiricism.**
+- Knowledge claims: contextualism, relativism, or invariantism? -> **Lean weakly towards invariantism.** (Reject distinction.)
+- Laws of nature: Humean or non-Humean? -> **Unsure.** (Humean, as in "no objective laws".)
+- Logic: classical or non-classical? -> **Reject distinction as not meta and not constructivist enough.**
+- Mental content: internalism or externalism? -> **Internalism.** (Reject distinction.)
+- Meta-ethics: moral realism or moral anti-realism? -> **[Realism][One True Morality].** (Lean towards anti-realism.)
+- Metaphilosophy: naturalism or non-naturalism? -> **Can't understand the distinction.** I still can't figure out what people mean by naturalism that isn't either obviously incoherent, tautologically true, or a declaration of tribal associations.
+- Mind: physicalism or non-physicalism? -> **Non-physicalism, for most physical ontologies.** There are ways in which physicalism could be true, but those are very much niche positions (like quantum monadology). I out-right reject materialism, as conceived by Epicurus. (Physicalism with some doubts.)
+- Moral judgment: cognitivism or non-cognitivism? -> **Cognitivism.** Non-cognitivism is equivalent to nihilism. There certainly are non-cognitivist statements that masquerade as morality; see MacIntyre's [After Virtue][]. (Varies, mostly non-cognitivism.)
+- Moral motivation: internalism or externalism? -> **Internalism.** Externalism is equivalent to nihilism.
+- Newcomb's problem: one box or two boxes? -> **One box.**
+- Normative ethics: deontology, consequentialism, or virtue ethics? -> **Absolutely wrong meta-level.** If I go down about 3-4 meta-levels from where I *actually* stand, I come out at something not quite unlike virtue ethics. Most importantly, **localism**. (Mostly nihilism, with lots of unhappy dabbling. Also, why isn't divine command theory on the list?)
+- Perceptual experience: disjunctivism, qualia theory, representationalism, or sense-datum theory? -> **Non-dualism.** (Non-dualism with sympathies for qualia theory.)
+- Personal identity: biological view, psychological view, or further-fact view? -> **Decision-theoretic view.** (Standard Theravada anatta.)
+- Politics: communitarianism, egalitarianism, or libertarianism? -> **Divine right of kings.** This is just slightly exaggerated for hipster reasons, but close enough to my actual position. I sympathize with communitarianism and reject egalitarianism. Still lots of sympathy for pragmatism[^prag]. (Pragmatism, in a standard utilitarian way.)
+- Proper names: Fregean or Millian? -> **Lean towards Millian.** I love me some hipster syncretism. What matters is the thing you pick out, not what language you use to do so. (Unsure.)
+- Science: scientific realism or scientific anti-realism? -> **Realism with caveats.** The caveat being that things that can't be interacted with don't exist. (Anti-realism because there is no objective order, aka the Discordian position.)
+- Teletransporter (new matter): survival or death? -> **Survival.**
+- Time: A-theory or B-theory? -> **Lean towards B-theory.** (Unsure. B-theory is very elegant and plausible, but I'm confused if it actually matches phenomenal experiences.)
+- Trolley problem: switch or don't switch? -> **Not enough information.** Who is on the tracks, who sees me, what kind of switch is it, why am I near it? (Unsure.)
+- Truth: correspondence, deflationary, or epistemic? -> **Lean towards epistemic.** (Reject "truth" as useful, lean towards social constructivism.)
+- Zombies: inconceivable, conceivable but not metaphysically possible, or metaphysically possible? -> **Depends.** In sane metaphysics (like Aristotelianism or Platonism), they are inconceivable. In most forms of physicalism (and all forms of materialism), they are possible and present huge problems. (Maybe conceivable, but completely nuts.)
+
+[^prag]:
+    I have a lot of sympathy for pragmatism in general. Due to the unified nature of knowledge and action, "being right" and "doing the right thing" are inseparable, but it is very much possible to not have good meta-awareness of your own virtue. (Compare Daoists and Zennists, who are often very sensible in practice, but have minimalist philosophies. Or Tantra, which can be right while being totally bonkers on an explanatory level.)
+
+    Because of that, I don't take "you disagree with me about an explicit description of what is right" to automatically mean "you disagree with me about what is right". I also highly respect results, even if their methods sound completely silly.
+
+Overall, I'd say that I kinda saw half those changes coming because they flowed mostly from not having thought enough about certain topics to having done so. The shift to moral realism was surprising, but the conditionals (if morality exists, then internalism, cognitivism etc. must be true) I already agreed with.
+
+You could probably predict some future positions by harmonizing remaining uncertainties and contradictions in favor of the new changes. I weakly not-quite-seriously expect that in a year or so I will complain a lot about those questions in the form of "I'm a scholastic and what is this". I more seriously expect to complain how many important fundamental questions *aren't* on the survey, and how the people I read are so much smarter and more relevant than the people *those* philosophers read.
+
+<% end %>
+
+---
+
+Crap. I saw the first reviews for the [Kindle Paperwhite][] and now I definitely want one. And they have supply problems and I expect I won't get a reasonably-priced one in Europe before Christmas.
+
+This sucks.
