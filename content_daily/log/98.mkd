@@ -106,7 +106,7 @@ Let's do the [PhilPapers Survey][] again. (Answers in parentheses are my last an
 
 - A priori knowledge: yes or no? -> **No.** I reject the idea of a priori knowledge.
 - Abstract objects: Platonism or nominalism? -> **Neither.** I find Aristotelianism quite convincing, but otherwise I default to (computational) Platonism. (Reject idea of abstract objects, in a way that makes anything but (radical) Platonism incoherent.)
-- Aesthetic value: objective or subjective? -> **Undecided, tend towards subjectivism.** (Subjectivism.)
+- Aesthetic value: objective or subjective? -> **Undecided, lean towards subjectivism.** (Subjectivism.)
 - Analytic-synthetic distinction: yes or no? -> **No.**
 - Epistemic justification: internalism or externalism? -> **Externalism is false, but I'm unsure if internalism is coherent.** (Reject distinction.)
 - External world: idealism, skepticism, or non-skeptical realism? -> **Reject distinction.** I find "external world outside me" unintelligible, and prefer a non-dual conception.
