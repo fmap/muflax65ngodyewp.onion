@@ -87,7 +87,7 @@ In other words, Truman might realize that the happiness he knew didn't *depend* 
 
 And somehow, this strikes me as *wrong*. Could you really imagine telling Truman that he might try convincing the director to write him some new scripts? Or worse, that Truman might try writing fanfic about his own life, and extract his happiness from it? After all, his previous life was just as fake, so what's the difference?
 
-With sufficiently strong [luminosity][Luminosity], you ought to be able to realize that whatever good you experienced from things you thought were independent agents, but that turned out to be illusions, wasn't *caused* by those agents (because they never existed). The power was in your brain all along.[^bias]
+With sufficiently strong luminosity, you ought to be able to realize that whatever good you experienced from things you thought were independent agents, but that turned out to be illusions, wasn't *caused* by those agents (because they never existed). The power was in your brain all along.[^bias]
 
 [^bias]: Figuring out if something is a bias or a value is [incredibly hard][LW bias value].
 

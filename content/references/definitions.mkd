@@ -43,7 +43,7 @@
 [Convict Conditioning]: http://www.dragondoor.com/b41/ 
 [Core Dump]: http://en.wikipedia.org/wiki/Core_dump
 [Crank]: http://en.wikipedia.org/wiki/Crank_%28person%29
-[Crocker's Rules]: http://wiki.lesswrong.com/wiki/Crocker%27s_rules
+[Crocker's Rules]: http://www.sl4.org/crocker.html
 [Crown of Thorns]: http://en.wikipedia.org/wiki/Crown_of_Thorns
 [Crusader Kings II]: http://www.paradoxplaza.com/games/crusader-kings-ii
 [DSL]: http://c2.com/cgi/wiki?DomainSpecificLanguage
@@ -121,7 +121,6 @@
 [Lossless Data Compression]: http://en.wikipedia.org/wiki/Lossless_data_compression
 [Lucid dreaming]: http://en.wikipedia.org/wiki/Lucid_dreaming
 [Lucius Vorenus]: http://en.wikipedia.org/wiki/Lucius_Vorenus_%28Rome_character%29
-[Luminosity]: http://wiki.lesswrong.com/wiki/Luminosity
 [Löb's Theorem]: https://en.wikipedia.org/wiki/L%C3%B6b%27s_theorem
 [MAO-I]: https://en.wikipedia.org/wiki/Monoamine_oxidase_inhibitor
 [MCD]: http://www.alljapaneseallthetime.com/blog/series/mcd-revolution
