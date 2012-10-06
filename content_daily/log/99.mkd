@@ -1,0 +1,112 @@
+---
+title: Am I not meta enough? Is my theory broken?
+date: 2012-10-05
+techne: :done
+episteme: :log
+---
+
+> Exercise daily, eat right, meditate daily, play with your loved ones, maintain good sleep hygiene and have a creative outlet. When this is done everything else just seems not to be that big of a deal. Oh and for fuck's sake, don't play games of better or worse spiritual conditions with your self.
+>
+> -- Youtube comment
+
+
+Ran more texts through the card grinder and got some statistics. Nothing exciting:
+
+- French: 5.8k sentences have 11.7k morphemes belonging to 6.7k bases.
+- Japanese: 27.3k sentences have 18.2k morphemes belonging to 13.2k bases.
+- Latin: 7.4k sentences have 26.9k morphemes belonging to 10.1k bases.
+
+"Morpheme" means "a given token ("is") in a certain grammatical slot ("verb")", and a "base" is just the root of all tokens of that the parser recognizes as belonging together ("is", "are" and "am" all have the base "(to) be"). The parsers are reasonably good at their job, but tend to split a bit too aggressively, particularly in Japanese.
+
+That confirms the rule of thumb that a language has about 10k unique words to learn. Based on my known words database (which significantly underestimates my actual skills; give it another month or two), I know 1-2k words in Latin and Japanese, and 3k in French. I can (slowly, at 80% comprehension or so) read arbitrary French and specialized Latin / Japanese (i.e. stuff like what I've practiced).
+
+Prof. Arguelles said:
+
+> The maddening thing about these numbers and statistics is that they are impossible to pin down precisely and thus they vary from source to source. The rounded numbers that I use to explain this to my students I usually write in a bull's eye target on the whiteboard [...]:
+>
+> - 250 words constitute the essential core of a language, those without which you cannot construct any sentence.
+> - 750 words constitute those that are used every single day by every person who speaks the language.
+> - 2500 words constitute those that should enable you to express everything you could possibly want to say, albeit often by awkward circumlocutions.
+> - 5000 words constitute the active vocabulary of native speakers without higher education.
+> - 10,000 words constitute the active vocabulary of native speakers with higher education.
+> - 20,000 words constitute what you need to recognize passively in order to read, understand, and enjoy a work of literature such as a novel by a notable author.
+
+That seems right to me. I'd estimate that around 1k, you go from "I don't understand these paragraphs" to "I don't understand these sentences", at 3k to "I don't understand these words", and around 5-6k you can read fluently (if awkwardly), which is the point where I'd stop using automatic cards and switch to (occasional) manual cards again.
+
+So there.
+
+---
+
+I'm increasingly dissatisfied with Fitocracy. The primary reason I use it is to assign some reasonable "effort / usefulness" score to activities. I hate pure routine workouts ("here's your progression, you do M/W/F, see you in a year") and want to be able to mix stuff up. I also want to avoid having to assign my own scores due to obvious biases. So ideally, Fitocracy is exactly what I want.
+
+But it's broken. Their scores are horrible unbalanced. Most notably:
+
+- Many variations of exercises are worth about (and often exactly) as much as the original exercise. For example, diamond push-ups are worth just as much as normal push-ups despite being significantly harder. This biases against bodyweight exercises.
+- Walking 2km (aka my commute) is worth as much as 15 push-ups. That's... debatable. Getting high and running through the woods for an hour is worth *130* push-ups. This is bullshit. I used to run for an hour every day. I can *not* do 130 push-ups.
+- While we're at it, any kind of running/walking seems to be based entirely on distance. This is ridiculous.
+- It does not account for resting time or rep distribution. 10 sets of 10 reps is exactly the same as 100 reps. You can't measure Tabata intervals at all.
+- More difficult exercises don't scale nicely and seem to be biased towards high reps. Moving on to the next progression step can *lower* the point total due to fewer reps.
+
+From what I can tell, Fitocracy has done virtually nothing to address these long-standing issues, so I have little hope of seeing any improvement in the coming months. It's time for a better system.
+
+I present: muflax points.
+
+The idea is port over weight increases over from lifting[^weights] so I have a more reliable way to measure progress. For every muscle group, I pick a standard exercise for calibration. I pick something I can do for multiple reps in good form. I then perform this exercise until failure and count the reps. Say I can do 12 good push-ups. I normalize that to be worth 10 points and that's my baseline. So 1 push-up is worth 0.83 points and a normal set is 10 points. 
+
+Now when I move to the next step in the progression[^failure], I can calibrate it against the last step. Say I do elevated push-ups next and can only do 7 of them, but I could do 15 normal push-ups last time. So they're worth 15/7 times more, or 1.77 points.
+
+That way, I can't cheat by doing lots of reps of a simpler form for points. It's always best to do the hardest thing possible. And I can't substitute a more advanced muscle group for a shittier one to grind points because they're all calibrated to be worth the same thing. I'll lose an easy way to compare myself with others, but I can always fall back on standardized tests like the military uses.
+
+So yeah, I'll switch to this system in a week (when the current Beeminder goal is over). I'll calibrate all exercises until then. (And write a simple CLI Fitocracy to do the math.)
+
+[^failure]:
+    I move up to a more difficult form whenever I routinely do more than 5-8 reps, as that's the optimal range for strength, or so my skimming of the literature indicates. 
+
+[^weights]:
+    <% skip do %>
+    Weights are actually really cool from an efficiency point of view. Workouts are short, effective and easy to measure. Unfortunately, lifting weights fails for one simple reason: it's too inconvenient. Going to a gym is too tedious. I can't buy my own weights because they a) cost too much and b) I have no place inside the house where I could use them. So to do my workouts, I'd have to go outside. This ain't happening.
+
+    I could have my own private gym right next door and get a blowjob every time I show up, I'd *still* procrastinate on it. I have to be able to do it in my room without getting dressed at 3 in the morning while tired, or I might as well not bother.
+    <% end %>
+
+---
+
+<% skip do %>
+Semi-troll extension of [this argument][God's a DM, so His dice rolls are kinda fake] and [this tweet][Twitter selection].
+
+Defense against bacteria is tricky. If you put up no barrier, the simplest replicator just walks in and takes all your stuff. So you put up a decent wall and still get infected. You're clever and get out the antibiotics, kill off most of those bastards. You're not clever enough, unfortunately, and leave some alive. Congratulations, you have just become natural selection's bitch. Now only the badasses are still around and all the wimp forms have been killed off. Now you have an infection that is extremely hostile and that you can't do anything against. You die. DYWYPI?
+
+So you have two strategies. You could kill *all* the bacteria. If your defense is good enough that *no one* survives, you get to keep all your stuff. Alternatively, you could make a pact with Azathoth. You set up a barrier that is good enough to filter out all the trivial stuff, *but not more*. You accept that you will have some level of infestation. But now you have two forces working in your interest. For one, there is no advantage in being particularly hostile or resilient (and in fact, due to the cost of badassery, selection against it), so most of the stuff will be fairly harmless. But more so because bacteria now get to hang around, you don't just become their temporary host. You become their home territory and *they* will try to protect *you*.
+
+Exploitative symbiosis is still better than death unless you're so incredibly awesome that you can kill them all. In that case, there's a guy named Entropy here who'd like to have a word with you.
+
+Now think about toxic memes, i.e. any kind of attractor in thought-space that ends up with you getting pwned. Ideally, we'd like to eradicate them all - Jesus, love, justice - the whole lot. Humanity has tried and failed for a long time. At some point, some dudes had a clever idea: why not contain them instead? We create a byzantine bureaucracy of thought, compartmentalize all those pathomemes away and limit their reach. They'll still exploit us, weakly, in the form of everyday insanity, rituals and hypocrisy, but we can still have functioning societies and reasonably happy lives despite all that.
+
+This is what the Catholics have been doing all along. First, historicize Jesus. He's far less dangerous on Earth. Then weaken the teachings, add intermediaries (priests, bishops, saints), doctrinal authorities and all kinds of complex rituals you have to follow. You still get to pray to Love Supreme, but you're not expected to get personal answers, forgiveness or insights. That's what the Church is for. This is also why there isn't One God that covers all, but a Triune (fractured) God and several crucial saints. The more compartments, the better.
+
+The standard [clueless][Gervais principle] mistake is to believe that bureaucracies are *broken*. If things weren't so inefficient and complex, we'd all be better off! This is of course nonsense. The incompetence is the whole point of a bureaucracy. It has three purposes: it protects the sociopaths running the system, it provides a stable environment for the losers working in it, and it compartmentalizes eldritch attractors. You end up with a system that benefits all through distributed losses.
+
+Really good idea until the nerds come along. Too clueless to see the real purpose, too smart to fall for the intentional traps, too obsessed to move on, too stupid to just enjoy life. You end up with people who think we'd all be better off if we could just talk to Jesus ourselves (who needs all those priests?), figure out reality on our own (who needs gatekeepers?), run society ourselves (who needs rulers?).
+
+It's the ultimate clueless move. It has predictable results.
+
+Every time you update away from a bureaucratic system of thought - Catholicism, say - you're in effect saying that you're a big boy now and ready to take on all of reality yourself. Are you *sure* you want to do that before you know how to kill instead of just wound?
+
+Are you sure you want to encourage others?
+<% end %>
+
+---
+
+Nourished some paranoia.
+
+I had far too little of that this year. I'm too trusting, don't question motives, don't even have a habit of determining motivation *at all*. People just do stuff to benefit me personally, generally. (Or so it feels.)
+
+Even if my hipster talk is just 1% real, I'll still have to take on transmuflax entities eventually, be they (better) sociopaths, institutions or gods. Compared to that, I'm utterly unprepared.
+
+Paranoia and defenses are a good first step, I think. Unfortunately they aren't easy to write about. I mean, I'm giving away *some* of my game, so I'm obviously stupid (and/or trust in locality, which is a form of metaphysical stupidity), but I'm not *that* stupid.
+
+Also bumped "practice <del>screwing people over</del> social skills" up on my todo.
+
+---
+
+I've stopped the meditation goal for a while for reasons. I've also frozen the weight loss goal until I get some modafinil. It's too hard to maintain (especially while exercising) without some decent uppers, and I want to avoid too much caffeine, again for obvious reasons.

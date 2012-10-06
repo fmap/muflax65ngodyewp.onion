@@ -20,6 +20,7 @@
 
 <!-- tweets -->
 [Twitter pali]: https://twitter.com/#!/muflax/status/66635052242567168
+[Twitter selection]: https://twitter.com/muflax/status/254538333269659648
 
 <!-- comments -->
 [comment Church]: http://blog.muflax.com/jesus/self-baptism/#comment-513169408
