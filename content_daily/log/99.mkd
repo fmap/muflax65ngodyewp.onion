@@ -9,7 +9,6 @@ episteme: :log
 >
 > -- Youtube comment
 
-
 Ran more texts through the card grinder and got some statistics. Nothing exciting:
 
 - French: 5.8k sentences have 11.7k morphemes belonging to 6.7k bases.
@@ -99,7 +98,7 @@ Are you sure you want to encourage others?
 
 Nourished some paranoia.
 
-I had far too little of that this year. I'm too trusting, don't question motives, don't even have a habit of determining motivation *at all*. People just do stuff to benefit me personally, generally. (Or so it feels.)
+I had far too little of that this year. I'm too trusting, don't question motives, don't even have a habit of determining motivations *at all*. People just do stuff to benefit me personally, generally. (Or so it feels.)
 
 Even if my hipster talk is just 1% real, I'll still have to take on transmuflax entities eventually, be they (better) sociopaths, institutions or gods. Compared to that, I'm utterly unprepared.
 
@@ -109,4 +108,4 @@ Also bumped "practice <del>screwing people over</del> social skills" up on my to
 
 ---
 
-I've stopped the meditation goal for a while for reasons. I've also frozen the weight loss goal until I get some modafinil. It's too hard to maintain (especially while exercising) without some decent uppers, and I want to avoid too much caffeine, again for obvious reasons.
+I've stopped the meditation goal for a while because of reasons. I've also frozen the weight loss goal until I get some modafinil. It's too hard to maintain (especially while exercising) without some decent uppers, and I want to avoid too much caffeine, again for obvious reasons.
