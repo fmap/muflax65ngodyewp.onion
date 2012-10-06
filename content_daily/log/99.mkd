@@ -1,6 +1,6 @@
 ---
 title: Am I not meta enough? Is my theory broken?
-date: 2012-10-05
+date: 2012-10-06
 techne: :done
 episteme: :log
 ---
