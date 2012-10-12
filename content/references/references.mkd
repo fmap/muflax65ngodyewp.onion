@@ -153,6 +153,9 @@
 [Jani]: http://www.smh.com.au/lifestyle/edge-of-the-abyss-20120820-24h4r.html
 [Bible Geek Cthulhu]: http://recordings.talkshoe.com/TC-20430/TS-628204.mp3
 [Gervais principle]: http://www.ribbonfarm.com/the-gervais-principle/
+[Humanity Fuck Yeah]: http://1d4chan.org/wiki/Humanity_Fuck_Yeah
+[Unreasonable Effectiveness]: https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences
+[Mans Search Cheer Up]: http://betterbooktitles.com/post/8655836018/manssearch
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/

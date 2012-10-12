@@ -1,0 +1,163 @@
+---
+title: More like "Adjacent to Good and Evil"
+date: 2012-10-11
+techne: :done
+episteme: :log
+---
+
+Ok, now I'm confused by Feser's treatment of teloi.
+
+Let's grant for a moment we actually know what "things" are. We may or may not understand the underlying metaphysics, but we all agree on where the boundaries are at least. (I dispute this too, but at least as far as agents are concerned, I think this *could* be solvable. Maybe if you base reality on agents ("ideas in the mind of God"), you can also get essentialism off the ground.) This also presupposes to some degree that reductionism is false, so let's grant this too. The essentialists are essentially right (heh) and there's a standard formulation we agree on.
+
+Once we know what the inventory of "things" is, I still don't see how we'd agree on what the relevant teloi are unless we're sneaking in value judgments, or have an explicit hierarchy of teloi-granting mechanisms, which Aristotelians don't seem to have.
+
+Now given all that, it seems to me that "this thing is directed towards a goal" and "this goal is what it *should* do" are sensible ideas, but that alone doesn't seem to be *enough* to overcome moral nihilism, you just kick the challenge up a meta-level. "This knife should do (or rather, be) something, and this shouldness is determined entirely by its form" is all cool, but somewhat tautological. "Ah yes", says the Aristotelian, "but the knife doesn't actualize the *ideal* form of being-a-knife, but merely a corruption of it". That *would* work as moral realism - the knife should do what the ideal (uncorrupted) form of itself is directed towards, and so become the perfect knife.
+
+But what *is* the ideal form of a thing? As a Nurgelian, I intuitively see it as involving lots of puss, tentacles and decay. Obviously the thing my current knife is meta-directed towards is rust, inflicting wounds and generally lots of entropy. In fact, decaying is *the* tendency of things in our universe, something Death-of-God theologians have been harping on about for decades. I don't think Feser would agree with that.
+
+So you have three options here, given this construction of teloi:
+
+1. You could say that teleology is just the level morality is *implemented* on, so to speak, but it truly resides on a different level of ideal forms (or that which makes forms "less corrupted" than others). This just pushes the mystery somewhere else, and isn't much better than "utilitarianism is objectively true, but I have no idea what the true universal utility function is or what makes it universal". (Personally I think something not entirely unlike this could be defensible, but Feser doesn't argue anything like that, as far as I can tell.)
+
+2. You give up the idea of normativity and reduce teloi to "all things do some stuff more than other stuff, and that's the good", which just makes every state of affairs tautologically morally perfect. I don't see how that isn't just moral nihilism for people who find the word "nihilism" depressing.
+
+   Or in the words of a (probably made-up) Sufi, as recounted by [Osho][]:
+
+   > I have heard about a Sufi master who was talking to a few people in the coffee house and he said an old Sufi saying: "Life is perfect, everything is perfect, everybody is perfect." A hunchback was listening, he stood up and he said, "Look at me! I am the proof that life is not perfect. Look at me! Is this not enough to disprove your idea that life is perfect? Look at me – how ugly I am, and in how much difficulty. I am a hunchback." The Sufi looked and said, "But you are the most perfect hunchback that I have ever seen!"
+
+3. You cheat (slightly?) by smuggling in a value judgment about what makes something "good at X" on a meta-level. It works like this:
+
+   "If left alone, this thing here will tend towards this goal there. We call this goal its telos. You can determine this goal either empirically by observing the typical tendencies of things over a wide range of environments, or (if we're smart enough) by thinking in certain ways about the thing.[^emp] Now, it turns out that while the thing is directed towards its telos, it isn't very *good* at it. If it were *less* corrupted - if it had more optimization power, so to speak - it would bring about its telos much more rapidly and against much stronger opponents."
+
+   This view isn't nonsensical, but it's still cheating by pretending there is an unblurred line between "being good at X" and "being bad at X", which is itself a value judgment. Again as a Nurgelian, I take "being prone to infections" as a *good* thing, not a deficiency. (Think of all the bacteria you're helping!) Or "being a very competent assassin"[^ass] is clearly good in the teleological sense, but I don't think Feser would like that very much.
+
+   One person's incompetence to bring about X is another person's competence to bring about not-X.
+   
+   I think this approach *can* be rescued, but it will look a lot more entropic and brutal than Feser imagines. This doesn't bother *me*, but it underlines the lack of imagination on Feser's side, I think.
+
+[^emp]: Which I'd also call empirical, but that's not relevant here.
+
+[^ass]:
+    Jesus agrees:
+
+    > The kingdom of the father is like a certain man who wanted to kill a powerful man. In his own house he drew his sword and stuck it into the wall in order to find out whether his hand could carry through. Then he slew the powerful man. (Thomas 98)
+
+So while I can kinda see how you'd bootstrap Feser's teleology up to moral realism, I don't see how you'd come out even close to anything resembling standard *Catholic* morality, or even typical *human* morality. It would look *much* more eldritch and azathothian. Which is cool by me, but dude's sure not selling his particular brand.
+
+But overall I'm warming up more to Feser now that I've read *much* more of his other stuff. He's got what you might call Theologian's Disease, where you have to read someone's complete work to understand the full context and extend of their arguments. I'm not sure it's his *fault* (except in so far that he doesn't instantly open up with reading lists and cross-references, which I admit is tedious to do), but it sucks when you can't just point someone at one convenient blog post that summarizes everything in a reasonably comprehensive way, but you sometimes have to say stuff like, "yes, but have you read his 3 other books, and those 5 guys he builds on, and are you familiar with those 20 important debates, and these 2 famous responses to them which inform his arguments, and you do know an undergrad degree's worth of background knowledge about this, right?, and btw, half of it is in languages you don't speak".
+
+It's not deliberate obscurantism, it's just context-heavy work. If you just want good enough answers, there's always the <del>Codex Astartes</del> Catechismus Catholicae Ecclesiae. (trollface.jpg)
+
+---
+
+<% skip do %>
+Minor belief update: the argument [against vegetarianism][Vegetarian] got simpler because I just don't [give a shit][Mans Search Cheer Up] about "suffering"[^suf] anymore. (I'll update the post when I get around to writing a better post about *why* suffering doesn't matter / isn't bad.)
+
+Back when I wrote this post I thought, sure, animals may *suffer*, but they're not morally relevant agents, so their suffering - or any preference or experience - is irrelevant (and if not, surely it's fairly minor, especially compared to all the benefits). I now see a teleological case for their being (minor) moral agents (but I'm not sure it convinces me[^con]), but more importantly, suffering simply carries no normative power per se, so I don't see what possible evil eating animals constitutes. Nor have I ever seen any attempt to ground "suffering is bad" in anything but "it sure feels like it!" or "but I wanna!", and in fact most active proponents of these views *deny* a derivation of morality from rational arguments.
+
+(Although I think an argument from "but suffering feels inherently bad!" would carry *some* weight, but I explicitly deny *even that*. I can really only say "have you even *tried* changing your attitude?!" to that. I mean, I respect the Buddhists. They don't just claim something is an incontrovertible fact of experience before poking it nonstop for months. They're *thorough*. And, of course, they came up [with complete courses][Visuddhimagga] on how to *get rid of this suffering thing*, if you want to.)
+
+So eat all the animals you want. Except ducks. I don't eat ducks. I think ducks are metaphysically important.
+
+[^suf]:
+    "Suffering" in the sense of "birth, aging, illness, death, sorrow, lamentation, pain, grief, despair, union with what is displeasing, separation from what is pleasing, not to get what one wants, in brief, clinging to the five aggregates", as the Buddhists say. I think that's a decent superset of the meanings I refer to.
+
+    There are some senses of the word I would exclude, like "suffering under foreign oppression", which don't indicate experiential states of dissatisfaction, but institutional (etc.) dysfunction. Those I do care about, but they don't affect animals.
+
+    Also, it's very hard to express this general view, or even attempt to criticize someone disagreeing with it, without going into Overly Manly Man Mode, so I'll refrain from that for now.
+
+[^con]:
+    To be specific, I don't have a problem with granting animals (minor) moral status, but I don't see how breeding, slaughtering and eating them *violates* this status, nor why their teloi or preferences supersede *mine*. (Similarly, I have no problem with transhuman agents eating *us*. Or at least [they can *try*.][Humanity Fuck Yeah])
+
+<% end %>
+    
+---
+
+<% skip do %>
+I'm not sure if I'll still get around to it, but I wanted to write a post about a third way to resolve[^meta] the old problem of [docetism][], so I'll just give a quick sketch before it rots away in an eternally unfinished draft.
+
+Basically, once Jesus got kinda-historicized, there was the issue of having the Son of God suffer and be crucified. Gnostics and Paulinists tended to find this distasteful. Obviously, they thought, the Savior cannot possibly be so human that he experiences pain. Pain *sucks*. Surely the Word Incarnate has overcome these physical limitations. So they came up with solutions that made Jesus' suffering illusionary: he just pretended to feel pain, he used a doppelgänger, he switched with <del>Paul</del> err <del>Simon Magus</del> I mean Simon of Cyrene, or something like that. This turns Jesus into not just a philosophical troll, but a *soteriological* troll. Given the importance of the death and resurrection of Christ that even docetists agree with, faking the crucifixion is *worse* than Gettier trolling all of humanity by creating a 6000 year old universe and then putting old light and dinosaur fossils in it.
+
+A second approach, common to Arianism, Cynics and secular Protestants, is to treat Jesus as essentially human and to imagine him as a (failed?) prophet, someone who suffers needlessly because of the evil of the world, but who is so righteous he persists regardless. Jesus *fulfills* divine obligations without *being* fully divine[^atha]. This, of course, completely and utterly misses everything about Jesus. The docetist at least gets the Trolly Spirit. The Arian doesn't get divinity *at all*.
+
+[^atha]:
+    As Athanasius, whose name literally means "the Undying", said:
+
+    > Both from the confession of the evil spirits and from the daily witness of His works, it is manifest, then, and let none presume to doubt it, that the Savior has raised His own body, and that He is very Son of God, having His being from God as from a Father, Whose Word and Wisdom and Whose Power He is. He it is Who in these latter days assumed a body for the salvation of us all, and taught the world concerning the Father. He it is Who has destroyed death and freely graced us all with incorruption through the promise of the resurrection, having raised His own body as its first-fruits, and displayed it by the sign of the cross as the monument to His victory over death and its corruption.
+
+[^meta]:
+    I also should make a meta-point about the direction of resolution, and the connection to tropes, as this is this is also how I approach meta-ethics, and I don't think I'll get around to writing *those* posts any time soon either.
+
+    The wrong way is trying to do it bottom-up, starting with some moral facts we assume as (reasonably) certain and generalizing from there, which is of course at best helpful in disguising your implicit assumption of moral nihilism. (It's also completely worthless if you're confused about whether e.g. consequentialism or deontology is right, or how one would decide that.)
+
+    The right way lets belief flow downwards from meta and follows a roughly [apophatic][] approach. You pretend for the sake of the construction that morality (or whatever you're constructing) *does* exist, and then ask yourself what *would* be true about it in that case. What constraints can you put on it, what *must* be the case, what can you *rule out*. Should this construction lead to contradiction, then nihilism / eliminativism about this subject is correct. But if not, if something surprisingly coherent comes out of it, well then you can ask yourself [why that should be so][Unreasonable Effectiveness], and if you haven't stumbled upon the construction of something real.
+
+    Similarly, theology. There can very much be a fact-of-the-matter about what theological doctrines (like, say, donatism) are right for meta-level reasons, even if theism is actually false or certain key figures of certain religions never existed. (If it turns out that certain churches of certain religions cluster around those true doctrines, that should arouse your suspicion.) As such, looking at the New Testament (or any scripture) from a trope perspective, there is a definite correct interpretation (or set of interacting interpretations) *independent* of it being true in the conventional sense.
+
+    Thus, even though I'm (primarily) a mythicist about Jesus (and others), I *still* reject theological relativism or nihilism, so to speak. (Also, it *is* The Greatest Story Ever Told.) This isn't even particularly hipster of me: the (smarter) Gnostics and Stoics took exactly that position too, and Catholics famously blur the line between history and allegory.
+    
+So the correct approach, I think, has to affirm Jesus' full humanity and the reality of his suffering. But it must *also* accept the divinity, uncorruptedness and deliberateness of his life, and so *embrace* the suffering. Christ *chose* this life and is not in any form embarrassed by it. He first assumes a fully human nature so as to experience the whole extent of suffering, only to then conquer it without *removing* it. Christ is divine *beyond* his humanity, not *in place* of it. (Christ is closer to a [Sensate][Sensates] than a Buddha.)
+
+It is possible to fully suffer without being *enslaved* by it. The Gnostic underestimates the ability of transhuman agents. They conceive of them as something so powerful they can *avoid* suffering, not something that can actively *conquer* it. In doing so, they actually think of divinity as a form of cowardice, as something that can forever run away from certain aspects of reality. They couldn't be more wrong.
+
+(This fits with the Nurgelian conception of suffering. Or, you know, just read Tertullian's beautiful[^carne] [De Carne Christi][], which argues a very similar point.)
+
+[^carne]:
+    > So then \[Marcion\], if your repudiation of embodiment is due neither to the supposition that God would find it impossible nor to the fear that it would bring him into peril, it remains for you to reject and arraign it as undignified.
+    > 
+    > Beginning then with that nativity you so strongly object to, orate, attack now, the nastinesses of genital elements in the womb, the filthy curdling of moisture and blood, and of the flesh to be for nine months nourished on that same mire. Draw a picture of the womb getting daily more unmanageable, heavy, self-concerned, safe not even in sleep, uncertain in the whims of dislikes and appetites. Next go all out against the modesty of the travailing woman, a modesty which at least because of danger ought to be respected and because of its nature is sacred. You shudder, of course, at the child passed out along with his afterbirth, and of course bedaubed with it.
+    >
+    > You think it shameful that he is straightened out with bandages, that he is licked into shape with applications of oil, that he is beguiled by coddling. This natural object of reverence you, Marcion, bespittle: yet how were you born? You hate man during his birth: how can you love any man? Yourself at least you evidently did not love when you withdrew from the Church and the faith of Christ. But it is your own concern if you are an object of displeasure to yourself, or if you were born some other way. Christ, there is no doubt of it, did care for the sort of man who was curdled in uncleannesses in the womb, who was brought forth through organs immodest, who took nourishment through organs of ridicule. For his sake he came down, for his sake he preached the gospel, for his sake he cast himself down in all humility even unto death, yea, the death of the cross.
+
+    \m/
+
+<% end %>
+    
+---
+
+Was at a concert. Feel like actual human being, all social and shit. This is so weird.
+
+A few disjointed anecdotes.
+
+Goth rock is probably the most introverted a genre you can have before turning into modern classical music with its obsession with corpse-like audiences. I think about 5 people were dancing at any given time during the first half of the concert. Lots of folk were obviously uncertain if they were *allowed* to rock out (and almost always[^air] decided "nope"). This made it clear why usual audience / performer concerts are a broken institution, and that you'd really want to break down the separation and get everyone actively involved, all oldschool ritual like, but then I like broken things and was delighted to meet people as prone to panic attacks as me, so it's not something I'd want to see fixed any time soon.
+
+Also, the concert was *3 fucking hours long*. It was so long and exhausting, I was almost sober again at the end. Screw you, Lacrimosa, who do you think you are playing so gods damn long, [some obscure punk band][Die Ärzte]?! At least that's finally enough to convince Fitocracy to give me some points. 270, that is. I've *still* earned more points running through the woods. Screw you too, Fitocracy.
+
+[^air]:
+    Except for this one dude I dubbed "air guitar guy". I love air guitar guy. He inspired me so much that I'm really going to go through with my "improve musical skills" project this month and move on to some general guitar skills soon. I have to step up my rocking out game.
+
+---
+    
+I explicitly *won't* talk about the emotional effects because one point of the whole thing was to practice being comfortable in doing stuff *on my own* in a public space[^intro], and sharing would just ruin the whole thing. But I did find it amusing that my first reaction to the 100dB sound wave was "you think you can overwhelm me with sensations? bring it, bitch!" and then having this little automatic voice in the background noting sensations, all vipassana style.
+
+[^intro]:
+    I used to tell myself that I'm an introvert, that I hate public spaces, that I hate being around people, that they stress me out and make me uncomfortable. Then I found the right mixture of drugs, self-modifications and insights, and now none of that is true, although I still need lots of status-raising practice.
+
+    I find it hard to pin down exactly what the relevant change is (I feel like I could drop any individual component with some practice), and I don't wanna overly generalize from N=1, but I find it really painful to listen to a good friend tell me how he's "really an antisocial introvert" and "nothing can change that" because I know that I used to tell *him* the same thing (and I think he's actively copying past-me), and I know *I* was full of shit.
+
+    (Also because the *actual* introverts I know (and not just status-deprived nerds) are *much* less unhappy and dysfunctional than I was.)
+
+---
+    
+Concert's over and I'm waiting for a train, and some woman is struggling with her ~20 year old daughter. The daughter says she's not going home again and tries to break free, but she has this weird smile on her face, and those "either high as fuck or enjoying the shit out of last night's psychotic breakdown's afterglow" eyes. So I'm confused about what to do. The mom's pissed, but she isn't using very strong force either. The daughter could easily break free if she actually tried, but she seems too out there to run, or maybe even walk straight. Besides, even though she protests a lot, she doesn't sound *angry*. More like certain she'll get her way *eventually* and resistance is futile.
+
+But I wonder. The daughter's clearly One Of My People, even if I just saw her for like half a minute. That dissociated smile is unmistakable. But I don't do anything. Should I? Should I help her? I know what They(tm) do to my people, but I could be reading the situation wrong. (And she isn't asking for *help*.) But least convenient world, assume I'm absolutely correct, should I *then* help her?
+
+I wonder what would convince me of that, but then independently decide, no. This is *family*. You don't fuck with family business. *Ever*. No matter what shit's going down, I would *never* want anyone to get involved in family problems even if my mom's about to drive a stake through my heart or something. Family's sacred.
+
+Still. There should be a norm[^norm] about when to stay out of other people's business, and when to tackle the motherfucking neurotypical, if ever. There should be an institution that creates institutions that solve "there should be a norm" problems.
+
+[^norm]:
+    <% skip do %>
+    Even Jesus seems conflicted about this, going out of his way *not* to get involved unless directly asked for help. Avoiding perverse incentives is hard, let's go shopping.
+    <% end %>
+
+---
+
+Most people take photos of other stuff, of stuff they saw, of events they attended. If they're even in the photo, they're fake, only in it as proof-of-participation. I don't care for these things. So instead, I take photos of my face. I want to remember how I *felt*, want to see my own eyes, later, when I'm all devoid of emotions again, when all colors have drained out of my skull, I want to know who I was. If I ever was happy.
+
+I sit on the train and it's late at night, and everything is ambiguous and quiet, and I remember that during these times, during these nights, no matter what, I'll always think of [her][Dreaming of a World Undone], and it's impossible for me not to be happy whenever even the faintest hint of her is present in my mind.
+
+I am not worthy, but one day I will be.
+
+So I bought a ticket for the next concert in a few weeks.
