@@ -1,0 +1,30 @@
+---
+title: The Trolly Problem
+date: 2012-10-10
+techne: :done
+episteme: :log
+---
+
+Added better archiving support to the site backup. I already locally mirror all sites I link to, but now I ask Webcite and Archive.org to mirror everything too.
+
+I also replaced all links to LW with Webcite versions because I have now seen *multiple* pages get edited for the worse. I have no idea if the cool stuff will even still be there in a year. I'm also sufficiently disgusted with LW that I don't want to directly link to them at all. (Not necessarily its users though, but mostly the increasing weaksauceness of content and incompetence of mods/admins.)
+
+I've replaced several links to the LW wiki with links to the Catholic Encyclopedia for the lulz.
+
+\</petty\>
+
+---
+
+<% skip do %>
+[This][Faking Hegel]. This so much.
+<% end %>
+
+---
+
+Finished Feser's [Aquinas][Feser Aquinas]. Some additional comments.
+
+Uniqueness answered.
+
+More promising than I thought. Arguments seem reasonably good (in particular the Fifth Way) and may well be valid, but their premises seem much less secure. Time to dig into those.
+
+Sensation.
