@@ -1,15 +1,15 @@
 ---
 title: The Trolly Problem
-date: 2012-10-10
+date: 2012-10-14
 techne: :done
 episteme: :log
 ---
 
-Added better archiving support to the site backup. I already locally mirror all sites I link to, but now I ask Webcite and Archive.org to mirror everything too.
+Added better archiving support to the site backup. I already locally mirror all sites I link to, but now I ask Webcite to mirror everything too.
 
-I also replaced all links to LW with Webcite versions because I have now seen *multiple* pages get edited for the worse. I have no idea if the cool stuff will even still be there in a year. I'm also sufficiently disgusted with LW that I don't want to directly link to them at all. (Not necessarily its users though, but mostly the increasing weaksauceness of content and incompetence of mods/admins.)
+I also replaced all links to LW with Webcite versions because I have now seen *multiple* pages get edited for the worse. I have no idea if the cool stuff will even still be there in a year.[^trope] I'm also sufficiently disgusted with LW that I don't want to directly link to them at all. (Not necessarily its regulars though, but mostly the increasing weaksauceness of content and incompetence of mods/admins.)
 
-I've replaced several links to the LW wiki with links to the Catholic Encyclopedia for the lulz.
+[^trope]: Ditto TVTropes, although that site's already way past its prime. But replaced those links too.
 
 \</petty\>
 
@@ -28,3 +28,12 @@ Uniqueness answered.
 More promising than I thought. Arguments seem reasonably good (in particular the Fifth Way) and may well be valid, but their premises seem much less secure. Time to dig into those.
 
 Sensation.
+
+[^searle]:
+    <% skip do %>
+    Every few months or so, I re-think Searle's Chinese Room and I keep on swinging back and forth between "This guy is nuts! Of *course* the system as a whole actually understands Chinese!" and "This guy is right! Of *course* nothing in there has proper intentionality and so *can't* understand Chinese!", and I can't even quite seem to convince past-me *why* one position is clearly better than the other, except in so far that I have a pretty good idea what premises and frameworks lead you to what conclusion.
+
+    I've been doing this for at least 6 years now. I doubt anything short of solving metaphysics or building AGI would really settle this for me. Given that artificial comprehension is still in the "I made fire!" phase of rocket science, I'll stick to obscure philosophy.
+    <% end %>
+
+I'll 

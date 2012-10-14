@@ -191,13 +191,13 @@
 [LW minecraft]: http://www.webcitation.org/6BONDQ6pW
 [LW leverage]: http://www.webcitation.org/6BOYJBp7a
 [Pluralistic Moral Reductionism]: http://www.webcitation.org/6BONCYL0U
-[LW god]: http://lesswrong.com/lw/6oc/transsexuals_and_otherkin/4ipl?context=2#comments
+[LW god]: http://www.webcitation.org/6BOZxoqTi
 [LW truman]: http://www.webcitation.org/6BON7xg02
 [LW bias value]: http://www.webcitation.org/6BON9lwuV
 [LW holden]: http://www.webcitation.org/6BON7ShD2
 [LW grognor creed]: http://www.webcitation.org/6BOYK7Ld6
 [LW dust]: http://www.webcitation.org/6BOYMH6iP
-[LW pencil]: http://lesswrong.com/lw/ka/hold_off_on_proposing_solutions/6mv3?context=1#comments
+[LW pencil]: http://www.webcitation.org/6BOZy4v0V
 [LW disagreement]: http://www.webcitation.org/6BON63mxp
 [LW tool ai]: http://www.webcitation.org/6BOYMvqEh
 [LW godshatter]: http://www.webcitation.org/6BONBPCZY
@@ -277,7 +277,7 @@
 [XiXiDu]: http://kruel.co/
 [xixidu search]: https://plus.google.com/106808239073321070854/posts/HMQmaWaJy3u
 [xixidu utilitarian]: http://kruel.co/2011/07/24/open-problems-in-ethics-and-rationality/
-[xixidu blah]: http://lesswrong.com/lw/8c3/qa_with_new_executive_director_of_singularity/5ynv?context=1#comments
+[xixidu blah]: http://www.webcitation.org/6BOZyNWpe
 
 <!-- Yvain Disease -->
 [Yvain Disease]: http://www.webcitation.org/6BONCwgkl
