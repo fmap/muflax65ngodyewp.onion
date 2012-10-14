@@ -152,9 +152,9 @@
 [Pakudha Kaccayana]: https://en.wikipedia.org/wiki/Pakudha_Kaccayana
 [Paleo]: http://www.archevore.com/archevore/
 [Pali Canon]: https://en.wikipedia.org/wiki/Pali_canon
-[Paperclipper]: http://wiki.lesswrong.com/wiki/Paperclip_maximizer
+[Paperclipper]: http://www.webcitation.org/6BOYOu7jl
 [Pareto]: http://en.wikipedia.org/wiki/Pareto_efficiency
-[Pascal's Mugging]: http://lesswrong.com/lw/kd/pascals_mugging_tiny_probabilities_of_vast/
+[Pascal's Mugging]: http://www.webcitation.org/6BOYPfyCA
 [Pascal's Wager]: https://en.wikipedia.org/wiki/Pascal%27s_Wager
 [Phantom Time]: http://en.wikipedia.org/wiki/Phantom_time_hypothesis
 [Pi]: https://en.wikipedia.org/wiki/Pi_%28film%29
@@ -191,19 +191,19 @@
 [Sathya Sai Baba]: http://en.wikipedia.org/wiki/Sathya_Sai_Baba
 [Satipatthana Sutta]: http://en.wikipedia.org/wiki/Satipatthana_Sutta
 [Schizotypy]: http://en.wikipedia.org/wiki/Schizotypy
-[Scope Insensitivity]: http://lesswrong.com/lw/hw/scope_insensitivity/
+[Scope Insensitivity]: http://www.webcitation.org/6BOYQ36P6
 [Sensates]: http://mimir.net/psmush/sensates.shtml
 [Sephirot]: https://en.wikipedia.org/wiki/Sephirot
 [Serotonin Syndrome]: http://en.wikipedia.org/wiki/Serotonin_syndrome
 [Shangri-la diet]: https://en.wikipedia.org/wiki/The_Shangri-La_Diet
 [Shinto]: http://en.wikipedia.org/wiki/Shinto
-[Signaling]: http://wiki.lesswrong.com/wiki/Signaling
+[Signaling]: http://www.webcitation.org/6BOYPHYzz
 [Simon Magus]: http://en.wikipedia.org/wiki/Simon_Magus
 [Sisyphus]: http://en.wikipedia.org/wiki/The_Myth_of_Sisyphus
 [Sophia]: https://en.wikipedia.org/wiki/Wisdom_in_Gnosticism
 [Sophie's Choice]: http://www.penny-arcade.com/comic/2009/10/07
 [Start of Darkness]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StartOfDarkness
-[Status]: http://wiki.lesswrong.com/wiki/Status
+[Status]: http://www.webcitation.org/6BOYPToUU
 [Strawman Has A Point]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawmanHasAPoint
 [Stromberg]: http://en.wikipedia.org/wiki/Stromberg_%28TV_series%29
 [Sutrayana]: http://www.rigpawiki.org/index.php?title=Sutrayana
@@ -245,7 +245,7 @@
 [quark]: http://en.wikipedia.org/wiki/Quark_(cheese)
 [schächten]: http://en.wikipedia.org/wiki/Shechita
 [subs2srs]: http://rtkwiki.koohii.com/wiki/Subs2srs
-[unsupervised universe]: http://wiki.lesswrong.com/wiki/Unsupervised_universe
+[unsupervised universe]: http://www.webcitation.org/6BOYP62sh
 [ジャックと豆の木]: http://en.wikipedia.org/wiki/Jack_and_the_Beanstalk_%281974_film%29
 [秒速5センチメートル]: http://en.wikipedia.org/wiki/5_Centimeters_Per_Second
 [Eufloria]: http://www.eufloria-game.com/

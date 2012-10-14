@@ -165,54 +165,54 @@
 [onion horoscope 4]: http://www.theonion.com/articles/your-horoscopes-week-of-june-5-2012,28424/
 
 <!-- LessWrong -->
-[LW bipolar]: http://lesswrong.com/lw/6nb/ego_syntonic_thoughts_and_values/4igy
-[LW luke/ben]: http://lesswrong.com/r/discussion/lw/aw7/muehlhausergoertzel_dialogue_part_1/
-[LW protect]: http://lesswrong.com/lw/nb/something_to_protect/
-[LW sequences]: http://wiki.lesswrong.com/wiki/Sequences
-[LW trilemma]: http://lesswrong.com/lw/19d/the_anthropic_trilemma/
-[LW words]: http://lesswrong.com/lw/od/37_ways_that_words_can_be_wrong/
-[LessWrong]: http://lesswrong.com
-[PlaidX torture]: http://lesswrong.com/lw/5ro/what_bothers_you_about_less_wrong/47ph
-[LW belief propagation]: http://lesswrong.com/lw/8ib/connecting_your_beliefs_a_call_for_help/
-[LW suicide]: http://lesswrong.com/r/discussion/lw/9jg/how_would_you_talk_a_stranger_off_the_ledge/5vgy
-[LW corrupted]: http://lesswrong.com/lw/uv/ends_dont_justify_means_among_humans/
-[LW chain]: http://lesswrong.com/lw/99t/can_the_chain_still_hold_you/
-[LW impossible]: http://lesswrong.com/lw/up/shut_up_and_do_the_impossible/
-[LW not great]: http://lesswrong.com/lw/9p/rationality_its_not_that_great/
-[LW emergence]: http://lesswrong.com/lw/iv/the_futility_of_emergence/
-[LW group selection]: http://lesswrong.com/lw/kw/the_tragedy_of_group_selectionism/
-[LW button]: http://lesswrong.com/lw/59j/how_many_of_me_are_there/3y3u
-[LW deontology incomprehension]: http://lesswrong.com/lw/435/what_is_eliezer_yudkowskys_metaethical_theory/3fnj
-[LW praise]: http://lesswrong.com/lw/5p2/people_who_want_to_save_the_world/497p
-[LW values fulfilled]: http://lesswrong.com/lw/59j/how_many_of_me_are_there/3y2h
-[LW wireheading request]: http://lesswrong.com/lw/5ym/natural_wireheadings_formal_request/4a3t
-[LW SL5]: http://lesswrong.com/lw/1t0/shock_level_5_big_worlds_and_modal_realism/
-[LW date]: http://lesswrong.com/r/discussion/lw/980/singularity_institute_executive_director_qa_2/
-[LW minecraft]: http://lesswrong.com/lw/8n9/rationality_quotes_december_2011/5dal
-[LW leverage]: http://lesswrong.com/lw/9ar/on_leverage_researchs_plan_for_an_optimal_world/5n74
-[Pluralistic Moral Reductionism]: http://lesswrong.com/lw/5u2/pluralistic_moral_reductionism/
+[LW bipolar]: http://www.webcitation.org/6BON9VvlC
+[LW luke/ben]: http://www.webcitation.org/6BON90elm
+[LW protect]: http://www.webcitation.org/6BOYO59qV
+[LW sequences]: http://www.webcitation.org/6BOYONOHG
+[LW trilemma]: http://www.webcitation.org/6BONAo93u
+[LW words]: http://www.webcitation.org/6BOYOZaZn
+[LessWrong]: http://www.webcitation.org/6BOYJmrKP
+[PlaidX torture]: http://www.webcitation.org/6BONBAWsQ
+[LW belief propagation]: http://www.webcitation.org/6BON4WnCa
+[LW suicide]: http://www.webcitation.org/6BON4CpfJ
+[LW corrupted]: http://www.webcitation.org/6BONBr6H2
+[LW chain]: http://www.webcitation.org/6BONC9rVm
+[LW impossible]: http://www.webcitation.org/6BONFlRU6
+[LW not great]: http://www.webcitation.org/6BOYMUdxN
+[LW emergence]: http://www.webcitation.org/6BON770IG
+[LW group selection]: http://www.webcitation.org/6BONF1FSS
+[LW button]: http://www.webcitation.org/6BONDlcJ0
+[LW deontology incomprehension]: http://www.webcitation.org/6BON8Z681
+[LW praise]: http://www.webcitation.org/6BOYJUo58
+[LW values fulfilled]: http://www.webcitation.org/6BOYKvjNi
+[LW wireheading request]: http://www.webcitation.org/6BOYLTVqE
+[LW SL5]: http://www.webcitation.org/6BONFPqHx
+[LW date]: http://www.webcitation.org/6BON4qymi
+[LW minecraft]: http://www.webcitation.org/6BONDQ6pW
+[LW leverage]: http://www.webcitation.org/6BOYJBp7a
+[Pluralistic Moral Reductionism]: http://www.webcitation.org/6BONCYL0U
 [LW god]: http://lesswrong.com/lw/6oc/transsexuals_and_otherkin/4ipl?context=2#comments
-[LW truman]: http://lesswrong.com/lw/aa7/get_curious/5x0q
-[LW bias value]: http://lesswrong.com/lw/55n/human_errors_human_values/
-[LW holden]: http://lesswrong.com/lw/cbs/thoughts_on_the_singularity_institute_si/
-[LW grognor creed]: http://lesswrong.com/r/discussion/lw/cfe/i_stand_by_the_sequences/
-[LW dust]: http://lesswrong.com/lw/n3/circular_altruism/hv4
+[LW truman]: http://www.webcitation.org/6BON7xg02
+[LW bias value]: http://www.webcitation.org/6BON9lwuV
+[LW holden]: http://www.webcitation.org/6BON7ShD2
+[LW grognor creed]: http://www.webcitation.org/6BOYK7Ld6
+[LW dust]: http://www.webcitation.org/6BOYMH6iP
 [LW pencil]: http://lesswrong.com/lw/ka/hold_off_on_proposing_solutions/6mv3?context=1#comments
-[LW disagreement]: http://lesswrong.com/lw/85h/better_disagreement/
-[LW tool ai]: http://lesswrong.com/lw/cze/reply_to_holden_on_tool_ai/
-[LW godshatter]: http://wiki.lesswrong.com/wiki/Complexity_of_value
-[LW game]: http://lesswrong.com/r/discussion/lw/d3h/open_thread_june_1630_2012/6v8u
+[LW disagreement]: http://www.webcitation.org/6BON63mxp
+[LW tool ai]: http://www.webcitation.org/6BOYMvqEh
+[LW godshatter]: http://www.webcitation.org/6BONBPCZY
+[LW game]: http://www.webcitation.org/6BON5l93g
 [LW virtues]: http://yudkowsky.net/rational/virtues
-[LW timeless physics]: http://lesswrong.com/lw/qp/timeless_physics/
-[LW fun theory]: http://lesswrong.com/lw/y0/31_laws_of_fun/
-[LW obvious]: http://lesswrong.com/lw/9q5/on_saying_the_obvious/
-[LW review]: http://lesswrong.com/lw/7qq/review_michel_thomas_french_direct_instruction/
-[LW owen]: http://lesswrong.com/r/discussion/lw/7d1/scientifically_optimizing_education_hard_problem/
-[LW DI]: http://lesswrong.com/r/discussion/lw/7g3/what_direct_instruction_is/
-[LW skill]: http://lesswrong.com/lw/12s/the_strangest_thing_an_ai_could_tell_you/2ssn
-[LW quantum retro]: http://lesswrong.com/r/discussion/lw/ee4/debugging_the_quantum_physics_sequence/
-[LW dndis]: http://lesswrong.com/lw/6t9/dungeons_and_discourse_implementation/
-[LW anthropic evidence]: http://lesswrong.com/r/discussion/lw/emt/no_anthropic_evidence/
+[LW timeless physics]: http://www.webcitation.org/6BON58uUY
+[LW fun theory]: http://www.webcitation.org/6BOYNnB1I
+[LW obvious]: http://www.webcitation.org/6BONE1ONf
+[LW review]: http://www.webcitation.org/6BOYLyY0b
+[LW owen]: http://www.webcitation.org/6BON8C0dP
+[LW DI]: http://www.webcitation.org/6BONEhz4r
+[LW skill]: http://www.webcitation.org/6BON6oXZF
+[LW quantum retro]: http://www.webcitation.org/6BONA5ODJ
+[LW dndis]: http://www.webcitation.org/6BOYNWC4L
+[LW anthropic evidence]: http://www.webcitation.org/6BON5TkdA
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
@@ -280,7 +280,7 @@
 [xixidu blah]: http://lesswrong.com/lw/8c3/qa_with_new_executive_director_of_singularity/5ynv?context=1#comments
 
 <!-- Yvain Disease -->
-[Yvain Disease]: http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/
+[Yvain Disease]: http://www.webcitation.org/6BONCwgkl
 [Yvain Creepiness]: http://squid314.livejournal.com/328267.html
 [Yvain social]: http://squid314.livejournal.com/322213.html
 [Yvain Worst]: http://squid314.livejournal.com/323694.html
