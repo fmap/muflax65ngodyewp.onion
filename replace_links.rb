@@ -30,7 +30,7 @@ files.each do |file|
 
   # replace urls
   cites.each do |url, cite|
-    text.gsub! url, cite
+    text.gsub! %r{#{url}(\s|/)*$}, cite
   end
 
   # save changed file
