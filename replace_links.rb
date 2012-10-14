@@ -10,6 +10,7 @@ files = Dir["content/references/*.mkd"]
 
 hosts = [
          /(wiki\.)?lesswrong/,
+         /tvtropes\.org/,
         ]
 
 files.each do |file|
@@ -23,7 +24,7 @@ files.each do |file|
   urls = BackupUrls.filter_urls(urls)
 
   # only backup this stuff
-  hosts.each{|host| urls.keep_if{|u| u.match host}}
+  urls = hosts.map{|host| urls.select{|u| u.match host}}.flatten.uniq
 
   # cite them
   cites = BackupUrls.archive urls

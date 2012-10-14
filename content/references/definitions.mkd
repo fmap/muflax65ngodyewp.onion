@@ -63,7 +63,7 @@
 [Dunbar's Number]: http://en.wikipedia.org/wiki/Dunbar's_Number
 [E']: http://en.wikipedia.org/wiki/E%27
 [Egoism]: http://en.wikipedia.org/wiki/Ethical_egoism
-[Eight Deadly Words]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EightDeadlyWords
+[Eight Deadly Words]: http://www.webcitation.org/6BOZF2Sys
 [Eliezer Yudkowsky]: https://en.wikipedia.org/wiki/Eliezer_Yudkowsky
 [Emotivism]: https://en.wikipedia.org/wiki/Emotivism
 [Entheogen]: http://en.wikipedia.org/wiki/Entheogen
@@ -71,8 +71,8 @@
 [Eristische Dialektik]: https://en.wikipedia.org/wiki/The_Art_of_Being_Right
 [Eternal Return]: http://en.wikipedia.org/wiki/Eternal_return#Friedrich_Nietzsche
 [Euhemerism]: https://en.wikipedia.org/wiki/Euhemerus#Euhemerism_and_Christians
-[Evil Is Cool]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilIsCool
-[Evil Trope]: http://tvtropes.org/pmwiki/pmwiki.php/Main/EvilTropes
+[Evil Is Cool]: http://www.webcitation.org/6BOZDsSzi
+[Evil Trope]: http://www.webcitation.org/6BOZEAaf4
 [Existential Risks]: http://en.wikipedia.org/wiki/Risks_to_civilization,_humans_and_planet_Earth
 [Expanding Circle]: http://en.wikipedia.org/wiki/Peter_Singer
 [Experience Machine]: https://en.wikipedia.org/wiki/Experience_machine
@@ -95,7 +95,7 @@
 [Illuminatus!]: https://en.wikipedia.org/wiki/Illuminatus!
 [Implied Consent]: http://en.wikipedia.org/wiki/Implied_consent
 [Inerrancy]: http://en.wikipedia.org/wiki/Biblical_inerrancy
-[Jetpack Hitler]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StupidJetpackHitler
+[Jetpack Hitler]: http://www.webcitation.org/6BOZG4OUn
 [Jhana]: http://en.wikipedia.org/wiki/Dhy%C4%81na_in_Buddhism#Usage_of_jh.C4.81na
 [John Tromp]: http://homepages.cwi.nl/~tromp/
 [Judea Pearl]: http://en.wikipedia.org/wiki/Judea_Pearl
@@ -159,7 +159,7 @@
 [Phantom Time]: http://en.wikipedia.org/wiki/Phantom_time_hypothesis
 [Pi]: https://en.wikipedia.org/wiki/Pi_%28film%29
 [Pineal Gland]: https://en.wikipedia.org/wiki/Discordianism#Pineal_gland
-[Pirates Who Don't Do Anything]: http://tvtropes.org/pmwiki/pmwiki.php/Main/ThePiratesWhoDontDoAnything
+[Pirates Who Don't Do Anything]: http://www.webcitation.org/6BOZFeHYF
 [Planescape Torment]: https://en.wikipedia.org/wiki/Planescape_torment
 [Plantinga naturalism]: https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism
 [Predestination]: http://en.wikipedia.org/wiki/Predestination_%28Calvinism%29#Double_predestination
@@ -180,13 +180,13 @@
 [Risk Aversion]: http://en.wikipedia.org/wiki/Risk_Aversion
 [Robert M. Price]: http://robertmprice.mindvendor.com
 [Rose of Versailles]: https://en.wikipedia.org/wiki/The_Rose_of_Versailles
-[Rule of Funny]: http://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFunny
+[Rule of Funny]: http://www.webcitation.org/6BOZEqHCM
 [Runner's High]: https://en.wikipedia.org/wiki/Endorphin#Runner.27s_high
 [SRS]: http://www.gwern.net/Spaced%20repetition
 [Sailor Moon]: https://en.wikipedia.org/wiki/Sailor_Moon
 [Sakadagami]: http://en.wikipedia.org/wiki/Sakadagami
 [Sanjaya Belatthaputta]: https://en.wikipedia.org/wiki/Sanjaya_Belatthaputta
-[Sarashi]: http://tvtropes.org/pmwiki/pmwiki.php/Main/Sarashi
+[Sarashi]: http://www.webcitation.org/6BOZEMBGc
 [Satan]: http://en.wikipedia.org/wiki/Satan
 [Sathya Sai Baba]: http://en.wikipedia.org/wiki/Sathya_Sai_Baba
 [Satipatthana Sutta]: http://en.wikipedia.org/wiki/Satipatthana_Sutta
@@ -202,9 +202,9 @@
 [Sisyphus]: http://en.wikipedia.org/wiki/The_Myth_of_Sisyphus
 [Sophia]: https://en.wikipedia.org/wiki/Wisdom_in_Gnosticism
 [Sophie's Choice]: http://www.penny-arcade.com/comic/2009/10/07
-[Start of Darkness]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StartOfDarkness
+[Start of Darkness]: http://www.webcitation.org/6BOZFrGDH
 [Status]: http://www.webcitation.org/6BOYPToUU
-[Strawman Has A Point]: http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawmanHasAPoint
+[Strawman Has A Point]: http://www.webcitation.org/6BOZFRKy9
 [Stromberg]: http://en.wikipedia.org/wiki/Stromberg_%28TV_series%29
 [Sutrayana]: http://www.rigpawiki.org/index.php?title=Sutrayana
 [Tarot Fool]: http://en.wikipedia.org/wiki/The_Fool_%28Tarot_card%29
@@ -214,7 +214,7 @@
 [Theravada]: http://en.wikipedia.org/wiki/Theravada
 [Theseus' Ship]: https://en.wikipedia.org/wiki/Ship_of_Theseus
 [Three Virtues]: https://en.wikipedia.org/wiki/Larry_Wall
-[Too Kinky To Torture]: http://tvtropes.org/pmwiki/pmwiki.php/Main/TooKinkyToTorture
+[Too Kinky To Torture]: http://www.webcitation.org/6BOZFF6KF
 [Trivialism]: http://en.wikipedia.org/wiki/Trivialism
 [Truman Show]: https://en.wikipedia.org/wiki/The_Truman_Show
 [Turing Machine]: http://en.wikipedia.org/wiki/Turing_machine
