@@ -157,6 +157,9 @@
 [Unreasonable Effectiveness]: https://en.wikipedia.org/wiki/The_Unreasonable_Effectiveness_of_Mathematics_in_the_Natural_Sciences
 [Mans Search Cheer Up]: http://betterbooktitles.com/post/8655836018/manssearch
 [Faking Hegel]: https://pervegalit.wordpress.com/2012/06/09/how-to-fake-your-way-through-hegel/
+[Grimoire Pitch]: http://www.indiegogo.com/grimoireforever
+[Bogleech]: http://www.bogleech.com/
+[Bogleech vile]: http://www.bogleech.com/halloween/hall12-viledarkness.html
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -308,6 +311,7 @@
 [Japanese in Mangaland]: https://en.wikipedia.org/wiki/Japanese_in_Mangaland
 [When God Talks Back]: http://www.amazon.com/When-God-Talks-Back-Understanding/dp/0307264793
 [Feser Aquinas]: http://www.amazon.com/Aquinas-Beginners-Guide-Guides-ebook/dp/B005KR0LUC/
+[Wearing the Body of Visions]: http://www.amazon.com/Wearing-Body-Visions-Ngakpa-Chogyam/dp/0965394816/
 
 <!-- internal links -->
 [main]: http://muflax.com

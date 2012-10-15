@@ -1,6 +1,6 @@
 ---
 title: The Trolly Problem
-date: 2012-10-14
+date: 2012-10-15
 techne: :done
 episteme: :log
 ---
@@ -9,7 +9,7 @@ Added better archiving support to the site backup. I already locally mirror all 
 
 I also replaced all links to LW with Webcite versions because I have now seen *multiple* pages get edited for the worse. I have no idea if the cool stuff will even still be there in a year.[^trope] I'm also sufficiently disgusted with LW that I don't want to directly link to them at all. (Not necessarily its regulars though, but mostly the increasing weaksauceness of content and incompetence of mods/admins.)
 
-[^trope]: Ditto TVTropes, although that site's already way past its prime. But replaced those links too.
+[^trope]: Ditto TVTropes, although that site's already so corrupted I barely recognize it these days. But replaced those links too.
 
 \</petty\>
 
@@ -23,17 +23,97 @@ I also replaced all links to LW with Webcite versions because I have now seen *m
 
 Finished Feser's [Aquinas][Feser Aquinas]. Some additional comments.
 
-Uniqueness answered.
+Last time I criticized that even if some of the arguments for God go through, they might still not pick out a *unique* God. Feser actually addresses this problem in a later chapter. He argues that all perfections are identical with another (God's goodness *is* God's power *is* God's knowledge etc.), which I tend to agree with, and so that all arguments pick out Pure Act (which I also agree with, assuming their correctness), and so they must uniquely pick out God. Because I'm not convinced that all potency *must* be unified, I'm still not quite sold on the proofs, but overall I think they work more likely than not, if you accept the premises.
 
-More promising than I thought. Arguments seem reasonably good (in particular the Fifth Way) and may well be valid, but their premises seem much less secure. Time to dig into those.
+This should now be the point where I say something about, as Feser likes to call it, "Aquinas' metaphysical commitments". Unfortunately, Feser doesn't really *argue* for them[^searle] or derive them from anything sensible (unlike, say, Leibniz). He mostly insists that *if* you accept these premises, some cool arguments go through and rationalistic arguments don't, but he doesn't give any good reason why I should accept the premises to begin with, how they work in detail or how any of the obvious criticisms *on the same meta-level* (or higher, natch) don't just tear them apart. (For example, he does nothing to defend himself against Platonism, the most obvious challenge to his position.)
 
-Sensation.
+I checked his blog and other writing, and he doesn't address this anywhere else either, as far as I can tell. So I'm tempted to move from "this is an introduction, and I'm just trying to get you hooked" to "read Aquinas, ok? I'm not nearly meta enough to understand this myself". Which, I admit, is kind of a mean thing for me to say, but he's been saying an awful lot about how the Gnu Atheists are philosophical lightweights, but he hasn't said anything to impress me either (beyond providing a convenient scholastic<->modern translation guide).
+
+So I'll just read the advanced literature he recommends and bump up Aquinas on my reading list. (Although my Latin reading will stay mostly theology and poetry for some time, just because that stuff interests me more than metaphysics.)
+
+Another point (though not as problematic) is the typical "what do you mean non-neurotypical?" bias in the section on sensations and mental imagery, e.g.:
+
+> The visual perception you have of a cat, for example, is later recalled in the mental image you have of what the cat looked like, and your imagination is also able to produce images of cats you have never seen by rearranging the elements of your mental images of things you have seen. 
+
+No, because most of the time, I don't *have* mental images, but I still understand the concept of catness. I've also directly experienced concepts-as-such and non-conceptual things. This suggests to me that the forced unity of form and matter is either wrong, or requires a bunch of non-obvious epicycles to fix. (I also know enough jhana-heads who'd like to beg to differ about not being able to correctly visualize a 1,000-sided polygon, Feser's favorite example of mental vagueness.)
+
+I could also bring forth more substantial criticisms of his mental image / conceptual understanding claims, *all* of which seem at least contentious if not outright wrong to me, but those are much harder to communicate, and metaphysics that can't even convincingly deal with DMT-space aren't worth the effort.
+
+Feser only gives a *very* short overview of objective[^obj] morality grounded in teleology (not that it's intended as more - I agree with him you should just read MacIntyre etc.), but there's one[^will] thing I find really strange. He makes the (reasonable, given the assumptions yadda yadda) case that non-procreative sex is bad based on the obvious teleological argument, but... you know... he's a *Catholic*. You know, that church that makes celibacy a requirement for *every single ecclesiastical position*. He doesn't even *mention* this little tidbit[^res]. He does say this on his blog, though:
+
+> Those who've taken vows of celibacy do so not because sex, love, and marriage are bad, but because although they are very good indeed, there is something even better to which they have been called, and which demands their exclusive devotion.  
+
+[^res]:
+    The same applies to the hilarious section on the bodily resurrection. You can *feel* the man stammer his way through. "Look, I don't know how this works or why you'd need the original body, or what that even means given all we know about biology and physics, or why your soul needs your guts back even though it's not gonna use them for anything, or why that doesn't seem to inconvenience any angels, just shut up, let God worry about it and accept this doctrine, ok?!"
+
+[^obj]:
+    ...except when Feser fucks up his "objective morality!" game by smuggling in his personal values, like here:
+
+    > These goods are ordered in a hierarchy corresponding to the hierarchy of living things (i.e. those with vegetative, sensory, and rational souls respectively). 
+
+    Substancist!
+    
+[^will]:
+    Well, *two*. There's also this fragment:
+
+    > [...] Aquinas’s view that the intellect is metaphysically prior to the will, in the sense that [...] will derives from intellect rather than vice versa.
+
+    Which is *still* wrong, as per Yangming. But it's obvious that I'd say that, right?
+
+    Ok, actually *three*, as many (meta-)teleological points are non-local and so false (like having God as ultimate purpose, but only being able to know God a posteriori), but I don't want to be That Guy who always brings back the same few arguments as Philosophical Hammers. At least not in public.
+
+But that just fails the old problem of demandingness, which says that we are always required at all times to fulfill our highest moral obligations and nothing else. This is normally used against consequentialism to argue something like "assuming that reasonably-effective charity exists, you should give *all* your resources to charity, leaving *nothing* to yourself (except when it is instrumentally necessary to do otherwise)", which strikes many folks as wrong. (It obviously isn't because that's just a straightforward implication of consequentialism and an expected feature of *all* moral theories.)
+
+The issue here is that, assuming we *all* have the same human nature, all teleological demands apply to all of us in just the same way. So either the Gnostic is right and some people just are PCs and some are NPCs with different moral roles (which Catholics reject), *or* the need to serve God *and only God* is universal, making *all* forms of sex sinful[^sin]. In other words, be perfect as your heavenly Father is perfect or GTFO.
+
+So Feser is either a heretic or advocating sin. I'm not sure what's worse.
+
+[^sin]:
+    You might try to reply that there's a difference between "non-optimally virtuous" and "sinful", but Augustine and pretty much the entire Catholic tradition interprets "evil" as mere "absence of good", so that difference can't exist for the orthodox Catholic.
+
+    I also still strongly object to Feser's construction of *what* the human telos is. All of his (and Aquinas') goals that fall under "human flourishing" strike me as absurd and incredibly short-sighted. [In the words][Bogleech vile] of fellow Nurgelian [Jonathan Wojcik][Bogleech], speaking about D&D's Cancer Mage's ability to turn into a disease:
+
+    > You know what? If I could choose *one* magical ability to have in the real world, this would be it, and I won't even begin to go into all the horrible, amoral, selfish things I'd do with it. It's not like I'd have any obligation towards the traditional concepts of right and wrong once I could literally *be a disease*. I'd just be all, *screw you, society, I'm a **disease** now*. Cancer mages are **punk as hell**.
+
+    At least Aquinas got mindfucked out of it when he had his mystic experience. Feser still needs the Gnostic clue-by-four.
 
 [^searle]:
     <% skip do %>
-    Every few months or so, I re-think Searle's Chinese Room and I keep on swinging back and forth between "This guy is nuts! Of *course* the system as a whole actually understands Chinese!" and "This guy is right! Of *course* nothing in there has proper intentionality and so *can't* understand Chinese!", and I can't even quite seem to convince past-me *why* one position is clearly better than the other, except in so far that I have a pretty good idea what premises and frameworks lead you to what conclusion.
+    Speaking of unjustified premises, every few months or so I re-think Searle's Chinese Room and I keep on swinging back and forth between "This guy is nuts! Of *course* the system as a whole actually understands Chinese!" and "This guy is right! Of *course* nothing in there has proper intentionality and so *can't* understand Chinese!", and I can't even quite seem to convince past-me *why* one position is clearly better than the other, except in so far that I have a pretty good idea what premises and frameworks lead you to what conclusion.
 
     I've been doing this for at least 6 years now. I doubt anything short of solving metaphysics or building AGI would really settle this for me. Given that artificial comprehension is still in the "I made fire!" phase of rocket science, I'll stick to obscure philosophy.
     <% end %>
 
-I'll 
+I'll take a short break from Scholasticism now and go read [Wearing the Body of Visions][] next.
+
+---
+
+<% skip do %>
+[ITZ COMING!][Grimoire Pitch]
+
+Repent, heathen scum! Neanderthal cometh!
+<% end %>
+
+---
+
+<% skip do %>
+Contrarian politics is the [Danbooru][] of insight porn. No matter how deep you dig into the endless depth, no matter how meta you go and no matter how neat it all becomes, you'll never find the perfect embodiment of the fractal pattern, the particular that unites all fetishes in itself and synthesizes all contradictions, the one example that is an indisputable 10.
+
+I had a political argument[^arg] with my mother about monarchism and the problem of incompetent monarchs. This time, I think I successfully got her to appreciate how different my framework is, and to get her to stop to pattern-match me as vaguely far-right, by making her understand that it's not about replacing a broken government that mistreats its people with a more competent one which I happen to think is a monarchy, but about entirely *separating* the content of government from its structure, about having a completely formalized and unchangeable system of power and so leaving the people utterly *a*political, and so in fact destroying the very idea of politics-as-ideology.
+
+[^arg]:
+    This should not be taken as an *endorsement* of this or that specific (meta-)position, but merely an attempt to get my head out of the reality tunnel of mainstream (European) politics, including one or two common contrarian levels beyond that (most importantly communism and nationalism).
+
+I half-jokingly argued that all evil in the world (at least as far as politics is concerned) traces back to the origin of Protestantism[^origin] and the idea that somehow people do not have a responsibility to fulfill the roles their institutions demand of them, but instead have a *personal* responsibility to God. That it is not the *Church* that is good, but the individual, and once you accept this mistaken view, you also end up with the idea that politics has to exist in *people* and not in *institutions*, and so all forms of ideology are just ways to immanentize this flawed eschaton, with the extreme ends of anarchism (the idea that each individual already embodies politics and structure is irrelevant) and fascism (the idea that people need to be transformed according to the true ideological content).
+
+This obviously lead to the idea that to fix all this, we'd ideally have a perfectly static, perfectly disconnected power structure, an Eternal Undying Monarch (God, really, if we could drag Him back to Earth, but a God Emperor will do just fine in His stead) with His Own State Church, a system that grabs all political power forever and does in no way demand or expect *any* ideology of its people, but forbids them from ever becoming politically or religiously active in any form.
+
+Belief is irrelevant, as long as you pray to the Emperor. (The exact opposite of Protestantism, according to which the Church is irrelevant, as long as you believe the right thing.)
+
+[^origin]:
+    While I mostly blamed Luther in our debate, I'm well-aware that the core ideas of the Protestant attractor trace back much further. I could've just as well blamed Marcion, but one should fight one crackpot battle at a time.
+
+Still, this view is, as my mother pointed out, in a sense self-contradictory because anyone proposing this change (who doesn't happen to already be God Emperor, or a plausible candidate for it) still adopts a specific ideology, and so wishes to enact exactly what one wants to eradicate afterwards. The best one could do to maintain a certain self-consistency is to transform oneself into something compatible with the Correct Order and so shift the incentive-structure ever-so-slightly in the right direction.
+
+The only winning move is not to play.
+<% end %>
