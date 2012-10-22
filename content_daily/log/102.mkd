@@ -1,0 +1,108 @@
+---
+title: The Abyss and You - A Romance Novel
+date: 2012-10-22
+techne: :done
+episteme: :log
+---
+
+Dammit!
+
+<%= youtube("https://www.youtube.com/watch?v=KJe9H6qS82I") %>
+
+I only just now saw this video, and really should've linked to it when I was talking about Feser's essentialism. Form is more fluid and non-dual than he thinks.[^form]
+
+[^form]:
+    Which is also what I was thinking whenever he was talking about animals or species are complete forms. Every time he was talking about "catness" or "the essence of a cat", I was just like, "lol wut? do you know *any* biology?". That doesn't mean a teleological view of biology (or anything else) is necessarily wrong, but it won't operate on a *species* level. It must be about fundamentally unified entities - monads, in other words - but a phenotype is anything *but*.
+
+
+---
+
+Been working through [Cesar Millan][]'s dog training courses as a first step to improve my status behavior. Dogs are cool and I'm less likely to project muflax-like motivations onto them.
+
+(I feel like I should say more about this, but nothing[^noth] comes to mind, except how I'm still unsure how to actually go out and practice this shit.)
+
+---
+
+<% skip do %>
+[This may interest you][stickyembraces], if, like muflax, you're increasingly being sucked into the abyss that is Tumblr Marxism.
+<% end %>
+
+---
+
+<% skip do %>
+[Midrash for Yet Another Space Alien Cult][YASAC] makes a good point (among many):
+
+> Thus, to a first approximation, we have a principle of "Conservation of Irrationality:"
+>
+> (1) much of the irrational behavior associated with religion is related to people having a craving for ego justification,
+> 
+> (2) changing a person's theological beliefs has little effect on his tendency to crave ego justification, and
+>     
+> (3) politics is the continuation of religion by other means. 
+>
+> Corollary 1: At least one of my most cherished beliefs is utter nonsense.
+>    
+> Corollary 2: I won't be able to figure out which of my cherished beliefs is wrong until after I have replaced it with another, roughly equally wrong belief. 
+>
+> Corollary 3: Any church that tries to be welcoming to atheists, such as most [Unitarian Universalist] churches, will tend to be overrun with political kooks unless they find another way for their members to get ego justification that doesn't involve supernatural beliefs.
+
+This suggests a strategy for [reformed crackpots][Crackpot Theory] [^ref] who want to improve their ability to inspect individual beliefs for wrongness.
+
+According to YASAC, a normal believer has a few load-bearing crazy beliefs that provide ego justification, moral superiority and so on. They will be mixed together with equally important, less insane beliefs, but no believer (or organization) can honestly introspect them, for fear of collapsing the whole status house. However, independent backup beliefs can't easily be added, as they would likely lead to contradictions (increasing cognitive dissonance) and unwelcome social demands. (No one can follow a religion with more than about ten commandments, after all.)
+
+The problem, I think, can be avoided by maintaining an epistemic equilibrium between convinced vs. ironic, so that you're simultaneously capable of considering any one belief as serious and not, then collapse irony locally over an almost arbitrarily large set of beliefs, and therefore form new majorities at will. Let's call this the Copenhagen[^quantum] approach to crackpottery.
+
+[^quantum]: The use of quantum woo language is strictly necessary.
+
+[^ref]:
+    I had some doubts about whether reformed crackpots (like me) are still *real* crackpots (like the people skeptics have long and entertaining flame wars with), in the sense that only traditional crackpots actually fully believe they believe their own theses.
+
+    (Whether anyone believes their own crazy bullshit (and if so, to what extent) is a different question. Hansonians would generally deny it and I'm sympathetic to that position, but it is non-obvious to me how one would escape radical skepticism or self-refutation that way. One persons pragmatism is another persons nonsense.)
+
+    However, the label "reformed" is of course an explicit analogy to the "reformed epistemology" of Alvin Plantinga and other modern theologians, who may be sophisticated philosophers and propagandists, but have removed themselves so far from the object-level of the religion they pretend to belong to, and at best retain some of the meta-structures and culture language.
+
+    To steal [Oligopsony's metaphor][comment cosplay], the reformed crackpot *cosplays* a real crackpot, just as the theologian cosplays a believer.
+
+    (And the believer cosplay the schizotypal, who cosplays Jesus, who cosplays God, who cosplays Meta-Beyond-Meta.)
+
+Basically, you consider any currently unobserved belief in a superposition of "this is true in essence, if not language" and "this is nonsense, but fun to pretend"[^pre]. When you actually observe the belief, you push the irony back into other frameworks, so you can avoid having to kill an idea. However, this also means you don't just *evade* true introspection of all beliefs (vs. individual ones, which you can somewhat-sanely approach), you give up the idea of an explanatory center at all. There is no privileged point that grounds your thinking or identity, just belief-fluid in constant flux.[^soc]
+
+[^soc]:
+    The temptation exists to provide a meta-framework that justifies this, say in the form of social constructivism and coherentism, but those seem misguided. Any framework sufficiently powerful to explain the arising of epistemic games, should also be powerful enough to make it impossible-in-principle to ground itself in the reality it allegedly arises from.
+
+    The Ground Of All Being is an article of faith, just as the denial of it.
+
+[^pre]:
+    I recently heard a talk by a local Nazi crackpot who cited [Weekly World News][] as a reputable source, and who in doing so demonstrated a far greater degree of epistemic obfuscation than I have ever managed.
+
+    If you can get all your needs met through interactions with other humans, it suddenly becomes very attractive to treat all beliefs as IRL fanfic.
+    
+The easiest way to guarantee the integrity of this setup is to always add to any belief you adopt an equal and opposite contrarian belief, both of which have good arguments in their favor. This approach is well-suited for the reformed crackpot and often comes naturally. It may require some practice to add meta-arguments against particularly one-sided beliefs, as Plantinga and others have demonstrated.
+
+Alternatively, para-consistent logic may be considered, slowly making the aspiring Copenhagen crackpot comfortable with local contradictions. Skilled dialetheists should feel right at home in Catholic theology.
+<% end %>
+
+---
+
+Modafinil has arrived. ("Vitamins", lol.) Packaging seems legit[^placebo], so as a first trial, I wanna see how well I can reset my sleep with it.
+
+Took 100mg at 3:50 after being awake for about 15 hours just as I was beginning to get tired. First symptom is that slightly fucks with my depth and peripheral perception. While I still felt somewhat tired until about 9:00 (but less so than usual), all tiredness dropped at that point at I easily stayed awake (and very active) until 17:00 (or about 28 hours). I slept for about 6 hours (instead of the usual 9-10) and successfully reset my sleep and feel fine.
+
+It didn't remove all of the tiredness and mental impairment, but helped a lot and easily fueled some mild hypomania afterwards. Most notably, it lowered my inhibition quite a bit. I found it hard to keep thoughts *internal* (ok, I always do), and noticed myself snarking at the boxes in the cereal aisle and sing little songs[^song] while shopping. (That may all just be sleep deprivation plus good cognitive function.) I also did a pretty good improvised 2-hour rant defending [Direct Instruction][] against my mom *without* collapsing into anxiety afterwards, so pure caffeine seems unlikely.
+
+It also slightly shifted my spatial center of consciousness and my working memory felt shorter but also faster, but those effects weren't big[^big] and didn't interfere with my Anki reps, for example. I *may* have just gotten lucky with the sleep adaptation, but so far the results are promising.
+
+[^song]:
+    For some reason, hymns to slaughter heathens by. I have no conscious control over the content or melody, but it typically sounds vaguely like the Battle Hymn of the Republic and stuff like that. I have no idea why. I don't even consciously *know* any hymns (or lyrics to anything, really). My glossolalia-generating vestigial-artifact-from-the-bicameral-era brain just is very pro-crusading, it seems. 
+
+[^placebo]:
+    I probably won't bother doing a double-blinded experiment because I reason that if it's so weak I can't easily tell it apart from a placebo or caffeine, it won't justify the price anyway. Seth Roberts, when asked why he didn't control his butter experiments for the placebo effect, said that he knows the range of a placebo, and the observed effect was far stronger than that. Similarly, you wouldn't test your LSD for placebo.
+
+    The only justified worry is that I might've gotten fake or weak modafinil. The packaging seems legit, but let's see. If I can't get any distinct effect, I'll try a different (more expensive) seller, then give up.
+
+    Also, I'm pretty sensitive to caffeine (and have very low tolerance), drink about one cup of instant chai a day, and take almost no other drugs/supplements right now. About 1-2x/month, I take about 2mg nicotine for some specific minor concentration issues, at most 2x/month low amounts of DXM (~150mg at 87kg, always <350mg to stay below the dissociative threshold), and about 2 days/week I'm slightly drunk half the day or so, i.e. I go through about 1 bottle of wine (or equivalent) per week. I'm also on a complete No New Drugs Or Dosages For Anything Serious diet until I stop being a pussy and do the bloody Ayahuasca session I've been putting off for years now.
+
+[^big]:
+    I realize I should definitely setup some kind of measure of general cognitive ability, like gwern's dual n-back scores. I tried DNB, simple arithmetic and Anki scores a few years back, but they are either too boring or tedious to keep up, or too noisy for short-term judgments.
+
+    Maybe I should finally learn some Go. Bah!

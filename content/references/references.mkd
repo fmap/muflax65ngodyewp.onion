@@ -160,6 +160,8 @@
 [Grimoire Pitch]: http://www.indiegogo.com/grimoireforever
 [Bogleech]: http://www.bogleech.com/
 [Bogleech vile]: http://www.bogleech.com/halloween/hall12-viledarkness.html
+[stickyembraces]: http://stickyembraces.tumblr.com/
+[YASAC]: http://home.earthlink.net/~peter.a.taylor/midrash.htm
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/

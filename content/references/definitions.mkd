@@ -286,3 +286,6 @@
 [apophatic]: https://en.wikipedia.org/wiki/Apophatic_theology
 [De Carne Christi]: https://en.wikipedia.org/wiki/De_Carne_Christi
 [Danbooru]: http://danbooru.donmai.us/
+[Weekly World News]: https://en.wikipedia.org/wiki/Weekly_World_News
+[Direct Instruction]: http://www.webcitation.org/6BONEhz4r
+[Cesar Millan]: https://en.wikipedia.org/wiki/Cesar_Millan

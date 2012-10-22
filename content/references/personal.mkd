@@ -24,6 +24,7 @@
 
 <!-- comments -->
 [comment Church]: http://blog.muflax.com/jesus/self-baptism/#comment-513169408
+[comment cosplay]: http://daily.muflax.com/log/101/#comment-686293184
 
 <!-- software -->
 [Beeminder addon]: http://beta.ankiweb.net/shared/info/3491889895
