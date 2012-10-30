@@ -11,6 +11,8 @@ Installed [Easy Voice Recorder][] on my phone so I can *finally* record[^rec] my
 
 (On todo: set up some kind of speech-to-text transcription, generate searchable index.)
 
+I'm still not quite happy and it's all still a bit too cumbersome. More tweaking and details in a future log.
+
 ---
 
 <% skip do %>
