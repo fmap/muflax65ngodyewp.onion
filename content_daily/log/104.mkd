@@ -1,0 +1,30 @@
+---
+title: God the Law-being-given-er
+date: 2012-10-25
+techne: :wip
+episteme: :log
+---
+
+<% skip do %>
+LW survey time! I won't re-type all questions, just check the link, but here are my answers. Unfortunately, I didn't save my answers from last year and the public data set is very small, but I *did* take automatic screenshots and managed to reconstruct most of them anyway. (Yay automatic logging!) As always, answers in parentheses are from last year if they differ (and I found them).
+<% end %>
+
+---
+
+[Verbal overshadowing][LW verbal]\:
+
+> People who were asked to describe a face after seeing it are worse at recognizing the same face later.
+>
+> People who are asked to describe a wine after drinking it are worse at recognizing the same wine later.
+>
+> People who are asked to give reasons for their preferences among a collection of jellies are worse at identifying their own preferences among those jellies.
+
+More universally, it seems to me that this is a general pattern of a language about X *eating* that X and so replacing it in the Darwinian environment that is a human brain. (Privileged access to the Amygdala or GTFO. Also note that this kind of process is, if I'm not mistaken, the standard account in Behaviorism for depression and other mood disorders.)
+
+Nature abhors the object-level.
+
+Regardless, I noticed that for me personally, music is no longer something that *influences* my emotional state, but has in fact *become* my emotional state. In thinking about them, I even find it hard to conceptualize emotions as something non-musical. At first, I was a bit worried about this, wondering if being essentially devoid of emotions if I don't have access to music is a bad thing, and if this constitutes a hostile takeover that I ought to fight.
+
+But then I realized that this gives me great *control* over my emotional state. If music encodes and binds my emotions, then I can feel *however* I want, *whenever* I want. Effectively controlling my auditory environment is fairly easy (I even carry ear plugs everywhere I go), and I don't expect to spend much time in the presence of real adversaries, like marketing firms, so going all the way and making music my official language and complete layer for emotion seems like a big win.
+
+The next logical step, then, is to actually learn how to manipulate music.

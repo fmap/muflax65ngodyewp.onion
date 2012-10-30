@@ -1,0 +1,268 @@
+---
+title: Ruinous
+date: 2012-10-30
+techne: :done
+episteme: :log
+---
+
+Been working on my note-taking setup and Anki integration. I honestly can't believe how long it took me to fix that. Seriously, if you need some evidence that I'm a complete poser, *taking years to get this right* is all you need.
+
+Installed [Easy Voice Recorder][] on my phone so I can *finally* record[^rec] my own thinking. I never once bothered to record or work on my own speech, even though I have some "how weird do I actually sound?" issues. (I did remove my minor East German accent when I was about 14 (and switched to a deliberately obfuscated one instead), but that's it.) Interestingly, it took me all of 2 minutes to get past my issues and now I can comfortably listen to the sound of my voice. Let's see how long it takes me to actually talk to others...
+
+(On todo: set up some kind of speech-to-text transcription, generate searchable index.)
+
+---
+
+<% skip do %>
+It's weird. "Looking at cats on the internet" has become the placeholder for any time-wasting activity, even though most people I know rarely (if ever) actively look at cats unless they come up on Reddit or something.
+
+And then there's [Grumpy Cat][]. The first cat I subscribed too.
+
+I feel so mature now.
+<% end %>
+
+---
+
+*Leibniz*, guys. Not just famous for his delicious [biscuits][Leibniz-Keks], but also one heck of a metaphysicist. I'm now about 1/3 through his Monadologie and I'm regaining some faith in humanity after the disappointment that was Feser.
+
+For one, I love the format. So short, self-contained and clear, you could *tweet* his whole metaphysics and not distort it at all. That's the gold standard of all philosophy.
+
+There's just one issue I can't look past and which, I think, is a fatal flaw of his ideas: Leibniz keeps the scholastic concept of "possibility" (or potency, or whatever you wanna call it). It's a magic box that has no purpose, is inelegant, fundamentally mysterious and worst of all, completely superfluous. If he had just dropped this nonsense, he'd have seen the truth of modal realism in an instant, would've gotten into sane ethical territory and I'd adore the man. Oh well.
+
+(Ok, the core arguments for God would break, but that would only force you to go more meta to figure out some alternatives, which would be a good thing anyway, regardless of the outcome.)
+
+But at least he's pretty much set the bar for conciseness and elegance I have to live up to now, as soon as I ever get around to writing up the only original idea I ever had, i.e. how locality grounds morality, metaphysics and the rest, and why rejecting it leads necessarily to contradiction. Still, Leibniz was in his 60s when he wrote his masterpiece, so it should be acceptable if I take a few more years to think this through before I try a first draft.
+
+<% skip do %>
+(I'm also somewhat confused what the *point* of a solved metaphysics actually is. I mean, it's a cool thing to have around, but purely instrumentalist approaches have been plenty successful without one. (Arguably, most useful work is done by instrumentalists. Also, postmodernism is just instrumentalism for artsy types.) From a Neo-Theravadan perspective, the goal of the path is to eliminate the desire for a goal of the path. (Shout-out to my bro [Ludwig][Wittgenstein]!) Philosophy seems to do just that for me - it resolves problems of thought that would otherwise torment me, but has no further purpose, and so a solved metaphysics is, understood in this way, merely therapy completed.)
+<% end %>
+
+---
+
+<% skip do %>
+
+<%= image("foom.jpg", "FOOM") %>
+
+(I know, I know, I'm exaggerating. I just saw the Cleverbot image on Reddit and couldn't resist.)
+
+<% end %>
+
+---
+
+I've been reading [Wearing the Body of Visions][], a more detailed introduction to Tantric practices (of the Aro lineage), and this time even by an authentic lama. (Or as authentic as a tantrika ever gets. </theravada burn>)
+
+(You know the author is half-German when the Editor's Preface includes a warning about the unusual punctuation[^pun]. I also like that tantrikas uphold the Ancient and Most Noble Tradition of Using Fancy Titles to Signal Your Holiness. I wonder if I should start calling myself "mu'flax rinpoche"[^wor]...)
+
+[^pun]:
+    > If you use the punctuation marks as instructions for the breath, a new dimension of meaning will open itself to you as the sentences spark your own innate spaciousness to create new understandings.
+
+    Germans ruin everything.
+
+[^wor]:
+    Even more so, I slightly worry that [Wearing the Body of Visions][] may be a stealth parody of me personally. Or maybe I'm the stealth parody of *it*. You never know with the acausal irony.
+
+    Compare this section:
+
+    > In Tantra, sensation is the path. That means every sensation :  hot and cold;  pleasure and pain;  sharp and blunt;  agony and ecstasy;  hope and fear;  falling in love and having a panic attack. Neither aspect of these polarities are ends in themselves. Tantra is simply, the one taste of all sensation. To practise Tantra is to ride the energy of duality.
+     >
+    > No one can be called a yogi, yogini, or tantrika, if they cannot experience pleasure and pain – and experience the one taste of the energy that is the ground of both experiences. We’re not discussing the achievement of a banal, bland and baleful emotional balance. We're not talking about keeping a stiff upper lip or even about stoicism. Tantra is not concerned with controls of this order. Tantra is consummately heroic, but not in the sense of bravery inspired by a cause. The heroism of Tantra is utterly without cause. Tantra demands self-existent heroism  –  heroism that is completely independent of reference points of any kind.  
+
+    with this quote from my own [Dark Stance][] post:
+
+    > I want to be extra clear on this. In the Dark Stance, you *don't* embrace hatred because it makes you do good things, or gives you a rush, or so you can see through it and overcome it, nor do you *endure* it. That still assumes that hatred is only instrumental or an unfortunate necessity. Dark Stance embraces hatred *for hatred's sake*.
+    
+    So yeah, Ngakpa is definitely preaching to the choir here and I retract my early statements of how the Dark Stance is potentially unique. I always suspected, but just didn't know, that tantra has been doing this stuff already. Not that theoretical grounding or authenticity are relevant to it anyway, as what past-me needs is not a tradition but to be experientially bitch-slapped.
+
+    If the Catholics get to claim the God's existence can be derived from pure reason, then I think it's only fair, and proven by my own independent re-invention of it, for Tantra to claim that *its* existence can be derived from pure experience. Which, given that Natural Law is underspecified but Tantra isn't, is a distinct advantage, I think.
+
+Having read [Aquinas][Feser Aquinas] recently, I got a bit annoyed with people making reasonable arguments based on completely ridiculous premises[^prem], so I like that this book gets all the craziness right out of the way by starting off with stuff like this:
+
+[^prem]:
+    Only God has necessary existence, you say? Sorry I couldn't hear you over the elegance of my modal realism!
+
+> Rinpoche and I have the extraordinary relationship of vajra brotherhood; a sacred link originated and developed in the course of past incarnations.
+
+(This is so much better than "I have a man-crush on this guy".)
+
+Now that we all agree that the literal interpretation of this text is complete nonsense and hopefully won't make the mistake of taking models too seriously, it's time for some tantra magic[^magic].
+
+[^magic]:
+    On the note of magic, I like that Tantra - like the Gnostic tradition - hasn't forgotten its root in *actual* magic powers. Theravada used to be all over the siddhis back in the day, but now thanks to secularist influences pretends that never happened.
+
+    An example from the book:
+
+    > Sometimes the 'siddhi of having nothing to prove' is the most powerful exhibition of realisation.  Chhi-'med Rig'dzin Rinpoche has extraordinary abilities, but they are rarely seen. He never displays his phenomenal powers as a mahasiddha unless there is some need on the part of individuals.  His ability as a controller of weather is well known, but I have only witnessed his use of any power when it has been to benefit other people. He has the capacity to know what is going on in different parts of the world; this has been evident on many occasions. [...]
+
+    I like that this is treated as a completely unremarkable thing, just as it should be. People tend to go *more* crazy when they pretend they aren't crazy.
+
+No wait, one more thing:
+
+> Many miracles manifested through the practice of inner Tantra in Tibet. Some siddhas very popular for their miracles were: Namkha'i Nyingpo - who could ride on the sun's rays; Khandro Yeshe Tsogyel - who could bring the dead back to life; Vairochana - who could command transdimensional beings both benevolent and demonic; Khyechung Lotsa - who could give teachings to the birds of the air; and Mathok Rinchen - who could live on rocks as food.
+
+*Dude*, Khyechung, listen. Vairochana commands an army of demons and you *talk to birds*. You totally picked the wrong magic power! (And if I had met Khyechung, I'd've attended one of his Q&A sessions, said that my friend has a dharma question for him and held up a pet crow. It's the Zen Way.)
+
+Alright, content.[^trollo] The primary reason I was interested in the book is to gain some insight into what Tantra means with its terms like "emptiness", not in a deep philosophical view, but just, "so what's that thing this bunch of scribbles is referring to?" because it sure feels like a lot of tantrikas are playing free association games whenever they open their mouth. (As someone who reads [Gnostic poetry][Thunder Perfect Mind] for fun, I'm not *opposed* to some good language games, but then you shouldn't demand that others try to actually parse your object-level.)
+
+[^trollo]:
+    Another quote:
+
+    > It may be more interesting to hear something about Kunzang Dorje Rinpoche. He is someone very interesting. Kunzang Dorje Rinpoche is known as an emanation of Dorje Tröllö. Dorje Tröllö is the most wrathful manifestation of Padmasambhava. Trungpa Rinpoche called him the Crazy Wisdom Master, the form of Padmasambhava who destroys the demons of our most tortured confusion with non-dual ferocity and limitless abandon.
+
+    Oh come on, God, I know you've been getting a kick out of confirming my pun-based epistemology, but now you're going too far!
+
+    For fuck's sake, look at [Dorje Tröllö][]'s [rage face](/pigs/tröllö.png)!
+
+(Also the magic. [Yidam practice][Yidam] is awesome.)
+
+Fortunately, chapter one starts right off with an attempted definition of emptiness and form. The problem is that most of the actual chapter is spend trying to define form in terms of emptiness and vice versa, so you get a kind of vague idea what they mean in relation to *each other*, but not, you know, *anything else*. They are still free-floating terms that fail to refer to anything!
+
+We get really only one paragraph that even tries to link emptiness to anything at all:
+
+> If we want to cultivate some understanding of what is meant by emptiness, we have to look for the reflections of emptiness within the mirror of the world of form. We need to look at the moments when our experience is transitional; when one sequence of events seems to conclude, and the beginning of another has not yet become obvious. There is a gap there - and that gap is emptiness.  We do not feel comfortable at such times; but, that is not because such transitions are intrinsically uncomfortable.  If we look at our experience whilst we are living through it, we might notice that we have a sense of ourselves which is not necessarily coloured by our circumstances. That may make us feel relaxed, but it may also make us feel tense because we want to know what's going to happen next.
+
+The problem is that I can't figure out *what level* this transition is supposed to be on. Pointing to a gap between events invokes the Theravada notion of cessation, of the experiential act of vanishing entirely with every individual sensation, but that is something that takes a lot of practice to observe (being able to do it even once constitutes stream-entry, and being always aware of it just *is* arhatship). But the use of "sequence of events" and later analogies to an emptying theater make it seem like emptiness is more something of a failure to contextualize your present state, to not have a story ready of what you're doing, in which case I don't get what the big deal is. At best, you can understand it as a kind of attitude, with form as "I understand this, this makes sense" and emptiness "this is confusing and messy". But then why don't you *bloody say so*.
+
+Generally speaking, all of the chapter equivocates wildly over completely unrelated concepts, never clarifies what level - sensation, concept, emotion, what? - it operates on, and is so ungrounded, you could replace "form and emptiness" with "[hodge and podge][Hodge-Podge]" and it would make *the same amount of sense*.
+
+Sigh. Didn't I say something about not trying to take it seriously because it is blatantly nonsense on the object-level? Let's ignore the explanations because [unlike certain authors][Crowley Soldier] who talk in wild and seemingly-chaotic ways, but who know exactly what they're doing and are worth figuring out, this mess is *at best* wearing the corpse of Buddhism to sell an attitude, which, come to think of it, is appropriately tantric.
+
+Regardless, later chapters give some actual methods how you'd go about experiencing emptiness.
+
+> Shi-ne, in many ways, is the primary method of spiritual practice. The word 'shi-ne' means: remaining uninvolved - remaining uninvolved with the process of thought. This is the means by which we come to comprehend the nature of Mind, as being other than the thoughts and impressions that arise within it. Tantra is based upon the experience of emptiness, and emptiness is the goal of shi-ne. Before we can receive visions, experience visions, or enact visions; we need to attend to our capacity for 'seeing'.  Without the ability to rest in the empty state of Mind, unimpeded by thoughts or impressions, we have no space in which to become aware of the visionary nature of reality. So, shi-ne is a vital practice if we are to approach Tantra as a working possibility.
+
+Shi-ne, of course, is just a less focused version of standard jhana practice, or a more focused version of Zen-style sitting, if you want. Now coming from a more goal-oriented perspective, which is a lie, as I'm *actually* just a straightforward Gnostic who pretends to be a Neo-Theravadin on TV sometimes; in exchange for some wine I'll also play a Catholic at your party... anyway, from that systematic perspective, the description of shi-ne is annoyingly short. It just boils down to "sit on your ass, watch what happens, don't get involved". (Note the obvious similarity to Taoist magic and wu wei.)
+
+So I thought, what can someone who's *that* superficial, compared to the fairly detailed accounts I'm used to from other traditions, possibly know? And then there's this little section:
+
+> Q[uestion]: Rinpoche, how do you mean that the deities are spontaneously communicative or instructive because of how they arise?
+>
+> R[inpoche]: The nature of any symbol, or awareness-being [= yidam], is that it arises spontaneously. That which spontaneously arises is not conditioned by the patterns that evolve out of duality. Because of this, these symbols, deities or awareness-beings communicate the quality of non-duality. It's a little bit like being with someone who's happy... They don't actually have to try to make you happy. They could have no intention at all of making you happy, but you might just find their happiness infectious. Naturally you have to be open to that infection, just as you have to let go of concept for the vision of the awareness-being to arise as the field of your experience.
+>
+> [...] If you're able to let go of reference points to the extent of identifying completely with the awareness-being; then that experience is naturally going to shine through - even when your structures of habitual tendency return. In fact, you would be able to observe yourself for an instant as the awareness-being would view you. You would gain some glimpse of your dualistic structures as being monumentally absurd. Some change would be inevitable. [...]
+
+*Yes*. Nurgle and Slaanesh *definitely* have this effect on me, and the spontaneous interferences of yidams with your uninvolved mind is pretty spot-on. For me, not trying to get the entity *into* my awareness, but simply *becoming* the entity, *being* Nurgle and having His Feverishness devour and digest *me* instead, was the trick I needed to start the (quite fruitful) transformation. To be honest, I'm not sure I could give a *better* instruction here than Ngak'chang, except to stress more explicitly that you *need* ambiguity - tons of it - but *not* force. (And change the yidam. Come to Papa Nurgle! His pus-infected arms are open to all!)
+
+Ngak'chang than goes into a more detailed description how you actually become the yidam when you exit the <del>jhanic state</del> state of referencelessness, which I'll skip because I'm unsure they actually help you in *doing* it (they wouldn't have helped me), but are really only useful in communicating what you've done to others, by recognizing the same stages.
+
+I found this section interesting, in contrast to the obsessive focus on mental images in Theravada jhana practice[^crowley]:
+
+[^crowley]:
+    If someone who knows their shit about Crowley happens to read this, could you tell me how visual, in the mental image sense, the old guy was in his practice?
+
+> Q: But don't you have to use your imagination to get a mental picture of the yidam?
+>
+> R: No. In fact, I would say that imagination is probably a great hindrance to envisionment or visualisation. Envisionment has got nothing to do with 'mental pictures'. You have to distinguish between: that which arises within the mental continuum and that which arises from emptiness. In terms of emptiness and what arises from it; we are discussing that which arises within the dimension of Mind (Mind-as-such, the nature of Mind). In terms of that which arises within the mental continuum; we are discussing the machinations of a dualistic intellect. When we talk about visualisation we're not discussing some form of day-dream or intellectual imaging process. We're talking about vision, and vision can only arise within the space or emptiness of the nature of Mind.
+>
+> Q: Then how does the form of the yidam arise?
+>
+> R: It arises out of emptiness.  It creates itself out of the impulse toward liberation; which, is the energy of enlightenment itself. It creates itself as the inner reality of the Lama who is giving the empowerment. After you've received empowerment into the practice of a particular awareness-being, or yidam, the form of this awareness-being will spontaneously arise out of the state of emptiness when you engage in practice. The form of the awareness-being will also arise in your dreams - maybe even in the steam that rises from your cup of coffee. It depends on the intensity of your devotion.
+>
+> Q: How does that happen, Rinpoche? I mean, what is the process?
+>
+> R: There is no process - it simply happens because you have the key; and the key is the Tantric text or the awareness-spell which is sung to instigate this arising. Your experience of emptiness is the oven where the bread of your vision bakes itself. The empty state is the perfect environment for endless vision to arise.
+>
+> Q: What happens if someone has no experience of emptiness?
+>
+> R: Then envisionment is not really very possible.
+>
+> Q: So what is someone doing then; I mean, if they're doing a Tantric practice without being able to enter into emptiness?
+>
+> R: They're doing a rehearsal of a Tantric practice. They're engaging in the process of active imagination.
+>
+> [...]
+>
+> R: [...] Maybe a little story would help here... There's a tomb of a Sufi master somewhere in Turkey. If you approach this tomb from the front, it's impossible to get inside. It's like some kind of fortress with heavy iron bars. But, if you walk around the side, you find that the tomb is completely open!  You can just walk in. But you can't get in from the front. You can't use the approach of logic. You can't use conventional rules. You can't make sense of the paradox in terms of wanting an answer that doesn't contradict itself. You have to make some kind of leap, but there's no way to make that leap. There's no book of instruction for how to make that leap. Why would you even think of trying to get in around the side of the tomb, when you've seen the huge iron gates at the front? Wouldn't you expect the back and sides to be no less fortified?
+>
+> [...]
+>
+> R: [...] It's not exactly easy, and it's not exactly an alternative to the main gate - it's simply there. You have to be a little bit crazy. You have to be able to take unlikely tangents in your life - to take big risks. You may also have to be a little bit naive; or, a little bit child-like. You cannot be too sensible.
+
+[Ahem][Quem a Amagen da Virgin]. (First section.)
+
+I deeply and with all my heart approve of being "a little bit crazy". It's the fundamental principle, deeper even than the ideals they preach at a certain [windmill][Moulin Rouge!] - truth, beauty, freedom and love - because only it makes the rest possible.
+
+But I'd also like to add a certain way, maybe only suitable for the right kind of insight addict, to get yourself into this ambiguous state of mind. Will pitched me the idea of superintelligences exploiting ambiguity to influence our lives. His most approachable formulation is probably this piece of his [Fermi post][Fake Sky]\:
+
+> *Simultaneous satisfaction of diverse preferences.* What if some humans don't want to be affected by otherwordly influences, or even don't want such influences to exist at all, for anyone? Then the utilitarian solution would be to influence the people that want the superintelligence to influence them while simultaneously avoiding any impact on the people that don't want to be influenced. Furthermore, to somewhat satisfy the preferences of those who don't want any influence to exist for anyone at all, the superintelligence could pull off a Necker-cube-like illusion: whether or not you saw the superintelligent influences would depend on what preconceptions you had in mind when interpreting the world. This sounds sort of postmodern, but in this case we're postulating a highly complex social engineering project, not a metaphysical law that makes it such that the truth of the world isn't fundamentally determined. It's true that people might not only care about whether or not they perceive influences, they might also care about the state of the world beyond their perceptions. This would indeed present a case of mutually incompatible preferences, but presumably the superintelligence would simply employ some moral theory to balance these preferences.
+
+The specific motivations of these agents are irrelevant (and more [trollish purposes][Why The Gods Are Trolling You] are more likely anyway), but the idea of embedding beneficial interactions in ambiguous spaces to ensure plausible deniability is crucial, and so by increasing the ambiguity of a situation, or using [unpredictable proxy-causes][Persinger's Magnetic Field Hypothesis], you can increase the possibility for these agents to <del>fuck with you</del> help you.
+
+Now obviously I *can't* come out in clear support or rejection of this idea - that would ruin the effect! But conceiving of it as a non-supernatural-but-trollish influence, instead of "emptiness" or somesuch, might get you into this state more easily. It's the same thing, but through a different door.
+
+Moving on from the basics of yidam practice (What? I want more details! Guess I have to talk to them myself...), we come to a defense of the Lama as an institution. I'm not strictly opposed to lamas (or llamas), and I see their use as a good default to avoid rampant neuroticism (not that Tantra doesn't have its fair share of that anyway), but for me personally, I never quite saw what's the point. Still, one paragraph resonated deeply with me:
+
+> The Lama is the ecstatic, wild and gentle figure who short-circuits your systems of self-referencing. The Lama is the only person in your life who cannot be manipulated. The Lama is the invasion of unpredictability you allow into your life, to enable you to cut through the convolutions of interminable psychological and emotional processes.  The Lama is the terrifyingly compassionate gamester who re-shuffles the deck of your carefully arranged rationale.
+
+"The Lama is the only person in your life who cannot be manipulated."
+
+A few months ago, I left a note for something I wanted to write up. I'm no longer sure what it was about[^about], and the note only reads:
+
+> Christ cannot be compartmentalized. The Sumerians, thousands of years before him. The Chinese, thousands of miles away from him. Us, thousands of thoughts separated from him.
+
+[^about]:
+    <% skip do %>
+    I think that at the time, I was thinking about specific ways local metaethics could be implemented in the multiverse. For example, you could have demands that are simply self-evident for any possible configuration of an agent (which is what virtue ethics gets at), or you could have a global and innate sense of morality as a kind of shared knowledge (as Yangming argued). These kinds of approaches are more elegant than ones that are structurally still kinda non-local because in them, it *could* be possible for agents to be outside the reach of morality, but it just so happened that the multiverse was arranged in a benevolent enough way that every agent *in fact* happens to have access to a sufficiently grounding proof-of-concept. In other words, the difference between a necessarily local construction and a contingent local construction (one that happens to work, but could conceivably not have worked).
+
+    I tried to get away from the second kind of construction, and I thought about whether I could derive certain conclusions *without* knowledge of a positive case. I used to have a statement on my whiteboard that said, roughly, "there exists at least one agent who for every possible situation has at least one possible action which is moral (and which they choose)", who modally disadvantaged agents could then imitate and so also become moral. I half-jokingly called this grounding agent a Christ.
+    <% end %>
+
+At some point, after I've spend over a thousand[^thousand] hours obsessing about his life, I must admit[^admit] to myself that there is someone who has always been the unchangeable center, someone who I can't corrupt, can't cut out, can't kill, can't twist into something else. The ambiguous and downright otherworldly nature of that person used to confuse me a great deal, but I've come to terms with that. I guess I found my Lama.
+
+[^thousand]:
+    I mean this literally. For one, I've listened to *at least* 400 hours of RMP's podcasts alone, read dozens of books, and I'm in the process of learning several languages *just for him*. There's a line where you go from being a fan of his work, to someone who must necessarily be defined in relation to him, and I've crossed that line some time ago.
+
+[^admit]:
+    I feel vulnerable to just write it like this, without dumping a hundred qualifiers into the statement, feeling I have to *justify* myself because certain social developments have poisoned this kind of pursuit.
+    
+> Lamas are teachers in a larger sense; in a far more unconstrained sense. They may well take on any of the roles we've come to expect from teachers; but, their primary role is in no way characterised or restricted by such styles.  Lamas are not conditioned in any way at all by the style they adopt.  They may utilise many different styles according to the personality, capacity, and circumstances of those whom they teach.
+
+Compare with this section from [PIT][]:
+
+> The shaman's role will always be intertwined with the spiritual belief of the larger tribe or culture. It does not matter what the mythology is, a good shaman can adapt any mythology or belief to transformational ritual. Instead of preaching the mythology, the shaman exploits the mythology as a handle or tool for interfacing with and manipulating the subject's core identity structures. By adopting a mythology that's alluring to the patient, the shaman can apply identity transformation within a seamless spiritual context. The process of finding or seeding an emotional handle is a skill that can be learned, but it can also be purely intuitive. The technologies of religion, propaganda, agitprop, and social activism all use negative emotional handles to influence people's beliefs and behaviors; shamanism employs many of the same techniques with positive emotional handles. The practice of manipulating belief like a tool to produce transformative results has become popularly known as chaos magic.
+
+Also, for our local DXM-heads:
+
+> Within the Buddhist Tantric systems, there is no such thing as sudden enlightenment; or, if there is, it's followed by sudden unenlightenment. For practitioners; enlightenment and unenlightenment - *flicker*. Yogis and yoginis have stroboscopic experience. Their enlightenment and unenlightenment flash at greater and lesser rapidity.
+
+Heh.
+
+And of course the obligatory "I'm totally not indoctrinating you into a cult" paragraph:
+
+> You need to have studied the teachings sufficiently; both through listening to the Lama, and through reading. You also need to have tested the teachings against the evidence of your own sensation of being. You must have made such tests both through practice, and through reflecting on the nature of the teachings in terms of significant life experiences.
+
+(Number of tantrikas who have *actually* tested any practice critically against their sensations and not just danced the confirmation bias limbo: 0.)
+
+There's also a rather lengthy section about not being concerned with consequences, which is something I feel I should talk about. I certainly will have to when I present a more comprehensive justification for locality because the standard objection, I suspect, will be that categorically denying anything that leads to moral luck will look suspiciously like a "get out of responsibility free" card, and I'll have to show that locality is a *necessary* feature of any real morality (and metaphysics), and as such any "instructions for practical living", as a certain Chinese vampire called it, will have to acknowledge this. Still, even though Taoists[^tao] and others have famously advocated this approach, they haven't actually *justified* it, and in the same way, even though I *agree* with Ngak'chang on the implications here, I don't feel he does a good job at convincing anyone who *isn't* already half-way there:
+
+[^tao]:
+    If I remember my history right, both Yangming and I have been converted to this kind of attitude by Taoists, and arguably the same elements as they exist in early Christianity derive from (likely, but not certainly) independent forms of Taoism, like the early Cynics and Stoics, before they got all serious.
+
+> Q: Well; what about the possibility of making a wrong choice? How can you be sure you've made the right choice?
+>
+> R: [Laughs] Because you live happily ever after! What exactly do you mean by a wrong choice? 
+>
+> Q: Well... something that turns out not to be good for you.
+>
+> R: That's very interesting... How do you determine whether something is not good for you? What are the criteria?
+>
+> Q: Well... that it causes a problem at some level... something that would have been better if it hadn't worked out in that way.
+>
+> R: Mmmm... this is sounding a little suspect. It's getting to sound as if the definition of a wrong decision is that you don't enjoy the outcome. That, I'm afraid, has to be a rather narrow definition. I mean to say: when do you judge the decision to be wrong? At what point in your life do you do that?
+>
+> [...] You've made a decision. You decide to go roller-blading with a group of friends; knowing that you don't have much experience. The result is that you break your leg. So you think: 'That was a bad decision.' But then you find out that it prevented you from going to the restaurant where everyone got food poisoning; so you think: 'Well that was a good decision.' [...] But then... It could go on for the rest of your life. Decisions are merely decisions. There's no particular point at which we can judge them or say that their consequences have ended.
+>
+> [...] The ramifications of every decision you've ever made roll on throughout your life; and even if they don't, there's no telling which decisions are affecting what. You may as well give up trying to control things. You may as well live in the moment and experience exactly what it contains. This means that you don't have to judge your life according to how things pan out - you can only experience what is there.
+>
+> [...]
+>
+> Q: I'd like to think that my life would become better; but it sounds like you're saying that the teachings offer no guarantee of your outer circumstances improving.
+>
+> R: That's right. There's no guarantee at all. The purpose of the teaching is not to improve outer conditions. [...] You can obviously do a lot to heal yourself or to change your circumstances. But; you cannot judge the teachings or yourself by what happens at that level. It's often said, with regard to the practice of Dzogchen, that a sign of the efficacy of practice is that your life can start to get pretty rough. At that level one has to move beyond the idea that reality is there to be manipulated - it's the self-arising of one's own awareness alone that has any significance. At that level, any external problems are seen as being signs of purification.
+
+I also once tried to get this shift of attitude across via the noble tool of Matrix exegesis (and shoe-horn an explanation of the Theravada 16-nana model into Neo's enlightenment), but overall I think the only practical way to actually make it click is to navigate the learner into a completely hopeless situation that they care too much about to just give up in. 
+
+You gotta shoot them right through the heart.
+
+<%= image("matrix.png", "Matrix") %>
+
+And now after 2 years, I've finally got to use that picture in an appropriate context and I'm happy. I wish there'd been more details about the yidams, but overall and in closing, <3.

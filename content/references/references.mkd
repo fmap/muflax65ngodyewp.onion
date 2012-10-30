@@ -162,6 +162,9 @@
 [Bogleech vile]: http://www.bogleech.com/halloween/hall12-viledarkness.html
 [stickyembraces]: http://stickyembraces.tumblr.com/
 [YASAC]: http://home.earthlink.net/~peter.a.taylor/midrash.htm
+[Grumpy Cat]: http://tardthegrumpycat.tumblr.com/
+[Easy Voice Recorder]: https://play.google.com/store/apps/details?id=com.andrwq.recorder
+[Crowley Soldier]: http://hermetic.com/crowley/equinox/i/i/eqi01012.html
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -218,6 +221,7 @@
 [LW quantum retro]: http://www.webcitation.org/6BONA5ODJ
 [LW dndis]: http://www.webcitation.org/6BOYNWC4L
 [LW anthropic evidence]: http://www.webcitation.org/6BON5TkdA
+[LW verbal]: http://lesswrong.com/lw/dl/verbal_overshadowing_and_the_art_of_rationality/
 
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
