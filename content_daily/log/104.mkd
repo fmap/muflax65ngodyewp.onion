@@ -1,30 +1,115 @@
 ---
-title: God the Law-being-given-er
-date: 2012-10-25
-techne: :wip
+title: Om nom nominalism
+date: 2012-11-03
+techne: :done
 episteme: :log
 ---
 
 <% skip do %>
-LW survey time! I won't re-type all questions, just check the link, but here are my answers. Unfortunately, I didn't save my answers from last year and the public data set is very small, but I *did* take automatic screenshots and managed to reconstruct most of them anyway. (Yay automatic logging!) As always, answers in parentheses are from last year if they differ (and I found them).
+[LW survey time][LW survey 2012]! (Damn it's long. Actual content again in the next log.)
+
+I won't re-type the descriptions of all questions, just check the link, but here are my answers. Unfortunately, I didn't save my answers from last year and the public data set is very small, but I *did* take automatic screenshots and managed to reconstruct most of them anyway. (Yay automatic logging!) As always, answers in parentheses are from last year if they differ (and I managed to reconstruct them), including for new questions (if I'm pretty sure what I would've answered).
+
+And please, if you want to take the survey, do it *before* reading my answers. Spoilers ahead!
+
+- Age: 26 (25, duh)
+- Country: [redacted, but obvious]
+- Race: white, about 7/8 Aryan due to one Slavic great-grandfather (based on official documents, not genetic testing)
+- Sex (at birth): Man
+- Gender: Male-ish, because it provides a convenient Schelling point and is the easiest role for me to play (Other)
+- Orientation: asexual, technically "would fuck like a 2 on the Kinsey scale, but only date like a 4, but so full of issues and generally low libido that it comes out as asexual in practice"
+- Relationship style: monogamous, eww poly, even soft poly like serial polygamy
+- ... partners: 0
+- ... goals: not looking, because of time constraints and issues, despite mild crushes
+- Children: 0
+- More children: Hell no.
+- Work status: student, lol
+- Profession: programming
+- Degree: Bachelor's, roughly
+- Political: Libertarian, not because it's particularly great, but because *of those options* it's the most opposed to a state, see below for more (I *think* I checked Socialist as least bad option because it's at least easy to exploit until it crashes)
+- Religious: "etc." (Atheist and not spiritual)
+- Family religion: Atheist and not spiritual, never even met a religious person before I was 14
+- Religious background: Communist, in the "it's complicated" sense that the [Irish are Catholics][Briain Catholic]
+- Moral views: GAH NOT META ENOUGH YOU FOOLS, ahem, I mean, lean towards virtue ethics in practice (Doesn't exist / wrong question, with lots of uncertainty.)
+- IQ: 135, according to different Raven' Matrices tests taken at different times with exact same answer and which I find personally and genetically plausible
+- LW use: I lurk from time to time, now that I've deleted my account (posted in Discussion)
+- Sequences: all of them, several times
+- Referrals: some blog, probably Tim Tyler's
+- Time in Community: 40 months, or something like that, too lazy to check exactly (-12, duh)
+- Time on LW: 5, moved mostly to Twitter and various blogs (60, which was a lower bound)
+- Karma score: 0 due to deleted account, had ~1000 when I left (567)
+- Meetups: yes, 1
+- P(Many Worlds Interpretation): 17%, which means "I'm undecided if a roughly correct interpretation has been found yet, and I know three about equally plausible interpretations, so 50/3" (70%)
+- P(Aliens in universe): 25% because of high probability of fake universe (50%)
+- P(Aliens in galaxy): 0% due to Great Filter, even though I give a high probability for a fake sky (in various forms), but I don't think most people would call a Cartesian Demon AI or God "aliens"
+- P(Supernatural, defined as ontologically basic mental events): 70%, due to some form of Idealism being true; "it's complicated" otherwise (5%, had just heard the arguments)
+- P(God, defined as supernatural creator of the universe): There's no such thing as "creation", so 0%. I'd give different answers for other constructions of God and for small-g gods. (1% due to meta-uncertainty)
+- P(some *revealed* religion is correct): See, the question asks for *revealed* religions, which is really weird. It seems like it's trying to exclude, say, Taoism or the natural theology part of Catholicism. I think the *implementations* of certain revealed religions are more likely correct than not, even though their *justifications* and *literal level* are nonsense. And it doesn't seem to include religions that have a non-slave relationship with their gods either. The whole question is deeply contaminated, so I refuse to answer. If it had just asked for religions in general, I'd've said "100%" and be done with it. (Lost my answer, but probably very low.)
+- P(someone cryonically frozen today will be restored): 0%, i.e. of the ~100 patients, none will make it, but I think brain preservation with existing or near-future tech is plausible; it's everything else that kills you (30%)
+- P(someone alive today will live >1000): 10%, due to uploads etc.; biologically everyone is doomed (15%)
+- P(simulation): 0% because "simulation" is an incoherent concept. >70% that the universe is fake, though. (5%)
+- P(Global Warming): 90%, but not a big threat
+- P(humanity makes it to 2100): 70% due to forces (mostly) outside of humanity's influence, otherwise much higher
+- Year of P(Singularity) = 50%: I entered 2001 as my best honest, but still lulzy guess. I don't expect any big traditional Singularity in the future. (Lost it, but I think 2050-ish.)
+- What kills us: the gods; picked "Unfriendly AI", which is the same (Unfriendly AI, developed by humans)
+- Cryonics status: not signed up and not planning to, regardless of cost
+- P(my IQ is above-average on survey): 20%; I again predict the mean will be nonsensical (something like that)
+- Year Bayes was born: uuh, let's see... he died <1900, so almost certainly <1840, and I remember "18th century theologian", and Bayes' Theorem being 200-250 years old, so 1680-1740, let's split the difference, 1710.
+- P(above answer is within 20 years of correct answer): 60%
+- Jack is looking at Anne, but Anne is looking at George. Jack is married but George is not. Is a married person looking at an unmarried person?: Yes.
+- Would you prefer to receive \$55 today or \$75 in 60 days?: Assuming I trust you, 75 bucks, please.
+- A certain town is served by two hospitals. In the larger hospital, about 45 babies are born each day. In the smaller one, about 15 babies are born each day. Although the overall proportion of girls is about 50%, the actual proportion at either hospital may be greater or less on any day. At the end of a year, which hospital will have the greater number of days on which more than 60% of the babies born were girls?: The smaller hospital. Answer is somewhat salient because that screws up education a lot.
+- Imagine that you are a doctor, and one of your patients suffers from migraine headaches that last about 3 hours and involve intense pain, nausea, dizziness, and hyper-sensitivity to bright lights and loud noises. The patient usually needs to lie quietly in a dark room until the headache passes. This patient has a migraine headache about 100 times each year. You are considering three medications that you could prescribe for this patient. The medications have similar side effects, but differ in effectiveness and cost. The patient has a low income and must pay the cost because her insurance plan does not cover any of these medications. Which medication would you be most likely to recommend?: Drug B as most cost-effective, assuming the migraines don't lower income significantly.
+- Random number: 635
+- Treat the three digit number that you just wrote down as a length, in feet. Is the height of the tallest redwood tree in the world more or less than the number that you wrote down?: Feet! Fuck you, barbarians. I refuse to answer.
+- What is your best guess about the height of the tallest redwood tree in the world (in feet)?: Why not beard-seconds? Seriously, fuck you.
+- Siblings: 2 older half-brothers.
+- Age of father at my birth: 36
+- ... mother: 32
+- Height: 185cm (oh, *now* you can use sane units, you stupid imperialist pig-dogs)
+- Money to charity this year: Explicit charities? 0. Donations to various projects? About 150 dollars. Used 150 as my answer. (Similar, but probably a bit lower.)
+- ... to SIAI/CFAR: Ha, good one.
+- ... to aging research: 0. It's bullshit anyway.
+- Vegetarian: nope.
+- SRS: Fuck yeah! Anki all the way.
+- HPMOR: Read up to chapter 65 or so.
+- Read LW wiki last month: ~5 times.
+- Edited LW wiki: never.
+- Alternative politics: Reactionary, in the sense I want to go back to the government concept pre-Enlightenment, before "the State" was a thing.
+- Alternative alternative politics: Monarchist, somewhat ironically.
+- Hours reading / week: at least 40, varies a lot
+- Hours writing / week: about 10, also varies
+- Hours online: 168, seriously
+- Caffeine: every day, somewhat low dose, every few months a big maniac overdose (about 2-3 times that)
+- Smoking: used to smoke a bit, would smoke *a lot*, but it's way too expensive
+- Nicotine: about once a week
+- Modafinil: currently experimenting with once a week, don't expect >2/week
+- Agree with troll toll (responses to negative comments cost karma): Fuck no. LW moderation is incredibly stupid.
+- True Prisoner's Dilemma: Cooperate, but the question is really underspecified.
+- Confused by Free Will: Somewhat. It exists, but not sure how. But doesn't really bother me.
+- Torture vs. Dust Specks: Specks, duh.
+- Schrödinger equation: I think I did that once, but no.
+- Primary language: English.
+- Number of fluent languages: Speak? 2 1/2. Read? 5-ish. I put down 2.
+- Newcomb: One-box.
+- Annual income: About 4000 dollars. Just a minor student job to pay for some shit.
+- Entrepreneur: Not interested right now.
+- Anonymity: Anonymity is important, privacy isn't. Put down "finding my real name wouldn't bother me".
+- P(I will go into space): I thought they called this thing here Spaceship Earth? I don't see the difference. Thus, 100%.
+- Previous surveys: Yes. (No.)
+- Political compass: -1.0, -0.5 (see [previous log][One Church To Bind Them])
+- Big Five: 93% Open, 21% Conscientious, 27% Extroversion, 44% Agreeable, 43% Neurotic. Noisy estimate. (Somewhat less open, more conscientious, more neurotic.)
+- Myers-Briggs: Want to know my astrological sign too? *Fine*, INFP, with T/F and P/J ambivalent enough that merely being a bit drunk can push me to the other side.
+- Autism score: 23 (25-45, varied a lot)
+- How would you describe Less Wrong in 140 characters or less?: I like "Pretend there is a website of trans-accountants who have never had an accounting job nor had any education in accounting.", which I read on RationalWiki, I think. I also like Will's "Lesswrong is to meta as Israel was to God", with the addition that I roughly share Marcion's view of the Jews. I put down "repeating logical positivism as farce"[^farce].
+
+[^farce]:
+    Or as Philosophy Bro said so beautifully:
+
+    > We invented, embraced, refuted, and abandoned logical positivism before you were a thing. YOU'RE INVITING US LATE TO OUR OWN SHITTY PARTY.
+
 <% end %>
 
 ---
 
-[Verbal overshadowing][LW verbal]\:
-
-> People who were asked to describe a face after seeing it are worse at recognizing the same face later.
->
-> People who are asked to describe a wine after drinking it are worse at recognizing the same wine later.
->
-> People who are asked to give reasons for their preferences among a collection of jellies are worse at identifying their own preferences among those jellies.
-
-More universally, it seems to me that this is a general pattern of a language about X *eating* that X and so replacing it in the Darwinian environment that is a human brain. (Privileged access to the Amygdala or GTFO. Also note that this kind of process is, if I'm not mistaken, the standard account in Behaviorism for depression and other mood disorders.)
-
-Nature abhors the object-level.
-
-Regardless, I noticed that for me personally, music is no longer something that *influences* my emotional state, but has in fact *become* my emotional state. In thinking about them, I even find it hard to conceptualize emotions as something non-musical. At first, I was a bit worried about this, wondering if being essentially devoid of emotions if I don't have access to music is a bad thing, and if this constitutes a hostile takeover that I ought to fight.
-
-But then I realized that this gives me great *control* over my emotional state. If music encodes and binds my emotions, then I can feel *however* I want, *whenever* I want. Effectively controlling my auditory environment is fairly easy (I even carry ear plugs everywhere I go), and I don't expect to spend much time in the presence of real adversaries, like marketing firms, so going all the way and making music my official language and complete layer for emotion seems like a big win.
-
-The next logical step, then, is to actually learn how to manipulate music.
+<%= youtube("https://www.youtube.com/watch?v=znIXyFh6dsI") %>

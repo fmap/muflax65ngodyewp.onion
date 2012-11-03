@@ -165,6 +165,7 @@
 [Grumpy Cat]: http://tardthegrumpycat.tumblr.com/
 [Easy Voice Recorder]: https://play.google.com/store/apps/details?id=com.andrwq.recorder
 [Crowley Soldier]: http://hermetic.com/crowley/equinox/i/i/eqi01012.html
+[tonometric]: http://tonometric.com/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -221,8 +222,8 @@
 [LW quantum retro]: http://www.webcitation.org/6BONA5ODJ
 [LW dndis]: http://www.webcitation.org/6BOYNWC4L
 [LW anthropic evidence]: http://www.webcitation.org/6BON5TkdA
-[LW verbal]: http://lesswrong.com/lw/dl/verbal_overshadowing_and_the_art_of_rationality/
-
+[LW verbal]: http://www.webcitation.org/6BuQl0lm3
+[LW survey 2012]: http://www.webcitation.org/6BuQm6Q98
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
 [Hanson exist]: http://www.overcomingbias.com/2012/04/morality-should-exist.html
