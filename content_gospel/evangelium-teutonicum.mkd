@@ -1,9 +1,8 @@
 ---
 title: Evangelium Teutonicum
 date: 2012-03-01
-tags: []
 techne: :wip
-episteme: :fiction
+episteme: :inspired
 ---
 
 Thus have I heard.
@@ -24,9 +23,9 @@ The next day, the monk asked the prophet, "Who *are* you? How have you learned t
 
 "This was a long time ago, when [Queen Alexandra](http://en.wikipedia.org/wiki/Salome_Alexandra) reigned in the Holy Land. I had been a soldier in the armies of many Germanic tribes, but eventually, we were defeated and I was sold into slavery. They brought me south, to the city of Rome, but after some years of servitude, I was sold again to a man in Jerusalem. The gods favored me, and so a terrible storm destroyed the boat we were traveling on. I survived, but was stranded in the desert. 
 
-I wandered around for days until, finally, I met a Jewish ascetic. He carried very little food, but was willing to share it with me. We traveled for a long time and became good friends. I helped protect him from bandits and stray dogs, and he taught me his language and the law of his people. He died in the desert, where I buried him. 
+I wandered around for days until, finally, I met a Jewish ascetic. He carried very little food, but was willing to share it with me. We traveled for a long time and became good friends. I helped protect him from bandits and stray dogs, and he taught me his language and the law of his people. He died in the desert, where I buried him.
 
-I was near the Sea of the Galilee at the time, and the people had heard about the strange man who knew their tongue, so one day I was approached by a group of Jews. They were very distressed and told me they needed my help. You see, a friend of theirs had been making sacrifices to [Helios](http://en.wikipedia.org/wiki/Helios), probably so as to become a priest of the god, and there had been a terrible accident. They brought me to his house, but refused to get inside because there was blood everywhere, and touching it would render them unclean. Their friend, who was later called Yeshu, had tried to sacrifice a goat, but the animal survived his attempt to slaughter it and attacked him. He was knocked out in the ensuing panic and the Jews feared the goat would destroy much of the valuable scripture in Yeshu's house. 
+I was near the Sea of Galilee at the time, and the people had heard about the strange man who knew their tongue, so one day I was approached by a group of Jews. They were very distressed and told me they needed my help. You see, a friend of theirs had been making sacrifices to [Helios](http://en.wikipedia.org/wiki/Helios), probably so as to become a priest of the god, and there had been a terrible accident. They brought me to his house, but refused to get inside because there was blood everywhere, and touching it would render them unclean. Their friend, who was later called Yeshu, had tried to sacrifice a goat, but the animal survived his attempt to slaughter it and attacked him. He was knocked out in the ensuing panic and the Jews feared the goat would destroy much of the valuable scripture in Yeshu's house. 
 
 Thus, I was sent in to clean up the mess, and so I did. The Jews thanked me greatly, but more importantly, I had come to Yeshu's attention. Once he learned that I was a true gentile who knew their language, he realized I was the missing piece in a plan he had been working on for years.
 
@@ -48,7 +47,7 @@ When I read the name, it took on a life of its own. The letters spoke themselves
 
 - meeting with John the Baptist
 
- - mission as descent into hell
+- mission as descent into hell
 
 - meeting with Kerghan in hell
 

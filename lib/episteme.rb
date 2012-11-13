@@ -25,6 +25,8 @@ def episteme_title status
     "Quake 3"
   when :death
     "fight to the death"
+  when :inspired
+    "divinely inspired"
   else
     status.to_s
   end

@@ -1,13 +1,13 @@
 ---
 title: Sayings
-date: 2012-06-17
+date: 2012-11-12
 techne: :done
-episteme: :believed
+episteme: :inspired
 ---
 
 Thus have I heard. 
 
-1. The Savior said, nothing lasts.[^anicca] If you watch closely, things keep on wobbling away, even really sticky ones.
+1. The Savior said, nothing lasts.[^anicca] If you watch closely, things keep on wobbling away, even really sticky things.
 
 2. The Savior said, don't identify with things. Those that think they are things, become things.[^anatta]
 
