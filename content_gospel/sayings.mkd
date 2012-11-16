@@ -1,6 +1,6 @@
 ---
 title: Sayings
-date: 2012-11-12
+date: 2012-06-17
 techne: :done
 episteme: :inspired
 ---
