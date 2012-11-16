@@ -1,5 +1,5 @@
 ---
-title: CleverTitles[TitleNum++];
+title: CleverTitles.take(1)
 date: 2012-11-15
 techne: :wip
 episteme: :log
