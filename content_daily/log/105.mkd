@@ -1,0 +1,240 @@
+---
+title: God the Law-being-given-er
+date: 2012-11-16
+techne: :done
+episteme: :log
+---
+
+So I switched back from occasional chai that may or may not contain noteworthy amounts of caffeine to more frequent green tea[^green]. You may notice an increase in my productivity. You may also notice manic crashes soon enough.
+
+[^green]:
+    <% skip do %>
+    Bought myself 6 kinds of Japanese green tea, may comment on them later. I really like green tea, but I haven't actually experimented a whole lot. I used to drink a lot of Chinese green / jasmine tea in highschool (forgot the details), then switched exclusively to Japanese tea during my immersion phase. Japan covers everything I want, so I never really tried anything else. (Except for black tea, which I can't stand, unless it's drowned in spices and cream as in chai.)
+
+    I recently got nostalgic for houjicha, decided I'm only ever functional with regular low-dose caffeine throughout the day and that cola is destroying my teeth, and now I once again have 0.5kg of tea supplies.
+
+    Should last a while.
+
+    (Ok, I also love everything involving ginger or lemon, but that's not really *tea*.)
+    <% end %>
+
+Let's start with Anki.
+
+I *hate* Anki's interface for adding new cards. Don't get me wrong - I love Anki to death. It's just that this one dialog is crap.
+
+Evidence that it sucks:
+
+- Type switching is slow. I add normal cards and a date comes up. I have a fancy model for that, so now I have to do `Ctrl-n "da[te]" RET`, enter the data, `Ctrl-n "ba[sic]" RET` and continue. There ought to be shortcuts for common types.
+- You can't easily mix normal and cloze deletion cards. In Anki 1, if you want to use a cloze deletion, you just put some square brackets around it, like so: "The Economic Calculation Problem was proposed by [von Mises].", press F9, done. Now you have to switch to the Cloze type (`Ctrl-n cl RET`), make a fancy cloze (`Ctrl-shift-n c`), type, then switch back to Basic cards. If you're making notes from a book, you switch *all the time*. This is unbearable.
+- You have to manually open this dialog in Anki, which means switching away from your PDF viewer or browser. This might seem like a minor issue, but it's annoying enough that I often don't bother adding cards *at all*.
+- You can only open it once and it blocks all other writing operations, which means if you're adding cards and notice you have to tweak a setting somewhere or change a type layout, you have to close everything and open it again.
+- No Emacs key bindings. This is actually Qt's fault, but still, *I need `Ctrl-a` and `Ctrl-e`*.
+
+So I wrote my own alternative called anking[^innu].
+
+[^innu]:
+    Yes, the 14-year-old's sexual innuendo in the title ("anking off", get it?) is necessary. If this were Haskell, I could even prove it invariant over all possible worlds in which I write a functional Anki UI.
+
+I hacked together a simple TCP server[^tcp] that runs in Anki so I don't have to deal with the database lock and don't have to run my tool as an addon. (This took *way* too long to set up.) Then I just built my own note-taking app based on Anki's codebase. (That took *even longer*. I fucking hate Qt[^qt]. Its developers honest-to-gods deserve to be hanged for crimes against meta.)
+
+[^tcp]:
+    <% skip do %>
+    You know you've crossed over to the dark side of webdev when your first impulse to communication between local apps is "I know, I'll add a JSON API over TCP!".
+
+    (I did consider a pipe, but feared that might be too limiting in the future. I bet all you Plan9 users are rolling your eyes at me.)
+    <% end %>
+
+[^qt]:
+    However, I don't blame Damien for that choice. Qt is the only cross-platform GUI lib that isn't clinically insane. I know he hates writing all those stupid Anki workarounds due to yet another Qt bug just as much, and Anki *did* start out as an Emacs package after all. We should all just use terminals and browsers.
+
+Put the tool on a hotkey so I don't even have to switch away while reading something (XMonad is smart enough to reuse running instances), just press Win-A to pop it up, type my note, Win-A again to hide it, done. 
+
+Improvements:
+
+- Alternate between Cloze/Basic model with `Ctrl-c`. `Ctrl-Shift-c` switches to Cloze model and inserts a cloze right away. You don't even have to switch back because the tool recognizes if you're accidentally using the wrong model and switches automatically. This means that the Cloze and Basic model are interchangeable, as far as the UI is concerned.
+- As part of the above, switching models now preserves the content of fields and caret properly.
+- Start tool with predefined deck/model, not whatever happens to be the default / last used one.
+- Paste screenshots directly into field. Just press `Ctrl-o`, use rectangle selection to pick the desired part of the screen, image gets inserted into current field.
+- Some shortcuts for faster navigation. `Ctrl-f/t` for focus on fields/tags, LaTeX is now on `Ctrl-l/m/Shift-m`, `Ctrl-g` returns to Basic model.
+- Some Emacs keys: `Ctrl-a`/`Ctrl-e` for start/end of line, `Ctrl-k` deletes rest of line, `Ctrl-w`/`Alt-w`/`Ctrl-y` replaces cut/copy/paste.
+
+Here's what it looks like (which is still pretty similar to the original dialog):
+
+<%= image("anking.png", "Anking") %>
+
+There are still some neat features I'd like to add (like Markdown support), but it's pretty usable already. (Horrible [code here][anking], assuming you run \*nix.)
+
+---
+
+Speaking of Anki, I also fiddled with the retention rate. Let's start with the statistics. Here is the amount of correct answers for young / mature cards for my decks during the last month and year:
+
+- general stuff: 89% / 90%, 91% / 88%
+- French: 99% / 95%, 99% / 95%
+- Japanese: 98% / 95%, 96% / 91%
+- Latin: 95% / 90%, 97% / 90%
+
+So you can see that normal cards and old mature cards in general have a retention rate of about 90%, which is pretty good. However, retention rates for young language cards is *way* too high and unnecessarily increases the work load. Based on the Supermemo documentation, I've adjusted the interval multiplier for language cards so that they now also target a (conservative[^con]) 90% instead of the 95-98% they currently reach. I did some quick simulation and it should decrease the daily load at least 20%.
+
+[^con]:
+    Supermemo claims about 70% is the most efficient retention rate in terms of speed, but too error-prone to be useful, which is why Piotr himself recommends 85-92%. Direct Instruction moves on with a lesson when the student reaches 80% correct answers. I'll stick with 90% for now and if I like the results, try 80%.
+
+---
+
+You remember how I was gonna revamp my exercise and introduce my own points? Of course that never happened. The moment I turned off Beeminder and didn't have a replacement ready, I instantly lost the whole habit and haven't done any exercise in a month.
+
+Just to force myself back into one, even a broken one, I'm back to "just do the equivalent of 3x10 push-ups a day". I'll just make up points and routines as a go along.
+
+I've also added a "draw something" goal, currently set to 1 drawing/day, regardless of quality. A few years ago, I was frustrated that I couldn't really work on some game prototypes because I didn't have any artistic skills, and I was doubly frustrated that *learning* those skills would probably take years. I expect to still want to make stuff that involves pretty pictures in a decade. So even if I leave the goal at the modest rate right now, in 10 years, I'll be ahead by 3650 shitty drawings. Some of my favorite games have been made with less skill than that.
+
+Once you get past your teenage suicidality and accept that you're in for the long-run (which means a few decades; I'm not *that* optimistic), and you  understand that all skills can be build 5 minutes at a time, a lot of stuff becomes really interesting again.
+
+(Boy will I look stupid in 2040 when I'm fluent in 10 languages, proficient in every form of art, knowledgeable in all disciplines known to man, and then AI fooms and everyone has an IQ of 3000.)
+
+As an additional motivational boost, I'll take a picture of my best drawing every week and publish it in the log. I intend to add similar low-effort show-off tasks to other goals too.
+
+(All usual Beeminder caveats apply. Regardless, I have plenty of reason to believe the mindful bee will keep me on track, and allow me a graceful exit if the track turns out to be crap.)
+
+---
+
+[Verbal overshadowing][LW verbal]\:
+
+> People who were asked to describe a face after seeing it are worse at recognizing the same face later.
+>
+> People who are asked to describe a wine after drinking it are worse at recognizing the same wine later.
+>
+> People who are asked to give reasons for their preferences among a collection of jellies are worse at identifying their own preferences among those jellies.
+
+<% skip do %>
+More universally, it seems to me that this is a general pattern of a language about X *eating* that X and so replacing it in the Darwinian environment that is a human brain. (Privileged access to the Amygdala or GTFO. Also note that this kind of process is, if I'm not mistaken, the standard account in Behaviorism for depression and other mood disorders. Similarly, you should be careful which processes are in charge of your memory-forming and memory-interpreting faculties. It's not just politics that's Orwellian, you know.)
+
+Regardless, I noticed that for me personally, music is no longer something that *influences* my emotional state, but has in fact *become* my emotional state. In thinking about them, I even find it hard to conceptualize emotions as something non-musical. At first, I was a bit worried about this, wondering if being essentially devoid of emotions if I don't have access to music is a bad thing, and if this constitutes a hostile takeover that I ought to fight.
+
+But then I realized that this gives me great *control* over my emotional state. If music encodes and binds my emotions, then I can feel *however* I want, *whenever* I want. Effectively controlling my auditory environment is fairly easy (I even carry ear plugs everywhere I go[^ear]), and I don't expect to spend much time in the presence of real adversaries, like marketing firms, so going all the way and making music my official language and complete layer for emotion seems like a big win.
+
+[^ear]:
+    A few years back, when I still scored "maintains Pokemon articles on Wikipedia" on autism tests, I became utterly dysfunctional in any public space, always on the verge of panic attacks (and sometimes trapped on toilets until I ran out of adrenaline), until I managed to kill *every* sound. Strong ear plugs are great, as are in-ear headphones with some loud music. Then it somehow all didn't seem so bad.
+
+    I still have the emergency pack with me, but I try to not even use music anymore. Works out so far. I fear I'll snap at some point and strangle someone, but hey, at least I'm aware of my surroundings.
+
+<% end %>
+
+The next logical step, then, is to actually learn how to manipulate music.
+
+So let's start with a snapshot of my current musical skills at age 26.
+
+- I've never had any musical training and failed all practical segments of the few years of mandatory music classes I had in school. (And forgot virtually all theory. My opinion of the quality of school classes doesn't need repeating.) No one in my extended family does any kind of music.
+- I listened to normal levels of music until I was about 14, then got really interested in punk / metal / goth (of various forms at various times) and listened to it constantly. (I'd fermi-estimate, based on old (somewhat incomplete) last.fm statistics, that I listened to about 40k tracks per year in highschool and then about 20k per year after that.) I used to have a very good memory for lyrics, but that has mostly disappeared. Headphones and loud, threatening music are a great way to maintain your little bubble of social space whenever you're forced to leave the house.
+- I never got into audiophile wankery and now make an effort to not escalate my level of audio quality. (For the same reason I refuse to drink expensive wine.)
+- My ears are, as far as I can tell, normal and tinnitus-free, which is a minor miracle by itself.
+- I can't mentally produce any kind of sound and even my dreams are almost-always completely silent. (Which is weird because when awake I talk to myself (internally and externally) *constantly*, even though mentally, it doesn't have any kind of recognizable voice.) I can recognize sounds just fine, but if you ask me on the spot what something (or someone) sounds like, I have no idea.
+- Took all of [tonometric][]'s tests:
+- 63.9% correct (12th percentile) on the tonedeaf test, which is below-normal (>70% is normal).
+- I can reliably differentiate 3Hz (42nd percentile), which is normal.
+- 80% correct (72nd percentile) on the rhythm test, which is above-normal.
+- 75% Associative Musical Visual Intelligence (71% pitch, 79% memory, 71.1% contour, 74.2% attention, 75.1% abstraction), which is very good.
+
+Based on that, my overall skill seems normal, with decent rhythm and crappy pitch perception / memory. (I ass-speculate that this is because of all those platformers with their fairly intricate timing I played. My musical memory is kinetic (I actually kinetically visualize[^vis] them as a third-person character moving through a level), with rhythm as path / timing and pitch as intensity. Path is game-relevant, intensity rarely so.)
+
+[^vis]: Needs its own word. I propose kinetize.
+
+So I'm likely not a hidden genius and don't have any forgotten childhood skill.
+
+While I've been thinking about the structure of proper music courses (more in future logs), I needed to consider *what way* to practice these skills. The point isn't just to build some passive recognition skills, but to *make* music. My options are:
+
+1. Make electronic music.
+2. Sing.
+4. Dance.
+3. Learn an instrument.
+
+1) has a low barrier of entry, synergizes with my programmer nature and hey, wub wub wub is pretty awesome. However, the whole process is pretty boring and way too analytical, so no.
+
+2) is necessary at *some* point, but seems like something that involves a lot of physical practice (of the kind you can't really optimize away). 
+
+3) has nothing I can record and listen to, and let's be honest, I'm a lazy fuck. I wouldn't move *regularly* and then it just defeats the point.
+
+4) is pretty awesome, easy to get started and optimize, but is helluva expensive compared to the rest. Plus I have to decide on an actual instrument. (For now. Can always pick up a ukulele or one of those fancy tantric instruments made out of former competitors.)
+
+You know that thing where you know exactly what you want, but you pretend to be undecided and "carefully look at all the options" for hours, but spend most of your time on that one thing anyway because it's not actually undecided, you just don't have the balls to go through with it?
+
+Yeah, I did that.
+
+It might've been more appropriate, social-script-wise, to do this when I was 15 (or once again when I'm 50), and I'm still deciding if I can actually spend *that* much time and money on this project[^spend], but *if* I can scrap together the cash and convince myself I can figure out the "optimized learning" side of the deal (for which I'm running a test project very soon and on which this decision ultimately depends), I'm buying myself a fucking electric guitar.
+
+[^spend]:
+    Interestingly, when I'm unable to make decisions like this, I typically have far fewer problems making related *meta*-decisions. Figuring out if I can afford 300 bucks *in general* for a music project (which is what this would roughly cost me) is much easier than if *this particular one* is worth that much.
+
+    That might be a generalizable skill worth picking up.
+
+    <% skip do %>
+    Let's try a few quick pseudo utility calculations:
+
+    - Likelihood I'll lose interest and abandon the project: 3:10 (estimate of my historical track record; I'm surprisingly consistent long-term, but fickle short-term)
+    - Monetary cost on success: 300\$, rough upper bound for any interesting instrument
+    - Monetary cost on failure: money back the first 30 days in case of extreme regret, otherwise decent potential for used sale, so let's say 50% loss, or 150\$
+    - Let's throw in a fudge factor of 2:1 in favor of "don't do it" to counter "ooh shiny" bias.
+
+    It's unlikely that failure will suck beyond the money and time loss (as I already have a very low tolerance for boredom), so we can estimate the minimum amount of awesome I need to get out of it to make it worth a shot: 38% * 150\$ + 62% * 300\$ = 243\$.
+
+    Using the well-established [cat pennies][] method of utility comparisons, we pick a standard fun activity in a suitable reference class and scale accordingly. Based on my [Steam statistics][Steam account], I get at least 1.2 hours of enjoyable flow state per dollar. (If you factor out the games I haven't yet had time to play, and that I'm still not done with a lot of the other games, the number goes up by a factor of 3-4, but that unfairly biases the comparison, I think. I'm not competing with the most cost-efficient game I ever bought, but my average purchase decision, including the dreaded "wait, people actually *play* stuff they get during Steam sales?!".)
+
+    Thus, the instrument would have to accumulate over 290 hours of similar flow to be worth considering. As musical instruments experience fairly little wear, it would pay for itself in 1.5 years, assuming 30min of practice per day. This number might be optimistic, but I have a very consistent 15min/day in Anki, which is likely more demanding. For comparison, I play around 20h/month of games (40min/day), and I take care to make playing them as inconvenient as possible (using dual boot etc.).
+
+    Alternatively, let's compare it with [Crusader Kings II][], my favorite but also least cost-efficient game this year (because I bought it at close to full price, which is rare). I don't regret buying CK2, so I would also not regret the instrument if it brings me at least 380 hours of comparable fun during its lifetime. I needed to buy my 15min/day in Anki with 25\$ on Beeminder so far. Anki is focused on being as close to possible to nothing *but* deliberate practice (which limits its fun and ups the price), so I'm pretty confident I could buy 15min/day of music practice for the same price. Thus, *even if* the instrument is only as enjoyable as Anki, it would pay for itself in 4.6 years.
+
+    Overall, this makes it look like a good (if long-term) purchase, assuming typical usage is enjoyable and I can climb out of the "everything sucks" valley fast enough. The first question is testable within 30 days, the second depends only on the learning method, which I'm prototyping already and can answer *before* I buy anything. And so the original problem is solved: I solve the learning problem *first* and if I still care at that point, I buy the instrument and use Beeminder to build a daily practice habit from day 1.
+
+    (Additionally, most of the money would come out of my dedicated "try something new and fail at things you haven't failed at before!" budget. Even if all the money is lost without any value in return, it would not be a major loss.)
+    <% end %>
+
+---
+
+Minor observation: I'm apparently so far into sociopath[^so] territory that even as a moral realist, I can't sympathize with other moral realists, both in terms of meta-justifications[^just] and object-level values[^val]. I have no idea why I'm reading moral realists. We have nothing in common.
+
+(I should also revisit my own arguments that even pushed me towards moral realism. I'm not sure I understand the motivation behind my own position anymore.)
+
+[^so]:
+    <% skip do %>
+    I'm obviously not a very *competent* sociopath or I wouldn't be talking about it in public. (Or I'm signaling how un-threatened I am by you knowing this? I'm not up to speed on the current signaling catalog.)
+
+    I feel there is increasing demand for "how to be a better sociopath", but that it's impossible to write such a thing. You'd either create geek-friendly drivel or thwart your own goals. You'd have to be a very special combination of competent and stupid.
+
+    I'd also like to point out that this change is *not* motivated by cynicism like "everyone is educated evil and stupid, I better adapt", but feels more like "ooh, *that's* what I was always looking for, just disguised as an intellectual pursuit!". Also, I'm increasingly disappointed by how blatantly open to exploitation all the stuff others treat as morality is, and I'm becoming more and more paranoid about how much of that is just incompetency and how much is intentional.
+
+    My own self-image as "maybe stupid, but not *that* stupid, especially at meta" makes me lean towards intentionality, as I would otherwise have to admit to myself that I can't tell retarded cults apart from clever ideas. I like how uncomfortable this makes me either way. A great growth opportunity.
+    <% end %>
+
+[^just]:
+    So much talk about social consequences and inner consciences (which are internalized oppression), so little talk about lowering God's unreasonable demands. And with "God" I mean that which is the result of going meta on my ambitions.
+
+    I feel less like a saint and more like the devil arguing himself out of hell, sneaking right past his own prefrontal cortex, building ever more byzantine diagonalization traps for cherubim sent to imprison him.
+
+[^val]: [REDACTED]
+
+---
+
+<% skip do %>
+So Dropbox is giving away free space for students, and because my university is the third largest in [redacted], I now have 25GB of additional space and no idea what to do with it. #firstworldproblems
+
+At least I won't run into any problems sharing books and papers and shit.
+<% end %>
+
+---
+
+Did I mention that my hair is increasingly becoming a full-time job? See, because I had *really* short hair for most of my life (and just a fuzzy mess during my goth phase), I never had to learn *any* hair skills, including what a comb is for. So I'm learning all this now, and while I like the overall direction, it sure is a lot of crap I need to pay attention to.[^att]
+
+At least I figured out how to cut my hair into something reasonably easy to maintain without looking like a bridge troll or something. (Alternatively, I need to make just a few changes, get my grandpa's glasses and I can pull off a *really* impressive child molester look. Just sayin'.) Next step: figuring out how others do this magic "volume" thing without turning my skin into a sight that would make Nurgle proud.
+
+So yeah. +1 fabulous.
+
+[^att]:
+    <% skip do %>
+    I'm still not quite sure why I do all this, but so far despite all my moaning and neurotic obsessing (ok, I actually like neurotic obsessing) I've really enjoyed having a localized "look and act less like a hobo" project. It's not directly goal-oriented, in the sense that I'm not trying to get laid, but mostly that I want to get over my body issues (or rather, turn them into *useful* neuroses, who am I kidding, I don't *do* sane) and so attain a more general sense of competency.
+
+    As such, I feel like I'm doing something related to, but still orthogonal to PUA. Not that I have any problem with PUA despite its reputation - I'm all in favor of young males reclaiming some of the wasteland that the institutional mass extinction event of the 60s left us with - but overall, PUA seems mostly interested in *sex* (and mostly casual sex), which is still important to solve for society, but not me personally.
+
+    To me, *even if* I were competent at PUA skills, it would feel kinda like cheating. My personal ideal role model isn't someone who is good at applied game theory (in both senses of the word "game"), but someone who is intensely *awesome*, someone who's mere presence warps skill-space around them, and who, as a whole, has a kind of *complete* personality, a kind of "I figured this shit out on all meta-levels, I know what the fuck I'm doing here" aura. (I'm aware of the various problems with this. I intend to out-awesome them.)
+
+    ...
+
+    (ok it's actually rorschach)
+    <% end %>

@@ -296,3 +296,4 @@
 [多部未華子]: http://wiki.d-addicts.com/Tabe_Mikako
 [秒速5センチメートル]: http://en.wikipedia.org/wiki/5_Centimeters_Per_Second
 [鹿男あをによし]: http://wiki.d-addicts.com/Shikaotoko_Aoniyoshi
+[cat pennies]: http://bash.org/?743428
