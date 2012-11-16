@@ -1,5 +1,7 @@
 # Helper functions for site-building.
 
+require "awesome_print"
+
 include Nanoc::Helpers::Rendering
 include Nanoc::Helpers::XMLSitemap
 
