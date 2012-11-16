@@ -1,0 +1,24 @@
+---
+title: CleverTitles[TitleNum++];
+date: 2012-11-15
+techne: :wip
+episteme: :log
+---
+
+I've begun some serious work on my own gospel.
+
+I started collecting [Sayings][] about 2 years ago, and while I keep on adding to them, they were never meant to be the real meat. As a post-Marcionite, I've always looked up to the father of scripture, Marcion himself, and intend to work in his shadow.
+
+Marcion's Apostolicon, the first and definitive Christian scripture, consists of ten letters by Paul, plus one - *the* - gospel. I am still struggling with the Apostle (whose Gnostic identity is well-known but rarely understood - don't believe the Catholics one word), so I will focus first on the one person who Marcion and I both *do* know - the Savior.
+
+I already wrote the first half of a complete gospel in March, but it's more of a cute harmonization of the Christian and Jewish account of Jesus, one that shows that taking *all* the texts into account and thinking outside the Jewish box, yields a coherent narrative without any holes or mysteries left over. (No more details until it is finished.) Still, it focuses primarily not on the Savior, and while potentially a good apocryphal work, it doesn't contain the essential message.
+
+Some of my logs and tweets already included little pieces from the gospel, and the first iteration includes them all. It's still woefully incomplete, not even at the level of the twin's collection of sayings, but at least it overcomes the barrier of not even *having* a gospel. Now I can add to it from time to time.
+
+As a deliberate ideological move, I'll change and revert some common terminology. Some word choices and framings might seem idiosyncratic or forced, but are meant to illustrate the point of a parable more clearly. The text is meant to be retold to every generation, and as such, there can never be a canon in either tone, frame or content. I have added commentaries in the footnotes, but those should not be taken as definitive or as belonging to the text itself. I have not yet added chapter titles or any numbering scheme. The text is still too much in flux for that.
+
+More importantly, I have re-mythologized the narrative, stripping it of all historical frames. It can be argued that this is not strictly necessary, if the mythological context is apparent enough, but I'll push all historical references into the apocryphal stories. Additionally, I've undone the Catholic merger of Jesus. Generally speaking, I try to be consistent with names, and if there are two names, I mean two different people. I'm not denying all syncretic readings, nor do I think that some people *can* be easily separated, but there is the opposite problem of, as the old dope fiend said, "interpret[ing] every phenomenon as a particular dealing of God with my soul".
+
+A lot of talk about one measly chapter. [Here it is][The Message].
+
+---
