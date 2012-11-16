@@ -71,6 +71,10 @@ def rss_feed_merged
   @site.site_yaml["sites"].keys.each do |name|
     feed = RSS::Parser.parse(File.open("out/#{name}/rss.xml"))
     date = [feed.channel.date, date].max
+    feed.items.each do |item|
+      # fix absolute links to other sites
+      item.description.gsub! /(?<tag> (src|href) = ["'] ) (?<url> \/ \w+)/x, "\\k<tag>#{site_url(name)}\\k<url>"
+    end
     items.concat feed.items
   end
 
