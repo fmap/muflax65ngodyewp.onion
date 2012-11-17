@@ -82,7 +82,7 @@ So you can see that normal cards and old mature cards in general have a retentio
 
 You remember how I was gonna revamp my exercise and introduce my own points? Of course that never happened. The moment I turned off Beeminder and didn't have a replacement ready, I instantly lost the whole habit and haven't done any exercise in a month.
 
-Just to force myself back into one, even a broken one, I'm back to "just do the equivalent of 3x10 push-ups a day". I'll just make up points and routines as a go along.
+Just to force myself back into one, even a broken one, I'm back to "just do the equivalent of 3x10 push-ups a day". I'll just make up points and routines as I go along.
 
 I've also added a "draw something" goal, currently set to 1 drawing/day, regardless of quality. A few years ago, I was frustrated that I couldn't really work on some game prototypes because I didn't have any artistic skills, and I was doubly frustrated that *learning* those skills would probably take years. I expect to still want to make stuff that involves pretty pictures in a decade. So even if I leave the goal at the modest rate right now, in 10 years, I'll be ahead by 3650 shitty drawings. Some of my favorite games have been made with less skill than that.
 
