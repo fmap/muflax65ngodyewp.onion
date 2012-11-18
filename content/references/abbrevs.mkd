@@ -1,21 +1,33 @@
 <!-- abbreviations -->
 *[AGI]: Artificial General Intelligence (aka Strong AI)
 *[AI]: Artificial Intelligence
+*[AJATT]: All Japanese All The Time
+*[ActUtil]: Act Utilitarianism
+*[AvgUtil]: Average Utilitarianism
+*[CEV]: Coherent Extrapolated Volition
+*[DI]: Direct Instruction
+*[DMT]: Dimethyltryptamine
+*[DXM]: Dextrometorphane
+*[FAI]: Friendly AI, i.e. with human-friendly goals
 *[GAI]: General Artificial Intelligence (aka Strong AI)
+*[HPMOR]: Harry Potter and the Methods of Rationality
+*[KC]: Kolmogorov Complexity
 *[LW]: LessWrong
+*[MCD]: Massive-Context Cloze Deletion
+*[MFW]: My Face When
+*[MT]: Michel Thomas
+*[MaxUtil]: Maximum Utilitarianism
+*[NT]: New Testament
 *[PCT]: Perceptual Control Theory
+*[PrefUtil]: Preference Utilitarianism
 *[RAW]: Robert Anton Wilson
+*[RMP]: Robert M. Price
+*[RuleUtil]: Rule Utilitarianism
 *[SIAI]: Singularity Institute for Artificial Intelligence
 *[SIA]: Self-Indication Assumption
 *[SRS]: Spaced Repetition Software (e.g. Anki)
 *[SSA]: Self-Sampling Assumption
-*[AvgUtil]: Average Utilitarianism
+*[ToI]: Theory of Instruction
 *[TotalUtil]: Total Utilitarianism
-*[MaxUtil]: Maximum Utilitarianism
-*[ActUtil]: Act Utilitarianism
-*[RuleUtil]: Rule Utilitarianism
-*[PrefUtil]: Preference Utilitarianism
-*[MFW]: My Face When
-*[RMP]: Robert M. Price
-*[FAI]: Friendly AI
-*[uFAI]: unFriendly AI
+*[WM]: Window Manager
+*[uFAI]: unFriendly AI, i.e. with human-unfriendly goals
