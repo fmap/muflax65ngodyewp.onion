@@ -166,6 +166,9 @@
 [Easy Voice Recorder]: https://play.google.com/store/apps/details?id=com.andrwq.recorder
 [Crowley Soldier]: http://hermetic.com/crowley/equinox/i/i/eqi01012.html
 [tonometric]: http://tonometric.com/
+[Da wissen Sie mehr als ich!]: http://juergen-becker-kabarettist.de/krempel/da-wissen-sie-mehr-als-ich-2
+[Epiphone Les Paul Studio Deluxe]: http://www.thomann.de/gb/epiphone_les_paul_studio_deluxe_aw.htm
+[Fender Mustang I]: http://www.fender.com/products/mustang/models.php/?prodNo=230001
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -248,6 +251,7 @@
 [Gwern URL]: http://www.gwern.net/Archiving%20URLs
 [Narrowing Circle]: http://www.gwern.net/Notes#the-narrowing-circle
 [Gwern anonymity]: http://www.gwern.net/Death%20Note%20Anonymity#mistake-2
+[gwern music]: http://www.gwern.net/Culture%20is%20not%20about%20Esthetics#musical-instruments-are-not-about-music
 
 <!-- Sister Y / antinatalists -->
 [Sister Asymmetry]: http://theviewfromhell.blogspot.com/2008/07/austrian-basement-and-beyond.html
@@ -295,6 +299,7 @@
 [Yvain social]: http://squid314.livejournal.com/322213.html
 [Yvain Worst]: http://squid314.livejournal.com/323694.html
 [Yvain Kol Nidre]: http://squid314.livejournal.com/331223.html
+[Yvain Constance]: http://squid314.livejournal.com/342047.html
 
 <!-- reddit -->
 [reddit lain]: http://www.reddit.com/r/AskReddit/comments/t0ynr/throwaway_time_whats_your_secret_that_could/c4inqul

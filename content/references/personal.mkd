@@ -51,3 +51,12 @@
 [gist anthropic]: https://gist.github.com/15d4d930aed8ee3a2fb1
 [Anki time search]: https://beta.ankiweb.net/shared/info/3262774902
 [Anking]: https://github.com/muflax/anking
+
+<!-- books on Dropbox -->
+[ToI book]: https://www.dropbox.com/s/tp8hk1iukiu4j1s/theory_of_instruction.pdf
+[DI research]: https://www.dropbox.com/s/hdu1gnu91bk2l8q/distar.pdf
+[DI war]: https://www.dropbox.com/s/9uakc7j5klnz2kn/War%20Against%20the%20Schools%27%20Academic%20Child%20Abuse.pdf
+[DI mill]: https://www.dropbox.com/s/x25m0ak7gk5h5fr/Could%20John%20Stuart%20Mill%20Have%20Saved%20Our%20Schools.pdf
+
+<!-- stuff I found elsewhere -->
+[becker mediafire]: http://www.mediafire.com/file/slbq1nx2y0ha2ua/konstanz.zip

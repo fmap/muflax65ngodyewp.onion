@@ -1,0 +1,66 @@
+---
+title: Boy or girl?!
+date: 2012-11-20
+techne: :wip
+episteme: :log
+---
+
+I've begun some serious work on my own gospel.
+
+I started collecting [Sayings][] about 2 years ago, and while I keep on adding to them, they were never meant to be the real meat. As a post-Marcionite, I've always looked up to the curator of scripture, Marcion himself, and work only in his shadow.
+
+While Marcion did not write the first scripture himself, he was the first to notice its corruption and hijacking by the growing Catholic church. He attempted to reconstruct what he thought was the real message before it was twisted to fit into Jewish scripture. Marcion's Apostolicon consists of ten letters by Paul, plus one - *the* - gospel, likely also written by the Tarsian. Since I first learned of Marcion's work, I instantly recognized myself as his direct intellectual descendant, working from a similar position and with the same goal and interpretation.
+
+I already wrote the first half of a complete gospel in March, but it's more of a cute harmonization of the Christian and Jewish account of Jesus, one that shows that taking *all* the texts into account and thinking outside the Jewish box, can yield a coherent narrative without any holes or mysteries left over. (No more details until it is finished.) Still, it focuses primarily not on the Savior, and while potentially a good apocryphal work, it doesn't contain the essential message or should be taken too seriously. Mistaking the allegorical framework for the content is precisely the mistake I want to exercize from the Catholic text.
+
+Initially I thought I could skip the Apostle for now while I was still struggling with his impact and focus first on the one person I thought I *did* know - the Savior. The more I read, however, the more I realized that those two cannot be disentangled and that the well-known Gnostic identity of the Apostle as Simon Magus must be taken into account, not just while reading Catholic letters that try to minimize his impact, but even in the gospel itself. There is no Savior apart from Simon.
+
+If one were to take a fictionalist approach to the scripture, that is to assume that, excluding maybe a few historical allusions here and there, they are works of *fiction*, and this is the approach that most atheist scholars take (and which, in turn, must make them mythicists, if they actually thought about it for a few minutes), then it follows that the origin scripture is forever lost to us. We may be able to reconstruct roughly back to Marcion's work around 130AD and no further. The evidence has simply been lost to time. One may speculate, as RMP and others frequently do, and all kinds of plausible explanations might be found, but closure is impossible.
+
+But if one were to take Marcion at his word - and I always, maybe irrationally, felt the same whenever I look at the text - that is an allegorical path to the Father, then one ought to be able to repair it. I do not know if this is in fact true - I am deeply ambiguous about it - but that need not stop us from doing it anyway!
+
+Marcion correctly observed that the existing Catholic scripture had been heavily judaized and that the message of the original text, whatever it may have been, is entirely incompatible with this Demiurge and his insane laws, and so scripture must be stripped of all Jewish content. Unfortunately, Marcion did not see that *Paul himself* is a judaized interpolation and must be equally reconstructed. This is no easy task.
+
+The Gospel of Mark is the most famous Marcionite (in fact, post-Marcionite, as it was likely written by his followers and he did not originally know it[^mark]) attempt to do just that, but in a very subversive way. It does not just present in allegorical form the meaning of the Apostle and Savior (who, as I said, can't be separated), but it uses the OT as raw material for it. This means, however, that we must not make the mistake of assuming Mark as anywhere close to the original text. It is a new allegory, meant for a very different audience.
+
+Like Marcion, we could try to stick to the Gospel of Luke, or rather the earlier forms still directly available to him then before Polycarp wrote our current version. But then we would, in a sense, make the same mistake as with Mark: the original text was already an allegory about Simon! If we just revert past Paul and reconstruct the Simonian narrative, we'd still deal with an allegorically obfuscated text!
+
+It is quite clear that there was a man who called himself Simon and who talked about the Father. The Simonians, postmodernists that they were, used his own life as an allegorical account of the path. They included unrelated aspects too - inside jokes and subtle trolls -, but we can ignore those. We need not chain ourselves further to the Samarian (or Tarsian or Nazarene); we can start anew.
+
+Some of my logs and tweets already included little pieces of this gospel and the first iteration was supposed to include them all. Yet whenever I attempted to weave them together, or even just to start with an existing gospel and rewrite it, it always felt impoverished and disjunct, compared to the beautiful mess in our NT. I cannot help but see the Trolly Spirit directly at work, preserving to this day just enough of this glorious discord to make all those layers and intricate battles apparent, and that any attempt to remove them is to sin against it.
+
+If anything, we must overcome Marcion, embrace the true Apostle and make the text even less clear! We must seek out obfuscation, contradict ourselves and add subtext upon subtext. When there are enough fingers attached to wise men and moons they're pointing to, maybe for once someone will look at the process that motivated the wise men in the first place. He who has ears, let him hear!
+
+And so I realized, I needed not a new proclamation of the message, but an entirely different work, one capable of reflecting the true author of confusion. I considered merging all traditions into one gospel, or using elaborate annotation (even footnotes to footnotes), but then I thought, ideally the text would be a dialog between all those strands, would give the Marcionite, the Simonian and the Gnostic their first fair hearing, and so we really need more gospels written from these perspectives, including the Devil's own version that they read down in Hell, but even that would not be sufficient, not even to replicate the delightful state of interwoven connections I see in the text, for nothing short of all of the tradition would be capable of representing the tradition.
+
+And yet, there is only a simple message, a mere pointer to an alien God.
+
+...what? No, it's not done or anything. This is a practice log. Come back in a decade!
+
+[^mark]:
+    <% skip do %>
+    To be specific, to the best of my (still very immature) knowledge, it went something like this:
+
+    People surrounding Simon Magus (not his real name; none of those are), who was simultaneously an influential mystic (think Crowley) and self-similar fractal of the Son, collected allegories, sayings and juicy stories about him. (You heard the one about the whore he rescued, right?) They were sympathetic to him, but it's not clear to me if they were followers or just people he hang out with. (Again, think Crowley.)
+
+    These stories eventually leaked, how I do not know, and became popular among Gnostics. Eventually, they were co-opted by the early form of the Catholic church, who also sought to appease various Jewish (and similar) groups and so re-wrote them through an OT lens. Letters were written and attributed to "Paul". It's unclear if Paul is a sanitized version of Simon entirely, or a real dude who who may have written prototypes of these letters and just absorbed / stole these ideas and later their narratives (and so takes on more of Simon over time).
+
+    Some of these narratives are collected into what is called Ur-Lukas, i.e. proto-Luke, a much shorter version of our Luke. Mostly it contains two parts: a collection of parables by Simon and primarily about the Father, later modified to be about Yahveh, and an allegory about Simon's life and mystical role in the form of the Passion narrative. (With several inside jokes and layers I won't go into here.) It is possible that they were originally explicitly about Simon/Paul instead of Jesus and that this was changed by the Catholics, or that they always used an additional layer of "the Savior" / "the Healer" (Jesus/Joshua) and it was clear to Simonians that this meant Simon. Regardless, all of this happened some time around 70-120 AD.
+
+    Around 120-130, Marcion joins the Church (or just becomes active) and decides to get serious. He studies the text, but likely due to contact with a Simonian source (possibly a close friend), he soon realizes the interpolation. He takes Ur-Lukas and restores much of the original meaning. Together with the most trustworthy 10 letters, he publishes the Apostolikon, the first Christian canon.
+
+    Shit hits the fan. Polycarp edits Marcion's gospel, restores all the Catholic interpolations and downplays Paul by contrasting him with Peter (who the Jews prefer anyway). He publishes his trollogy of Luke/Acts/Pastorals largely as we know it today. Later an unknown author uses these texts to write Matthew, mostly as an even more pro-Jewish side and to counter various anti-Catholic heresies and conspiracy theories. (For example, it explicitly rebukes the story in the Toledot Yeshu that Jesus body was stolen.) It's possible that Matthew predates Polycarp instead, but that does not significantly affect the outcome. They were probably written in parallel and went through several (internal and external) iterations anyway. (Polycarp definitely published a big new edition later in his life, and Luke/Acts to this day has two major source traditions, reflecting those two editions.)
+
+    At the same time, Marcionites publish their own counter-troll in the form of the proto-gospel of Mark. (Even the name is a pun on Marcion.) It accepts the OT framing, but subverts it deeply, pushing a Marcionite agenda. Soon an independent apocalypse is added, following the Bar Kokhba revolt, and something very close to our gospel of Mark is complete around 130-140. The troll is so subtle that to this day official canon has a pro-Marcionite gospel and most people don't notice. (Just as most don't notice that at least half the time, "Paul" sounds an awful lot like a Gnostic. Uuh... look behind you, a three-personed godhead!)
+
+    Lots of people "discover" new Pauline letters and other material, including gospels, poems and childhood narratives, some of which makes it into the canon. At least a decade or two later, a bunch of cranky Gnostics in a land far, far away violently throw text at each other until one of the most confusing and beautiful works in all history is created - the gospel of John. A lot later, Jewish scribes write Revelation as a fairly explicit allegory about various church conflicts and Nero, and every time a new faction gains power in the Catholic church, they slightly edit or select the texts in their favor.
+
+    Finally, non-Christian Jews, puzzled by this mess, collect their own version in what later becomes the Toledot Yeshu and general Jewish tradition, which is very fascinating because it uses a completely different historical narrative a whole century earlier and *it's the only version the Babylonian tradition ever knew*. Additionally, it has some very juicy alternative takes on the whole synoptic narrative. I like to imagine a Simonian or Marcionite insider "explained" all of this to some confused Jewish scribes, using every opportunity to troll Matthew and Catholic doctrine.
+
+    Thus, Jesus.
+
+    (For what it's worth, and I've only just barely skimmed the existing literature, but the development of the Buddhist canon looks pretty similar. A good case can be made, if you're sympathetic to the instrumental goals of the orthodox elites, to not ever let anyone actually, you know, *read* your scripture, especially not your own priests and monks. It never ends well, and soon you have to deal with those troublesome Gnostics and their troll forum accounts.)
+    <% end %>
+
+
+

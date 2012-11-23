@@ -297,3 +297,8 @@
 [秒速5センチメートル]: http://en.wikipedia.org/wiki/5_Centimeters_Per_Second
 [鹿男あをによし]: http://wiki.d-addicts.com/Shikaotoko_Aoniyoshi
 [cat pennies]: http://bash.org/?743428
+[Theory of Instruction]: http://www.adihome.org/store/books?page=shop.product_details&flypage=flypage.tpl&product_id=13&category_id=1
+[Eugen Drewermann]: https://en.wikipedia.org/wiki/Eugen_Drewermann
+[Philipp von Mala]: http://gutenberg.spiegel.de/buch/4865/3
+[Philipp of Mala]: http://www.online-literature.com/honore_de_balzac/1081/
+[Hedwig and the Angry Inch]: https://en.wikipedia.org/wiki/Hedwig_and_the_Angry_Inch_%28film%29

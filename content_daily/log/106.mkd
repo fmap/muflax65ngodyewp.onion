@@ -1,24 +1,122 @@
 ---
 title: CleverTitles.take(1)
-date: 2012-11-15
-techne: :wip
+date: 2012-11-22
+techne: :done
 episteme: :log
 ---
 
-I've begun some serious work on my own gospel.
+Some stuff about music. (Too busy for good stuff right now. But next log or so should be awesome.)
 
-I started collecting [Sayings][] about 2 years ago, and while I keep on adding to them, they were never meant to be the real meat. As a post-Marcionite, I've always looked up to the father of scripture, Marcion himself, and intend to work in his shadow.
+So merely *stating in public* (or in front of close friends, works either way) that I'm potentially interested in learning an instrument was enough social proof[^proof] to make the rest of me go, "whew, thank gods!, it's finally possible to think these thoughts without feeling vaguely guilty or embarrassed!". I'm sticking to my condition that I won't buy anything before I've successfully designed a decent prototype of a self-teaching course, just so I know I can do it and won't get stuck on day 1, but that's no reason to not already consider *what* to buy. In fact, I already made that decision and I'm just waiting to press the "capitalism, ho!" button.
 
-Marcion's Apostolicon, the first and definitive Christian scripture, consists of ten letters by Paul, plus one - *the* - gospel. I am still struggling with the Apostle (whose Gnostic identity is well-known but rarely understood - don't believe the Catholics one word), so I will focus first on the one person who Marcion and I both *do* know - the Savior.
+[^proof]:
+    <% skip do %>
+    There are other preferences and self-images that I've seen shift that way this year. Dunno if they are important yet, too early to tell. muflax is fickle.
+    <% end %>
 
-I already wrote the first half of a complete gospel in March, but it's more of a cute harmonization of the Christian and Jewish account of Jesus, one that shows that taking *all* the texts into account and thinking outside the Jewish box, yields a coherent narrative without any holes or mysteries left over. (No more details until it is finished.) Still, it focuses primarily not on the Savior, and while potentially a good apocryphal work, it doesn't contain the essential message.
+The obvious first thing to recognize, I think, is that most musicians (like most people in any field) are not just stark-raving mad, but worse, trapped in a really ferocious signaling game. Music quality, it seems to me, is like wine quality - the lowest tier is actually crap, the second tier is excellent, and everything past that is a complete waste of time. Even if there are quality improvements to be had, they are so tiny and inconsequential that they don't justify the price, which is often orders of magnitude higher than the rest.
 
-Some of my logs and tweets already included little pieces from the gospel, and the first iteration includes them all. It's still woefully incomplete, not even at the level of the twin's collection of sayings, but at least it overcomes the barrier of not even *having* a gospel. Now I can add to it from time to time.
+Fortunately, I'm not interested in using music to impress my peers (that's what Twitter is for), so I can ignore all that status crap, get the reasonably priced good stuff (subsidized by the clueless[^clue]) and just have fun instead, knowing that all popular difficulty and time estimates are vastly exaggerated (because music teachers don't teach (see above) and most music skill is irrelevant for making and enjoying music).
 
-As a deliberate ideological move, I'll change and revert some common terminology. Some word choices and framings might seem idiosyncratic or forced, but are meant to illustrate the point of a parable more clearly. The text is meant to be retold to every generation, and as such, there can never be a canon in either tone, frame or content. I have added commentaries in the footnotes, but those should not be taken as definitive or as belonging to the text itself. I have not yet added chapter titles or any numbering scheme. The text is still too much in flux for that.
+[^clue]:
+    <% skip do %>
+    The same thing happens with video games, of course. Fanboys buy expensive crap, the rest of us waits a year or two, or stays a tier behind, and gets solid games fully patched and modded at reasonable prices. Positional goods don't have to suck!
+    <% end %>
 
-More importantly, I have re-mythologized the narrative, stripping it of all historical frames. It can be argued that this is not strictly necessary, if the mythological context is apparent enough, but I'll push all historical references into the apocryphal stories. Additionally, I've undone the Catholic merger of Jesus. Generally speaking, I try to be consistent with names, and if there are two names, I mean two different people. I'm not denying all syncretic readings, nor do I think that some people *can* be easily separated, but there is the opposite problem of, as the old dope fiend said, "interpret[ing] every phenomenon as a particular dealing of God with my soul".
+Still, this incentive structure means you can't actually listen to professional musicians (or those who cosplay professional musicians) for the same reason you can't ask bureaucrats what a good level of government regulation is. So instead I read people who are always worth reading, regardless of discipline: hackers, poor[^poor] hobbyists and insight nerds. But before I get there, let's pick the instrument first.
 
-A lot of talk about one measly chapter. [Here it is][The Message].
+[^inde]:
+    <% skip do %>
+    This problem of perverse incentives is of course independent from whatever the actual right answer is. If your justifications are crap, being right counts for very little.
+    <% end %>
+
+[^poor]:
+    <% skip do %>
+    "Poor" isn't so much about "rich people suck" or anything, but simply the inherent constraint of having very limited resources. Without constraints there is no creativity. But I have to admit that this is also partially an ideological point for me: I *strongly* value democratization of art just for its own sake. Anything that lowers barriers of entry, degrades elitist standards and just gets people experimenting is a *huge* plus.
+    <% end %>
+    
+As [gwern has correctly observed][gwern music], instrument popularity is.. peculiar, and if I just follow the mainstream, I'll learn piano, hate every minute of it and maybe mildly impress someone at a dinner party one day. (I've never been at a dinner party. I think I'd hate myself otherwise.) So instead, I sampled a *lot* of possible instruments, compared pros and cons, and finally settled on the electric guitar, which is obviously extremely popular, but I think for good reasons besides "duh rock star!". Important criteria for me:
+
+- It should be fairly universal. Even though I intend to learn many instruments eventually, I expect to do most of my learning (mostly of theory and basic skills) on the first, so it should be compatible with many genres.
+- It should (also) work alone. Not many bazoon solos these days, nor do I have a bunch of amateur musicians in my closet to form a band with. (If you *do* have people nearby to start a band with, you can of course relax this criterion.)
+- It should have a strong kinetic component. Integrating this aspect better is one major reason for this whole endeavor, so if I just end up typing on a keyboard again, I'd consider it a failure.[^fail]
+- It should be reasonably small and portable. I don't have a big mansion, or even a car. That pretty much rules out a drum set or piano.
+- Electric would be great. Digital processing and recording makes everything so much easier. This would also make (fairly) silent practice possible, which would be a very neat thing to have.
+
+[^fail]:
+    That doesn't mean there won't be *any* analytical parts or that I'll be immune to gear porn. Heck, just setting up the low-latency kernel to do some good editing on sounds like a lot of fun! But none of that should be be *necessary*. "Three chords and the truth" exists for a reason.
+
+So what does that leave us? Pretty much all common string instruments and not much else. Way back when I was still young and full of dreams, when books were still made out of paper and dragons roamed the earth (I think, it's been like 10 years, who remembers stuff that long ago anyway?), I wanted to learn the violin. It has always been my first love, but with its reputation for having a steep learning curve, I never dared to try. Now, a decade later, without fear, I did. And what I saw was a price tag, and seeing it I thought, lol, come back in 2015 or so when I have enough monies.
+
+That leaves only the eletric guitar or bass, and as they are pretty much equivalent in all things except personal taste, I picked the guitar. After some research and scratching together of money, I settled on an [Epiphone Les Paul Studio Deluxe][] (in white), specifically because I like the look (Stratos always look... off), Epiphone has a great reputation and that's pretty much the best choice for the budget and long-term skill range.
+
+Next I looked into amps, i.e. the stuff that makes the noise. Maybe I'm biased, being a software person, but I don't get the fascination with oldschool analog tech at all. It's clumsy, expensive and just a lot of crap you have to keep around. So instead of buying a tube amp and tons of effect pedals and what not, I thought, why even use an amp *at all*? I mean, you really only need a signal converter and a big speaker. Everything else you oughta be able to do in software, right?
+
+So I looked around and eventually found some communities that don't think that MATH IS EVIL!![^apo] and just talk about this stuff honestly. Given current tech, yes, software amps/effects are really damn good, and the remaining differences are mostly explained by analog stuff having come first with its hard to replicate glitches, and now you have to fight the status quo. The main problem, besides recreating various effects, is to get low latencies both in the converter and the (increasingly computationally demanding) effect stack. 
+
+[^apo]:
+    Let me also apologize to all materialists who I may have disagreed with (or trolled) over the years. After reading one too many "ur math will nevr be as good as real tubez" discussions about hardware vs. software amplifiers, and just sighing, dudes, it's *physics*, not *magic*, it's just waveforms, stop with your nostalgic crap about ancient equipment that you only like because it came first, after that, I got the pain.
+
+    I'm so sorry. I have at times been anti-reductionist. I was so, so wrong. I'm sorry.
+
+While it's possible to get a good soundcard and then just run everything else on your laptop, I finally settled on the [Fender Mustang I][] as a semi-hardware solution. Going completely DIY doesn't actually save me any money because I'd still a new soundcard and pre-amp, and I don't want to fight with latency issues just yet. Also, the Mustang I has USB output, which is awesome. It really is the cheapest good option, although I definitely want to extend the software side later.
+
+Then just throw in some minor additional equipment I need, comes out to almost exactly 400 eurons. More than I hoped for, but not obscenely so. I'll be homeless soon enough anyway, gotta enjoy my time until then...
 
 ---
+
+First drawing:
+
+<%= image("draw_1.jpg", "Drawing 1") %>
+
+So I said "I'ma do a daily drawing of anything, whatever" and then I sat there when the Beeminder deadline rolled around, thinking, uh, ok past-me, how *exactly* did you think this would actually go?
+
+Then I remembered: the problem is mostly psychological. "I suck so much, I shouldn't even try". The first half may be true, but that's exactly why I *should* try. There's no way from here to there without going through 10k sucky sketches. So present-me, stop the whining, signed, future-me.
+
+As I said, I'll post a weekly snapshot, although those will be tied to logs and so might not be *published* on a strictly weekly basis. (That does not relax the deadline, however.) I'm deliberately keeping it low-tech, quick and at "no erasing ever". I also stole ze frank's "finishing stamp" idea - whenever I'm unsure if I should continue or not, I'll just say "fuck it!", sign the thing and then it's officially *done*. No further revision allowed.
+
+And yes, it's Grumpy Cat. <3
+
+---
+
+<% skip do %>
+Lastly, an interesting observation about Popes, unfortunately mostly for those who speak German. I'll try to translate, but it does involve puns and I'll only transcribe a short section.
+
+Yvain recently covered the [Council of Constance][Yvain Constance] from the non-Catholic side. I highly recommend that you also check out Jürgen Becker's show [Da wissen Sie mehr als ich!][] ([COUGH COUGH][becker mediafire]) in which he also talks about the Council, but from a sympathetic position. (Note that they do not substantially disagree on any matter of fact!)
+
+Money quote about:
+
+> Man muss sich das mal vorstellen! Der Huss forderte die Abschaffung des Papsttums. Gut, heute könnense das bringen, aber damals hatte man drei Stück! Und die waren alle poppenmunter!
+>
+> Einmal hat man einen Franzosen zum Papst ernannt. Als der dann Papst war, hat der gesagt, "Ich zieh aber nicht nach Rom! Hier in Frankreich hab ich bessre Frauen!". Da hat der sich einfach in Avignon ein Bordell gebaut nach dem Motto: "Der Vatikan is da wo Vati kann.".
+>
+> Ja, und dann haben die sich in Rom halt noch nen Papst gemacht! Da hattense zwei! Das wolltense dann nich, da habense beide abgesetzt, einen neuen ernannt, da hattense drei! Denn die anderen, die blieben einfach. Das war die Dreifaltigkeit des Jobwunders. Der Beruf Papst wurde populär. Deswegen heißt das in England immer noch "pope", ne. Das fanden aber viele beschissen, und deswegen nannte man das "Schizma".
+>
+> Ja, und das sollte in Konstanz beseitigt werden. "Schizma" heißt drei Päpste, greifen wir uns mal einen der drei Päpste raus: Baldassarre Cossa, ein ehemaliger Seeräuber, ging als Johannes XXIII. nach Konstanz. Auch ihm wurde der Prozess gemacht, aber die Anklagepunkte waren bemerkenswert. Man warf ihm vor, seine kirchliche Karriere durch Ämterkauf gemacht zu haben, durch Geschäfte zu unerhörten Reichtum gekommen zu sein, er habe seinen Vorgänger vergiftet um selber Papst zu werden, des weiteren Ehebruch mit seiner Schwägerin, Unzucht, ja sogar Sodomie!, er habe Kirchengut verschleudert, und das schlimmste, er glaube gar nicht an Gott!
+>
+> Er hat sich also wie ein gewöhnlicher, durchschnittlicher Papst seiner Zeit verhalten.
+>
+> Aber, man wollte ihn ja offensichtlich loswerden. Er wurde dann auch verurteilt, aber nicht zum Tode, nein nein, so schlimm war das dann alles auch wieder nicht. Man hat ihn in den Kerker gesperrt und zwar zusammen mit Johannes Huss. Man stelle sich mal vor Papst Johannes Paul II. zusammen in einer Zelle mit [Eugen Drewermann][]! Das is aber auch gemein, ne? Allerdings wurde Baldassarre Cossa dann wieder freigelassen nach kurzer Zeit, während Johannes Huss, der das alles angefangen hatte, was man ihm scheinheilig vorwarf, dann auf dem Scheiterhaufen verbrannt wurde als Ketzer.
+>
+> Ja, so wurden in diesem historischen Augenblick die Weichen gestellt, während unser heißblütiger [Philipp von Mala][] mit der Kraft seiner Liebe die glühenden Wonnen luxuriösester Lustbarkeiten *from the top of the pop* für Otto-Normal-Geistliche erschwinglich zu koitieren dabei war, da machten die Führungskräfte der Firma Kirche in Konstanz den riesengroßen Fehler die Feinde des Papsttums und des Zölibats, sprich die Feinde der freien Liebe und sexuellen Revolution, die Reformer und Protestanten, *nicht* durch liberalen Gruppensex zu integrieren. Denn das Verbrennen der Moralapostel auf dem Scheiterhaufen war eine ungewollte PR-Aktion für das zukünftige Konkurrenzunternehmen, quasi Rauchzeichen eines sich heranbildenden Protestantismus.
+
+Rough translation, trying to capture the flow and keeping the puns intact whenever possible:
+
+> Imagine this! Huss demanded the dissolution of the Papacy. Ok, you can say stuff like this today, but back then they had three of them! And all of them were alive and well!
+>
+> For one, they nominated a Frenchman. When he became Pope, he said, "I'm not gonna move to Rome! I have better women here in France!". So he just build himself a brothel in Avignon, based on the idea that "the Vatican is where Vati [Daddy] can [as in, can get it up]".
+>
+> Well, so they made a new Pope in Rome. Now there were two! They didn't like that very much, so they removed both from office, nominated a new one, now there were three! The other two just stayed. That was the trinity of the job miracle. The occupation Pope became popular, which is why in England they still call it "pope". Many thought that was pretty shit, so they called it the "Schism". [Yeah, that works better in German.]
+>
+> Ok, so Constance was supposed to clean up this mess. "Schism" means three Popes. Let's have a look at one of them: Baldassarre Cossa, a former pirate, who went to Constanz as John XXIII. They prosecuted him too, but the charges were remarkable. He was accused of getting ahead in his church career through the buying of offices, of becoming filthy rich by dubious methods, of poisoning his predecessor so he could become Pope himself, of adultery with his cousin, incest, even sodomy!, of selling church property, and worst of all, of not even believing in God!
+>
+> In other words, he acted like a typical, average Pope of his time.
+>
+> But they obviously wanted to get rid of him, so they sentenced him, no, not to death, it wasn't that bad after all. They put him in prison, but get this, together with Jan Huss. Imagine Pope John Paul II. together in one cell with [Eugen Drewermann][] [a vocal church critic and reformer]! Now that's mean! Regardless, Baldassarre Cossa was eventually set free, while Jan Huss, who was hypocritically accused of starting the whole mess, was burned at the stake for heresy.
+>
+> And so in this historical moment the course was set that while our hot-blooded [Philipp of Mala][] was busy copulating down the price of those delightful and rapturous pleasures so that these luxuries could become affordable for your average cleric, that the administration of Church Inc. made the gigantic mistake in Constance *not* to integrate the enemies of Papacy and celibacy, that is the enemies of free love and the sexual revolution - reformers and Protestants - to *not* integrate them through liberal use of group sex. This way, the burning of moralizers at the stake became an unintended publicity campaign for the upcoming competition, basically a smoke signal for the developing Protestantism.
+
+I think this illustrates the difference in attitude and why [donatism][] is so incredibly dangerous. For the first time we have a *pirate Pope*, badass supreme, *and you filthy Protestants complain about it*.
+
+Sigh.
+<% end %>

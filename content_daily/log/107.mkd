@@ -1,0 +1,113 @@
+---
+title: Loveless
+date: 2012-11-22
+techne: :wip
+episteme: :log
+---
+
+Ok, let's unroll the meta-levels I'm currently involved in.
+
+- meta-0 (object level): I want to use a specific skill (e.g. play a song, read a book, pass an exam).
+- meta-1: This involves learning certain generalized skills (e.g. guitar / music theory, Japanese, cryptography).
+- meta-2: I need to figure out how to efficiently learn this skills without hating all of existence with the intense loathing of a thousand Grumpy Cats.
+- meta-3: To do that, I need to solve the problem of (self-)education. Fortunately, the theoretic work has been mostly done already, so I just need to master and modify it, in the sense that scientists figured out mechanics, but I still need to become an engineer to use it, so to speak.
+- meta-4: I need to retain, analyze and discuss this theoretical stuff.
+- meta-5: This mental digestion process should be efficient too.
+
+So m-0 to m-2 are pretty obvious. m-3 is the [Theory of Instruction][], which I'll talk about a lot later. m-4 involves a lot of writing, talking, Anki notes and experimental course design. m-5 is time management, Anki scheduling experiments and the like. (The whole problem is of course somewhat fractal and has self-similar sub-problems.)
+
+For now I did some m-5 work, and I'll just quote my own comment from the last log:
+
+> Anki 2 has two phases, learning mode and normal mode. (I think it took that idea from Supermemo.)
+>
+> During learning mode, cards have very short intervals (by default: 1min, then 10min) and you're expected to make mistakes, so failing a card doesn't count towards its leech limit. Afterwards you move on to (typically) a 1d interval and then progress exponentially, at roughly 2.5^n. If you fail here, the card is put back in learning mode. The ease factor (2.5 +/- 1.0 or so, adjusted based on scores) determines the target retention rate, normally 90%.
+> 
+> This seems roughly analogous the way DI does it. In DI, a new lesson has a high answer rate (>10/min) and you move on once you're pretty sure the student got it, at around 70-80% correct responses. A lesson is fairly short, like  5-10min, rarely >20min. Reviewing of old facts happens mostly through future lessons that build on them.
+>
+> This would suggest to me a lot of short steps in the learning phase and then a high retention rate (>=90%) afterwards (because you are expected to really know everything then, so mistakes should be rare). However, we aren't quite sure about this and the specific research on this seems weak to me,  and doesn't really factor in long-term factors like reviews not being fun enough. (Note also that the DI research Owen cites is for very few but quite difficult facts and not long-term.)
+>
+> Luckily, I'm currently learning 3 languages, so I'm just going to run an experiment. (Yeah, bitch! Empiricism!) I have lots of data about Anki's default setting of 1min, 10min and 90%, so I'll use three new settings:
+>
+> 1. 1min, 1min, 2min, 2min, 5min, 10min, 70%
+> 2. 1min, 1min, 2min, 2min, 5min, 10min, 90%
+> 3. 1min, 10min, 70%
+>
+> (Note that intervals in learning mode are upper bounds and are ignored if no other cards are available.)
+>
+> I've assigned them randomly (muflax can into double-blind!) and will run the experiment for at least a month (unless I run into serious problems). The interesting outcomes are number of reviews (fewer is better) and average time per card (lower is better). I'll also look at the achieved retention rate, but note that for mature cards, this will always be close to the target rate by design. Still, it is possible for cards to be too easy compared to the rate before the exponential growth can push them away, so if you overshoot drastically, you can often lower the target rate (and thus review numbers) without sacrificing retention.
+
+I actually used slightly different settings, but with the same general design. I assigned them blindly to French / Latin / Japanese and will comment on results as I notice them. (Prediction: "many steps, low rate" works best. That's also my best guess what DI would recommend, but why speculate when you can just try?)
+
+That's enough for m-5 for now. (Omega appreciates the high level of meta here, but thinks I should try hanging out with something remotely object-level from time to time.) Let's go to m-4...
+
+---
+
+So [Theory of Instruction][]. Where do I start...
+
+Maybe with a bunch of books (all scanned PDFs; I talked to the Flying Spaghetti Monster and it thinks sharing them is fine because this stuff is really awesome and sadly underrated):
+
+- [Theory of Instruction][ToI book] itself, the dry, somewhat confusing theoretical tome about how teaching people stuff is essentially a solved problem. (Please don't start here. Probably the only ones who like this book beyond its content are its authors. The stuff in it is pretty great, though.)
+
+Direct Instruction (DI) is the implementation of it for (mostly K-8 schools) schools by the same people. ToI focuses primarily on the theoretical underpinning of any effective instruction, while other DI material deals with practical constrains (like designing courses that very competent teachers can use vs. ones all teachers can use) and other modifications.
+- [Research on Direct Instruction][DI research], a great summary of the empirical evidence for all of this and how DI is *the only theory in the entire history of education* that has *any serious empirical evidence whatsoever*. I'm not even exaggerating here. This is literally the state of affairs. Education is *that* bad a field. When Hanson says that "education is not about learning", I can only reply, "no shit Sherlock". Despite knowing a lot of dedicated, competent and very passionate teachers (hi mom!), I think that historically speaking, when we look back at the 19th and 20th century, *schools* will be considered one of the worst institutions ever, on all levels.
+- Hey, wasn't that little rant against schools fun? Want *a lot more* of it, with actual facts to back it up, and a good general introduction to the DI approach? Read [War Against the Schools' Academic Child Abuse][DI war]!
+
+Isn't that title cute? I used to think that DI folks are a bit too evangelical in their language and would benefit from, you know, talking less like Richard Dawkins and more like Neil deGrasse Tyson. But then I read all their stuff and how horrible everyone else is and all the shit they've gone through, and honestly, I get the hate now. At some point the principle of charity stops working and you need to put some heads on spikes, metaphorically speaking.
+
+But don't worry, most of the book isn't actually polemical, but instead a good summary of the historical background of DI and their attitude to learning.
+- So maybe you read this and wonder, ok, how *does* this stuff work? ToI isn't an easy read and you don't want to open a school just yet, but could I maybe get a general summary of the methodology? That's where [Could John Stuart Mill Have Saved Our Schools?][DI mill] comes in. (Yes, Mill as in the utilitarianism guy.)
+
+Turns out that after Zig and his crew developed their Theory of Instruction, they discovered that some of their principles had already been invented, but not in the field of education, but logic! Mill's System of Logic was his attempt to formalize induction, and as it happens, induction is pretty much what learning *is*. Without necessarily intending to, Mill stumbles on most of the fundamental principles of correct education and then dismisses them as unimportant. (D'oh! Seriously, you fucked up meta-ethics, and now this? Not cool, dude.)
+
+The book gives a bit of a historical background and then presents Mill's five principles and how they relate to education. The whole thing is a great introduction to the basic approach, in the same way that `F = m*a` is the core of Newtonian mechanics, but there's a lot of meat beyond it. Still, it's probably the best first step right now to getting what DI is about, specifically.
+
+<% skip do %>
+Now with that out of the way, let me say one thing. I'm not a great promoter and not particularly interested in the job either. I don't have the energy or drive to be a cheerleader for ideas, even really awesome ideas that I support 100%. I did try that for a bit some time ago, including with SRS, which is a much simpler thing to get across (and also supported by tons of evidence etc.), and even then people often don't use it. It breaks my heart to try to convince someone to be more awesome and get rejected for really stupid reasons, and honestly, I don't care anymore. I'm having enough fun in my own life already, and if the rest of the world prefers to suck, that's no longer my problem.
+
+Because of that, I won't go out of my way to exhaustively present ToI in the easiest possible terms. *I'm* already sold on it, and with those books, most of the material is available to you too. I'll gladly discuss all of this to death, and heck, the logs will feature a lot of it. But I'm not in the outreach business.
+<% end %>
+
+---
+
+Having said all of this, let's get started with ToI!
+
+Before I get into what I've been doing so far, maybe I should not expect you to have read at least the [Mill book][DI mill] and give you a tl;dr instead. So here it is:
+
+> If the student hasn't learned, the teacher hasn't taught.
+
+That's the mantra of DI. The idea is this: students, like everything else in the universe, are *lawful* things. Given a certain environment with certain stimuli, they will react to them in entirely lawful and predictable ways. In the case of education, given an explanation, a student will always arrive at an interpretation that is logically compatible with that evidence (and follows certain priors, including simplicity).
+
+Here's the problem: often *multiple* interpretations are compatible and only one is *intended*.
+
+Imagine I want to teach you the Japanese word "murasaki". I show you a picture of a purple car and say, "This is 'murasaki'.". Now you could arrive at multiple meanings: maybe "murasaki" means "car", maybe it means "picture", or even "picture of a car", or any number of things. But I wanted you to learn "purple"! So how do we fix this?
+
+By giving you carefully constructed evidence that *logically rules out all but one interpretation*. We call that "faultless communication".
+
+But how do I do that? There are multiple principles we can use, and in our example, the easiest is this: after the first picture, I show you a second picture, this time of the same car but in *green*, and I say, "This is *not* 'murasaki'.".
+
+If a positive and negative example of what we want to teach differ in only one single property, this property must logically be the sole reason we treat these examples differently. And now the student will learn just fine.
+
+The most important mistake of failed instruction is that it is logically ambiguous - the student can pick up wrong interpretations, those are rarely found out early through tests, and further understanding becomes impossible. If all communication is unambiguous, learning is *guaranteed* and extremely efficient. (And yes, they have the evidence to back this claim up.)
+
+The general principle is that the learner generalizes based on *sameness* of features and *only* based on sameness of features. Most of ToI can actually be derived a priori just from these assumptions. (Again, yes, lots of testable predictions have been made and all have been successful. This is not the whole "Kant re-deriving the status quo from first principles" disaster all over again, don't worry.)
+
+---
+
+<% skip do %>
+Alright, education solved! That was easy. Next we're gonna solve psychology! Just shoot all psychologists, legalize all drugs, abolish all regulations beyond "if you say you sell X, your product has to actually contain X", outlaw patents, stop all government subsidies to any health care that isn't currently performed by nurses, done.
+
+Ok, just kiddin', those guys are way too entrenched, you'll have to go all Mao on their asses and cultural-revolutionize them out of office, maybe a good idea to read up on "sluggishly progressing schizophrenia" and incentive structures while you're at it..
+<% end %>
+
+Ok ok, just kiddin' again, got a bit carried away there with the rhetoric. Back to ToI.
+
+---
+
+<% skip do %>
+I was typing in my bed when I saw a spider slip under my door and walk across the room. I caught it and considered whether I should let it stay. It's winter, I thought, and there is little food around, so it wouldn't be useful to me, so I decided to throw it away. I had to use the bathroom anyway, so I threw it into the toilet, and as I saw it fighting against the current, trying not to drown, I wondered. If I had never seen humans hunt or talk, I would judge them just as much as agents as this spider.
+
+I am not sure if this says more about humans, spiders or my empathy[^emp]. But I don't think I would pass the Voight-Kampff test.
+<% end %>
+
+---
+
