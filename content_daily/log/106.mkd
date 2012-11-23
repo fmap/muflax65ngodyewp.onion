@@ -1,11 +1,11 @@
 ---
 title: CleverTitles.take(1)
-date: 2012-11-22
+date: 2012-11-23
 techne: :done
 episteme: :log
 ---
 
-Some stuff about music. (Too busy for good stuff right now. But next log or so should be awesome.)
+Some stuff about music. (Way too busy for good stuff right now, so just posting some notes. But next log or so should be awesome.)
 
 So merely *stating in public* (or in front of close friends, works either way) that I'm potentially interested in learning an instrument was enough social proof[^proof] to make the rest of me go, "whew, thank gods!, it's finally possible to think these thoughts without feeling vaguely guilty or embarrassed!". I'm sticking to my condition that I won't buy anything before I've successfully designed a decent prototype of a self-teaching course, just so I know I can do it and won't get stuck on day 1, but that's no reason to not already consider *what* to buy. In fact, I already made that decision and I'm just waiting to press the "capitalism, ho!" button.
 
