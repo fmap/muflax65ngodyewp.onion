@@ -18,15 +18,27 @@ module Nanoc::CLI::Commands
           i.reps.any? {|r| r.name == :wordcount}
         end
 
+        total = total_practice = 0
         logs.each do |log|
-          content = log.rep_named(:wordcount).compiled_content
-          stripped = strip content.dup.force_encoding("utf-8")
-          words = stripped.scan(/( \S+ )/x)
-          puts "#{log.identifier} -> #{words.size}"
+          practice  = words_in_content log, :wordcount
+          all_words = words_in_content log, :default
+
+          total          += all_words
+          total_practice += practice
+          
+          puts "#{log.identifier} -> #{practice} / #{all_words}"
         end
+        puts "total: #{total_practice} / #{total}"
       end
     end
 
+    def words_in_content log, rep
+      content  = log.rep_named(rep).compiled_content
+      stripped = strip content.dup.force_encoding("utf-8")
+      words    = stripped.scan(/( \S+ )/x)
+      words.size
+    end
+    
     def strip content
       Sanitize.clean(content,
                      :remove_contents => %w{blockquote})
