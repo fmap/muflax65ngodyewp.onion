@@ -25,12 +25,9 @@ end
 def youtube(url)
   <<EOL
 <div align="center">
-  <object width="420" height="315">
-    <param name="movie" value="#{url}"></param>
-    <param name="allowFullScreen" value="true"></param>
-    <param name="allowscriptaccess" value="always"></param>
-    <embed src="#{url}" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed>
-  </object>
+  <iframe width="560" height="315" src="#{url}" frameborder="0" allowfullscreen>
+  </iframe>
+  <a href="#{url}">(watch on Youtube)</a>
 </div>
 EOL
 end
