@@ -128,10 +128,10 @@ So let's start with a snapshot of my current musical skills at age 26.
 - My ears are, as far as I can tell, normal and tinnitus-free, which is a minor miracle by itself.
 - I can't mentally produce any kind of sound and even my dreams are almost-always completely silent. (Which is weird because when awake I talk to myself (internally and externally) *constantly*, even though mentally, it doesn't have any kind of recognizable voice.) I can recognize sounds just fine, but if you ask me on the spot what something (or someone) sounds like, I have no idea.
 - Took all of [tonometric][]'s tests:
-- 63.9% correct (12th percentile) on the tonedeaf test, which is below-normal (>70% is normal).
-- I can reliably differentiate 3Hz (42nd percentile), which is normal.
-- 80% correct (72nd percentile) on the rhythm test, which is above-normal.
-- 75% Associative Musical Visual Intelligence (71% pitch, 79% memory, 71.1% contour, 74.2% attention, 75.1% abstraction), which is very good.
+  - 63.9% correct (12th percentile) on the tonedeaf test, which is below-normal (>70% is normal).
+  - I can reliably differentiate 3Hz (42nd percentile), which is normal.
+  - 80% correct (72nd percentile) on the rhythm test, which is above-normal.
+  - 75% Associative Musical Visual Intelligence (71% pitch, 79% memory, 71.1% contour, 74.2% attention, 75.1% abstraction), which is very good.
 
 Based on that, my overall skill seems normal, with decent rhythm and crappy pitch perception / memory. (I ass-speculate that this is because of all those platformers with their fairly intricate timing I played. My musical memory is kinetic (I actually kinetically visualize[^vis] them as a third-person character moving through a level), with rhythm as path / timing and pitch as intensity. Path is game-relevant, intensity rarely so.)
 
