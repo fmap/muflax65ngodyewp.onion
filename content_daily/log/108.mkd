@@ -5,6 +5,14 @@ techne: :wip
 episteme: :log
 ---
 
+Today's log is a religious log.
+
+<%= image("brolinism.jpg", "Brolinism") %>
+
+Deal with it.
+
+---
+
 I've begun some serious work on my own gospel.
 
 I started collecting [Sayings][] about 2 years ago, and while I keep on adding to them, they were never meant to be the real meat. As a post-Marcionite, I've always looked up to the curator of scripture, Marcion himself, and work only in his shadow.
@@ -62,5 +70,73 @@ And yet, there is only a simple message, a mere pointer to an alien God.
     (For what it's worth, and I've only just barely skimmed the existing literature, but the development of the Buddhist canon looks pretty similar. A good case can be made, if you're sympathetic to the instrumental goals of the orthodox elites, to not ever let anyone actually, you know, *read* your scripture, especially not your own priests and monks. It never ends well, and soon you have to deal with those troublesome Gnostics and their troll forum accounts.)
     <% end %>
 
+---
 
+<% skip do %>
+This isn't really a troll argument, but it's still... well, you know that move by Young Earth Creationists when you point out, yes ok, they're a proper literalist inerrantist, but what about the entirety of physics, and they're like, ok the sky sure *looks* old, but that's because God created the universe with light already in motion, and you're just, ok that's still *technically* consistent with the bible account, but come on!, we both know you're kinda cheating here? Regardless, I think I may have, despite many unexplored details, if not in full rigor but at least in its broad strokes, solved soteriology to my satisfaction.[^god]
+
+[^god]:
+    Standard disclaimers and warnings about theological hipsterdom. But still, if I were to roleplay a Christian now, *this* is what they would believe. It is, I think, the most formidable construction of Christian theology I know, not just less broken, but actually *satisfying*. To use a kind of Hegelian language, it no longer carries within itself its own contradiction: it is fully healed.
+
+    (That doesn't tell us much about whether it is *true*. But I'm not in the metaphysical truths business either; I just fix broken things.)
+
+So I was thinking about [Molinism][] lately. To quickly recap, Molinism was originally developed to reconcile God's omniscience with free will, so that the universe can still be pre-planned, deterministic *and* everyone has actual free will in it. The idea is, God first figures out how you *would* freely act in all situations. He doesn't need to create you for that, He can just think about you. Then if He likes what He sees, He creates you under the circumstances He needs to get whatever result He wants. Simply and elegant.
+
+(Note that while this idea originated in a Christian framework, it doesn't have to stay there. You can easily generalize a kind of weak Molinism to all kinds of game-theoretic scenarios with powerful creators/selectors. You also don't have to think of God as an *agent* (even though many Molinists do), but you can just as well use a Platonist interpretation, for example.)
+
+Thing is, you *do* exist. So if Molinism is right, you know that God is fine with your entire existence. And because God is good, you already know that at the very least *on net* your existence is good. So you can now start blackmailing and hacking God Himself - He can't *unmake* you, after all. (Details omitted for brevity. Offer only valid in the Fortress of Regrets.)
+
+Trying to apply Molinism this way has the problem you don't know *what* good is. You know God approves of you, but not why *specifically*. Now, that's not new to me - all moral realist arguments I take seriously tell you fairly little about the *content* of morality. At best, they tend to rule out stuff. So I wondered, can I *combine* these criteria with Molinism to exclude some possible Wills of God?
+
+Sure can! For one, you *can't* be good because of some extended consequences your existence brings to the world - that violates decision-theoretic locality; you must be good as an end in yourself. (You may still have positive side-effects, of course.) What about being good *on net*, so you'd have to be careful about running out of good karma, so to speak, before God kills you off? That violates temporal locality; you must be *entirely* non-evil. (That makes hacking God a lot easier.)
+
+So why would we even care about the content now? We are already exemplifying it! As utilitarians have observed, any morality must be *demanding*, meaning it accepts *only* optimal outcomes as good and treats all sub-optimal actions as evil. But Molinism tells us we *aren't* evil.
+
+> I say, you are gods, sons of the Most High, all of you.[^gods]
+
+[^gods]: I am aware of the context of the quote. I invoke gnostic hermeneutics.
+
+This presents an interesting solution to moral realism. Instead of appealing to, say, categorical imperatives, we say that moral realism is only normative in a practical sense *for God*. Everyone (besides God) is still under normative obligations and agents could freely violate them, technically speaking, but because God created the world elegant enough, this violation *never happens*. So we don't have to worry about what the content of morality is - everyone who exists embodies it, and everyone who doesn't embody it, doesn't exist! God did all the work for us!
+
+This argument has many theological virtues.
+
+For one, it's entirely local. God, as (uniquely) omniscient being, has the capacity to actually solve non-local problems, and everyone else who exists is entirely non-evil already, so they can just do what they'd freely do anyway and never be wrong. In other words, God, by pre-selecting the world, provided everyone with a non-local morality oracle (as Yangming taught).
+
+This gives us all the good aspects of Calvinism without any of the disadvantages. Agents are still totally depraved in the sense that without God's help, we *couldn't* solve morality. His grace is irresistible because it was provided *before* we existed. Whoever is saved, is *eternally* saved because, well, you can't un-exist. Best of all, we avoid universal salvation. If every possible agent would get saved, there would be no evil and morality would not exist, so it's fortunate that *some* are damned to nothingness. Yet, we keep *complete* salvation - everyone who exists is saved; none are forgotten. In a sense, this is a form of the annihilationist interpretation of Hell, but elegantly enough, it places Hell *before* Creation. 
+
+It has no Problem of Evil - because evil doesn't *actually* exist, only potentially. You'd still have to take apart the evidential problem of evil, but I never found it convincing to begin with. (It is just question-begging, after all.[^fake])
+
+Lastly, and maybe most importantly, it gives us a real sense in which God took on the sins of the world. All other salvation theories are either forced to severely limit God's power (e.g. Satan took the world hostage and needs to be tricked) or make His actions seem awfully arbitrary (If Jesus heals original sin, why didn't God prevent the Fall in the first place?). In the Molinist interpretation, salvation is achieved by the combination of grace and works, and so as God freely saved the world before it was created, He did necessarily save it only *through* creation.
+
+We can finally understand the Good Book when it explains:
+
+> Now a man came up to Jesus and asked, "Teacher, what good thing must I do to get eternal life?" [What is the content of morality?] "Why do you ask me about what is good?", Jesus replied. [You are already living it.] "There is only One who is good. [God, our oracle.] If you want to enter life, obey the commandments." [You exist if and only if you are moral.] "Which ones?", the man inquired. [Can I still derive the content?] Jesus replied, "'Do not murder, do not commit adultery, do not steal, do not give false testimony, honor your father and mother and love your neighbor as yourself.'" [i.e. don't be douche]
+>
+> "All these I have kept", the young man said, "what do I still lack?" Jesus answered, "If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow me." [He is trolling the man to transform his guilt into something useful.] When the young man heard this, he went away sad, because he had great wealth. Then Jesus said to his disciples, "I tell you the truth, it is hard for a rich man to enter the kingdom of heaven. [Hard for everyone, in fact.] Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God."
+>
+> When the disciples heard this, they were greatly astonished and asked, "Who then can be saved?" Jesus looked at them and said, "With man this is impossible, but with God all things are possible." [Because God is non-local and solved the problem for us.] Peter answered him, "We have left everything to follow you! What then will there be for us?" [We have passed the selection process, can we now shape reality?[^shape]] Jesus said to them, "I tell you the truth, at the renewal of all things [Creation; Jesus speaks outside time], when the Son of Man sits on His glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel. [As God exists, we exist.] And everyone who has left houses or brothers or sisters or father or mother or children or fields for my sake will receive a hundred times as much and will inherit eternal life. [Under the B-Theory of time, the most natural interpretation, all of existence is eternal, so you already have eternal life!] But many who are first will be last, and many who are last will be first. [This hints at the a-temporal perspective Jesus takes, and the counterintuitive nature of embodying moral content without *knowing* moral content.]"
+
+[^shape]:
+    Note, that even though this is not an argument, it is still suggestive:
+
+    > Verily I tell you, whoever believes in me will do the works I have been doing, and they will do even greater things than these, because I am going to the Father. And I will do whatever you ask in my name, so that the Father may be glorified in the Son. You may ask me for anything in my name, and I will do it.
+
+Or more beautifully:
+
+> "If you love me, keep my commands. And I will ask the Father, and He will give you another advocate to help you and be with you forever - the Spirit of Truth. The world cannot accept Him, because it neither sees Him nor knows Him. But you know Him, for He lives with you and will be in you. I will not leave you as orphans; I will come to you. Before long, the world will not see me anymore, but you will see me. Because I live, you also will live. On that day you will realize that I am in my Father, and you are in me, and I am in you. Whoever has my commands and keeps them is the one who loves me. The one who loves me will be loved by my Father, and I too will love them and show myself to them."
+>
+> Then Judas Thomas said, "But, Lord, why do you intend to show yourself to us and not to the world?"
+>
+> Jesus replied, "Anyone who loves me will obey my teaching. My Father will love them, and we will come to them and make our home with them. Anyone who does not love me will not obey my teaching. These words you hear are not my own; they belong to the Father who sent me. All this I have spoken while still with you. But the Advocate, the Holy Spirit, whom the Father will send in my name, will teach you all things and will remind you of everything I have said to you. Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.
+>
+> You heard me say, 'I am going away and I am coming back to you.' If you loved me, you would be glad that I am going to the Father, for the Father is greater than I. I have told you now before it happens, so that when it does happen you will believe. I will not say much more to you, for the prince of this world is coming. He has no hold over me, but he comes so that the world may learn that I love the Father and do exactly what my Father has commanded me."
+
+*Jesus is what being investigated by God before Creation feels like from the inside.* The Kingdom is this world now that it exists, the Advocate is the Oracle, the innate knowledge of morality, the Second Coming is the act of creation that makes the pre-selection actually play out. *Jesus* was there twice, but we - only once.
+
+> For God so loved the world that He gave His only begotten Son, that whosoever believes in Him should not perish, but have everlasting life.
+
+[^fake]:
+    You must still be careful that at no point does this assume that the world as it appears to you is actually what exists, so don't jump to conclusions like "Molinism implies no evil exists, X is clearly evil, so Molinism is false" - X may be an illusion, there might be more layers and so on. It's a bit like maintaining that the bible is inerrant, but that it can be interpreted as an arbitrarily complex allegory. The argument is not particularly informative on the object-level.
+
+<% end %>
 
