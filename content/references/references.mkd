@@ -227,6 +227,8 @@
 [LW anthropic evidence]: http://www.webcitation.org/6BON5TkdA
 [LW verbal]: http://www.webcitation.org/6BuQl0lm3
 [LW survey 2012]: http://www.webcitation.org/6BuQm6Q98
+[LW westergaard]: http://lesswrong.com/lw/3gu/the_best_textbooks_on_every_subject/3cmp
+
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
 [Hanson exist]: http://www.overcomingbias.com/2012/04/morality-should-exist.html

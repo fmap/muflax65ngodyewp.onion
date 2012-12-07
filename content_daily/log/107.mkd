@@ -1,7 +1,7 @@
 ---
 title: Loveless
-date: 2012-11-22
-techne: :wip
+date: 2012-11-26
+techne: :done
 episteme: :log
 ---
 
@@ -36,7 +36,11 @@ For now I did some m-5 work, and I'll just quote my own comment from the last lo
 >
 > I've assigned them randomly (muflax can into double-blind!) and will run the experiment for at least a month (unless I run into serious problems). The interesting outcomes are number of reviews (fewer is better) and average time per card (lower is better). I'll also look at the achieved retention rate, but note that for mature cards, this will always be close to the target rate by design. Still, it is possible for cards to be too easy compared to the rate before the exponential growth can push them away, so if you overshoot drastically, you can often lower the target rate (and thus review numbers) without sacrificing retention.
 
-I actually used slightly different settings, but with the same general design. I assigned them blindly to French / Latin / Japanese and will comment on results as I notice them. (Prediction: "many steps, low rate" works best. That's also my best guess what DI would recommend, but why speculate when you can just try?)
+I tried that for a week and noticed the specific arrangements weren't quite sustainable. I then experimented with slightly different settings, did some simulations and noticed a few things:
+
+Anything past 5 steps or so is really tedious. The optimal number seems to depend on the card difficulty. As I can't blind the number of steps anyway, I just kept on decreasing them until they didn't feel like work and I'm now at "1min, 1min, 2min, 5min". I'll run that until I have some stats to compare against, but so far, it *feels* like I understand the material much better.
+
+*Lowering* the retention rate doesn't affect review number much at all. I checked some stats and found that the real problem is that easy cards don't advance fast enough until the exponential progress can push them far away. I increased the starting interval for easy cards to *6 days* (normal cards are still 1 day) and increased the starting ease (i.e. the factor intervals are multiplied with) to 300% (from 250%).
 
 That's enough for m-5 for now. (Omega appreciates the high level of meta here, but thinks I should try hanging out with something remotely object-level from time to time.) Let's go to m-4...
 
@@ -48,23 +52,23 @@ Maybe with a bunch of books (all scanned PDFs; I talked to the Flying Spaghetti 
 
 - [Theory of Instruction][ToI book] itself, the dry, somewhat confusing theoretical tome about how teaching people stuff is essentially a solved problem. (Please don't start here. Probably the only ones who like this book beyond its content are its authors. The stuff in it is pretty great, though.)
 
-Direct Instruction (DI) is the implementation of it for (mostly K-8 schools) schools by the same people. ToI focuses primarily on the theoretical underpinning of any effective instruction, while other DI material deals with practical constrains (like designing courses that very competent teachers can use vs. ones all teachers can use) and other modifications.
+  Direct Instruction (DI) is the implementation of it for (mostly K-8 schools) schools by the same people. ToI focuses primarily on the theoretical underpinning of any effective instruction, while other DI material deals with practical constrains (like designing courses that very competent teachers can use vs. ones all teachers can use) and other modifications.
 - [Research on Direct Instruction][DI research], a great summary of the empirical evidence for all of this and how DI is *the only theory in the entire history of education* that has *any serious empirical evidence whatsoever*. I'm not even exaggerating here. This is literally the state of affairs. Education is *that* bad a field. When Hanson says that "education is not about learning", I can only reply, "no shit Sherlock". Despite knowing a lot of dedicated, competent and very passionate teachers (hi mom!), I think that historically speaking, when we look back at the 19th and 20th century, *schools* will be considered one of the worst institutions ever, on all levels.
 - Hey, wasn't that little rant against schools fun? Want *a lot more* of it, with actual facts to back it up, and a good general introduction to the DI approach? Read [War Against the Schools' Academic Child Abuse][DI war]!
 
-Isn't that title cute? I used to think that DI folks are a bit too evangelical in their language and would benefit from, you know, talking less like Richard Dawkins and more like Neil deGrasse Tyson. But then I read all their stuff and how horrible everyone else is and all the shit they've gone through, and honestly, I get the hate now. At some point the principle of charity stops working and you need to put some heads on spikes, metaphorically speaking.
+  Isn't that title cute? I used to think that DI folks are a bit too evangelical in their language and would benefit from, you know, talking less like Richard Dawkins and more like Neil deGrasse Tyson. But then I read all their stuff and how horrible everyone else is and all the shit they've gone through, and honestly, I get the hate now. At some point the principle of charity stops working and you need to put some heads on spikes, metaphorically speaking.
 
-But don't worry, most of the book isn't actually polemical, but instead a good summary of the historical background of DI and their attitude to learning.
+  But don't worry, most of the book isn't actually polemical, but instead a good summary of the historical background of DI and their attitude to learning.
 - So maybe you read this and wonder, ok, how *does* this stuff work? ToI isn't an easy read and you don't want to open a school just yet, but could I maybe get a general summary of the methodology? That's where [Could John Stuart Mill Have Saved Our Schools?][DI mill] comes in. (Yes, Mill as in the utilitarianism guy.)
 
-Turns out that after Zig and his crew developed their Theory of Instruction, they discovered that some of their principles had already been invented, but not in the field of education, but logic! Mill's System of Logic was his attempt to formalize induction, and as it happens, induction is pretty much what learning *is*. Without necessarily intending to, Mill stumbles on most of the fundamental principles of correct education and then dismisses them as unimportant. (D'oh! Seriously, you fucked up meta-ethics, and now this? Not cool, dude.)
+  Turns out that after Zig and his crew developed their Theory of Instruction, they discovered that some of their principles had already been invented, but not in the field of education, but logic! Mill's System of Logic was his attempt to formalize induction, and as it happens, induction is pretty much what learning *is*. Without necessarily intending to, Mill stumbles on most of the fundamental principles of correct education and then dismisses them as unimportant. (D'oh! Seriously, you fucked up meta-ethics, and now this? Not cool, dude.)
 
-The book gives a bit of a historical background and then presents Mill's five principles and how they relate to education. The whole thing is a great introduction to the basic approach, in the same way that `F = m*a` is the core of Newtonian mechanics, but there's a lot of meat beyond it. Still, it's probably the best first step right now to getting what DI is about, specifically.
+  The book gives a bit of a historical background and then presents Mill's five principles and how they relate to education. The whole thing is a great introduction to the basic approach, in the same way that `F = m * a` is the core of Newtonian mechanics, but there's a lot of meat beyond it. Still, it's probably the best first step right now to getting what DI is about, specifically.
 
 <% skip do %>
 Now with that out of the way, let me say one thing. I'm not a great promoter and not particularly interested in the job either. I don't have the energy or drive to be a cheerleader for ideas, even really awesome ideas that I support 100%. I did try that for a bit some time ago, including with SRS, which is a much simpler thing to get across (and also supported by tons of evidence etc.), and even then people often don't use it. It breaks my heart to try to convince someone to be more awesome and get rejected for really stupid reasons, and honestly, I don't care anymore. I'm having enough fun in my own life already, and if the rest of the world prefers to suck, that's no longer my problem.
 
-Because of that, I won't go out of my way to exhaustively present ToI in the easiest possible terms. *I'm* already sold on it, and with those books, most of the material is available to you too. I'll gladly discuss all of this to death, and heck, the logs will feature a lot of it. But I'm not in the outreach business.
+Because of that, I won't go out of my way to exhaustively present ToI in the easiest possible terms. *I'm* already sold on it, and with those books, most of the material is available to you too. I'll gladly discuss all of this to death, and heck, the logs will feature a lot of it as I master the techniques and use them to teach myself all kinds of stuff. But I'm not in the outreach business.
 <% end %>
 
 ---
@@ -81,7 +85,12 @@ Here's the problem: often *multiple* interpretations are compatible and only one
 
 Imagine I want to teach you the Japanese word "murasaki". I show you a picture of a purple car and say, "This is 'murasaki'.". Now you could arrive at multiple meanings: maybe "murasaki" means "car", maybe it means "picture", or even "picture of a car", or any number of things. But I wanted you to learn "purple"! So how do we fix this?
 
-By giving you carefully constructed evidence that *logically rules out all but one interpretation*. We call that "faultless communication".
+By giving you carefully constructed evidence that *logically rules out all but one interpretation*. We call that "faultless communication"[^fault].
+
+[^fault]:
+    If you're familiar with Pearl's construction of causality, you'll also notice that logically unambiguous communication is simple one that makes causes transparent. But as always, it's one thing to abstractly know that successful induction must obey certain laws, and then to actually remember to *apply* these laws when teaching.
+
+    During the last few weeks, I've often read some part of ToI, thought, "that's really obvious to a logical thinker, you'd have to be pretty daft to violate that rule!" and then later while scavenging instructional material on various topics for useful ideas, I notice that *every single one* of them screws it up. Obviousness is treacherous.
 
 But how do I do that? There are multiple principles we can use, and in our example, the easiest is this: after the first picture, I show you a second picture, this time of the same car but in *green*, and I say, "This is *not* 'murasaki'.".
 
@@ -94,20 +103,81 @@ The general principle is that the learner generalizes based on *sameness* of fea
 ---
 
 <% skip do %>
+I was going through guitar videos on Youtube and for the lulz I looked for dubstep covers, expecting to find none.
+
+Then this guy showed up.
+
+<%= youtube("https://www.youtube.com/watch?v=ZSrfwBSZJyU") %>
+
+<%= youtube("https://www.youtube.com/watch?v=zpi0w3wPE3M") %>
+
+Madre de dios! Es el pollo diablo!
+<% end %>
+
+---
+
+<% skip do %>
 Alright, education solved! That was easy. Next we're gonna solve psychology! Just shoot all psychologists, legalize all drugs, abolish all regulations beyond "if you say you sell X, your product has to actually contain X", outlaw patents, stop all government subsidies to any health care that isn't currently performed by nurses, done.
 
 Ok, just kiddin', those guys are way too entrenched, you'll have to go all Mao on their asses and cultural-revolutionize them out of office, maybe a good idea to read up on "sluggishly progressing schizophrenia" and incentive structures while you're at it..
 <% end %>
 
-Ok ok, just kiddin' again, got a bit carried away there with the rhetoric. Back to ToI.
+Ok ok, just kiddin' again, got a bit carried away there with the rhetoric. Back to education.
+
+Most of my productive time the last two weeks or so (besides panicking and worrying about deadlines and just barely making them) went into reading ToI-related material, turning it into Anki cards and improving my understanding of it in the process. Even though that's a lot of cool and important work, I don't have much to show for it yet.
+
+I've done a good amount of theoretical work for the next iteration of my [MCD tool][mcd tool]. Shouldn't take too long until I figure out the last few problems. I think I've solved the production problems now, but I'll have to test more first.
+
+Most of my actual applied education practice went into teaching myself music theory[^music] and organizing my guitar study plan. I'm now at the point where I've got a decent idea how to do it all, but I still need to write some tools and organize a lot more stuff. (The existing literature is almost entirely useless, but maybe I'll complain a bit more about that later.) I might post my study plan in a log or two.
+
+[^music]:
+    <% skip do %>
+    Also interested? Let me save you some trouble. Read [Westergaard][LW westergaard] (or any Westergaardian) and forget everything else. (Seriously. Classical music theory is a cognitive hazard.) You don't need to go into the advanced stuff unless you're interest in classical music, just focus on the reduction until music makes sense to you. Then use ToI and standard behaviorist techniques to teach yourself this stuff and immerse yourself in lots of music.
+    <% end %>
+
+The only real problem I faced so far is that I really want to write about all of that stuff, including a guide to ToI, a sequence "music theory for people who hate musicians" and much more, and at the same time, I'm becoming so absorbed in this stuff, that I have no *time* or *interest* in it. I'd rather just keep all the good stuff to myself and master the shit out of it.[^excite]
+
+[^excite]:
+    <% skip do %>
+    My "life is exciting"-o-meter is currently at 95% or so, even though I often have no idea what the fuck I'm doing. Which is a bit annoying because every time I see someone who's slightly more bored, I find it really hard to sympathize, and I have the choice of either ignoring them to the best of my ability, or ranting at them across large inferential canyons, and I know that makes me come across somewhat douche-y.
+
+    Fortunately I'm enough of a narcissist that I don't get any guilt-trips about people I ignore, and I seem to have improved my ability to channel "someone is wrong on the internet" syndrome (also "someone knows slightly less than I" syndrome) into practicing harder. I used to wonder where all the people like me were on the internet. Now I know. They're at home, practicing.
+
+    Fuck the skill tree is huge in this game.
+    <% end %>
+
+That's the reason most of my stuff abruptly ends half-way through the introduction - that's the point where the material *clicked* for me and I didn't have to struggle with it anymore. From that point onwards, I progressed much faster than I could write about, and then I lost interest in the basic stuff completely.
+
+I'll try to at least document as much as possible, publish what is easy to write about and just hope I'll get around to it in a few years or so, or at least after I've actually *mastered* something so I really know what I'm talking about. But I now have a lot more appreciation for people like RMP who spend a huge part of their time explaining the lower levels of their skills to beginners. I have no idea how you'd be able to do that *concurrently* with actual learning. (Which is why I fear those logs might become less "how" and more "what" I learned.)
+
+In the meantime, seriously, *read those books* I keep bringing up. 
+
+---
+
+There's a certain visceral style that completely eludes me, so drawing lots of faces in that style might help. Here's one result I kinda liked:
+
+<%= image("draw_2.jpg", "Draw 2") %>
+
+Also noticed that I apparently forgot everything about proportions. So practiced those a bit:
+
+<%= image("draw_3.jpg", "Draw 3") %>
+
+---
+
+First results with modafinil.
+
+Used it 5 times so far, 4x100mg, 1x200mg. I'm pretty confident it's not placebo (I can tell from some of the effects and from taking quite a few placebo drugs in my time) and that it's not caffeine. I've always used it to skip sleep, twice just to reset to a better time and the rest because I'm a lazy procrastinator with delusions about how "a few more hours" are enough to meet deadlines.
+
+At 100mg, it's decent at making me not want to sleep (although not consistently so; I still need to be careful), but it does very little to remove mental impairment. It feels very much like polyphasic sleep - I'm awake alright, but my head is a useless mess. I won't repeat those experiments and will just go to sleep instead.
+
+At 200mg, the impairment is still noticeable, but only for analytical thinking. I can still talk normally and have most of my creativity, until I violently crash 10-15 hours or so later. That still means I can't use it frequently, except maybe once a month or less when I *really* need to skip sleep because of a scheduling conflict and I'm fine with the functional level of a few beer. But if that's all its good for, I doubt I'll buy more.
+
+I'm gonna try it as an alternative to caffeine during normal waking hours next. But so far I'm mostly disappointed with modafinil. It kinda works as a way to skip sleep if you only do mindless crap afterwards, but why would you do that? Menial labor is for the proles.
 
 ---
 
 <% skip do %>
 I was typing in my bed when I saw a spider slip under my door and walk across the room. I caught it and considered whether I should let it stay. It's winter, I thought, and there is little food around, so it wouldn't be useful to me, so I decided to throw it away. I had to use the bathroom anyway, so I threw it into the toilet, and as I saw it fighting against the current, trying not to drown, I wondered. If I had never seen humans hunt or talk, I would judge them just as much as agents as this spider.
 
-I am not sure if this says more about humans, spiders or my empathy[^emp]. But I don't think I would pass the Voight-Kampff test.
+I am not sure if this says more about humans, spiders or my empathy. But I don't think I would pass the Voight-Kampff test.
 <% end %>
-
----
-
