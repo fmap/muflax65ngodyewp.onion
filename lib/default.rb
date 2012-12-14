@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Helper functions for site-building.
 
 require "awesome_print"
@@ -203,3 +204,7 @@ def google_search
 EOF
 end
 
+def redacted text
+  "█" * text.size
+end
+alias :censored :redacted

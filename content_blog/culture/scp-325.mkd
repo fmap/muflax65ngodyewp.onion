@@ -1,0 +1,42 @@
+---
+title: SCP-325
+date: 2012-12-14
+techne: :wip
+episteme: :fiction
+---
+
+**Item #**: SCP-325
+
+**Object Class**: Keter
+
+**Special Containment Procedures**: SCP-325 must be compartmentalized at all costs. 
+
+SCP-325 is highly polymorphous. All subjects showing a disregard of the law, periods of hope and support for institutional reform are to be assumed to be infected. Texts written by those suspected of infection should not be read outside official procedures. Only personnel assigned to the containment of SCP-325 and under explicit permission of the Chief of Staff are to investigate SCP-325 or its influence. If forced to engage in an argument about SCP-325, strict adherence to the expository material supplied to all personnel is required. Artifacts associated with SCP-325 must not be destroyed. 
+
+Procedures <%= redacted "interdict" %> and <%= redacted "excommunication" %> are currently suspended due to the weakened state of containment. Cooperation with independent researchers involved in the subversion of SCP-325's academic influence is advised, but following the failure of <%= redacted "Vatican" %>-II, no concessions in the implementation of any containment procedure are to be made.
+
+**Description**: SCP-325 is a memetic virus that causes grave institutional damage and loss of human value. Subjects infected by SCP-325 suffer from delusions, emotional instability and disordered thought. They 
+
+These catastrophic events and only stop when it becomes.
+
+As an effect of earlier containment procedures, SCP-325 is typically depicted as an adult white male. Such depictions are to be encouraged. Subjects infected after the catastrophic containment failure in the 16th century often lack the pictorial substitution and exhibit more dangerous symptoms.
+
+Even though the infection is presently considered incurable, subjects with severe cases frequently describe unpleasant states of remission.
+
+**History**:
+
+Specialists experienced with the successful containment of SCP-<%= "072" %> were hired.
+
+
+There have been two major attempts to eradicate SCP-325:
+
+- _E-1_: The first by <%= redacted "Nero" %> in , . Subjects infected with SCP-325 henceforth wrote a prophetic text.  Subjects claim to have received the text directly from agents of SCP-325 prior to the event, but due to institutional damage of SCP-325-E-1, all documents that could establish this claim have been lost.
+  
+- _E-2_: A second widespread attempt to destroy SCP-325 began in the 18th century. Supporters of the event associated the containment institutions with SCP-325 itself. They sought to replace them entirely with new institutions grounded in universal values, unaware of the fact that SCP-325 had seeded these values. An estimated 10 million people died as a direct result of the influential implementations of 1776, 1789 and 1917, with an additional estimated <%= redacted "200" %> million people in related conflicts.
+
+  Attempt _E-2_ continues to be of major influence. Without the explicit marking of the earlier containment, SCP-325 continues to subvert defense mechanisms of its weakened hosts without them becoming aware of the infection. Dr. M speculates that many academic institutions, including X and Y, have been completely compromised by SCP-325. 
+
+In addition to these events, the following procedures have been used to reduce the influence of SCP-325:
+
+- Subjects particularly prone to the infection are routinely assigned celibacy in order to reduce the genetic fitness of vulnerable traits. Incidence levels of [REDACTED] have been successfully reduced, but so isolated subjects have been observed to devote greater time to (theology).
+ 
