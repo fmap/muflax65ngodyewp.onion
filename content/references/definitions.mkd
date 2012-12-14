@@ -302,3 +302,7 @@
 [Philipp von Mala]: http://gutenberg.spiegel.de/buch/4865/3
 [Philipp of Mala]: http://www.online-literature.com/honore_de_balzac/1081/
 [Hedwig and the Angry Inch]: https://en.wikipedia.org/wiki/Hedwig_and_the_Angry_Inch_%28film%29
+[Molinism]: https://en.wikipedia.org/wiki/Molinism
+[Liberation Theology]: https://en.wikipedia.org/wiki/Liberation_theology
+[Omnissiah]: http://warhammer40k.wikia.com/wiki/Machine_God
+[Adeptus Mechanicus]: http://warhammer40k.wikia.com/wiki/Adeptus_Mechanicus

@@ -169,6 +169,8 @@
 [Da wissen Sie mehr als ich!]: http://juergen-becker-kabarettist.de/krempel/da-wissen-sie-mehr-als-ich-2
 [Epiphone Les Paul Studio Deluxe]: http://www.thomann.de/gb/epiphone_les_paul_studio_deluxe_aw.htm
 [Fender Mustang I]: http://www.fender.com/products/mustang/models.php/?prodNo=230001
+[SCP wiki]: https://www.scp-wiki.net/
+[Rambling Taoist Line]: https://ramblingtaoist.wordpress.com/series/tao-te-ching-line-by-line/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
