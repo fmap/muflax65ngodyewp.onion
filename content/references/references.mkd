@@ -171,6 +171,9 @@
 [Fender Mustang I]: http://www.fender.com/products/mustang/models.php/?prodNo=230001
 [SCP wiki]: https://www.scp-wiki.net/
 [Rambling Taoist Line]: https://ramblingtaoist.wordpress.com/series/tao-te-ching-line-by-line/
+[1000 monkeys]: https://github.com/steinbro/1000monkeys
+[Harmony Explained]: http://arxiv.org/html/1202.4212v1
+[Musimathics]: http://www.musimathics.com/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
