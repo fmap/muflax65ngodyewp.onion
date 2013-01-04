@@ -53,10 +53,11 @@
 [Anking]: https://github.com/muflax/anking
 
 <!-- books on Dropbox -->
-[ToI book]: https://www.dropbox.com/s/tp8hk1iukiu4j1s/theory_of_instruction.pdf
-[DI research]: https://www.dropbox.com/s/hdu1gnu91bk2l8q/distar.pdf
-[DI war]: https://www.dropbox.com/s/9uakc7j5klnz2kn/War%20Against%20the%20Schools%27%20Academic%20Child%20Abuse.pdf
-[DI mill]: https://www.dropbox.com/s/x25m0ak7gk5h5fr/Could%20John%20Stuart%20Mill%20Have%20Saved%20Our%20Schools.pdf
+[ToI book]: https://www.dropbox.com/s/zn2wuocnf265ll9/theory_of_instruction.pdf
+[DI research]: https://www.dropbox.com/s/q0wdccqu4lq6yc0/distar.pdf
+[DI war]: https://www.dropbox.com/s/rs2rp9n4xr3rexk/War%20Against%20the%20Schools%27%20Academic%20Child%20Abuse.pdf
+[DI mill]: https://www.dropbox.com/s/6sntuvq8rc8y8ir/Could%20John%20Stuart%20Mill%20Have%20Saved%20Our%20Schools.pdf
+[DI needy]: https://www.dropbox.com/s/sfqmzp0ithhm60m/Teaching%20Needy%20Kids.pdf
 
 <!-- stuff I found elsewhere -->
 [becker mediafire]: http://www.mediafire.com/file/slbq1nx2y0ha2ua/konstanz.zip
