@@ -77,12 +77,12 @@ My reading list was getting way too long and unwieldy, so I cleaned it up[^clean
   This is why I can't stand musicians.
 
   [^issues]:
-    Specifically:
+      Specifically:
 
-    1. His use of informational complexity is very crude and ad hoc. I would've replaced it with standard computational complexity.
-    2. Some of his speculations aren't quite convincing and would benefit from a deeper statistical analysis. I doubt I would've provided one, but it's something you ought(tm) to do.
-    3. He focuses somewhat too strongly on harmonics as a design mechanism. Standard Westergaardian line-based development is completely missing and more convincing than his "melody as arpeggiated harmony". Arguably, the specific design mechanisms depend on the genre and are somewhat orthogonal to each other, so this doesn't refute his thesis, it just provides one important way to extend it. It's analogous to having a theory of poetic meter, which is crucial but not sufficient for having a theory of poetry as a whole.
-    4. I'm even more aggressive about dropping the honest-to-gods mind-bogglingly insane nomenclature and notation of conventional music theory. If there's *any* case where it's appropriate to, as the Futurist Manifesto calls it, "free the land from its gangrene of professors" and "set fire to the libraries", *music theory* is it.
+      1. His use of informational complexity is very crude and ad hoc. I would've replaced it with standard computational complexity.
+      2. Some of his speculations aren't quite convincing and would benefit from a deeper statistical analysis. I doubt I would've provided one, but it's something you ought(tm) to do.
+      3. He focuses somewhat too strongly on harmonics as a design mechanism. Standard Westergaardian line-based development is completely missing and more convincing than his "melody as arpeggiated harmony". Arguably, the specific design mechanisms depend on the genre and are somewhat orthogonal to each other, so this doesn't refute his thesis, it just provides one important way to extend it. It's analogous to having a theory of poetic meter, which is crucial but not sufficient for having a theory of poetry as a whole.
+      4. I'm even more aggressive about dropping the honest-to-gods mind-bogglingly insane nomenclature and notation of conventional music theory. If there's *any* case where it's appropriate to, as the Futurist Manifesto calls it, "free the land from its gangrene of professors" and "set fire to the libraries", *music theory* is it.
     
 - [Spent: Sex, Evolution, and Consumer Behavior][]. It starts with this story:
 
