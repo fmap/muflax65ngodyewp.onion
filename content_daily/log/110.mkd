@@ -1,0 +1,68 @@
+---
+title: Moloch The Devourer
+date: 2013-01-09
+techne: :done
+episteme: :log
+---
+
+<% skip do %>
+This is too speculative for a full post, but here goes. Let's dissect the Gospel of Mark!
+
+First step, *which* Mark? For our purposes, we'll recreate a super-gospel by merging all parts that we are reasonably sure have been considered part of Mark by some early Christian or another (up to 5th century or so). We know we don't have any *direct* evidence what the "early versions" (wherever they came from) looked like, so we'll have to reconstruct the separate sources through higher criticism anyway. However, looking at *where* and *how* separate variants have been merged into the text will tell us how *other* variants have likely been inserted, even when we don't have the pre-merged manuscripts anymore.
+
+You've probably heard of the Documentary Hypothesis, according to which the Torah is the result of merging four previously independent narratives into one text. This *may* imply multiple authorship, but it doesn't have to - the original author might've just used multiple sources and didn't edit out the seams. Before we speculate about specific authorship and chronologies, we first have to identify the internal layers.
+
+So let's try to disentangle the layers of Mark!
+
+Remember that the current chapter division is a late addition with considerable disagreement, so I've entirely disregarded it and added a new one, based on content and style. I've prepared a "complete edition" based on the [Open English Bible][] (because it is in the public domain). I don't consider this version definitive (yet), but it will serve us well until I can do my own translations. I have abandoned "chapters" and "verses" and have instead split it into *stories*. Because I don't believe in a "proper" order or definitive text anyway, I have also introduced a numbering system entirely based on content. Because this is the first collection, the numbering still follows conventional chronology. Later additions and new super-gospels won't.
+
+As a naming convention, I'll use S-1 for the first story, or S-1-mark if I want to emphasize a particular version (compared to, say, S-1-luke). I've also given each story a name if it didn't have a conventional one already. The name does not reflect any interpretation; it is purely tl;dr. I've tried to highlight important interpolations in the text as well if there is good manuscript evidence for them.
+
+Because I don't expect you to have memorized Mark entirely (or to read my complete version first, even though I've written longer posts than that before), we'll use this summary:
+
+1. TODO
+
+I propose the following layers / groups of stories:
+
+- Simonian Propaganda
+  - Parables:
+  - Anecdotes:
+- Simonian Damage Control:
+- Ascetic Damage Control:
+- Marcionite Propaganda
+  - Against the Twelve:
+  - Against the Jews:
+- Marcionite Damage Control: 
+- Catholic[^catholic] Hijacking
+  - of John the Baptist:
+  - of the Twelve:
+- Legion: 
+
+[^catholic]:
+    "Catholic" represents a way of thinking - an *attitude* - not a specific church. I agree that calling any pre-Nicene theology "proto-orthodox" is somewhat dishonest because there wasn't any mainstream consensus yet, but the *attempt* to establish an ortohdox, unified church certainly did exist, and that I call "Catholic".
+
+Some of these are obvious, like the limitations on fasting. As RMP and many others pointed out, this points to a (late?) 2nd century editing of these sections. This fits into a fairly late composition of Mark in general (early 2nd century), which I find very plausible, but won't argue for here. I also reject Markan Priority, but again won't argue it here because our focus is not the relationship to Luke (and Ur-Lukas), but the distinctly Markan content. But before we get there, a few notes on some unrelated stories, which might still be of interest, if only as a reminder of some other mythicist themes.
+
+Look how isolated the Legion arc is! I agree with the conventional reading that it is based on the encounter with Polyphemus the Cyclops in the Odyssey and so an attempt to remix a popular story to claim it for Jesus. Whether the version that finally got written down only *accidentally* also contains a straightforward political dig at the Romans, I'll let the reader decide. 
+
+The account of John the Baptist's death is fairly sympathetic to Herod. Contrast that with Matthew!
+
+Note that in Jesus' rejection at home, we aren't actually told *where* that is. Mark takes no position on this because either it wasn't settled yet (likely), or because it is of little concern to its primary authors, who don't consider Jesus earthly to begin with and couldn't care less about Jewish midrash (except for trolling purposes).
+
+In fact, let's have a closer look. There are two names to pay attention to:
+
+- Jesus of Nazareth: 
+- Jesus the Nazarene: 
+
+Note that "the Nazarene" is used in all stories I labeled as Simonian.
+
+Before 
+
+Some other layers are my interpretation. Let me explain.
+
+- The Feeding of the 5000 and 4000 look like two variants of oral miracle stories, but the main reason I consider them parables instead is the focus on exact numbers. Jesus doesn't just feed them with a few loaves, but exactly 5 loaves and 2 fishes. These numbers are repeated again and again, and the same in the second telling, with different numbers. This makes them look an awful lot like a numerological inside joke - a reference maybe to a specific classification. There's even a later reminder by Jesus to look deeper. This makes me suspect design, but the oral interpretation is still very plausible. That I think they are *Simonian* parables is bit of a stretch because I have no idea what they mean or refer to. It is purely based on a hunch.
+
+The problem is that the primary reason to suspect Basilides is that he fits the profile. Our reference pool is so small that we only know like three Gnostics, and if two of them couldn't have written it, and it looks Gnostic, well it must've been the third!
+
+
+<% end %>
