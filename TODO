@@ -1,5 +1,3 @@
-* content [0/1]
-- [ ] fine-grained episteme tags
 * layout [0/4]
 - [ ] better handling of footnotes (parallel column?)
 - [ ] search bar not pretty enough
@@ -12,3 +10,4 @@
 - [ ] better handling of rss feeds (maybe generate them all separately and always upload them?)
 - [ ] put gzip into Rules
 - [ ] some auto-link functions, like <%= beeminder "goal" %>
+- [ ] move link check into Check file
