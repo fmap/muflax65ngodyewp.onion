@@ -5,6 +5,7 @@ techne: :done
 episteme: :log
 ---
 
+<% poem do %>
 > camping awhile the shore
 > areas entire
 > patiently waiting for
@@ -16,9 +17,10 @@ episteme: :log
 > panther walks in cries, we
 >
 > -- [some monkeys][1000 monkeys]
+<% end %>
 
 <% skip do %>
-A log? Did those come out like daily a long time ago? Well, here at muflax inc., we don't just interpret "day" to mean an arbitrary period of time when reading Genesis...
+A log? Didn't those come out like daily a long time ago? Well, here at muflax inc., we don't just interpret "day" to mean an arbitrary period of time when reading Genesis...
 <% end %>
 
 I've been doing three things for the last month or so: using ToI to teach myself guitar (and some related music skills), learning a lot about instructional engineering, and getting stuff in order. Let's start with the organizational thingies and some book reviews.
