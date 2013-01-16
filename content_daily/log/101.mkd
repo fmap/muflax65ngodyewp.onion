@@ -56,7 +56,7 @@ Feser only gives a *very* short overview of objective[^obj] morality grounded in
 [^will]:
     Well, *two*. There's also this fragment:
 
-    > [...] Aquinas’s view that the intellect is metaphysically prior to the will, in the sense that [...] will derives from intellect rather than vice versa.
+    > [...] Aquinas's view that the intellect is metaphysically prior to the will, in the sense that [...] will derives from intellect rather than vice versa.
 
     Which is *still* wrong, as per Yangming. But it's obvious that I'd say that, right?
 
