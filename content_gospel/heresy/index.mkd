@@ -1,0 +1,6 @@
+---
+title: Heresy
+is_category: true
+---
+
+<%= category :heresy %>

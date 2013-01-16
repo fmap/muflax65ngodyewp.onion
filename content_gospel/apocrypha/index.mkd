@@ -1,0 +1,6 @@
+---
+title: Apocrypha
+is_category: true
+---
+
+<%= category :apocrypha %>

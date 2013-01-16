@@ -25,6 +25,14 @@ def poem &block
   end
 end
 
+# interpolations; highlight them
+def interpolation &block
+  annotate block do |c|
+    div_wrap :interpolation, c
+  end
+end
+
+
 def annotate content, &filter
   # get erbout so far
   erbout = eval('_erbout', content.binding)
