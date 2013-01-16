@@ -1,7 +1,7 @@
 ---
 title: Moloch The Devourer
-date: 2013-01-09
-techne: :done
+date: 2013-01-16
+techne: :wip
 episteme: :log
 ---
 
