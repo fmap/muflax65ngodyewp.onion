@@ -1,0 +1,178 @@
+---
+title: Tartar
+date: 2013-01-16
+techne: :done
+episteme: :log
+---
+
+> camping awhile the shore
+> areas entire
+> patiently waiting for
+> endurance, the fire
+>
+> ashes, scales from me, man
+> glories are around me
+> takes a place to you can
+> panther walks in cries, we
+>
+> -- [some monkeys][1000 monkeys]
+
+<% skip do %>
+A log? Did those come out like daily a long time ago? Well, here at muflax inc., we don't just interpret "day" to mean an arbitrary period of time when reading Genesis...
+<% end %>
+
+I've been doing three things for the last month or so: using ToI to teach myself guitar (and some related music skills), learning a lot about instructional engineering, and getting stuff in order. Let's start with the organizational thingies and some book reviews.
+
+I thought more about drawing and decided that it's not worth my current resources. I have enough trouble moving all other projects forward, so I stopped the Beeminder goals. I hope to re-evaluate this in a year or so, but for now this skill is dead.
+
+Similarly, the "300 words/day" goal for this site reached the fail-safe point and I didn't initially renew it. I've restarted it with 10 words/day for now because I don't know what the new sweet spot is, but it will be lower. The log isn't dying or anything, I just don't feel like writing it and the old volume doesn't help me right now.
+
+I've also lowered the daily value on other goals because I overextended myself and I'm more interested in building up a daily routine then some particularly high daily value. Things should go back to normal soon.
+
+---
+
+Books.
+
+My reading list was getting way too long and unwieldy, so I cleaned it up[^clean] and read a whole lot of stuff relatively quickly so I could keep the interesting stuff for more in-depth re-reads. Some reviews.
+
+[^clean]:
+    I have dropped:
+
+    - All economics books (intro to micro-economics, neuroeconomics, modern intros to Marxist economics) because they're of little practical value to me right now. For game-theoretic reasons, I've also dropped game theory.
+    - All physics texts, even though I still want to (re-)solidify some basic physics skills. I intend to re-introduce them as soon as I find a feasible way to practice.
+    - All biology textbooks (of the "let's dissect rats" variety, not the "let's train dogs" variety) because, again, they are of little value and I'm presently highly skeptical of the validity of biological science. I wouldn't go so far to say that I suspect them of doing pseudoscience, unlike certain other well-known bureaucracies I won't name, but I'm not convinced they have their shit well enough together that I can extract anything useful out of them without putting in thousands of hours first.
+    - All historical texts that aren't relevant to the New Testament or where I don't already love the author. This includes all of Moldbug's recommendations, among many other things. There are two reasons for that.
+
+      First, of course, I don't have the time *right now* to read them properly, so I'm only concentrating on one specific field (NT) first, honing my skills and learning more languages. Once I've actually caught up on my NT reading list, can read Greek and all that stuff, I'll get to all the other historical topics.
+
+      But more importantly, *you stupid contrarians, meta-contrarians and meta-meta-contrarians ruined it for me*. Somehow all my feeds have turned into squabbling idiots that throw accusations of "fascism" and similar inane nonsense around on a daily basis now, none of which has any relationship to anything factual whatsoever, and I can't even *try* to read an actual historical source before I hear this same noise in my head and *I hate you all now*.
+
+      New rule: you don't get to call someone an X-ist unless you've read a foundational X-ist manifesto, written by a self-identified and universally agreed upon X-ist with a Wikipedia page, and at least *three* books recommended by them. This goes *especially* for "fascist" and "communist". Skimming and summaries don't count.
+
+      Or I'll kick you in your non-gender-specific genitalia, should we ever meet.
+    - All philosophy not grounded in, you know, empiricism. I know, that's a bit out-of-character for me. I'm just bored of it right now. (I've kept all the fancy (crypto-)theology though. This stuff is just way too entertaining for me to drop.)
+
+      I've also dropped all philosophy of morality because I agree with the diagnosis of [MacIntyre][After Virtue] and [Anscombe][Anscombe Moral], and furthermore consider all important problems that bothered me solved. (I don't have any current plans to write that down. This is simply a resource problem.) In the meantime, I recommend to keep the ancient customs.
+
+    I might want to update my site at some point again. I'll get around to it(tm).
+
+- [Musimathics][]. It's a decent overview of the underlying concepts of music theory, but contains nothing I didn't already know through undergrad physics and a bit of wikipediaing.
+  
+- [Harmony Explained][]. Let me just quote the first sentence:
+
+  > Most music theory books are like medieval medical textbooks: they contain unjustified superstition, non-reasoning, and funny symbols glorified by Latin phrases.
+
+  This is almost exactly what my Guide To Music Theory For People Who Can't Stand Musicians would've looked like. *Highly* recommended. I have some minor issues with it[^issues], but ultimately if you aren't *at least this good*, you aren't worth reading. I find it interesting that my own notes after one week of studying music theory look *very* similar to it, so I guess anyone with half-decent analytical thinking skills could re-derive it entirely from scratch.
+
+  I find it a testament to how completely incompetent music theorists are that basic engineering/math skills are enough to outperform *the whole field* in less than a month. (And let's be honest, even Westergaard's/Schenker's approach, which has the advantage of not being insane unlike the rest, is something that I'd expect any competent programmer to re-invent in a few hours at most.) 
+
+  Also, from a comment thread about the article:
+
+  > Sorry, but this looks like a total crock. There is not and cannot be a scientific theory of music, because it's art. It's an art form created without logic, so how could you demand logical study of it?
+
+  I totally forgot that people like that even *exist*! I mean, I've been reading a lot of theology lately, and maybe it's just the influence of people like Craig, but even *there* this kind of crap is getting rare.
+
+  This is why I can't stand musicians.
+
+  [^issues]:
+    Specifically:
+
+    1. His use of informational complexity is very crude and ad hoc. I would've replaced it with standard computational complexity.
+    2. Some of his speculations aren't quite convincing and would benefit from a deeper statistical analysis. I doubt I would've provided one, but it's something you ought(tm) to do.
+    3. He focuses somewhat too strongly on harmonics as a design mechanism. Standard Westergaardian line-based development is completely missing and more convincing than his "melody as arpeggiated harmony". Arguably, the specific design mechanisms depend on the genre and are somewhat orthogonal to each other, so this doesn't refute his thesis, it just provides one important way to extend it. It's analogous to having a theory of poetic meter, which is crucial but not sufficient for having a theory of poetry as a whole.
+    4. I'm even more aggressive about dropping the honest-to-gods mind-bogglingly insane nomenclature and notation of conventional music theory. If there's *any* case where it's appropriate to, as the Futurist Manifesto calls it, "free the land from its gangrene of professors" and "set fire to the libraries", *music theory* is it.
+    
+- [Spent: Sex, Evolution, and Consumer Behavior][]. It starts with this story:
+
+  > This is your mission, should you choose to accept it: Go back thirty thousand years in a time machine. Meet some clever Cro-Magnons in prehistoric France. (We'll assume that you'll be able to speak their language, somehow.) Explain our modern system of consumerist capitalism to them. [...] Gérard [one of the Cro-Magnon] inquires:
+  >
+  > So, Man-from-Future, with this money stuff, I could buy twenty bright young women willing to bear my children?
+  >
+  > You: No, Gérard. Since the abolition of slavery, we can't offer genuine reproductive success in the form of fertile mates for sale. There are prostitutes, but they tend to use contraception.
+  > 
+  > Gérard: Well, I shall have to seduce the women so they want to breed with me. Can I buy more intelligence and charisma, better abilities to tell stories and jokes, more height and muscularity?
+  > 
+  > You: No, but you can buy self-help books that have some placebo effect, and some steroids that increase both muscle mass and irritability by 30 percent.
+  >
+  > Gérard: OK, I will be patient and wait for my sexual rivals to die. Can I buy another hundred years of life?
+  >
+  > You: No, but with amazing modern health care, your expected life span can increase from seventy years to seventy-eight years.
+  >
+  > Gérard: These no-answers anger me, and I feel aggressive. Can I buy advanced weaponry to kill my rivals, especially that bastard Serge, and the men of other kin groups and clans, so I can steal their women?
+  >
+  > You: Yes. One effective choice would be the Auto Assault-12 shotgun, which can fire five high-explosive fragmenting antipersonnel rounds per second. Oh - but I guess then the rivals and other kin groups and clans would probably buy them, too.
+  >
+  > Gérard: So, we'd end up at just another level of clan-versus-clan détente. And there would be more lethal fights among hotheaded male teens within our clan. Then I shall be content with my current mate, Giselle - can I buy her undying devotion, and multiple orgasms so she never cheats on me?
+  >
+  > You: Well, actually, lovers still cheat under capitalism; paternity uncertainty persists.
+  >
+  > Gérard: What about Giselle's mother and sister - can I buy them kinder personalities, so they are less critical of my foibles?
+  >
+  > You: Sadly, no.
+  >
+  > Then Giselle, Gérard's savvy mate, interrupts with a few questions of her own, which you answer with ever-increasing dismay:
+  >
+  > Giselle: Man-from-Future, can I buy a handsome, high-status, charming lover who will never ignore me, beat me, or leave me?
+  >
+  > You: No, Giselle, but we can offer romance novels that describe fictional adventures with such lovers.
+  >
+  > Giselle: Can I buy more sisters, who will care for my younger children as they would their own, when I am away gathering gooseberries?
+  >
+  > You: No, child-care employees tend to be underpaid, overwhelmed, miseducated girls who care more about text messaging their friends than looking after the children of strangers.
+  >
+  > Giselle: How about our teenage children - Justine and Phillipe? Can I buy their respect and obedience, and the taste to choose good mates?
+  >
+  > You: No, marketers will brainwash them to ignore your social wisdom and to have sex with anyone wearing Hollister-branded clothing or drinking Mountain Dew AMP Energy Overdrive.
+  >
+  > Giselle: *Zut, alors! Mange de la merde et meurs!* This money stuff sounds useless. Can I at least buy a mammoth carcass that never rots?
+  >
+  > Finally, you see an opening, and you start explaining about Sub-Zero freezers - but then you remember that there is not yet an Electricité de France with fifty-nine nuclear reactors to supply freezer power, and you falter.
+  >
+  > Giselle and Gérard are by now giving you looks of withering contempt. The rest of your audience is restless and skeptical; some even try to set you on fire with their laser pointers. You try to rekindle their interest by explaining all the camping conveniences that consumerism offers for the upwardly mobile Cro-Mag: sunglasses, steel knives, backpacks, and trail-running shoes that last several months, with cool swooshes on the sides.
+  >
+  > The audience perks up a bit, and Giselle's mother, Juliette, asks, "So, what's the catch? What would we have to do to get these knives and shoes?" You explain, "All you have to do is sit in classrooms every day for sixteen years to learn counterintuitive skills, and then work and commute fifty hours a week for forty years in tedious jobs for amoral corporations, far away from relatives and friends, without any decent child care, sense of community, political empowerment, or contact with nature. Oh, and you'll have to take special medicines to avoid suicidal despair, and to avoid having more than two children. It's not so bad, really. The shoe swooshes are pretty cool." Juliette, the respected Cro-Magnon matriarch, looks you straight in the eye and asks, with infinite pity, "Are you out of your mind?"
+
+  I find this a nice illustration of just how *weird* an image of pre-farming life many defenders of civilization actually have to maintain to not convert to anarcho-primitivism en masse. The Catholics are at least honest that they're in it for the aesthetics, even though this means an insane amount of suffering to wade through. I have no idea how anyone else can be *optimistic* about "progress".[^nurgle]
+
+  [^nurgle]:
+      <% skip do %>
+      Look, I'm a part-time Nurgelian and even *I'm* weirded out by how happy the plaguebearers of civilization seem as they inflict curse after curse on life on this planet. I wish they'd at least *acknowledge* they're running an insane death cult.
+      <% end %>
+
+  Oh, the rest of the book? Kinda bland, especially if you've already read Robin Hanson's blog.
+  
+- [The Better Angels of Our Nature][]. To quote from memory a review I once read: "Pinker can't write a paragraph without making shit up". I have no idea why people respect the man. This is garbage. (This includes his other work too.)
+
+- [Proving History][]. Meh. I'm not sure what I expected. I mean, I don't have any significant disagreement with anything Carrier writes[^comm], but the book doesn't tell me anything new either. I was hoping for something more... profound.
+
+  I suspect the second book, focused only on Jesus, might have more substance (that is useful for me; the first book is great otherwise).
+
+  [^comm]: Exception: everything relating to community. I find Carrier's political commitments very dangerous, and while it hasn't corrupted his work *yet*, those things don't tend to work out very well.
+
+---
+
+Music.
+
+I did write the first 3k words of a guide to guitar chords, but about half-way through I revamped the whole framework, then I changed it *again*, and even now, weeks later, I'm still fiddling around with it.
+
+I re-work the drafts from time to time because that's just how I think, but I don't think it's a good idea, both in terms of instructional efficacy and my time investment, for me to write the guide *now*, before I've taught myself how to play guitar. So I won't.
+
+I still intend (gods willing) to finish the guide at some point, and maybe write some additional material about music theory (although [Harmony Explained][] covers a lot already), but I don't expect to get around to it in the next few months. (This is further complicated by the fact that *textual* instruction is not particularly suited for this (and I'm pretty sure I could explain how chords work much faster over a beer than with any writing), and so I would have to get myself a camera, and get over a lot of issues, and oh gods, that's a major project in its own right.)
+
+---
+
+<% skip do %>
+Kokeicha. Really awesome green tea. It's like normal green tea *plus* matcha. It's ultra-grassy and affordable and not dish-watery like gyokuro. It's easily my new favorite tea.
+
+I also re-discovered my love for genmaicha. I guess I just like green tea with other stuff in it.
+<% end %>
+
+---
+
+<% skip do %>
+Belief update time, for the record. I'm holding this position for some time now, but I only recently noticed how completely it dissolved the related issues that plagued me some years ago. I think I never wrote it down, and I don't want to accidentally turn into 2009-me again, so here goes.
+
+The behaviorists are right about pretty much everything. They're not yet done, in the sense that obviously psychology is not a solved field, but anything that is un-behaviorist is just wrong. My biggest mistake, which almost got me all the way to dualism (oi vey) was listening to cognitivists. Screw them. I modus tollensed way too hard on this one.
+
+(Too lazy to actually explain anything here, just keeping a note that this is no longer an interesting position for me to think about. Just read the behaviorists and, you know, *learn the skills*. That should've been the one clue I needed: there are many theories about the psychology and philosophy of mind. Exactly one is precise enough to have an engineering branch. Guess which one you should take seriously.)
+<% end %>

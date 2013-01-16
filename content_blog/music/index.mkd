@@ -1,0 +1,6 @@
+---
+title: Music
+is_category: true
+---
+
+<%= category :music %>

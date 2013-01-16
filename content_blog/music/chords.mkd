@@ -1,0 +1,139 @@
+---
+title: Learning Guitar Chords
+date: 2013-01-10
+techne: :wip
+episteme: :believed
+---
+
+Next: chords. The material is pretty standard (and heck, advanced for a punk band), but the presentation isn't. This isn't an actual instruction by itself because it lacks student responses, exercises (although I'll talk about both) and might introduce stuff a little bit too fast. (I might one day expand it somewhat and put it in a separate blog post as an actual guide to chords.) Still, I needed to learn this, so I already developed most of the presentation anyway and I might as well share it!
+
+Requirements: cares about guitar chords. (At least a little bit.) That's it.
+
+Let's start slow: what's a note? A note is some noise that fulfills these three conditions: it has (more-or-less) a certain fixed *pitch*, it *starts* at some point and it *ends* after some duration. Pitch is just another name for the *frequency* of a sound, and tells you how high or low it sounds. A *whoooom* is low pitch, a *meeep* is high pitch.
+
+It turns out that pitch has some interesting properties. If you *double* the pitch of a note, you get a new note that sounds really similar in some way. If you play both at the same time, they sound as if they were the *same* note in two different versions. This distance - going up in frequency until you have twice the original pitch - is called an *octave*. So if you go up *two* octaves, you're at four times the pitch. Similarly, going *down* an octave divides the pitch by two.
+
+In Western[^euro] music, we derive all other notes by dividing an octave into 12 equal parts[^parts]. We name[^name] the first (arbitrary but standardized) note *1* and then count up to *12*. Because of *octave equivalence* (i.e. going up/down an octave feels like the same kind of note), we then reuse the names. So starting at 1 and going up 12 steps lands us again on a 1, just one octave higher. We still want to tell octaves apart, so we call the first note on the first octave 1.1, the next note 1.2, then 1.3 up to 1.12, then it continues 2.1 in the 2nd octave. We mostly make music in the 3rd to 5th octave because that's the range of the human voice.
+
+So that's a note. Let's take two of them: 4.1 and 4.5. They are 4 steps (or semitones) apart. This distance is called an *interval*, in this case, an interval of `[4]`. An interval can have multiple steps: `[3 4 5]`. This means, you start on one (any) note, then go up 3 steps, then 4 (from the first), then 5 (from the first). If you start at 4.1, this would give you the notes 4.1, 4.4, 4.5, 4.6. So an interval is just the pattern of steps - to actually play one, you also need a note to start on. We call that the *root note*.
+
+Now what's a chord? A chord is just a fancy name for an interval. The most important chord on a guitar is the *major* chord, so called not because of its military background (oh gods, shoot me, the puns ate my brain), but because it's so ubiquitous. The major chord is `[4 7]`. So "4.5 major" is the major chord, applied to root note 4.5, i.e. the notes 4.5, 4.9, 4.12. This interval business matters because these notes sound nice together. You can play them all at the same time and you get some pleasant noise.[^noise]
+
+[^noise]: For some detailed speculation *why* the chords are made out of these specific intervals, read [Harmony Explained][]. 
+
+Pick the 4 most common chords and you get [all of pop music ever][4 chords].
+
+So now you want to play those chords on a guitar. Here's what a guitar looks like:
+
+<%= image("guitar.jpg", "Guitar") %>
+
+As you can see, there are 6 strings along the neck and a whole lot of metal bars underneath. Those are called frets, and they're spaced so that when you place your finger on the top-most fret, the string sounds exactly one step higher, if you put it on the second fret, it's two steps higher and so on. You get the idea. Before we play any chords on this actual guitar, let's start with a different kind of string instrument first: the hypothetical guitar.
+
+Unlike a real one, the hypothetical guitar has an *infinite* number of strings. They just continue indefinitely to the right. (They require some seriously [big hands][] to play.) But that's no problem: all strings are tuned to the same note, *4.1*. It doesn't matter which string you play, it's always the same sound.
+
+So the strings look like this:
+
+| note: | 4.1 | 4.1 | 4.1 | 4.1 | ... |
+
+The relative distances between them are:
+
+| distance: | +0  | +0 | +0 | +0 | ... |
+
+Let's play the "4.1 major" chord. Again, a major chord is `[4 7]`, so 4.1 major consists of the notes 4.1, 4.5, 4.8. The relative distance between the notes is +4, +3, +5 (back to 1 on the next octave). So we start on the 1st string, then look at the next one: it's the same note. That's not good enough - it should be 4 higher. So we pick the 4th fret on the 2nd string. What happens? Well, the distance between the 1st and 2nd string goes up by 4 steps as expected, but at the same time, the distance between the 2nd and 3rd string goes *down* by 4 steps.
+
+| note:     | 4.1 | 4.5 | 4.1 | 4.1 | ... | 
+| distance: |  +0 |  +4 |  -4 |  +0 | ... | 
+| fret:     |   0 |   4 |   0 |   0 | ... | 
+
+Why? Because we made the 2nd string shorter and so increased the pitch, its note is now higher than the next by that exact amount. So every time you pick a fret, you *increase* the distance of the *previous* and the *current* string by the number of the fret, and you also *decrease* the distance of the *current* and the *next* string by the same amount.
+
+So let's fix the 3rd string. It's way too low and we need to raise it up to a 4.8, which is 7 steps higher, so we pick the 7th fret. (I told you we'd need big hands.)
+
+| note:     | 4.1 | 4.5 | 4.8 | 4.1 | 4.1 | ... |
+| distance: |  +0 |  +4 |  +3 |  -7 |  +0 | ... |
+| fret:     |   0 |   4 |   7 |   0 |   0 | ... |
+
+Success: we now have the 4.1 major chord on the first 3 strings. But what if we *also* want to play the chord in the next octave? That's a very common thing to do. We'd also need 5.1, 5.5 and 5.8, so let's prepare the 4th string. It's 12 too low, so let's lift it up:
+
+| note:     | 4.1 | 4.5 | 4.8 | 5.1 | 4.1 | 4.1 | ... |
+| distance: |  +0 |  +4 |  +3 |  +5 | -12 |  +0 | ... |
+| fret:     |   0 |   4 |   7 |  12 |   0 |   0 | ... |
+
+How do we continue from here? Well it's simple: because we're back at the root (in a different octave), we can just repeat the previous pattern! We just need to push it all 12 frets further down.
+
+| note:     | 4.1 | 4.5 | 4.8 | 5.1 |     5.5 |     5.8 | ... |
+| distance: |  +0 |  +4 |  +3 |  +5 |      +4 |      +3 | ... |
+| fret:     |   0 |   4 |   7 |  12 | 16=12+4 | 19=12+7 | ... |
+
+You see how you'd repeat this pattern for all octaves, right? Just use the same fret pattern of 0, 4, 7, 12, and repeat it indefinitely, adding 12 every time we finish one repetition.
+
+See how this fret pattern is identical to the actual interval we're trying to play? You can play any interval you want just by taking the *relative* distances of the interval and turning them into *relative* distances between frets. What if we want to play 4.2 major? That's not what our strings are tuned to! But no problem: it just adds +1 to everything. We just move one fret down on the whole neck. Now we can play *any* chord we want (above 4.1 - there's no way to *decrease* the pitch of a string).
+
+You may also have noticed that we cover a full 12 frets just to play one chord. That's a seriously long distance. A normal guitar only has about 20 frets. This pattern won't do. What if, instead of tuning every string to the same 4.1, we'd tune them already one step apart?
+
+| note:     | 4.1 | 4.2 | 4.3 | 4.4 | ... |
+| distance: |  +1 |  +1 |  +1 |  +1 | ... |
+| fret:     |   0 |   0 |   0 |   0 | ... |
+
+Let's repeat our original routine to find the frets for the 4.1 major chord. We want the 2nd string to play 4.5, but now we only need to add 3 more steps.
+
+| note:     | 4.1 | 4.5 | 4.3 | 4.4 | 4.5 | ... |
+| distance: |  +1 |  +4 |  -2 |  +1 |  +1 | ... |
+| fret:     |   0 |   3 |   0 |   0 |   0 | ... |
+
+Note how the 3rd string is now only *2* lower because the built-in interval already adds one step for us. Let's complete[^comp] the rest up to 5.8:
+
+[^comp]: This is where you'd do the obvious exercise of letting the student fill out the table.
+
+| note:     | 4.1 | 4.5 | 4.8 | 5.1 | 5.5 |     5.8 | 4.7 | ... |
+| distance: |  +0 |  +4 |  +3 |  +5 |  +4 |      +3 | -13 | ... |
+| fret:     |   0 |   3 |   5 |   9 |  12 | 14=12+2 |   0 | ... |
+
+The fret pattern 0, 4, 7, 12 becomes 0, 3, 5, 9. Why? Because at every step, we already have a cumulative +1 built-in, so it *really* means 0, 3(+1), 5(+2), 9(+3). It would continue as 12(+4), 14(+5), 18(+6) and so on. There's another way to remember it. Go back to the *relative* distance between strings. In the first version where we always use the same note, the fret number increases (as per the interval of the chord) as +4, +3, +5, repeating. But now because we have an inherent +1 <del>damage against ogres</del> step between strings, the relative distance becomes +3, +2, +4, repeating - just 1 lower!
+
+So it's easy to remember how to play the chord on this second tuning: just use the old +4, +3, +5 finger pattern, but decrease everything by 1. Again we can play any chord we want - just take the relative distances and *subtract 1* at every step.
+
+And we were successful, kinda - the chord now only needs 9 frets to play instead of 12. But that's still not good enough for us. Maybe we can compress the fret range *even more*? (cue mad engineering music)
+
+The smallest relative distance between notes in our chord is +3, so maybe that would make a good distance to tune our strings to?
+
+| note:     | 4.1 | 4.4 | 4.7 | 4.10 | ... |
+| distance: |  +3 |  +3 |  +3 |   +3 | ... |
+| fret:     |   0 |   0 |   0 |    0 | ... |
+
+Remember that we can just turn intervals into frets by taking the relative distances, and adding the built-in distance between strings. So our +4, +3, +5 pattern would become +1, +0, +2 and give us the frets 0 (start), 1 (+1), 1 (+0), 3 (+2), 4 (+1), 4 (+0) and so on.
+
+| note:     | 4.1 | 4.5 | 4.8 | 5.1 | 5.5 | 5.8 | 5.7 | ... |
+| distance: |  +0 |  +4 |  +3 |  +5 |  +4 |  +3 |  -1 | ... |
+| fret:     |   0 |   1 |   1 |   3 |   4 |   4 |   0 | ... |
+
+That's pretty awesome because that's actually *playable*. The first chord just needs one fret, and with 4 frets, we get 2 full chords. 4 frets is still a bit tricky, but not impossible like the previous 19 frets. But... maybe... we could compress them *even more*?
+
+Let's take a look at the current fret distances: +1, +0, +2. Let's say we add one more and move up to +4 between strings. That would give us +0, -1, +1. Here's the problem: there are no negative frets. There's still a way we can deal with this.
+
+Negative fret distances are only a problem if we *start* with 0 frets. If we just moved everything down one fret, we wouldn't be able to play a 4.1 major chord, but we could still play the 4.2 major chord with these frets: 1, 1, 0, 1, 1, 0, 1, and so on. So we could just tune all strings one note down to 3.12 and still cover everything.
+
+| note:     | 4.1 | 4.5 | 4.8 | 5.1 | 5.5 | 5.8 | 5.7 | ... |
+| distance: |  +0 |  +4 |  +3 |  +5 |  +4 |  +3 |  -1 | ... |
+| fret:     |   1 |   1 |   0 |   1 |   1 |   0 |   1 | ... |
+
+Note how using 4 steps is really convenient: two chords span just one fret. It has the disadvantage though that we have to start in a lower pitch than we actually intend to play in most of the time. 
+
+- inevitable because you can never fit all root notes on one guitar
+- alternative solution: skip steps
+
+[^euro]:
+    <% skip do %>
+    If you feel like I'm too eurocentric, be happy I don't mention how many music theorists of old held that not just Western music, but *German 18th century music* in particular was the best *humanity as a whole* has ever produced. Like, ever. Don't point out to those dudes that a certain Korean song just got one billion hits on Youtube a couple of days ago.
+
+    Also, [fuck dead old guys][Bill Bailey Bollywood].
+    <% end %>
+
+[^name]:
+    The notes have different traditional names, but they are stupid and I don't use them. My notation is similar to scientific pitch notation, except I start counting at 1, not 0. (Because only slaves start counting at 0.) For reference, C is 1, C# is 2, B is 12.
+    
+[^parts]:
+    Two remarks about that. Dividing an octave into 12 equal parts is called *equal temperament*. This is slightly misleading because the absolute distance between notes isn't equal, but the ratio of a note and the previous note. In other words, pitch between notes increases at a constant *percentage*. This is because your ears work logarithmically and perceive the same multiplier as a constant "auditory distance".
+
+    The other thing is that equal temperament isn't the only way to derive notes, particularly before the 18th century. But all other ways are insane and if you use them, you're evil. Like, *imperial units* evil.
+

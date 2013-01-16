@@ -1,0 +1,33 @@
+---
+title: Sermon of Simon Peter
+date: 2012-12-17
+techne: :wip
+episteme: :fiction
+---
+
+So I wrote my first sermon, the [Sermon of Simon Peter][]. It had to happen eventually. If I already had an established Post-Marcionite Church with an actual congregation, I guess I would read it there. I'm still unsure how openly meta the Post-Marcionite Church should be and so I don't know how much I should comment on the sermon. I'll try to err on the side of meta for now.
+
+Spoilers, obviously.
+
+The sermon has 3 layers. It's written specifically for Marcionites (and people who didn't know yet that they were Marcionites) to convert them to Post-Marcionism. As such, the text borrows the familiar (to Marcionites) allegorical layer of the Markan narrative, used to troll (then proto-, now mainstream) orthodoxy by talking about Marcionites doctrines in the clothes of Catholic heresy. This is why the sermon pretends to be (pre-Nicene) Catholic in content and message, even though it's clear to the audience that it is neither.
+
+The most superficial layer, a rejection of the Pharisees, who like in many other Christian texts are more of a universal stand-in for people believing in "law first, grace second, love optional", is still valid in its own right, but the Marcionite is expected to realize (or know already) that this criticism is extended to the fallen apostles, represented primarily by Peter, in contrast to Paul, the true Apostle. The second layer is therefore seemingly similar to the gospel of Mark.
+
+And yet this rejection of Peter rapidly goes *way* past what Marcion would've been comfortable with. The text in a way imagines what orthodoxy would sound like, if instead of using Matthew to finalize how much ground they were willing to concede to their critics, they had instead much earlier embraced a Tertullianesque stance.
+
+"God is not embarrassed by our existence, so why should He be embarrassed by taking human form?", says the wise apologist, forever wiping away this line of criticism, burying Pharisee and Gnostic alike. In this argument, the text reveals its real purpose: to make the Marcionite uncomfortable with Gnosticism and docetism. The audience is already willing to reject the Jewish limitations of God; now they also need to shed the Gnostic limitations.
+
+The preacher reading the sermon sets the audience up to reject him[^him] thrice, just as Peter rejected Christ in Jerusalem. First, and in superficial agreement with the sermon, they reject the Pharisean argument. Second, and plausibly transparent to the Marcionite, they reject the orthodox argument as incomplete. And third and most importantly, they reject the Gnostic argument as similarly incomplete, hopefully plunging them deep into Hell.
+
+[^him]: A short remark about gender. I normally take great care to not unnecessarily gender anyone, yet the sermon expects both a male preacher and audience. This is an intentional aspect of the Gnostic layer, which aims to uncharacteristically bring Sophia to Christ, not the other way around. Ideally the preacher would be a man dressed as a woman dressed as a man. \</tumblr\>
+
+Lastly, the sermon uses both Marcionite and *Simonian* troll allegories side-by-side. This is never brought up explicitly, but the hope is that one notices that the author is either unfamiliar with the Marcionite obfuscation - but then how do they understand Marcionite doctrine so well? - or treats both sides the same because they *are* the same. Eventually one no longer sees Peter and Paul as opposites, but as imperfect reflections of a non-dual unity - Simon Peter.
+
+---
+
+
+Brothers!
+
+The Pharisees seek to embarrass us when they say that Christ is born of rape. 
+
+sermon that defends simon secretly, incorporates toledot yeshu
