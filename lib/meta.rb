@@ -11,6 +11,12 @@ def div_wrap tag, text
   "<div class='#{tag}' markdown='1'>#{text}</div>"
 end
 
+# wrap in span tags
+def span_wrap tag, text
+  "<span class='#{tag}' markdown='1'>#{text}</span>"
+end
+
+
 # don't parse this when counting words
 def skip &block
   annotate block do |c|
@@ -28,7 +34,7 @@ end
 # interpolations; highlight them
 def interpolation &block
   annotate block do |c|
-    div_wrap :interpolation, c
+    span_wrap :interpolation, c
   end
 end
 

@@ -8,7 +8,7 @@ toc: true
 
 # John the Baptist's Prophecy (S-1) {#s-1}
 
-The beginning of the good news about Jesus Christ, <% interpolation do %>the son of God <% end %>.
+The beginning of the good news about Jesus Christ, <% interpolation do %>the son of God<% end %>.
 
 It is said in the prophet Isaiah:
 
