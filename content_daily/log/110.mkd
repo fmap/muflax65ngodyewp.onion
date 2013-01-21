@@ -6,6 +6,19 @@ episteme: :log
 ---
 
 <% skip do %>
+Have you ever accidentally wireheaded yourself?
+
+A while ago, I got into a bit of a weird habit. There were a bunch of emotional states I couldn't in any way remember. I always had to actually recreate the circumstances that led to them in their entirety, and only then would they resurface. So I practiced.
+
+They are quite pleasant, so I played around. I couldn't recreate the perception, but I could, to some degree, bring up the reaction, which is all I initially wanted. I then imagined, daydreaming, what post-singularitarian technology I might want to employ to further enhance the state. How to make it more permanent, more intense, and so on. And as I went through the process, I noticed I had solidified the state, not to a high degree of perfection yet, but still absent any perception. I also noticed that I did not experience any habituation. I could maintain this particular pleasant state indefinitely, completely independent of anything else, if I wanted to.
+
+In the spirit of my old lingo choice, I had unlocked Slaanesh. She was tempting me before, but never came under my full control.
+
+<% end %>
+
+---
+
+<% skip do %>
 This is too speculative for a full post, but here goes. Let's dissect the Gospel of Mark!
 
 First step, *which* Mark? For our purposes, we'll recreate a super-gospel by merging all parts that we are reasonably sure have been considered part of Mark by some early Christian or another (up to 5th century or so). We know we don't have any *direct* evidence what the "early versions" (wherever they came from) looked like, so we'll have to reconstruct the separate sources through higher criticism anyway. However, looking at *where* and *how* separate variants have been merged into the text will tell us how *other* variants have likely been inserted, even when we don't have the pre-merged manuscripts anymore.
