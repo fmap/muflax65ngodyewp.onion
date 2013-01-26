@@ -10,7 +10,7 @@ def rss_feed
     rss.channel.description = @site.title
     rss.items.do_sort = true # sort items by date
 
-    # use changelog or non-draft articles
+    # use non-draft articles
     @site.items_by_date.last(5).each do |item|
       i = rss.items.new_item
       i.title = "#{item[:title]}"
@@ -19,9 +19,9 @@ def rss_feed
       i.description = tidy(item.compiled_content).force_encoding("utf-8")
     end
 
-    # mod date is newest article / entry in log
+    # mod date is newest article
     last_article = @site.items_by_date.last[:date].to_time
-    rss.channel.date = log.nil? ? last_article : log.mtime
+    rss.channel.date = last_article
   end
 
   content
