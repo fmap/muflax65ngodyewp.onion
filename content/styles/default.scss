@@ -10,6 +10,7 @@ $hover: #057dff;
 $quote: #a6a542;
 $pre: #fff8d9;
 $warning: #d44836;
+$interpolation: $h1;
 
 /* sizes */
 $left-col: 45em;
@@ -332,6 +333,10 @@ pre {
   line-height: 1.3em;
   overflow: auto;
   padding: $margin/2 $margin; 
+}
+
+span.interpolation {
+  background: $interpolation;
 }
 
 /* tables */

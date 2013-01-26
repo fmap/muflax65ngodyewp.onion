@@ -55,7 +55,7 @@ This is too speculative for a full post, but here goes. Let's dissect the Gospel
 
 <%= image("hermeneutics.jpg", "Hermeneutics") %>
 
-First step, *which* Mark? For our purposes, we'll recreate a super-gospel by merging all parts that we are reasonably sure have been considered part of Mark by some early Christian or another (up to 5th century or so). We know we don't have any *direct* evidence what the "early versions" (wherever they came from) looked like, so we'll have to reconstruct the separate sources through higher criticism anyway. However, looking at *where* and *how* separate variants have been merged into the text will tell us how *other* variants have likely been inserted, even when we don't have the pre-merged manuscripts anymore.
+First step, *which* Mark? For our purposes, we'll need to recreate a super-gospel by merging all parts that we're reasonably sure have been considered part of Mark by some early Christian or another (up to 5th century or so). We know we don't have any *direct* evidence what the "early versions" (wherever they came from) looked like, so we'll have to reconstruct the separate sources through higher criticism anyway. However, looking at *where* and *how* separate variants have been merged into the text will tell us how *other* variants have likely been inserted, even when we don't have the pre-merged manuscripts anymore.
 
 You've probably heard of the Documentary Hypothesis, according to which the Torah is the result of merging four previously independent narratives into one text. This *may* imply multiple authorship, but it doesn't have to - the original author might've just used multiple sources and didn't edit out the seams. Before we speculate about specific authorship and chronologies, we first have to identify the internal layers.
 
@@ -69,7 +69,7 @@ Because I don't expect you to have memorized Mark entirely (or to read my comple
 
 1. TODO
 
-I propose the following layers / groups of stories:
+I've grouped a few stories together and given the potential layer a name:
 
 - Simonian Propaganda
   - Parables:
@@ -96,7 +96,7 @@ The account of John the Baptist's death is fairly sympathetic to Herod. Contrast
 
 Note that in Jesus' rejection at home, we aren't actually told *where* that is. Mark takes no position on this because either it wasn't settled yet (likely), or because it is of little concern to its primary authors, who don't consider Jesus earthly to begin with and couldn't care less about Jewish midrash (except for trolling purposes).
 
-In fact, let's have a closer look. There are two names to pay attention to:
+Let's have a closer look. There are two names to pay attention to:
 
 - Jesus of Nazareth: 
 - Jesus the Nazarene: 
@@ -110,6 +110,5 @@ Some other layers are my interpretation. Let me explain.
 - The Feeding of the 5000 and 4000 look like two variants of oral miracle stories, but the main reason I consider them parables instead is the focus on exact numbers. Jesus doesn't just feed them with a few loaves, but exactly 5 loaves and 2 fishes. These numbers are repeated again and again, and the same in the second telling, with different numbers. This makes them look an awful lot like a numerological inside joke - a reference maybe to a specific classification. There's even a later reminder by Jesus to look deeper. This makes me suspect design, but the oral interpretation is still very plausible. That I think they are *Simonian* parables is bit of a stretch because I have no idea what they mean or refer to. It is purely based on a hunch.
 
 The problem is that the primary reason to suspect Basilides is that he fits the profile. Our reference pool is so small that we only know like three Gnostics, and if two of them couldn't have written it, and it looks Gnostic, well it must've been the third!
-
 
 <% end %>
