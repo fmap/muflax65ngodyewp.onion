@@ -342,4 +342,4 @@
 [sutra]: http://sutra.muflax.com
 [dlog]: http://daily.muflax.com
 [RSS]: /rss.xml
-[Universal RSS]: http://muflax.com/rss-merged.xml
+[Universal RSS]: http://muflax.com/rss.xml

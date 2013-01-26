@@ -12,7 +12,7 @@ Says Wiki-sama:
 
 Another way to express the idea of locality is to think in terms of a cellular automaton or Turing machine. Locality simply means that the machine only has to check the values of a limited set of neighbor cells (8 for the Game of Life, 0 for a standard TM) to figure out the next value of the current cell for any given step.
 
-The fact that some interpretations of quantum physics (Many Worlds most notably) are more local than others (Copenhagen) is commonly used as a major argument in their favor. I've [started collecting][Unifying Morality] features of moral theories and noticed that locality also applies to them, but I've never seen anyone make the argument, so here it goes.
+The fact that some interpretations of quantum physics (Many Worlds most notably) are more local than others (Copenhagen) is commonly used as a major argument in their favor. Locality also applies to moral theories, but I've never seen anyone make the argument, so here it goes.
 
 Moral theories must make prescriptions. If a moral theory doesn't tell you what to do, it's useless (tautologically so, really). So if after learning Theory X you still don't know what you should do to act according to Theory X, then it's to be discarded. Theory X must be wrong. (And don't try to embrace [moral luck][Moral Luck]. That way lies madness.)
 

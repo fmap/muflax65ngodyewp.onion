@@ -14,9 +14,7 @@ episteme: :believed
 
     And I'm *appalled* by that suggestion! I'm not *rationalizing*! I have a complex meta-ethical set of axioms that has morally-neutral trolling as a derivable theorem!
 
-    I didn't start out with the conclusion here, I did proper meta-ethics and *discovered* it! I'm not *that* [biased][Es gibt Leute, die sehen das anders.].
-
-    (However, if you think I'm actually doing harm, tell me. I'm not deliberately trying to be a douche.)
+    I didn't start out with the conclusion here, I did proper meta-ethics and *discovered* it! I'm not *that* crazy.
 
 Let's start with a simple definition - what's trolling? Trolling, [like crackpottery][Crackpot Theory], is arguing for positions that are not merely motivated by truth-seeking[^truth]. The major difference, however, is that a crackpot actually believes what they are saying, they just use an interestingness prior to select their beliefs. A troll is intentionally adjusting their beliefs for the specific argument, either in content ("lol bible says kill the gays") or strength ("I feel very strongly about this definition!").
 

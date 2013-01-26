@@ -1,6 +1,0 @@
----
-title: From the Pali Canon
-is_category: true
----
-
-<%= category :pali %>

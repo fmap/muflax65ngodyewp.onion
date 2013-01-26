@@ -5,7 +5,7 @@ techne: :done
 episteme: :log
 ---
 
-Wrote [a quick post][Suffering? What suffering?] about suffering, and how I seem to have misplaced it or something, maybe it's under my pillow, no, was it even there to begin with, I don't know, have you seen it? (This might either be one of those really dumb or really important posts, in hindsight. Not sure which yet.)
+Wrote a quick post about suffering, and how I seem to have misplaced it or something, maybe it's under my pillow, no, was it even there to begin with, I don't know, have you seen it? (This might either be one of those really dumb or really important posts, in hindsight. Not sure which yet.)
 
 Also started some of the preparation of a post about epistemological warrant, as proposed by Plantinga. It's a really cool concept, has some neat implications and enables *great* troll arguments[^troll], demonstrates why theologians aren't worthless (well, ok, this *is* epistemology, so maybe that's not the most convincing demonstration of usefulness...), and, most importantly, I'll need it later to argue that Crackpottery is also warranted.
 

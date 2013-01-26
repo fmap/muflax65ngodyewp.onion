@@ -9,7 +9,7 @@ An announcement! (I should put this somewhere else too, maybe. Eh.)
 
 I've started to acquire quite a lot of sub-sites, so I decided to re-tool the main site a bit more aggressively, groups stuff more, clean up in general. This changed some of the links on the main site, and I moved some of that stuff back into the blog, but hey, no one ever linked to it (or even read it), so that shouldn't matter much. (I redirected urls anyway. I try to never break anything. Except my brain.)
 
-<http://muflax.com> is now a (simple) portal for all my sites, and the articles hosted directly there are Big Fat Things That Grow Over Time[^yo] But Have A Kind Of Limited Scope And Are At Some Point Done And Self-Contained. BFTTGOTBHAKOLSAAASPDASCs. (In [antediluvian][] times, I think they called these things "books". Or a "tractatus". Something like that.) For now, they are either way-too-ambitious posts like the [Antinatalism FAQ][] or stuff that all belongs together, in some sense.
+<http://muflax.com> is now a (simple) portal for all my sites, and the articles hosted directly there are Big Fat Things That Grow Over Time[^yo] But Have A Kind Of Limited Scope And Are At Some Point Done And Self-Contained. BFTTGOTBHAKOLSAAASPDASCs. (In [antediluvian][] times, I think they called these things "books". Or a "tractatus". Something like that.) For now, they are either way-too-ambitious posts like the Antinatalism FAQ or stuff that all belongs together, in some sense.
 
 I'll unify some more stuff[^crack] into single articles (like the antinatalism one), once there's a bit more content and I'm in the mood. I don't want to end up like Certain People who have elaborate intelligent arguments spread out over a bazillion blog posts and you can't just say, "read this huge site here, it contains everything you need to know".[^meta]
 
@@ -41,7 +41,7 @@ Also, there is now an additional [universal RSS feed][Universal RSS] that includ
 
 ---
 
-And because I'm reading more, and I like lists, and reviews, hey!, there's now a [Let's Read][] site! I don't expect it to be very in-depth, or heck, even active in a month or two, but let's throw fifty ideas against the wall, one might stick. (Or at least make the wall sticky. *Eww*.)
+And because I'm reading more, and I like lists, and reviews, hey!, there's now a Let's Read site! I don't expect it to be very in-depth, or heck, even active in a month or two, but let's throw fifty ideas against the wall, one might stick. (Or at least make the wall sticky. *Eww*.)
 
 Not that it has any real content yet. I'm not even yet committing to posting anything there, but I've set it up anyway. I have, however, committed to a [new Beeminder goal][Beeminder anki new] of adding 5 new cards per day to my Anki decks, ignoring auto-generated cards for language learning.[^lang] Similarly, I may commit soon to, say, one review (or quote-thingy like for PIT) per week. Just trying to figure out how useful this would be for me.
 
@@ -75,7 +75,7 @@ It's insane how much this calms me down. It's like applying a medkit to the *sou
 
 > [Moss][IT Crowd Football]: I wanna go back to being weird. I *like* being weird. Weird's all I've got. That, and my sweet style. 
 
-I thought a bit more about thinking about philosophy, and luckily found a [solution due to divine inspiration][Condemnation].
+I thought a bit more about thinking about philosophy, and luckily found a solution due to divine inspiration.
 
 As you may have guessed, this is based (quite literally) on the [Condemnation of 1277][], and about half of the condemnations are taken more-or-less directly from it (because I liked them[^ironic] and kept laughing about how the *original Condemnation of 1277* could be used, *verbatim*, to criticize several philosophy debates *today*).
 

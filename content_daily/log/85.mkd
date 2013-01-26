@@ -72,7 +72,7 @@ As for practice, Nurgle and reading have basically occupied whatever crappy reso
 <% skip do %>
 Before I gave it much thought, I was quite comfortable with Marcionite / Paulinist / Gnostic positions, and thought that Catholic redactions and interpretations were often clearly pandering or lame compromises, if not outright corruptions of original intent. That might still be true (in the sense that I still believe that the Catholic versions of the NT texts are late and highly edited), but they make a lot more sense than the alternatives.
 
-For example, I find docetism (Jesus' suffering was just an illusion), a very common Gnostic position, now actively repugnant, and was surprised that Augustine rejected donatism, i.e. the idea that you can't receive valid sacraments from sinful priests. If that were the case, of course, *no* sacrament would ever work 'cause we're all stuck in a world of sin. (You might recall that this worried me [a while ago][Self-Baptism].) 
+For example, I find docetism (Jesus' suffering was just an illusion), a very common Gnostic position, now actively repugnant, and was surprised that Augustine rejected donatism, i.e. the idea that you can't receive valid sacraments from sinful priests. If that were the case, of course, *no* sacrament would ever work 'cause we're all stuck in a world of sin. (You might recall that this worried me a while ago.) 
 
 So even if none of that stuff is actually true or relevant, the Catholics still know how to pick the best set of tropes. Dudes seriously thought this shit through.
 <% end %>

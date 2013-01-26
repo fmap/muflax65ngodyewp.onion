@@ -1,6 +1,0 @@
----
-title: Great Filter
-is_category: true
----
-
-<%= category :"great-filter" %>

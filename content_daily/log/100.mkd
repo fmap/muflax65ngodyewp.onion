@@ -51,7 +51,7 @@ It's not deliberate obscurantism, it's just context-heavy work. If you just want
 ---
 
 <% skip do %>
-Minor belief update: the argument [against vegetarianism][Vegetarian] got simpler because I just don't [give a shit][Mans Search Cheer Up] about "suffering"[^suf] anymore. (I'll update the post when I get around to writing a better post about *why* suffering doesn't matter / isn't bad.)
+Minor belief update: the argument against vegetarianism got simpler because I just don't [give a shit][Mans Search Cheer Up] about "suffering"[^suf] anymore. (I'll update the post when I get around to writing a better post about *why* suffering doesn't matter / isn't bad.)
 
 Back when I wrote this post I thought, sure, animals may *suffer*, but they're not morally relevant agents, so their suffering - or any preference or experience - is irrelevant (and if not, surely it's fairly minor, especially compared to all the benefits). I now see a teleological case for their being (minor) moral agents (but I'm not sure it convinces me[^con]), but more importantly, suffering simply carries no normative power per se, so I don't see what possible evil eating animals constitutes. Nor have I ever seen any attempt to ground "suffering is bad" in anything but "it sure feels like it!" or "but I wanna!", and in fact most active proponents of these views *deny* a derivation of morality from rational arguments.
 

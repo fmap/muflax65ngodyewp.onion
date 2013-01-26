@@ -1,6 +1,0 @@
----
-title: Dark Stance Exploration
-is_category: true
----
-
-<%= category :"dark-stance" %>

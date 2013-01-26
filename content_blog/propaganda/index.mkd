@@ -1,6 +1,0 @@
----
-title: Propaganda
-is_category: true
----
-
-<%= category :propaganda %>

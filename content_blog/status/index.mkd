@@ -1,6 +1,0 @@
----
-title: Social Status
-is_category: true
----
-
-<%= category :status %>

@@ -1,6 +1,0 @@
----
-title: Consciousness
-is_category: true
----
-
-<%= category :consciousness %>

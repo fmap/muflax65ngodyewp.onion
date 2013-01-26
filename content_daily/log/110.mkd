@@ -1,7 +1,7 @@
 ---
 title: Moloch The Devourer
-date: 2013-01-16
-techne: :wip
+date: 2013-01-26
+techne: :done
 episteme: :log
 ---
 
@@ -18,8 +18,42 @@ In the spirit of my old lingo choice, I had unlocked Slaanesh. She was tempting 
 
 ---
 
+I've been cleaning up my site *a lot*.
+
+I've retired anything I considered either broken, semi-embarrassing or useless. I thought about my old rule of never deleting anything, which I introduced for two good reasons:
+
+1. Several times in my life have I become fed up with or wanted to isolate myself from stuff I had done, and deleted everything, including backups. Some of these deletions were good ideas, some not. I don't feel I need these drastic methods anymore, so I wanted to preserve everything because you never know.
+2. I don't like when people take their stuff offline.
+
+Still, there are important reasons for me to fully retire old stuff, and if you *really* care, the [git repo][Source] still exists and has all the old versions in it, so I haven't thrown anything away, just removed it from circulation. (Sorry if I broke your links. If anyone actually misses anything I removed, just comment, I'll put it up somewhere again.)
+
+The sites are much smaller now and the content has been moved elsewhere. The "blog" is kinda closed. The logs (i.e. what you're reading now) are my real day-to-day writing location (well, for flexible interpretations of "day"). I first thought about merging the "main site" and "the blog", but just decided to keep the "main site" as an easy portal / "who the fuck is muflax?" site, and moved all decent self-contained content to the "blog".
+
+I've merged the content from the other sub-domains - sutra and letsread - into the blog and closed these sub-domains.
+
+For the sake of <del>my devout fans</del> <del>obsessive internet stalkers</del> all three readers, here's my reasoning for some deprecations:
+
+- The antinatalism FAQ is gone because I can't be bothered to repair it. It *should* be a serious (non-strawman) neutral overview of antinatalist arguments, but I don't care about that anymore, nor have I any interest in antinatalism left, so it's better to just kill it.
+
+  I've lost interest in antinatalism primarily because virtually all arguments for it are crap. The only defensible notion is that humans over-value their life satisfaction, but I don't see how that gets you down to anywhere close to indifference, even under really pessimistic assumptions. "Some techniques we think work actually don't" is a perfectly sensible position, and I'd agree that depression and suicide treatment is abysmal (because they aren't grounded in science and other buzzwords[^science]), and I even see how, based on only slightly broken assumptions, you'd conclude that a small minority of people is better off dead - but to get that number up to a majority? Nonsense, the evidence is firmly the opposite.
+
+  I also strongly disagree with the implicit values of most antinatalists, but that doesn't generally affect the arguments, and is not the reason I'm abandoning it. 
+
+  [^science]:
+      Buzzwordy as it is, I actually mean it. People are way too confused about "depression" and "feelings", and don't think enough in terms of behavior. I can't pretend I'm a model reductionist behaviorist myself, but I certainly aspire to be one, fucktarded as I occasionally am. (Ok, often.) (Ok, please don't read anything I ever wrote.)
+      
+- The speed-reading post got deleted because it should just read "use shaping, idiot". I might write a new, better version (that would also be much shorter), or include "learn speed-reading" as an exercise in a future post that explains how to use shaping. Dunno, but for now, it's just gone.
+
+- A lot of personal stuff is gone because I can't identify with the person who wrote it. It felt like hosting someone else's diary.
+
+- I've deprecated the Dark Stance. It's not that it's wrong per se, but that it works differently than I thought, and my old presentation doesn't help you at all and is likely to just send you down the wrong path. There *is* a right path, and I still intend to teach it one day, but until then, you're on your own. If you can't re-invent it, you probably shouldn't be using it anyway.
+
+---
+
 <% skip do %>
 This is too speculative for a full post, but here goes. Let's dissect the Gospel of Mark!
+
+<%= image("hermeneutics.jpg", "Hermeneutics") %>
 
 First step, *which* Mark? For our purposes, we'll recreate a super-gospel by merging all parts that we are reasonably sure have been considered part of Mark by some early Christian or another (up to 5th century or so). We know we don't have any *direct* evidence what the "early versions" (wherever they came from) looked like, so we'll have to reconstruct the separate sources through higher criticism anyway. However, looking at *where* and *how* separate variants have been merged into the text will tell us how *other* variants have likely been inserted, even when we don't have the pre-merged manuscripts anymore.
 

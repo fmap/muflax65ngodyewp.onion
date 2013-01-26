@@ -1,6 +1,0 @@
----
-title: Antinatalism
-is_category: true
----
-
-<%= category :antinatalism %>

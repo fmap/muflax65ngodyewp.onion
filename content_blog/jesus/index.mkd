@@ -1,6 +1,0 @@
----
-title: Theology
-is_category: true
----
-
-<%= category :jesus %>

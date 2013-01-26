@@ -1,0 +1,6 @@
+---
+title: Fiction
+is_category: true
+---
+
+<%= category :fiction %>

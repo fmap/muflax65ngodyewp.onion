@@ -1,6 +1,0 @@
----
-title: Thought Experiments
-is_category: true
----
-
-<%= category :"thought-experiments" %>

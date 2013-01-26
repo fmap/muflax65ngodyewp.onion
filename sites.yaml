@@ -5,14 +5,8 @@ sites:
   blog:
     title: muflax' mindstream
     disqus_site: muflaxblog
-  sutra:
-    title: Blogchen
-    disqus_site: muflaxsutra
   daily:
     title: muflax becomes a saint
     disqus_site: dailymuflax
-  letsread:
-    title: Let's Read
-    disqus_site: muflaxread
   gospel:
     title: The Unchanging Gospel

@@ -1,6 +1,0 @@
----
-title: Drugs
-is_category: true
----
-
-<%= category :drugs %>

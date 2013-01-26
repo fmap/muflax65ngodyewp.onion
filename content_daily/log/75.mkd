@@ -111,7 +111,7 @@ Reason: muflax' head is a complete mess, and if this were the W40K 'verse, it wo
 
 [^tokyo]:
     <% skip do %>
-    I mean, if my [rationalization][Dark Stance] of my [Too Kinky To Torture][] tendencies hadn't already tipped you off that I'm turning into little [赤ずきん][Tokyo Akazukin], minus the loli. (Maybe post-Singularity. It's on The List.)
+    I mean, if my rationalization of my [Too Kinky To Torture][] tendencies hadn't already tipped you off that I'm turning into little [赤ずきん][Tokyo Akazukin], minus the loli. (Maybe post-Singularity. It's on The List.)
     <% end %>
 
 I tried to wait it out, but it's been over a week now and my head has [only become messier][My Last Sunrise], and I find it hard to concentrate for even 10 seconds, so I'll try something else now.

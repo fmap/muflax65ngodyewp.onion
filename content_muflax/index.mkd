@@ -9,9 +9,9 @@ no_comments: true
 
 Yet another hypergraphic information whore's site.
 
-[muflax][] is empty.
+[muflax][] is learning how to control you.
 
-Links are sorted by mysterious processes. There is a [Changelog][] for major changes. You can subscribe to the [universal RSS feed][Universal RSS] for all sites, or go to each site for their individual feeds.[^snr]
+You can subscribe to the [universal RSS feed][Universal RSS] for all sites, or go to each site for their individual feeds.[^snr]
 
 [^snr]: As if you cared about signal-to-noise. I know you watch cats jump into boxes all day like the rest of us.
 
@@ -26,22 +26,12 @@ There is also [Twitter][].
 <%= render "list-item-fancy",
     :name => @site.site_yaml["sites"]["blog"]["title"],
     :link => site_url("blog"),
-    :desc => "A Blog" %>
+    :desc => "Articles About Stuff" %>
 
 <%= render "list-item-fancy",
     :name => @site.site_yaml["sites"]["daily"]["title"],
     :link => site_url("daily"),
     :desc => "Daily Practice" %>
-
-<%= render "list-item-fancy",
-    :name => @site.site_yaml["sites"]["letsread"]["title"],
-    :link => site_url("letsread"),
-    :desc => "Reading Is Radical" %>
-
-<%= render "list-item-fancy",
-    :name => @site.site_yaml["sites"]["sutra"]["title"],
-    :link => site_url("sutra"),
-    :desc => "Bloggin' The Sutras" %>
 
 <%= render "list-item-fancy",
     :name => @site.site_yaml["sites"]["gospel"]["title"],
@@ -50,14 +40,9 @@ There is also [Twitter][].
 
 </ul>
 
-# Topics
+# Some Topics
 
 <ul class="fancy">
-
-<%= render "list-item-fancy",
-    :name => "Antinatalism",
-    :link => local_link("muflax:morality/antinatalism"),
-    :desc => "Being Born Sucks" %>
 
 <%= render "list-item-fancy",
     :name => "Crackpottery",
@@ -65,18 +50,14 @@ There is also [Twitter][].
     :desc => "Warranted Crackpot Belief" %>
 
 <%= render "list-item-fancy",
-    :name => "Dark Stance",
-    :link => local_link("muflax:morality/stances"),
-    :desc => "Transform Nothing, Seek No Gain" %>
-
-<%= render "list-item-fancy",
-    :name => "Experiments",
-    :link => local_link("blog:experiments"),
-    :desc => "Trying Cool Stuff" %>
-
-<%= render "list-item-fancy",
     :name => "Meta-Ethics",
     :link => local_link("blog:morality"),
     :desc => "Solving Morality" %>
 
+<%= render "list-item-fancy",
+    :name => "Languages",
+    :link => local_link("blog:languages"),
+    :desc => "Learning Languages" %>
+
+    
 </ul>

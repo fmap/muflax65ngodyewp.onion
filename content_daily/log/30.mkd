@@ -15,7 +15,7 @@ Another advantage: I can finally do all my writing in Emacs. Much nicer than the
 
 I also merged all my various mail accounts, filters etc. into one Gmail account and finally uninstalled Thunderbird. So it's all Webmail (+ local backup). 2006, baby, here I come!
 
-Unfortunately, that leaves me without mail notification 'cause I don't have a system tray (or taskbar or any of that other fancy "desktop environment" crap). So I decided to bite the bullet and finally began the switch from [Xmonad][] to [Awesome][] (again). Porting over all my configs will take ages, but oh well, it's time. Worked some hours (literally) on that.
+Unfortunately, that leaves me without mail notification 'cause I don't have a system tray (or taskbar or any of that other fancy "desktop environment" crap). So I decided to bite the bullet and finally began the switch from Xmonad to [Awesome][] (again). Porting over all my configs will take ages, but oh well, it's time. Worked some hours (literally) on that.
 
 I started a short overview of several conceptions of "self", mostly so that I can use it as a kind of checklist in the future for the various no-self arguments. "Please show me in this list what it is you think I don't have.", basically. (Of course, I also believe that most of those conceptions are wrong.) Also, because it finally clicked how rebirth in (Theravada) Buddhism works, and  how the use of anatta by certain Neo-Buddhists is quite misleading.
 
