@@ -1,9 +1,10 @@
 <%= render 'header' %>
 
 <% render 'main',
-   :navbar => true,
-   :search => true,
-   :categories => true,
+   :navbar      => true,
+   :search      => true,
+   :toc         => @item[:toc],
+   :categories  => true,
    :breadcrumbs => true do %>
   <%= yield %>
 <% end %>
