@@ -1,21 +1,8 @@
 ---
 title: Moloch The Devourer
-date: 2013-01-26
+date: 2013-02-07
 techne: :done
 episteme: :log
----
-
-<% skip do %>
-Have you ever accidentally wireheaded yourself?
-
-A while ago, I got into a bit of a weird habit. There were a bunch of emotional states I couldn't in any way remember. I always had to actually recreate the circumstances that led to them in their entirety, and only then would they resurface. So I practiced.
-
-They are quite pleasant, so I played around. I couldn't recreate the perception, but I could, to some degree, bring up the reaction, which is all I initially wanted. I then imagined, daydreaming, what post-singularitarian technology I might want to employ to further enhance the state. How to make it more permanent, more intense, and so on. And as I went through the process, I noticed I had solidified the state, not to a high degree of perfection yet, but still absent any perception. I also noticed that I did not experience any habituation. I could maintain this particular pleasant state indefinitely, completely independent of anything else, if I wanted to.
-
-In the spirit of my old lingo choice, I had unlocked Slaanesh. She was tempting me before, but never came under my full control.
-
-<% end %>
-
 ---
 
 I've been cleaning up my site *a lot*.
@@ -31,84 +18,510 @@ The sites are much smaller now and the content has been moved elsewhere. The "bl
 
 I've merged the content from the other sub-domains - sutra and letsread - into the blog and closed these sub-domains.
 
+I also updated to Disqus' new UI. I hate it, I hate Disqus, I hate the whole mess, but I currently don't have any alternative. All other comment providers suck even more, and setting up my own would take too much effort right now. Sorry. It sucks. Such is life in the zone.
+
 For the sake of <del>my devout fans</del> <del>obsessive internet stalkers</del> all three readers, here's my reasoning for some deprecations:
 
-- The antinatalism FAQ is gone because I can't be bothered to repair it. It *should* be a serious (non-strawman) neutral overview of antinatalist arguments, but I don't care about that anymore, nor have I any interest in antinatalism left, so it's better to just kill it.
+- The antinatalism stuff is gone because I can't be bothered to repair it. The FAQ *should* be a serious (non-strawman) overview of antinatalist arguments, but I don't care about that anymore, nor have I any interest in antinatalism left, so it's better to just kill it.
 
   I've lost interest in antinatalism primarily because virtually all arguments for it are crap. The only defensible notion is that humans over-value their life satisfaction, but I don't see how that gets you down to anywhere close to indifference, even under really pessimistic assumptions. "Some techniques we think work actually don't" is a perfectly sensible position, and I'd agree that depression and suicide treatment is abysmal (because they aren't grounded in science and other buzzwords[^science]), and I even see how, based on only slightly broken assumptions, you'd conclude that a small minority of people is better off dead - but to get that number up to a majority? Nonsense, the evidence is firmly the opposite.
 
-  I also strongly disagree with the implicit values of most antinatalists, but that doesn't generally affect the arguments, and is not the reason I'm abandoning it. 
+  I also strongly disagree with the (implicit) values of most antinatalists, but that doesn't generally affect the arguments, and is not the reason I'm abandoning it.
 
   [^science]:
       Buzzwordy as it is, I actually mean it. People are way too confused about "depression" and "feelings", and don't think enough in terms of behavior. I can't pretend I'm a model reductionist behaviorist myself, but I certainly aspire to be one, fucktarded as I occasionally am. (Ok, often.) (Ok, please don't read anything I ever wrote.)
+
+      Therapy starts with these questions: What do I think I feel, and how do I know it? What do I think I want to feel, and how would I know if I did? (You're still screwed if you don't have the skill to bootstrap yourself out of there. This is PC advice; NPCs have to wait for institutions to improve.)
       
-- The speed-reading post got deleted because it should just read "use shaping, idiot". I might write a new, better version (that would also be much shorter), or include "learn speed-reading" as an exercise in a future post that explains how to use shaping. Dunno, but for now, it's just gone.
+- The speed-reading post got deleted because it should just read "use shaping, idiot". I might write a new, better version (that would also be much shorter), or include "improve your reading speed" as an exercise in a future post that explains how to use shaping. Dunno, but for now, it's just gone.
 
 - A lot of personal stuff is gone because I can't identify with the person who wrote it. It felt like hosting someone else's diary.
 
-- I've deprecated the Dark Stance. It's not that it's wrong per se, but that it works differently than I thought, and my old presentation doesn't help you at all and is likely to just send you down the wrong path. There *is* a right path, and I still intend to teach it one day, but until then, you're on your own. If you can't re-invent it, you probably shouldn't be using it anyway.
+- I've deprecated the Dark Stance. It's not that it's wrong per se, but that it works differently than I thought, and my old presentation doesn't help you much and is likely to just send you down the wrong path. There *is* a right path, and I might still teach it one day, but until then, you're on your own.
+
+---
+
+Let's talk a bit about typing.
+
+<%= image("ghost-in-the-shell-fingers.jpg", "GITS fingers") %>
+
+I've been using my own custom keyboard layout[^layout] since like 2006 or so, but I recently started doing audio logs, and the mismatch of talking and typing speed really throws off my thought. So it's time to re-visit ways to type much faster.
+
+[^layout]:
+    It's [kinda undocumented][saneo], but for the main idea, take a look at [Neo][Neo layout]. <del>Those fuckers completely misunderstood my genius and stuck to their retarded unoptimized crap</del> I may not have communicated my ideas in the most successful way, so I started a fork. The letter layout and use of layers is almost identical, but I use a very different layer 3 and 4. I also added some minor compromises for more meta keys (= Emacs user) and pushed more stuff close to the home row when possible.
+
+    If I had to start over, I'd use Dvorak as my letter layout because it's a slightly better compromise for all European languages and has much better backwards compatibility. The rest is pretty close to optimal as far as I'm concerned.
+
+So I experimented with a few different approaches. As a reference, I assembled a simple word frequency list based on my own writing. I currently type at about 80wpm and the target would be about 150wpm, which is normal talking speed. If it isn't at least that good, it's not worth the effort.
+
+Easiest method: prediction. Instead of typing the whole word, you just type a part and a prediction engine fills in the rest. This is trivial to transition to, but the question is whether you can actually build enough speed. I've run a few simulations.
+
+If you only use a prefix (like in Google Instant), the advantage is pretty tiny. I already have this enabled in Emacs for the occasional huge word, but aside from that, it's useless. (<5% advantage)
+
+But if you add a predictable suffix, it improves somewhat. The optimal point seems to be a prefix of 1 and a suffix of 2. So you type the first letter, then the last two letters, and if that's not enough, you just keep on typing to expand the prefix until you have a match. This is completely deterministic, easy to learn and gets a speed-up of . Not bad.
+
+I've tried several approaches to get smarter prediction, but the only other non-stupid, deterministic method is to learn [stenotype][]. There are [decent tools][Plover] for it, it's fairly mainstream and the speed benefit is clearly there (>200wpm is fairly typical for a professional). Still, there's a bunch of problems:
+
+1. It requires special hardware. You either need a dedicated steno keyboard (which is expensive as fuck, like srsly, >1k$) or a normal keyboard with n-key rollover (which is rare).
+
+   I'm a keyboard snob who *needs* mechanical switches (you can pry my clicky keys out of my cold, dead hands) and I also don't want to deviate from the normal layout much (because I need all those meta keys), so the cheapest option still comes in at around 150 bucks.
+
+   However, even if you accept that cost, you still can't use mainstream steno because the keys aren't aligned for chorded use. So you either have to customize the layout or modify the hardware.
+
+2. You can't transition to steno. You either use it fully or not, but you can't slowly integrate more and more steno skills into your normal typing. You have to start from scratch.
+
+3. You have to learn steno theory, and wouldn't you know, steno education *sucks*. So you either have to suffer a lot or invent a steno course from scratch. Of course, if you use your own customized layout, you'll have to do that anyway.
+
+Still, [the benefits are obvious][plover benefits], the internal design is sound and I need finger practice anyway (hi there, guitar skill transfers), so I guess I'll be learning steno. (And possibly (co-)write a better instruction for it.)
+
+I've settled on using a normal qwerty keyboard (the [Filco Majestouch-2 tenkeyless with brown switches][Majestouch-2]) with this layout:
+
+<%= image("steno2.png", "Steno layout") %>
+
+It's pretty much the standard steno layout, but you move your home row up by one. This allows for a much more comfortable thumb position. Also, in steno some chords require that one finger presses two keys at the same time. This is easy to do on a stenotype, but really sucky on a normal keyboard. But using this layout, you have enough free keys around that you can just put every such pair on its own key.
+
+The only two disadvantages are that you have to sacrifice your number row (I have them on a meta-layer anyway, but steno doesn't use them either) and that the space bar is still kinda in the way. However, if you remove it and replace it with a shorter keycap (I used the right shift key from a different keyboard), you can still use it normally and have lots of room for activities. Except now everyone can see how filthy your keyboard is. Oh well.
+
+I'll also have to fix [Plover][] because there's a lot of bad design in there I don't like, but that's not particularly work-intensive.
+
+In one of the next logs, I'll go into the steno theory as I learn it and talk some about the necessary tools.
+
+---
+
+My current guitar practice is basically "shape finger movements to a high level of accuracy and speed". I tried to move into chords, but found chord changes to slow and tedious, so I followed the ToI principle of, paraphrasing, "if you can't do something you understand, you need to practice more basic skills first". So I did a quick analysis, drew up this skill list for chord changes, wrote a simple script to generate the random prompts and started practicing. My target rate is 60Hz (error-free) for all of this, and all skills have to be individually learned for all 4 fingers (ditto for pairs).
+
+1. Place finger on arbitrary fret on same string based on name ("1st string 2nd fret"). (You're allowed to look.)
+2. ... different positions of the fret.
+3. ... arbitrary string on same fret.
+4. ... all combined
+5. 1)-4), but blind. (You aren't allowed to look anymore.)
+6. Move finger from one fret to another on same string.
+7. ... one string to another on same fret.
+8. ... different position on fret.
+9. ... all combined.
+10. Anchor one finger on string, then repeat 6)-9) for another finger.
+11. Move both fingers between strings, but keep fingers at same relative distance.
+12. ... arbitrary strings, same fret.
+13. ... all combined.
+14. Arpeggiated chord fingerings: you place all fingers one after another. (Using simple chord shapes.)
+15. Place whole chord at once.
+16. Move whole chord to different fret, same (root) string.
+17. ... different (root) string, same fret.
+18. ... both.
+19. Change chord on same root note (i.e. stay where you are but change the chord shape).
+20. You can now practice chord changes.
+
+(If you still get stuck on a chord change, practice partial chords instead, i.e. instead of using all fingers, leave one out and do the changes with the rest, and so on.)
+
+Because I don't want my other hand to get bored, I do something similar for finger-picking too. (When I get bored anyway, I just flip my guitar around and do the same stuff with mirrored hands.)
+
+(I've also accidentally[^acc] learned to whistle. I've been listening to a lot of [neo-folk][Neun Welten] during practice, but it's mostly instrumental so I couldn't *sing* along, and well, there you go.)
+
+[^acc]:
+    <% skip do %>
+    I similarly suddenly learned to snap my fingers a few years ago. I was talking to my mom on the phone, and got into flow and made an energetic point about something, and instinctively, went SNAP. Then looked really puzzled because I didn't know I could do that, or even *how* I had done it.
+
+    The Taoist claims I can just manifest skills whenever I want to. But he's just trolling. Probably.
+    <% end %>
 
 ---
 
 <% skip do %>
-This is too speculative for a full post, but here goes. Let's dissect the Gospel of Mark!
+But I've not just been deleting stuff. I've also worked on several writing projects, one of which is still too speculative and short for a full post, but might be interesting nonetheless. Let's deconstruct the Gospel of Mark!
 
 <%= image("hermeneutics.jpg", "Hermeneutics") %>
 
-First step, *which* Mark? For our purposes, we'll need to recreate a super-gospel by merging all parts that we're reasonably sure have been considered part of Mark by some early Christian or another (up to 5th century or so). We know we don't have any *direct* evidence what the "early versions" (wherever they came from) looked like, so we'll have to reconstruct the separate sources through higher criticism anyway. However, looking at *where* and *how* separate variants have been merged into the text will tell us how *other* variants have likely been inserted, even when we don't have the pre-merged manuscripts anymore.
+First step, *which* Mark? For my purposes, I needed to create a super-gospel by merging all parts that I'm reasonably sure have been considered part of Mark by some early Christian or another (up to the 5th century or so[^date]). We don't have much *direct* evidence what the "early versions" (wherever they came from) looked like, so we'd have to reconstruct the separate sources through higher criticism anyway. However, looking at *where* and *how* separate variants have been merged into the text will tell us how *other* variants have likely been inserted, even when we don't have the pre-merged manuscripts anymore.
 
-You've probably heard of the Documentary Hypothesis, according to which the Torah is the result of merging four previously independent narratives into one text. This *may* imply multiple authorship, but it doesn't have to - the original author might've just used multiple sources and didn't edit out the seams. Before we speculate about specific authorship and chronologies, we first have to identify the internal layers.
+[^date]:
+    <% skip do %>
+    Why that date? Because that's about the time when manuscript evidence becomes diverse enough that you can reasonably pin down when someone new fucks with the text.
+    <% end %>
 
-So let's try to disentangle the layers of Mark!
+You've probably heard of the Documentary Hypothesis, according to which the Torah is the result of merging four previously independent narratives into one text. This *may* imply multiple authorship, but it doesn't have to - the original author might've just used multiple sources and didn't edit out the seams, for example. Before we speculate about specific authorship and chronologies, we first have to identify the internal layers.
+<% end %>
 
 Remember that the current chapter division is a late addition with considerable disagreement, so I've entirely disregarded it and added a new one, based on content and style. I've prepared a "complete edition" based on the [Open English Bible][] (because it is in the public domain). I don't consider this version definitive (yet), but it will serve us well until I can do my own translations. I have abandoned "chapters" and "verses" and have instead split it into *stories*. Because I don't believe in a "proper" order or definitive text anyway, I have also introduced a numbering system entirely based on content. Because this is the first collection, the numbering still follows conventional chronology. Later additions and new super-gospels won't.
 
 As a naming convention, I'll use S-1 for the first story, or S-1-mark if I want to emphasize a particular version (compared to, say, S-1-luke). I've also given each story a name if it didn't have a conventional one already. The name does not reflect any interpretation; it is purely tl;dr. I've tried to highlight important interpolations in the text as well if there is good manuscript evidence for them.
 
-Because I don't expect you to have memorized Mark entirely (or to read my complete version first, even though I've written longer posts than that before), we'll use this summary:
+I always found it fascinating that [David Strauß][] and other early Higher Critics had been able to properly dissect the text and predict alternative versions long before the Nag Hammadi texts had been found, and with far cruder tools and insights than are available to us now. So I wanted to take a shot at my own reading of Mark before I study more of the existing analyses of it.
 
-1. TODO
+---
 
-I've grouped a few stories together and given the potential layer a name:
+<% skip do %>
+Because I don't expect you to have memorized Mark entirely (or to read my complete version first, even though I've written longer posts than that before), here's a short summary:
 
-- Simonian Propaganda
-  - Parables:
-  - Anecdotes:
-- Simonian Damage Control:
-- Ascetic Damage Control:
-- Marcionite Propaganda
-  - Against the Twelve:
-  - Against the Jews:
-- Marcionite Damage Control: 
-- Catholic[^catholic] Hijacking
-  - of John the Baptist:
-  - of the Twelve:
-- Legion: 
+1. Jesus enters the world, fully formed, and hijacks John the Baptist's gig, is adopted by God and gets all the credentials a <del>Marcionite</del> Jewish Messiah could ask for, and it's blasphemy to suspect <del>a Marcionite</del> some filthy heretic wrote the beginning.
 
-[^catholic]:
-    "Catholic" represents a way of thinking - an *attitude* - not a specific church. I agree that calling any pre-Nicene theology "proto-orthodox" is somewhat dishonest because there wasn't any mainstream consensus yet, but the *attempt* to establish an ortohdox, unified church certainly did exist, and that I call "Catholic".
+2. Jesus assembles the <del>only</del> important disciples - first t brothers Simon and Andrew, then Zebedee's sons James and John.
 
-Some of these are obvious, like the limitations on fasting. As RMP and many others pointed out, this points to a (late?) 2nd century editing of these sections. This fits into a fairly late composition of Mark in general (early 2nd century), which I find very plausible, but won't argue for here. I also reject Markan Priority, but again won't argue it here because our focus is not the relationship to Luke (and Ur-Lukas), but the distinctly Markan content. But before we get there, a few notes on some unrelated stories, which might still be of interest, if only as a reminder of some other mythicist themes.
+3. Following a bunch of exorcisms and healings, Jesus also calls Levi and begins to troll the Pharisees. He tells his members not to fast and to ignore the Sabbath. During the exorcisms, he (typically) commands secrecy.
 
-Look how isolated the Legion arc is! I agree with the conventional reading that it is based on the encounter with Polyphemus the Cyclops in the Odyssey and so an attempt to remix a popular story to claim it for Jesus. Whether the version that finally got written down only *accidentally* also contains a straightforward political dig at the Romans, I'll let the reader decide. 
+4. The Twelve (the rest didn't get origin stories) are named. Simon is now Peter (merging people and giving them double names isn't just for Egyptians anymore), <del>Zeus'</del> Zebedees' sons are called the "sons of thunder", and we're introduced to Philip, Bar-Ptolemy, Matthew, Jacob (Levi's brother / alternative name), Thaddaeus, Simon <del>Barjona</del> the Zealot, and Judas <del>the Red-Dyer</del> Iscariot, whatever that means.
 
-The account of John the Baptist's death is fairly sympathetic to Herod. Contrast that with Matthew!
+5. Jesus justifies his exorcisms with puns and tells people he has <del>no</del> a new family.
 
-Note that in Jesus' rejection at home, we aren't actually told *where* that is. Mark takes no position on this because either it wasn't settled yet (likely), or because it is of little concern to its primary authors, who don't consider Jesus earthly to begin with and couldn't care less about Jewish midrash (except for trolling purposes).
+6. Parable time! We hear the Parable of the Sower, of the Lamp, of the Growing and of the Mustard Seed, and the confirmation that all parables mean more than might be apparent at first.
 
-Let's have a closer look. There are two names to pay attention to:
+7. The sea adventure. Jesus stills the storm and heals Legion.
 
-- Jesus of Nazareth: 
-- Jesus the Nazarene: 
+8. More healings. Jesus <del>sexes up</del> heals several women, is rejected at <del>INSERT PLACE NAME HERE</del> home, and tells the Twelve to kick some demon ass.
 
-Note that "the Nazarene" is used in all stories I labeled as Simonian.
+9. A short interlude about what happened to John. He's dead now.
 
-Before 
+10. Jesus feeds the 5000, walks on water, continues to heal people.
 
-Some other layers are my interpretation. Let me explain.
+11. A short anecdote about those crazy Jews and their wacky customs!
+
+12. More healings and a feeding of 4000 this time.
+
+13. Jesus rebukes Peter for being such a dumbass, prophesies that <del>all</del> some of those who are with him will not know death before he returns.
+
+14. Not having hijacked another cult recently, Jesus meets up with Moses and Elijah, who're also fine with him getting all the disciples now.
+
+15. More healings, admonishment of ignorant disciples, and a few legal reforms, in particular about divorce, thereby ruining marriage forever.
+
+16. Jesus rides into Jerusalem, fulfilling various prophecies along the way, curses a fig tree which is totally not a metaphor for something, <del>channels Simon bar Kokhba for a second </del> cleanses the temple, gives a few more parables (the Vineyard and the Corner Stone), and acts like a total badass in general.
+
+17. Because marching on Jerusalem is the perfect time to clarify more legal matters, Jesus also tells people to not stress out so much about marriage already, and the two Great Evils, taxes and death, because God isn't concerned with either.
+
+18. The question if Jesus is actually David's son, because apparently that's what a Jewish Messiah is like supposed to be or something, is mocked. This absolutely does not suggest any Marcionite authorship whatsoever.
+
+19. <del>A popular apocalypse is inserted</del> The Olivet Discourse happens, in which Jesus tells people that the end is nigh, and here are the signs, but also there won't be any signs <del> so shut up about how it didn't happen already</del>.
+
+20. An anonymous woman pours perfume over Jesus, who tells his disciples that this is fine because he's more important than the poor, and that the woman's name will never be forgotten for this. This all happened at Simon <del>Magus'</del> the leper's house, so we have no idea who that woman might've been, and it certainly wasn't Helen, Simon's whore, neither of whom was present because this is a different Simon's house.[^alt]
+
+21. Jesus predicts the betrayal of both Judas and Peter, hosts his Last Supper, then is betrayed and handed over to the Romans. They take him to the high priest, where he claims to be the Christ, for which he is sentenced to death by crucifixion. Pilate gives the Jews a second chance to change their mind, but they'd rather have a murderous son of the father (Bar-Abbas) than *the Son of the Father*.
+
+22. On the way to Golgotha, Jesus <del>swaps places with</del> <del>polymorphs into</del> is helped by Simon <del>Magus</del> the Cyrene, who carries his cross instead of another Simon who was supposed to.
+
+23. Nonetheless, they crucify him among two thieves who mock him, Joseph of Arimathea (wherever that is) gets his body and they lay him in a tomb.
+
+24. [This happens.][greatest story ever told resurrection]
+
+[^alt]:
+    I'd also like to point out this fantastic speculation by Mike Sylwester:
+
+    > For me, the most obvious answer is that the young man [at the tomb] is the same young man (or almost the same young man) who escaped when Jesus was arrested. On Thursday night Jesus was being followed by "a young man ... clothed only in a linen nightshirt" and on Sunday morning sitting in Jesus' tomb was "a young man clothed in white" who was unknown to Jesus' three women followers.
+    >
+    > Also, there is reason to speculate that the tomb was in the Garden of Gethsemane and that the latter was owned by Joseph of Arimathea. On Thursday night Jesus went to a secret (until betrayed by Judas) meeting in this garden, and then on Friday night a secret follower (Joseph of Arimathea) buried Jesus in a tomb on his property. At the place of the secret meeting on Thursday night, there is a young man dressed in linen nightshirt, and in the place where Jesus was buried by a secret follower, there is a young man clothed in white on Monday morning. In other words, on both occasions, a young man dressed in particular clothing is (according to my speculation) in the same place - near or inside a tomb in the Garden of Gethsemane.
+    >  
+    > So, the Mark story of Jesus' Passion includes two incidents involving obviously (to me) the same young man, who is identified remarkably on both occasions by his clothing.
+    >
+    > Does the Mark story include any other incidents involving this same young man?
+    >
+    > A few days before Jesus was arrested, as he was approaching Jerusalem, he visited the home of "Simon, a leper" in Bethany, a town in the country outside of Jerusalem. During the visit, a woman poured a flask of perfume on "his head". On whose head? On the head of Jesus? On the head of Simon? On the head of some other male? Or some combination of those possibilities?
+    >
+    > In the John story about the same Bethany incident, the woman pours the perfume on Jesus' feet (not on Jesus' head). This indicates she poured the perfume onto the head of some other male in the home.
+    >
+    > And then it turns out that a male in this Bethany household, Lazarus, is lying in a tomb, seeming to be dead. And then this Lazarus comes to life, and he is described as wearing a gravecloth and standing at the tomb entrance.
+    >
+    > It sure seems to me that the Mark incident about a woman pouring perfume onto a male's head in Bethany is being told about this very same young man.
+    >
+    > And there is one more possibly related incident in the Mark story of Jesus' Passion. As Jesus is being led to the crucifixion site, his cross was carried by a man named Simon, "who was coming in from the country" and who is identified as "the father of Alexander and Rufus".
+    >
+    > So, at the beginning of the week Jesus was present when perfume was poured on a male's head in the home of a man named Simon in Bethany, in the country outside of Jerusalem, and then on Thursday night Jesus is arrested in the presence of a young man wearing a linen cloth, and then then on Friday afternoon a man named Simon comes in from the country and carries Jesus' cross, and this Simon has two sons named Alexander and Rufus, and then on Sunday morning there is a young man dressed in a white cloth in Jesus' tomb.
+    >
+    > Why did Mark mention that Simon's two sons were named Alexander and Rufus? Maybe one of this Simon's sons was the young man in the Garden of Gethsemane and the other son was the young man in the tomb.
+    >
+    > Also, why was Simon coming into Jerusalem from the country? Had Simon been informed by someone who had been present at the arrest of Jesus? Did this someone run away from the arrest site and run to Bethany and tell Simon that Jesus had been arrested? Who might this someone be? When Simon was informed by this someone, then did Simon and this someone rush from their country location to Jerusalem and find Jesus being led to the crucifixion site?
+    >
+    > Were Alexander and Rufus twins? In John's version of the Bethany incident, when the news comes that Lazarus is in a tomb in Bethany, a disciple called Thomas (Aramaic for "the twin") encourages the other disciples to go along with Jesus to Bethany. This twin said, "Let's go too - and die with him." (John 11:16). Was this disciple who was called "the twin" a twin son of Simon and the twin brother of Lazarus?
+
+    I have nothing to add to this, except that I now consider this canon.
+
+    If I ever get my Post-Marcionite Church of the ground, we will *definitely* have a Passion Play with Alexander and Rufus, and the Secret Teachings only our church knows they talked about at Joseph's place.  (We later meet two brothers in some of <del>Simon's</del> Paul's letters, in case you're curious.)
+
+<% end %>
+    
+---
+
+<% skip do %>
+
+You guys've all seen the seen the [Craig vs. Rosenberg][] debate, right? I'd like to illustrate my emotions during the debate with the help of Boxxy reaction pics.
+
+1. Craig's opening.
+
+   Not bad, not just his usual 4 arguments. I'm always fond of the "why does math even work?" question, and Rosenberg's book is arguing (among other things) for the incoherency of morality and intentionality, so that might get interesting.
+
+   <%= image("boxxy_notbad.png", "Boxxy") %>
+   
+2. Rosenberg's opening.
+
+   Sigh, the old "Craig sucks but I can't be bothered to show how" line, a lot of arguments from authority, and two interesting points.
+
+   Rosenberg, a moral nihilist, defends the Euthyphro dilemma as a valid refutation of Craig's theism, and then he tells us he doesn't believe in *causes* either. That it's perfectly coherent for things to just *happen*, for no reason or possible understanding whatsoever, and that this is better than Craig's superstitious faith.
+
+   I feel like he's just about to set fire to an old car in front of a bowling place.
+
+   <%= image("boxxy_skeptical.png", "Boxxy") %>
+
+3. Craig's Rebuttal
+
+   Paraphrasing Craig:
+
+   "For being someone who always brings the same arguments to debates, Rosenberg sure didn't address any of them in any reasonable way, nor did he make any positive case of his own.
+
+   Also, look at all the respected analytical philosophers who don't agree with you on anything.
+
+   Problem, Alex?"
+
+   <%= image("boxxy_troll.png", "Boxxy") %>
+
+   But winning a debate by being the only one to show up with a coherent case, and conclusively refuting your opponents ad hoc criticisms is not enough for Craig, so he utterly destroy the case Rosenberg *should've* made too!
+
+   <%= image("boxxy_ohsnap.png", "Boxxy") %>
+   
+4. Rosenberg's Rebuttal
+
+   what is this I don't even
+
+   has this man done philosophy before
+
+   why is he showing complete ignorance of the arguments he himself presented
+
+   the new testament was written in aramaic
+
+   wat
+
+   <%= image("boxxy_whatisthis.png", "Boxxy") %>
+
+5. Craig's Conclusion
+
+   I am still in shock. Feser might've shown how absurd Rosenberg's arguments are in a 10 blog post long series, but Craig just did it in 10 *minutes*.
+
+   Craig has been infamously known as a genocide apologist. I think I just saw him pull a Moses in front of a live audience.
+
+   <%= image("boxxy_awe.png", "Boxxy") %>
+
+6. Rosenberg's Conclusion
+
+   I can't even be angry at Rosenberg for abandoning all charity and resorting to emotional rants and ad hominems. He's just a kid who's never played with anything but fake guns among friends, and someone just sent him straight into a war zone.
+
+   I think I understand now why Derrida always has this "are you fucking kidding me?" face.
+
+   Wittgenstein and Lewis are dead. Who will defend analytical philosophy now? Rosenberg?
+
+   This is how I feel listening to Rosenberg.
+
+   <%= image("derrida_bored.jpg", "Derrida bored") %>
+
+In summary, this was the most brutal smackdown I have ever seen Craig deliver. If there was any doubt that this man is the avatar of Troll Invictus, this debate ended it.
+
+I wish any other fandom had public debates this gruesome.
+
+<% end %>
+
+---
+
+<% skip do %>
+
+Now a few short notes on some Markan stories, which might be of interest, if only as a reminder of some general mythicist themes.
+
+- Some origins are obvious, like the [limitations on fasting][mark S-13]. As RMP and many others pointed out, this points to a (late?) 2nd century editing of these sections. This fits into a fairly late composition of Mark in general (early 2nd century), which I find very plausible, but won't argue for here. (Because that requires a super-Luke first.) I also reject Markan Priority, but again won't argue it here because our focus is not the relationship to Luke (and Ur-Lukas), but the distinctly Markan content. 
+
+- Look how isolated the [Legion arc][mark S-29-a] is! I agree with the conventional reading that it is based on the encounter with Polyphemus the Cyclops in the Odyssey and so an attempt to remix a popular story to claim it for Jesus. Whether the version that finally got written down only *accidentally* also contains a straightforward political dig at the Romans, I'll let the reader decide.
+
+- The [account of John the Baptist's death][mark S-35] is fairly sympathetic to Herod. Contrast that with Matthew!
+
+- Note that in Jesus' rejection at home, we aren't actually told *where* that is. Mark takes no position on this because either it wasn't settled yet (likely), or because it is of little concern to its primary authors, who don't consider Jesus earthly to begin with and couldn't care less about Jewish midrash (except for trolling purposes).
+
+- I decided not to split the [Olivet Discourse][mark S-81], even though it is obvious that at least the last paragraph is a later addition, if not more. Still, if you haven't noticed it before, not the huge dissonance of Jesus telling his disciples the specific signs of the apocalypse, only to then say that no one knows the actual hour, not even he. As RMP likes to say, I think quoting King of the Hill, "This change of plan wasn't in the original plan!".
+
+- I've included both the [Short Ending][mark S-105], and the [Long][mark S-106] [Ending][mark S-107]. Note that the earliest compilations had *neither*. If I were to make my own version, I would also stop on "for they were afraid".
 
 - The Feeding of the 5000 and 4000 look like two variants of oral miracle stories, but the main reason I consider them parables instead is the focus on exact numbers. Jesus doesn't just feed them with a few loaves, but exactly 5 loaves and 2 fishes. These numbers are repeated again and again, and the same in the second telling, with different numbers. This makes them look an awful lot like a numerological inside joke - a reference maybe to a specific classification. There's even a later reminder by Jesus to look deeper. This makes me suspect design, but the oral interpretation is still very plausible. That I think they are *Simonian* parables is bit of a stretch because I have no idea what they mean or refer to. It is purely based on a hunch.
 
-The problem is that the primary reason to suspect Basilides is that he fits the profile. Our reference pool is so small that we only know like three Gnostics, and if two of them couldn't have written it, and it looks Gnostic, well it must've been the third!
+---
 
+Let's have a closer look at some very interesting details.
+
+First, there's "the Nazarene". "Nazareth" is mentioned only once, in [S-2][mark S-2], where Jesus, coming from Nazareth, is baptized by John. But he's called "the Nazarene" several times: in [S-6][mark S-6] (exorcism in Capernaum in which the spirits call him the "Holy One"), [S-66][mark S-66] (healing the blind beggar), [S-92][mark S-92] (Peter's denial) and [S-104][mark S-104] (the young man at the tomb).
+
+I consider the John story a simply hijacking of another cult, and it isn't even apparent that the reference to Nazareth was meant to imply that he was *born* there. It might just be a part of a bigger narrative, and the Marcionites put it first to clarify right away who this Savior Guy really is - the (adopted) Son of the Father.
+
+But the other stories are interesting in connection with "Nazarene", likely from "netser" = "the branch". I will quote them again:
+
+> (S-6) They walked to Capernaum. On the next Sabbath Jesus went into the synagogue and began to teach. The people were amazed at his teaching, for he taught them like one who had authority, and not like the teachers of the law. Now there was in their synagogue at the time a man under the power of a foul spirit, who called out: "What do you want with us, Jesus, Nazarene? Have you come to destroy us? I know who you are - the Holy One of God!"
+>
+> But Jesus rebuked the spirit: "Be silent! Come out from him.". The foul spirit threw the man into a fit, and with a loud cry came out from him. They were all so amazed that they kept asking each other: "What is this? What is this strange teaching? He gives his commands with authority even to the foul spirits, and they obey him!". His fame spread at once in all directions, through the whole neighborhood of Galilee.
+
+> (S-66) They came to Jericho. When Jesus was going out of the town with his disciples and a large crowd, Bar-Timaeus, the son of Timaeus, a blind beggar, was sitting by the roadside.
+>
+> Hearing that it was Jesus the Nazarene, he began to call out, "Jesus, Son of David, take pity on me.". Many of the people kept telling him to be quiet, but the man continued to call out all the louder, "Son of David, take pity on me.". Then Jesus stopped. "Call him", he said. So they called the blind man. "Courage!", they exclaimed. "Get up, he is calling you.". The man threw off his cloak, sprang up, and came to Jesus. "What do you want me to do for you?", said Jesus, addressing him. "Rabboni", the blind man answered, "I want to recover my sight.".
+> 
+> "You may go", Jesus said, "your faith has delivered you.". Immediately he recovered his sight, and began to follow Jesus along the road.
+
+> (S-92) While Peter was in the courtyard down below, one of the high priest's maidservants came up, and seeing Peter warming himself, she looked closely at him, and exclaimed, "Why, you were with Jesus, the Nazarene!". But Peter denied it. "I do not know or understand what you mean", he replied. Then he went out into the porch  and there the maidservant, on seeing him, began to say again to the bystanders, "This is one of them!". But Peter again denied it.
+>
+> Soon afterwards the bystanders again said to him, "You certainly are one of them. Why, you are a Galilean!".  But he said to them, "I swear that I do not know the man you are talking about! May God punish me if I am lying!". At that moment, for the second time, a cock crowed, and Peter remembered the words that Jesus had said to him, "Before a cock has crowed twice, you will disown me three times", and, as he thought of it, he began to weep.
+
+> (S-104) When the Sabbath was over, Mary of Magdala, Mary the mother of James, and Salome bought some spices, so that they might go and anoint the body of Jesus.
+
+> Very early on the first day of the week they went to the tomb, after sunrise. They were saying to one another, "Who will roll away the stone for us from the entrance of the tomb?". But, on looking up, they saw that the stone had already been rolled back; it was a very large one. Going into the tomb, they saw a young man sitting on their right, in a white robe, and they were dismayed, but he said to them, "Do not be dismayed, you are looking for Jesus, the Nazarene, who has been crucified. He has risen. He is not here! Look! Here is the place where they laid him. But go, and say to his disciples and to Peter, "He is going before you into Galilee. There you will see him, as he told you."". They went out and fled from the tomb, for they were trembling and bewildered, and they did not say a word to anyone, for they were afraid.
+
+Those four stories form a nice mini-narrative by itself. Jesus appears, and foul spirits threaten to reveal his Davidic (Nazarene) identity. The beggar, physically blind but seeing in faith, also recognizes him for who he truly is, but the disciples don't understand. Even later, Peter still denies him and his messianic role. Finally, when he is risen, the audience is reminded for a last time, just like Peter.
+
+It baffles me how, based on Mark, one could mistake "Nazarene" for a *place*, or to conclude that it has anything to do with Jesus birth (or that he even *was* born) seems very strange.
+
+---
+
+> Following Elizabeth Grosz, Julia Kristeva, and Michel Foucault, a  reading is performed of a Western yaoi fan fic to explore how subjects  in yaoi and boys' love enter into language, and hence subjectivity.
+
+This is an excellent sentence.
+
+Read the whole article, [(Un)gendering the homoerotic body: Imagining subjects in boys' love and yaoi][], in the academic journal [Transformative Works and Cultures][].
+
+This is an excellent journal.
+
+---
+
+I said in past logs that I suspect that the core Jesus narratives started as Simonian allegories, and that Mark is fundamentally a Marcionite text. I think the Marcionite elements are obvious (just read all the parts written by and for non-Jews, and Levi), but the Simonian layer might not be.
+
+Regardless of what you make of "Simon", it is clear that there's some funny business with "Peter". One might conclude a simple merger of two influential figures (as often happens), like introducing *the* President of the United States as Abraham Washington. Parts of this are definitely happening in Acts, but in Mark, I want to express a different speculation. Ur-Lukas was still Simonian (and Jesus just *is* Simon), but Mark isn't. Its authors believe in a new Christ, and while they keep some of the parables (and explain them for non-Simonians, sometimes wrong!), they subvert the main allegory by putting the Great Mage right in the story.
+
+I propose a Marcionite trolling of Simon.
+
+I'd also like to highlight a few specific elements by doing something inspired by recently reading some Derrida[^derrida], and translate names into English too, to show implicit meanings and puns.
+
+[^derrida]: Believe me, more than anyone else, I troll myself.
+
+Here's the narrative.
+
+> (S-4) As Jesus was going along the shore of the Sea of Galilee, he saw Simon and his brother Andreas casting a net in the sea (can also be read as, *"being doubtful"*), for they were fishermen. "Come and follow me", Jesus said, "and I will teach you to fish for people.". They left their nets at once, and followed him.
+
+Note that Simon means "hearing, listening", and Andreas "a man". Also, the original text just reads "throwing", the net is implied. It could also be read as "... were being doubtful". Every second sentence in the Simonian layer has a pun.
+
+> (S-7) As soon as they had left the synagogue, they went, with James and John, into the house of Simon and Andreas. Now Simon's mother-in-law was lying ill with a fever, and they at once told Jesus about her. Jesus went up to her and, grasping her hand, raised her up; the fever left her, and she began to take care of them.
+
+I healed your mom, as they say on Xorcist Live.
+
+> (S-7) In the evening, after sunset, the people brought to Jesus all who were ill or possessed by demons; and the whole city was gathered around the door. Jesus cured many who were ill with various diseases, and drove out many demons, and would not permit them to speak, because they knew him to be the Christ.
+>
+> In the morning, long before daylight, Jesus rose and went out, and, going to a lonely spot, there began to pray. But Simon and his companions went out searching for him; and, when they found him, they exclaimed: "Everyone is looking for you!". But Jesus said to them: "Let us go somewhere else, into the country towns nearby so that I can make my proclamation in them also; for that was why I came." And he went about making his proclamation in their Synagogues all through Galilee, and driving out the demons.
+
+Simon is famous for his Great Proclamation, of course. Simon used to claim he was crucified once, and here we don't just get an allegory of Simon's adventure in a previous life (hi One Who Has Thus Gone, you're not the only one who has this narrative gimmick), but the inside story - *Jesus* happened, and Simon's later taking credit for it.
+
+(I'm unsure if the exorcism stories are part of this layer. In particular, Jesus returns to Simon's town, and is widely successful there, with people claiming they had never seen anything like that before.)
+
+> (S-17) Jesus made his way up the hill, and called those whom he wished; and they went to him. He appointed twelve, whom he also named 'apostles', so that they might be with him, and that he might send them out as his messengers, to preach, and with power to drive out demons.
+>
+> So he appointed the Twelve: Peter (which was the name that Jesus gave to Simon), James, the son of Zebedee, and his brother John (to whom he gave the name of Boanerges, which means the Thunderers), Andreas, Philip, Bar-Ptolemy, Matthew, Thomas, Jacob the son of Alphaeus, Thaddaeus, Simon the Zealot, and Judas Iscariot, the man who betrayed him.
+
+We aren't told *why* he's called Peter ("the rock") here. But right three stories later, we hear the first parable:
+
+> (S-20) Jesus again began to teach by the Sea; and, as an immense crowd was gathering around him, he got into a boat, and sat in it on the Sea, while all the people were on the shore at the water's edge. Then he taught them many truths in parables; and in the course of his teaching he said to them:
+  
+> "*Listen*! The sower went out to sow; and presently, as he was sowing, some of the seed fell along the path; and the birds came, and ate it up.
+>
+> *Some fell on rocky ground, where it had not much soil, and, because the soil wasn't deep, sprang up at once;  but, when the sun rose, it was scorched, and, because their roots were not deep enough, withered away.*
+>
+> Some of the seed fell among brambles; but the brambles shot up and completely choked it, and it yielded no return.
+>
+> Some fell into good soil, and, shooting up and growing, yielded a return, amounting to thirty, sixty, and even a hundred fold."
+>
+> And Jesus said, "*Let anyone who has ears to hear with hear*.".
+
+Roger Parvus speculates that "Listen!" is a sign to Simonian ("hearing") readers to look for the *real* meaning of the parable, not the obvious one. Rather, I think, we finally get our explanation of why he's *Peter* - Simon is the rocky ground on which the message has failed! Yes, he predates the Marcionites, "he sprang up at once", but look how useless his own insight was! The Fire he preached consumed him just as much!
+
+This is particularly clear in the later denial, as foreshadowed by Jesus:
+
+> (S-22) "You do not know the meaning of this parable?", he went on, "Then how will you understand all the other parables? The sower sows the message. The people meant by the seed that falls along the path are these:
+>
+> Where the message is sown, but, as soon as they have heard it, Satan immediately comes and carries away the message that has been sown in them.
+>
+> *So, too, those meant by the seed sown on the rocky places are the people who, when they have heard the message, at once accept it joyfully, but, as they have no root, they stand only for a short time. And so, when trouble or persecution arises because of the message, they fall away at once.*
+>
+> Those meant by the seed sown among the brambles are different; they are the people who hear the message, but the cares of life, and the glamor of wealth, and cravings for many other things come in and completely choke the message, so that it gives no return.
+>
+> But the people meant by the seed sown on the good ground are those who hear the message, and welcome it, and yield a return, thirty, sixty, and even a hundred fold.".
+
+> (S-23) Jesus said to them: "Is a lamp brought to be put under a basket or under the couch, instead of being put on the lamp-stand? There is nothing hidden that will not come to light and nothing is concealed that will not be brought into the open. Let all who have ears to hear with hear.".
+
+Gnostic burn!
+
+> (S-32) Meanwhile a woman who for twelve years had suffered from hemorrhage, and undergone much at the hands of many doctors, spending all she had without obtaining any relief, but, on the contrary, growing worse, heard about Jesus, came behind in the crowd, and touched his cloak. "If I can only touch his clothes", she said, "I will get well!". At once her bleeding stopped, and she felt in herself that she was cured of her complaint.
+>
+> Jesus at once became aware of the power that had gone out from him, and, turning around in the crowd, he said: "Who touched my clothes?".
+>
+> "You see the people pressing around you", exclaimed his disciples, "and yet you say, "Who touched me?"". But Jesus looked about to see who had done it. Then the woman, in fear and trembling, knowing what had happened to her, came and threw herself down before him, and told him the whole truth. "Daughter", he said, "your faith has delivered you. Go, and peace be with you; be free from your complaint.".
+
+I did consider linking some porn with the same premise and euphemism, but I think merely mentioning it makes my interpretation of the scene clear, though I admit that it might say more about me than Jesus. More importantly though, Simon *did* rescue a whore, so inside jokes like that aren't out of the question.
+
+> (S-45) They came to Bethsaida. There some people brought a blind man to Jesus, and begged him to touch him. Taking the blind man's hand, Jesus led him to the outskirts of the village, and, when he had put saliva on the man's eyes, he placed his hands on him, and asked him, "Do you see anything?". The man looked up, and said, "I see the people, for, as they walk about, they look to me like trees.".
+>
+> Then Jesus again placed his hands on the man's eyes; and the man saw clearly, his sight was restored, and he saw everything with perfect distinctness. Jesus sent him to his home, and said, "Do not go even into the village.".
+
+Bethsaida = "house of fishing". Note the similarity both to Simon's calling, and Simon's actual teaching of the tree as a symbol of the manifest, which brings forth the fruit - the spirit. Simon, like the blind man, thinks like other people, not God.
+
+Having read (and written) a lot of (near) contemporary esoteric texts, a diss like that looks totally natural, but it might also be a coincidence. Regardless, the main narrative continues: 
+
+> (S-47) Then he began to teach them that the Son of Man must undergo much suffering, and that he must be rejected by the councilors, and the chief priests, and the teachers of the law, and be put to death, and rise again after three days.  He said all this quite openly. But Peter took Jesus aside, and began to rebuke him. Jesus, however, turning around and seeing his disciples, rebuked Peter. "Out of my sight, Satan!", he exclaimed. "For you look at things, not as God does, but as people do.".
+>
+> (S-48) Calling the people and his disciples to him, Jesus said, "If anyone wishes to walk in my steps, let them renounce self, take up their cross, and follow me. For whoever wishes to save their life will lose it, and whoever, for my sake and for the sake of the good news, will lose their life will save it. What good is it to a person to gain the whole world and forfeit their life? For what could a person give that is of equal value with their life? Whoever is ashamed of me and of my teaching, in this unfaithful and wicked generation, of them will the Son of Man be ashamed, when he comes in his Father's glory with the holy angels.".
+
+Peter, of course, won't take up his cross.
+
+> (S-50) Six days later, Jesus took with him Peter, James, and John, and led them up a high mountain alone by themselves. There his appearance was transformed before their eyes, and his clothes became of a more dazzling white than any bleacher in the world could make them.
+>
+> And Elijah appeared to them, in company with Moses; and they were talking with Jesus. "Rabbi", said Peter, interposing, "it is good to be here; let us make three tents, one for you, one for Moses, and one for Elijah.". For he did not know what to say, because they were much afraid.
+>
+> Then a cloud came down and enveloped them. From the cloud there came a voice, "This is my dearly loved son; listen to him.". And suddenly, on looking around, they saw that there was now no one with them but Jesus alone.
+>
+> As they were going down the mountainside, Jesus cautioned them not to relate what they had seen to anyone, until after the Son of Man should have risen again from the dead. They seized on these words and discussed with one another what this "rising from the dead" meant. "How is it", they asked Jesus, "that our teachers of the law say that Elijah has to come first?".
+>
+> "Elijah does indeed come first", answered Jesus, "and re-establish everything. Does not scripture speak, with regard to the Son of Man, of his undergoing much suffering and being utterly despised? But I tell you that Elijah has come, and people have treated him just as they pleased, as scripture says of him.".
+
+Peter completely misunderstands Jesus and the role of the Messiah. (This might not be part of the original layer, but it fits well, attitude-wise, so I included it anyway.)
+
+> (S-66) They came to Jericho. When Jesus was going out of the town with his disciples and a large crowd, Bar-Timaeus, the son of Timaeus, a blind beggar, was sitting by the roadside.
+>
+> Hearing that it was Jesus the Nazarene, he began to call out, "Jesus, Son of David, take pity on me.". Many of the people kept telling him to be quiet, but the man continued to call out all the louder, "Son of David, take pity on me.". Then Jesus stopped. "Call him", he said. So they called the blind man. "Courage!", they exclaimed. "Get up, he is calling you.". The man threw off his cloak, sprang up, and came to Jesus. "What do you want me to do for you?", said Jesus, addressing him. "Rabboni", the blind man answered, "I want to recover my sight.".
+>
+> "You may go", Jesus said, "your faith has delivered you.". Immediately he recovered his sight, and began to follow Jesus along the road.
+
+(Included for completeness, but discussed earlier.)
+
+> (S-68) Jesus entered Jerusalem and went into the Temple Courts and after looking around at everything, as it was already late, he went out to Bethany with the Twelve.
+>
+> The next day after they had left Bethany, Jesus became hungry and, noticing a fig tree at a distance in leaf, he went to it to see if by any chance he could find something on it, but on coming up to it, he found nothing but leaves, for it was not the season for figs. So, addressing the tree, he exclaimed, "May no one ever again eat of your fruit!". And his disciples heard what he said.
+
+(I'd like to point that in the story before, it says "When they had almost reached Jerusalem, as far as Bethphage and Bethany, near the Mount of Olives...", and thus just having left Bethany, they are now where? Bethphage. What does "Bethphage" mean? "House of the (unripe) figs".)
+
+> (S-68 cont.) As they passed by early in the morning, they noticed that the fig tree was withered up from the roots. Then Peter recalled what had occurred. "Look, Rabbi", he exclaimed, "the fig tree which you doomed is withered up!".
+
+This parable isn't actually explained, but it's intended meaning - the withering of the "manifest", which Simon taught through the metaphor of a tree, which only serves the fruit, the "hidden" - does not escape us. The irony is lost on Peter, though.
+
+> (S-88) "Even if everyone else falls away", said Peter, "yet I will not.".
+>
+> "I tell you", answered Jesus, "that you yourself today - yes, this very night - before the cock crows twice, will disown me three times.". But Peter vehemently protested, "Even if I must die with you, I will never disown you!". And they all said the same.
+>
+> (S-89) Presently they came to a garden known as Gethsemane, and Jesus said to his disciples, "Sit down here while I pray.".  He took with him Peter, James, and John, and began to show signs of great dismay and deep distress of mind. "I am sad at heart", he said, "sad even to death. Cait here, and watch.". Going on a little further, he threw himself on the ground, and began to pray that, if it were possible, he might be spared that hour. "Abba, Father", he said, "all things are possible to you; take away this cup from me. Yet, not what I will, but what you will.".
+>
+> Then he came and found the three apostles asleep. "Simon", he said to Peter, "are you asleep? Couldn't you watch for one hour? Watch and pray", he said to them all, "so that you may not fall into temptation. True, the spirit is eager, but human nature is weak." Again he went away, and prayed in the same words, and coming back again he found them asleep, for their eyes were heavy, and they did not know what to say to him.
+>
+> A third time he came, and said to them, "Sleep on now, and rest yourselves.".
+
+The immediate foreshadowing of the betrayal.
+
+> (S-92) While Peter was in the courtyard down below, one of the high priest's maidservants came up, and seeing Peter warming himself, she looked closely at him, and exclaimed, "Why, you were with Jesus, the Nazarene!". But Peter denied it. "I do not know or understand what you mean", he replied. Then he went out into the porch  and there the maidservant, on seeing him, began to say again to the bystanders, "This is one of them!". But Peter again denied it.
+>
+> Soon afterwards the bystanders again said to him, "You certainly are one of them. Why, you are a Galilean!".  But he said to them, "I swear that I do not know the man you are talking about! May God punish me if I am lying!". At that moment, for the second time, a cock crowed, and Peter remembered the words that Jesus had said to him, "Before a cock has crowed twice, you will disown me three times", and, as he thought of it, he began to weep.
+
+The betrayal, and of course earl
+
+> (S-96) They led Jesus out to crucify him, and they compelled a passer-by, Simon of Cyrene, who was on his way in from the country, the father of Alexander and Rufus, to go with them to carry his cross.
+
+The spiritual betrayal - Peter is not fit to carry Jesus' cross, and a replacement Simon has to be shipped in. Simon Peter might've claimed *he* was there on the day, as he was known to do, but we know better.
+
+Finally, the ending:
+
+> (S-104) When the Sabbath was over, Mary of Magdala, Mary the mother of James, and Salome bought some spices, so that they might go and anoint the body of Jesus.
+>
+> Very early on the first day of the week they went to the tomb, after sunrise. They were saying to one another, "Who will roll away the stone for us from the entrance of the tomb?". But, on looking up, they saw that the stone had already been rolled back; it was a very large one. Going into the tomb, they saw a young man sitting on their right, in a white robe, and they were dismayed, but he said to them, "Do not be dismayed, you are looking for Jesus, the Nazarene, who has been crucified. He has risen. He is not here! Look! Here is the place where they laid him. But go, and say to his disciples and to Peter, "He is going before you into Galilee. There you will see him, as he told you."". They went out and fled from the tomb, for they were trembling and bewildered, and they did not say a word to anyone, for they were afraid.
+
+Note who is shunned to the very end: Peter. Even the young man says, "to his disciples *and* to Peter". That's the full Zoidberg treatment. Simon does not meet the risen Christ, nor his mysterious messenger.
+
+Later editors were rightfully upset by this and added resurrection appearances. But the original author leaves us with the women: confused and alone.
 <% end %>

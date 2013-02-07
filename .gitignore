@@ -7,6 +7,7 @@
 tmp/
 out/
 content/references/site_*.mkd
+content/references/supertext_*.mkd
 
 # backup
 video-backup

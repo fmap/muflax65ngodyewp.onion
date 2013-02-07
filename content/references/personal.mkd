@@ -51,6 +51,7 @@
 [gist anthropic]: https://gist.github.com/15d4d930aed8ee3a2fb1
 [Anki time search]: https://beta.ankiweb.net/shared/info/3262774902
 [Anking]: https://github.com/muflax/anking
+[saneo]: https://github.com/muflax/saneo
 
 <!-- books on Dropbox -->
 [ToI book]: https://www.dropbox.com/s/zn2wuocnf265ll9/theory_of_instruction.pdf

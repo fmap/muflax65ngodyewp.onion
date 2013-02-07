@@ -306,3 +306,5 @@
 [Liberation Theology]: https://en.wikipedia.org/wiki/Liberation_theology
 [Omnissiah]: http://warhammer40k.wikia.com/wiki/Machine_God
 [Adeptus Mechanicus]: http://warhammer40k.wikia.com/wiki/Adeptus_Mechanicus
+[stenotype]: https://en.wikipedia.org/wiki/Stenotype
+[David Strauß]: https://en.wikipedia.org/wiki/David_Strauss

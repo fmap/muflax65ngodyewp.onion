@@ -176,6 +176,13 @@
 [Musimathics]: http://www.musimathics.com/
 [Anscombe Moral]: http://www.philosophy.uncc.edu/mleldrid/cmt/mmp.html
 [Open English Bible]: http://openenglishbible.org/
+[Koanic Soul]: http://www.koanicsoul.com/blog/
+[Neo layout]: http://neo-layout.org/index_en.html
+[Plover]: http://stenoknight.com/wiki/Main_Page
+[plover benefits]: http://plover.stenoknight.com/2010/04/writing-and-coding-with-steno.html
+[Majestouch-2]: http://www.diatec.co.jp/en/det.php?prod_c=763
+[(Un)gendering the homoerotic body: Imagining subjects in boys' love and yaoi]: http://journal.transformativeworks.org/index.php/twc/article/view/257
+[Transformative Works and Cultures]: http://journal.transformativeworks.org/index.php/twc/index
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/

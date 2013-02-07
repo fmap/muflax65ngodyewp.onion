@@ -63,6 +63,22 @@ module Nanoc::CLI::Commands
 
       raise "Duplicate links found!" if dups
     end
+
+    def gospel_stories gospel
+      ref_file = "content/references/supertext_#{gospel}.mkd"
+      puts "header links for: #{ref_file}"
+
+      File.open(ref_file, "w") do |ref|
+        File.open("content_gospel/super/#{gospel}.mkd").each do |line|
+          m = line.match(/^ \# .*  \( (?<story> S-\S+? ) \) \s+ {\# (?<anchor>s-\S+) } \s*$/x)
+          if m
+            link = local_link("gospel:super/#{gospel}/##{m[:anchor]}")
+            ref.puts "[#{gospel} #{m[:story]}]: #{link}"
+          end
+        end
+      end
+    end
+
     
     def run
       ([nil] + sites_arg(options[:sites])).each do |site|
@@ -84,6 +100,10 @@ module Nanoc::CLI::Commands
         File.open(ref_file, "w").write(page_links.join("\n"))
       end
 
+      %w{mark}.each do |gospel|
+        gospel_stories gospel
+      end
+      
       duplicate_links
     end
   end
