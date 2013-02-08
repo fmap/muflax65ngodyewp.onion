@@ -406,7 +406,7 @@ I'd also like to highlight a few specific elements by doing something inspired b
 
 Here's the narrative.
 
-> (S-4) As Jesus was going along the shore of the Sea of Galilee, he saw Simon and his brother Andreas casting a net in the sea (can also be read as, *"being doubtful"*), for they were fishermen. "Come and follow me", Jesus said, "and I will teach you to fish for people.". They left their nets at once, and followed him.
+> (S-4) As Jesus was going along the shore of the Sea of Galilee, he saw Simon and his brother Andreas casting a net in the sea, for they were fishermen. "Come and follow me", Jesus said, "and I will teach you to fish for people.". They left their nets at once, and followed him.
 
 Note that Simon means "hearing, listening", and Andreas "a man". Also, the original text just reads "throwing", the net is implied. It could also be read as "... were being doubtful". Every second sentence in the Simonian layer has a pun.
 
@@ -429,7 +429,7 @@ Simon is famous for his Great Proclamation, of course. Simon used to claim he wa
 We aren't told *why* he's called Peter ("the rock") here. But right three stories later, we hear the first parable:
 
 > (S-20) Jesus again began to teach by the Sea; and, as an immense crowd was gathering around him, he got into a boat, and sat in it on the Sea, while all the people were on the shore at the water's edge. Then he taught them many truths in parables; and in the course of his teaching he said to them:
-  
+>  
 > "*Listen*! The sower went out to sow; and presently, as he was sowing, some of the seed fell along the path; and the birds came, and ate it up.
 >
 > *Some fell on rocky ground, where it had not much soil, and, because the soil wasn't deep, sprang up at once;  but, when the sun rose, it was scorched, and, because their roots were not deep enough, withered away.*
