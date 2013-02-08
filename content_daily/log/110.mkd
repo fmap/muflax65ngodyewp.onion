@@ -1,6 +1,6 @@
 ---
 title: Moloch The Devourer
-date: 2013-02-07
+date: 2013-02-08
 techne: :done
 episteme: :log
 ---
@@ -10,9 +10,10 @@ I've been cleaning up my site *a lot*.
 I've retired anything I considered either broken, semi-embarrassing or useless. I thought about my old rule of never deleting anything, which I introduced for two good reasons:
 
 1. Several times in my life have I become fed up with or wanted to isolate myself from stuff I had done, and deleted everything, including backups. Some of these deletions were good ideas, some not. I don't feel I need these drastic methods anymore, so I wanted to preserve everything because you never know.
+
 2. I don't like when people take their stuff offline.
 
-Still, there are important reasons for me to fully retire old stuff, and if you *really* care, the [git repo][Source] still exists and has all the old versions in it, so I haven't thrown anything away, just removed it from circulation. (Sorry if I broke your links. If anyone actually misses anything I removed, just comment, I'll put it up somewhere again.)
+Still, there are important reasons for me to fully retire old stuff, and if you *really* care, the [git repo][Source] still exists and has all the old versions in it, so I haven't thrown anything away, just removed it from circulation. (Sorry if I broke your links. If anyone actually misses anything I removed, just comment, I'll try to put it up somewhere else.)
 
 The sites are much smaller now and the content has been moved elsewhere. The "blog" is kinda closed. The logs (i.e. what you're reading now) are my real day-to-day writing location (well, for flexible interpretations of "day"). I first thought about merging the "main site" and "the blog", but just decided to keep the "main site" as an easy portal / "who the fuck is muflax?" site, and moved all decent self-contained content to the "blog".
 
@@ -35,7 +36,7 @@ For the sake of <del>my devout fans</del> <del>obsessive internet stalkers</del>
       
 - The speed-reading post got deleted because it should just read "use shaping, idiot". I might write a new, better version (that would also be much shorter), or include "improve your reading speed" as an exercise in a future post that explains how to use shaping. Dunno, but for now, it's just gone.
 
-- A lot of personal stuff is gone because I can't identify with the person who wrote it. It felt like hosting someone else's diary.
+- A lot of personal stuff is gone because I can no longer identify with the person who wrote it. It felt like hosting someone else's diary.
 
 - I've deprecated the Dark Stance. It's not that it's wrong per se, but that it works differently than I thought, and my old presentation doesn't help you much and is likely to just send you down the wrong path. There *is* a right path, and I might still teach it one day, but until then, you're on your own.
 
@@ -45,20 +46,20 @@ Let's talk a bit about typing.
 
 <%= image("ghost-in-the-shell-fingers.jpg", "GITS fingers") %>
 
-I've been using my own custom keyboard layout[^layout] since like 2006 or so, but I recently started doing audio logs, and the mismatch of talking and typing speed really throws off my thought. So it's time to re-visit ways to type much faster.
+I've been using my own custom keyboard layout[^layout] since like 2006 or so, but I recently started doing audio logs, but the mismatch of talking and typing speed really throws off my thoughts whenever I try to comment on what I'm typing. So it's time to re-visit ways to type much faster.
 
 [^layout]:
-    It's [kinda undocumented][saneo], but for the main idea, take a look at [Neo][Neo layout]. <del>Those fuckers completely misunderstood my genius and stuck to their retarded unoptimized crap</del> I may not have communicated my ideas in the most successful way, so I started a fork. The letter layout and use of layers is almost identical, but I use a very different layer 3 and 4. I also added some minor compromises for more meta keys (= Emacs user) and pushed more stuff close to the home row when possible.
+    It's [kinda undocumented][saneo], but for the main idea, take a look at [Neo][Neo layout]. <del>Those fuckers completely misunderstood my genius and stuck to their retarded unoptimized crap</del> I may not have communicated my ideas in the most successful way, so I had to start a fork. The letter layout and use of layers is almost identical, but I use a very different layer 3 and 4. I also added some minor compromises for more meta keys (= Emacs user) and pushed more stuff close to the home row when possible.
 
-    If I had to start over, I'd use Dvorak as my letter layout because it's a slightly better compromise for all European languages and has much better backwards compatibility. The rest is pretty close to optimal as far as I'm concerned.
+    If I had to start over, I'd use Dvorak as my letter layout because it's a slightly better compromise for (European) polyglots and has much better backwards compatibility (every system ships Dvorak these days). The rest is pretty close to optimal as far as I'm concerned.
 
-So I experimented with a few different approaches. As a reference, I assembled a simple word frequency list based on my own writing. I currently type at about 80wpm and the target would be about 150wpm, which is normal talking speed. If it isn't at least that good, it's not worth the effort.
+I experimented with a few different approaches. As a reference, I assembled a simple word frequency list based on my own writing. I currently type at about 80wpm and the target would be about 150wpm, which is normal talking speed. If it isn't at least that good, it's not worth the effort.
 
 Easiest method: prediction. Instead of typing the whole word, you just type a part and a prediction engine fills in the rest. This is trivial to transition to, but the question is whether you can actually build enough speed. I've run a few simulations.
 
 If you only use a prefix (like in Google Instant), the advantage is pretty tiny. I already have this enabled in Emacs for the occasional huge word, but aside from that, it's useless. (<5% advantage)
 
-But if you add a predictable suffix, it improves somewhat. The optimal point seems to be a prefix of 1 and a suffix of 2. So you type the first letter, then the last two letters, and if that's not enough, you just keep on typing to expand the prefix until you have a match. This is completely deterministic, easy to learn and gets a speed-up of . Not bad.
+But if you add a predictable suffix, it improves somewhat. The optimal point seems to be a prefix of 1 and a suffix of 2. So you type the first letter, then the last two letters, and if that's not enough, you just keep on typing to expand the prefix until you have a match. This is completely deterministic, easy to learn and gets a speed-up of ~20%. Not bad for such a simple technique.
 
 I've tried several approaches to get smarter prediction, but the only other non-stupid, deterministic method is to learn [stenotype][]. There are [decent tools][Plover] for it, it's fairly mainstream and the speed benefit is clearly there (>200wpm is fairly typical for a professional). Still, there's a bunch of problems:
 
@@ -82,7 +83,23 @@ It's pretty much the standard steno layout, but you move your home row up by one
 
 The only two disadvantages are that you have to sacrifice your number row (I have them on a meta-layer anyway, but steno doesn't use them either) and that the space bar is still kinda in the way. However, if you remove it and replace it with a shorter keycap (I used the right shift key from a different keyboard), you can still use it normally and have lots of room for activities. Except now everyone can see how filthy your keyboard is. Oh well.
 
-I'll also have to fix [Plover][] because there's a lot of bad design in there I don't like, but that's not particularly work-intensive.
+I'll also have to fix [Plover][] because there's a lot of bad design in there I don't like[^design], but that's not particularly work-intensive.
+
+[^design]:
+    <% skip do %>
+    Specifically:
+
+    1. Not using an [IME][]. That's inexcusable. You're implementing a new Input Method. Use an IME. (I highly recommend IBus if you're on \*nix.)
+    2. No commit support because they aren't using an IME.
+
+       Steno has multi-stroke words where the earlier strokes are (different) valid words by themselves, so the steno engine has to occasionally delete words and replace them with something different. This is trivial in any IME which only commits word once it's sure they don't change. Plover sends backspaces. This is retarded.
+    3. No flexible "add to dictionary" function (yet) because, again, they aren't using an IME.
+    4. Not customizable enough, by which I mean it doesn't support my keyboard layout mods.
+    5. No per-application mode (it's either globally on or not) because, say it with me, they're not using an IME.
+    6. On \*nix, Plover hijacks the XLib layer and breaks all your stuff. This is trivial to avoid by using the XIM layer instead, which, well, you know how to fix by now.
+
+    My fix will consist almost entirely of re-implementing them as another engine to my own favorite IME, IBus.
+    <% end %>
 
 In one of the next logs, I'll go into the steno theory as I learn it and talk some about the necessary tools.
 
@@ -90,7 +107,7 @@ In one of the next logs, I'll go into the steno theory as I learn it and talk so
 
 My current guitar practice is basically "shape finger movements to a high level of accuracy and speed". I tried to move into chords, but found chord changes to slow and tedious, so I followed the ToI principle of, paraphrasing, "if you can't do something you understand, you need to practice more basic skills first". So I did a quick analysis, drew up this skill list for chord changes, wrote a simple script to generate the random prompts and started practicing. My target rate is 60Hz (error-free) for all of this, and all skills have to be individually learned for all 4 fingers (ditto for pairs).
 
-1. Place finger on arbitrary fret on same string based on name ("1st string 2nd fret"). (You're allowed to look.)
+1. Place finger on arbitrary fret on same string based on name ("1st string 2nd fret"). (You're allowed to look at your fingers.)
 2. ... different positions of the fret.
 3. ... arbitrary string on same fret.
 4. ... all combined
@@ -231,7 +248,7 @@ Because I don't expect you to have memorized Mark entirely (or to read my comple
 
     I have nothing to add to this, except that I now consider this canon.
 
-    If I ever get my Post-Marcionite Church of the ground, we will *definitely* have a Passion Play with Alexander and Rufus, and the Secret Teachings only our church knows they talked about at Joseph's place.  (We later meet two brothers in some of <del>Simon's</del> Paul's letters, in case you're curious.)
+    If I ever get my Post-Marcionite Church off the ground, we will *definitely* have a Passion Play with Alexander and Rufus, and the Secret Teachings only known to our church they talked about at Joseph's place. (We later meet the two brothers in some of <del>Simon's</del> Paul's letters, in case you're curious.)
 
 <% end %>
     
@@ -263,7 +280,7 @@ You guys've all seen the seen the [Craig vs. Rosenberg][] debate, right? I'd lik
 
    "For being someone who always brings the same arguments to debates, Rosenberg sure didn't address any of them in any reasonable way, nor did he make any positive case of his own.
 
-   Also, look at all the respected analytical philosophers who don't agree with you on anything.
+   Also, look at all the respected analytical philosophers who don't agree with him on anything.
 
    Problem, Alex?"
 
@@ -279,7 +296,7 @@ You guys've all seen the seen the [Craig vs. Rosenberg][] debate, right? I'd lik
 
    has this man done philosophy before
 
-   why is he showing complete ignorance of the arguments he himself presented
+   why is he showing complete ignorance of his own arguments
 
    the new testament was written in aramaic
 
@@ -339,7 +356,7 @@ Let's have a closer look at some very interesting details.
 
 First, there's "the Nazarene". "Nazareth" is mentioned only once, in [S-2][mark S-2], where Jesus, coming from Nazareth, is baptized by John. But he's called "the Nazarene" several times: in [S-6][mark S-6] (exorcism in Capernaum in which the spirits call him the "Holy One"), [S-66][mark S-66] (healing the blind beggar), [S-92][mark S-92] (Peter's denial) and [S-104][mark S-104] (the young man at the tomb).
 
-I consider the John story a simply hijacking of another cult, and it isn't even apparent that the reference to Nazareth was meant to imply that he was *born* there. It might just be a part of a bigger narrative, and the Marcionites put it first to clarify right away who this Savior Guy really is - the (adopted) Son of the Father.
+I consider the John story a simple hijacking of another cult, and it isn't even apparent that the reference to Nazareth was meant to imply that he was *born* there. It might just be a part of a bigger narrative, and the Marcionites put it first to clarify right away who this Savior Guy really is - the (adopted) Son of the Father.
 
 But the other stories are interesting in connection with "Nazarene", likely from "netser" = "the branch". I will quote them again:
 
@@ -363,11 +380,11 @@ But the other stories are interesting in connection with "Nazarene", likely from
 
 Those four stories form a nice mini-narrative by itself. Jesus appears, and foul spirits threaten to reveal his Davidic (Nazarene) identity. The beggar, physically blind but seeing in faith, also recognizes him for who he truly is, but the disciples don't understand. Even later, Peter still denies him and his messianic role. Finally, when he is risen, the audience is reminded for a last time, just like Peter.
 
-It baffles me how, based on Mark, one could mistake "Nazarene" for a *place*, or to conclude that it has anything to do with Jesus birth (or that he even *was* born) seems very strange.
+It baffles me how, based on Mark, one could mistake "Nazarene" for a *place*, or to conclude that it has anything to do with Jesus' birth (or that he even *was* born).
 
 ---
 
-> Following Elizabeth Grosz, Julia Kristeva, and Michel Foucault, a  reading is performed of a Western yaoi fan fic to explore how subjects  in yaoi and boys' love enter into language, and hence subjectivity.
+> Following Elizabeth Grosz, Julia Kristeva, and Michel Foucault, a reading is performed of a Western yaoi fan fic to explore how subjects in yaoi and boys' love enter into language, and hence subjectivity.
 
 This is an excellent sentence.
 
@@ -377,9 +394,9 @@ This is an excellent journal.
 
 ---
 
-I said in past logs that I suspect that the core Jesus narratives started as Simonian allegories, and that Mark is fundamentally a Marcionite text. I think the Marcionite elements are obvious (just read all the parts written by and for non-Jews, and Levi), but the Simonian layer might not be.
+I said in past logs that I suspect that the core Jesus narratives started as Simonian allegories, and that Mark is fundamentally a Marcionite text. I think the Marcionite elements are obvious (just read all the parts written by and for non-Jews, and the Levi section), but the Simonian layer might not be.
 
-Regardless of what you make of "Simon", it is clear that there's some funny business with "Peter". One might conclude a simple merger of two influential figures (as often happens), like introducing *the* President of the United States as Abraham Washington. Parts of this are definitely happening in Acts, but in Mark, I want to express a different speculation. Ur-Lukas was still Simonian (and Jesus just *is* Simon), but Mark isn't. Its authors believe in a new Christ, and while they keep some of the parables (and explain them for non-Simonians, sometimes wrong!), they subvert the main allegory by putting the Great Mage right in the story.
+Regardless of what you make of "Simon", it is clear that there's some funny business with "Peter". One might conclude a simple merger of two influential figures (as often happens), like introducing *the* President of the United States as Abraham Washington. Parts of this are definitely happening in Acts, but in Mark, I want to express a different speculation. Ur-Lukas was still Simonian (and Jesus just *is* Simon), but Mark isn't. Its authors believe in a new Christ, and while they keep some of the parables (and explain them for non-Simonians, and sometimes wrong!), they subvert the main allegory by putting the Great Mage right in the story.
 
 I propose a Marcionite trolling of Simon.
 
@@ -423,7 +440,7 @@ We aren't told *why* he's called Peter ("the rock") here. But right three storie
 >
 > And Jesus said, "*Let anyone who has ears to hear with hear*.".
 
-Roger Parvus speculates that "Listen!" is a sign to Simonian ("hearing") readers to look for the *real* meaning of the parable, not the obvious one. Rather, I think, we finally get our explanation of why he's *Peter* - Simon is the rocky ground on which the message has failed! Yes, he predates the Marcionites, "he sprang up at once", but look how useless his own insight was! The Fire he preached consumed him just as much!
+Roger Parvus speculates that "Listen!" is a sign to Simonian ("hearing") readers to look for the *real* meaning of the parable, not the obvious one. Rather, I think, we finally get our explanation of why he's *Peter* - Simon is the rocky ground on which the message has failed! Yes, he predates the Marcionites, "he sprang up at once", but look how useless his own insight was! The Fire he preached consumed him just the same.
 
 This is particularly clear in the later denial, as foreshadowed by Jesus:
 
@@ -455,7 +472,7 @@ I did consider linking some porn with the same premise and euphemism, but I thin
 
 Bethsaida = "house of fishing". Note the similarity both to Simon's calling, and Simon's actual teaching of the tree as a symbol of the manifest, which brings forth the fruit - the spirit. Simon, like the blind man, thinks like other people, not God.
 
-Having read (and written) a lot of (near) contemporary esoteric texts, a diss like that looks totally natural, but it might also be a coincidence. Regardless, the main narrative continues: 
+Having read (and written) a lot of (modern) esoteric texts, a diss like that looks totally natural to me, but it might also be a coincidence. Regardless, the main narrative continues: 
 
 > (S-47) Then he began to teach them that the Son of Man must undergo much suffering, and that he must be rejected by the councilors, and the chief priests, and the teachers of the law, and be put to death, and rise again after three days.  He said all this quite openly. But Peter took Jesus aside, and began to rebuke him. Jesus, however, turning around and seeing his disciples, rebuked Peter. "Out of my sight, Satan!", he exclaimed. "For you look at things, not as God does, but as people do.".
 >
@@ -491,7 +508,7 @@ Peter completely misunderstands Jesus and the role of the Messiah. (This might n
 
 > (S-68 cont.) As they passed by early in the morning, they noticed that the fig tree was withered up from the roots. Then Peter recalled what had occurred. "Look, Rabbi", he exclaimed, "the fig tree which you doomed is withered up!".
 
-This parable isn't actually explained, but it's intended meaning - the withering of the "manifest", which Simon taught through the metaphor of a tree, which only serves the fruit, the "hidden" - does not escape us. The irony is lost on Peter, though.
+This parable isn't actually explained, but it's intended meaning - the withering of the "manifest", which Simon taught through the metaphor of a tree, which only serves the fruit, the "hidden" - does not escape us. The irony is lost on Peter, however.
 
 > (S-88) "Even if everyone else falls away", said Peter, "yet I will not.".
 >
@@ -509,7 +526,7 @@ The immediate foreshadowing of the betrayal.
 >
 > Soon afterwards the bystanders again said to him, "You certainly are one of them. Why, you are a Galilean!".  But he said to them, "I swear that I do not know the man you are talking about! May God punish me if I am lying!". At that moment, for the second time, a cock crowed, and Peter remembered the words that Jesus had said to him, "Before a cock has crowed twice, you will disown me three times", and, as he thought of it, he began to weep.
 
-The betrayal, and of course earl
+The betrayal.
 
 > (S-96) They led Jesus out to crucify him, and they compelled a passer-by, Simon of Cyrene, who was on his way in from the country, the father of Alexander and Rufus, to go with them to carry his cross.
 

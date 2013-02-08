@@ -308,3 +308,4 @@
 [Adeptus Mechanicus]: http://warhammer40k.wikia.com/wiki/Adeptus_Mechanicus
 [stenotype]: https://en.wikipedia.org/wiki/Stenotype
 [David Strauß]: https://en.wikipedia.org/wiki/David_Strauss
+[IME]: https://en.wikipedia.org/wiki/Input_method_editor
