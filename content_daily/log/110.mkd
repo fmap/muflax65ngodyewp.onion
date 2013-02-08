@@ -256,7 +256,7 @@ Because I don't expect you to have memorized Mark entirely (or to read my comple
 
 <% skip do %>
 
-You guys've all seen the seen the [Craig vs. Rosenberg][] debate, right? I'd like to illustrate my emotions during the debate with the help of Boxxy reaction pics.
+You guys've all seen the [Craig vs. Rosenberg][] debate, right? I'd like to illustrate my emotions during the debate with the help of Boxxy reaction pics.
 
 1. Craig's opening.
 
