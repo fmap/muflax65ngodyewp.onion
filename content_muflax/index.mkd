@@ -57,7 +57,7 @@ There is also [Twitter][].
 <%= render "list-item-fancy",
     :name => "Languages",
     :link => local_link("blog:languages"),
-    :desc => "Learning Languages" %>
+    :desc => "Attempted Polyglottery" %>
 
     
 </ul>
