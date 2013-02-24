@@ -15,6 +15,7 @@
 *[LW]: LessWrong
 *[MCD]: Massive-Context Cloze Deletion
 *[MFW]: My Face When
+*[MIRI]: Machine Intelligence Research Institute (former SIAI)
 *[MT]: Michel Thomas
 *[MaxUtil]: Maximum Utilitarianism
 *[NT]: New Testament
@@ -23,7 +24,7 @@
 *[RAW]: Robert Anton Wilson
 *[RMP]: Robert M. Price
 *[RuleUtil]: Rule Utilitarianism
-*[SIAI]: Singularity Institute for Artificial Intelligence
+*[SIAI]: Singularity Institute for Artificial Intelligence (now MIRI)
 *[SIA]: Self-Indication Assumption
 *[SRS]: Spaced Repetition Software (e.g. Anki)
 *[SSA]: Self-Sampling Assumption
