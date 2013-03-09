@@ -1,0 +1,430 @@
+/*
+Theme Name:		Copyblogger
+Theme URI:		http://www.copyblogger.com
+Description:	Just like dressing up a hot chick in killer lingerie. By <a href="http://pearsonified.com">Chris Pearson</a>.
+Version:		Thr33
+Author:			Chris Pearson
+Author URI:		http://pearsonified.com/
+*/
+
+
+* { padding: 0; margin: 0; }
+
+
+/*---:[ core layout elements ]:---*/
+
+#container { width: 970px; margin: 0 auto; padding: 0 7px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/body_bg.png') repeat-y; }
+
+	#header { position: relative; width: 970px; height: 64px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/header_bg.gif') repeat-x; }
+
+	#content_box { width: 970px; text-align: left; }
+
+		#left_box { width: 689px; float: left; }
+
+			#content { width: 468px; padding: 0 20px; float: right; }
+
+		.sidebar { float: left; }
+
+		#left_bar { width: 180px; }
+
+		#right_bar { width: 280px; padding: 25px 0 0 0; }
+
+	#footer { position: relative; padding: 1em 10px 1em 690px; font: normal 1.1em/1.3em Verdana, sans-serif; color: #fff; background: #000; border-top: 5px solid #a90000; }
+
+
+
+/*---:[ headlines ]:---*/
+
+h1, h2, h3 { font: bold 1em "Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+h1 { font-weight: bold; font-size: 2.4em; line-height: 1.25em; letter-spacing: -1px; text-align: center; }
+
+	.posts h1, .pages h1 { padding: 20px 0 0 0; color: #a90000; }
+	
+	.posts h1 { margin: 0 0 0.125em 0; }
+	
+	.pages h1 { margin: 0 0 0.833em 0; }
+	
+	.archives h1, .sitemap h1 { padding-bottom: 0.417em; border-bottom: 1px dotted #bbb; color: #222; }
+	
+	.archives h1, .sitemap h1 { margin: 0 0 0.833em 0; }
+
+h2 { font-weight: bold; font-size: 2.4em; line-height: 1.25em; letter-spacing: -1px; }
+
+	h2 a, h2 a:visited { color: #a90000; }
+	
+	h2 a:hover { color: #000; text-decoration: none; }
+
+	.posts h2 { margin: 0 0 0.125em 0; padding: 30px 0 0 0; border-top: 1px dotted #bbb; text-align: center; }
+	
+	.posts h2.top, .posts h2.first { padding: 20px 0 0 0; border-top: none; }
+	
+	.posts h2.first { padding: 10px 0 0 0; }
+
+h3 { font-size: 1.231em; }
+
+	.entry h3 { margin: 1.875em 0 0.625em 0; }
+
+	.entry h3.top { margin: 0 0 0.625em 0 !important; }
+
+	li.widget h3 { font-size: 1.167em; margin: 0 0 0.857em 0; text-indent: -9999px; }
+	
+	li#b5_blogroll h2 { height: 14px; font-size: 1.231em; line-height: 1.0em; letter-spacing: normal; margin: 0 0 0.8em 0; text-indent: -9999px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/b5_business.gif') no-repeat; }
+	
+		h3.nav_menu { height: 17px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/navigation.gif') no-repeat; }
+		
+		li#rss h3 { margin: 0 0 16px 0 !important; height: 14px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/subscribe.gif') 16px 0 no-repeat; }
+
+		li#email h3 { height: 17px; margin: 0 0 2px 0; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/email_updates.gif') 23px 0 no-repeat; }
+		
+		li#sponsors h3 { height: 18px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/sponsors.gif') 50% 0 no-repeat; }
+		
+		h3.resources { height: 12px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/resources.gif') no-repeat; }
+		
+		li#popular h3 { height: 17px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/popular.gif') no-repeat; }
+		
+		h3.archives { height: 14px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/archives.gif') no-repeat; }
+		
+		li#search h3 { height: 18px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/search.gif') no-repeat; }
+
+h4 { font: normal 1.1em/1.818em Verdana, Arial, Helvetica, sans-serif; color: #999; }
+
+	.posts h4 { text-align: center; }
+	
+	h4 span { font: normal 1.091em Georgia, "Times New Roman", Times, serif; }
+	
+	h4 a, h4 a:visited { color: #999; }
+	
+	h4 a:hover { color: #a90000; }
+
+
+
+/*---:[ global elements ]:---*/
+
+hr { display: none; }
+
+a, a:visited { color: #a90000; text-decoration: none; }
+
+a:hover { color: #a90000; text-decoration: underline; }
+
+a img { border: none; }
+
+blockquote { font-family: Georgia, "Times New Roman", Times, serif; color: #555; margin: 0 20px 1.538em 20px; padding: 0 0 0 10px; border-left: 3px solid #a90000; }
+
+abbr, acronym { border-bottom: 1px dotted #888; text-transform: uppercase; cursor: help; }
+
+code { color: #090; font-family: "Andale Mono", Courier; }
+
+pre { margin: 0 0 1.538em 0; font-family: "Andale Mono", Courier; overflow: auto; float: left; clear: both; }
+
+p.center { text-align: center !important; }
+
+p.bottom { margin: 0 !important; }
+
+p.unstyled { font-size: 1.3em; }
+
+
+
+/*---:[ #header styles ]:---*/
+
+#logo { position: absolute; width: 421px; height: 72px; top: 3px; left: 63px; }
+
+	#logo a { display: block; width: 421px; height: 72px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/copyblogger.png') no-repeat; text-indent: -9999px; outline: none; }
+	
+ul#nav_menu { position: absolute; right: 10px; list-style: none; }
+
+	ul#nav_menu li { padding: 0 0 0 0.273em; font-size: 1.1em; line-height: 1.636em; float: left; }
+	
+		ul#nav_menu li a, ul#nav_menu li a:visited { display: block; padding: 0.364em 0.667em 0.455em 0.667em; color: #ddd; background: #333 url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/bg-tab.gif') 100% 100% no-repeat; }
+
+		ul#nav_menu li a:hover { color: #fff; background: #555 url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/bg-tab.gif') 100% 100% no-repeat; text-decoration: none; }
+		
+
+
+/*---:[ content styles ]:---*/
+
+.author { margin: 0 0 1.083em 0; font: normal 1.2em Georgia, "Times New Roman", Times, serif; color: #999; text-align: center; }
+
+	.author a, .author a:visited { color: #999; }
+	
+	.author a:hover { color: #a90000; }
+
+.entry { font-size: 1.3em; line-height: 1.538em; }
+
+	.entry a, .entry a:visited { text-decoration: underline; }
+		
+	.entry a:hover { padding: 1px 0; color: #fff; background: #a90000; text-decoration: none; }
+		
+	.entry blockquote { }
+	
+		.entry blockquote.right { width: 200px; font-style: normal !important; font-size: 1.231em !important; line-height: 1.25em; margin: 0.692em 0 0.692em 20px !important; padding: 0.3em 0 !important; border: 1px dashed #aaa; border-width: 1px 0; background: none !important; text-align: center; float: right; }
+		
+		.entry blockquote.left { width: 200px; font-style: normal !important; font-size: 1.231em !important; line-height: 1.25em; margin: 0.692em 20px 0.692em 0 !important; padding: 0.3em 0 !important; border: 1px dashed #aaa; border-width: 1px 0; background: none !important; text-align: center; float: left; }
+	
+			.entry blockquote.right p, .entry blockquote.left p { margin: 0 !important; line-height: 1.25em !important; }
+	
+	.entry p { margin: 0 0 1.538em 0; }
+	
+	.entry ul { list-style: none; margin: 0 0 1.538em 20px; }
+
+	.entry ol { margin: 0 0 1.538em 40px; }
+	
+		.entry li { margin: 0 0 0.462em 0; }
+	
+		.entry ul li { padding: 0 0 0 16px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/bullet_text.gif') 0 0.385em no-repeat; }
+		
+			.entry ul li ul, .entry ul li ol, .entry ol li ul, .entry ol li ol { margin: 0.462em 0 0.462em 10px; }
+	
+	.entry dl { margin: 0 0 1.538em 0; }
+			
+		.entry dt { font-weight: bold; }
+		
+		.entry dd { margin: 0 0 1.538em 20px; }
+		
+	.entry .ad { margin: 0 0 0.462em 20px; float: right; clear: right; }
+	
+		.entry .ad_left { margin: 0 20px 0.462em 0; float: left; clear: left; }
+		
+		.entry .ad_right { width: 200px; margin: 0 0 0.5em 20px; font-size: 0.923em; line-height: 1.5em; color: #666; float: right; clear: right; }
+
+	.entry img { }
+
+		.entry img.left { margin: 0 20px 0.769em 0; float: left; clear: left; }
+		
+		.entry img.right { margin: 0 0 0.769em 20px; float: right; clear: right; }
+		
+		.entry img.center { display: block; margin: 0 auto 1.538em auto; float: none; clear: both; }
+	
+		.entry img.frame { padding: 6px; border: 1px solid #aaa; background: #eee; }
+		
+		.entry img.stack { clear: none !important; }
+
+.to_comments { position: relative; margin: 0 0 0.455em 0; font: normal 1.1em/1.636em Verdana, serif; color: #999; text-align: right; clear: both; }
+	
+	.to_comments .comments_num { padding: 0 0 0 14px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/icon_comment.gif') 0 50% no-repeat; }
+	
+	.to_comments .post_date { position: absolute; top: 0; left: 0; }
+
+/*---:[ after post stuff on single pages ]:---*/
+
+.entry .after_post { margin-bottom: 1.538em; padding: 1.538em 0 0 0; border-top: 1px dotted #bbb; clear:both; }
+
+	.entry .after_post h3 { margin-top: 0; }
+	
+	.entry .after_post ul { margin-left: 0; }
+	
+		.entry .after_post ul a { text-decoration: none; }
+	
+		ul.related_posts li br { display: none; }
+	
+	.entry .promo { width: 200px; margin: 0 0 5px 20px; padding: 10px; background: #fffbe0; border: 1px solid #ffe95a; float: right; }
+	
+		.entry .promo ul { margin-bottom: 0; }
+		
+.entry .post_ad { padding: 10px; background: #ddf5fc; border-top: 3px solid #86c0d1; }
+
+	.entry .post_ad h3 { margin: 0 0 0.625em 0; padding-bottom: 0.3125em; border-bottom: 1px dotted #89c3d4; }
+
+	.entry .post_ad .testimonial_box { width: 200px; margin: 0 0 5px 20px; float: right; }
+	
+		.entry .post_ad .testimonial_box a, .entry .post_ad .testimonial_box a:visited, .entry .post_ad .testimonial_box a:hover { padding: 0; border: 0; }
+	
+		.entry .post_ad .testimonial_box img { display: block; margin-bottom: 10px; border: 8px solid #9ecedc; }
+	
+		.entry .post_ad p.testimonial { font: normal 1.231em/1.25em Georgia "Times New Roman", Times, serif; margin-bottom: 0; }
+	
+			.entry .post_ad p.testimonial span { color: #a90000; }
+		
+		.entry .post_ad p.citation { font-style: italic; font-family: Georgia, "Times New Roman", Times, serif; margin-bottom: 0; padding-right: 20px; text-align: right; color: #4b8494; }
+	
+	.entry .post_ad ul.ad_links { margin: 0; }
+
+/*---:[ end after post stuff ]:---*/
+
+.navigation { padding: 20px 0; border-top: 1px dotted #bbb; font-size: 1.3em; clear: both; }
+	
+	.next { text-align: right; }
+	
+	.navigation br { display: none; }
+
+
+
+/*---:[ sidebar styles ]:---*/
+
+ul.sidebar_list { list-style: none; }
+
+	ul.sidebar_list li.widget { margin: 0 0 2em 0; padding: 0 10px; font: normal 1.2em/1.333em Verdana, sans-serif; float: left; }
+
+	#left_bar li.widget { width: 160px; }
+	
+	#right_bar li.widget { width: 260px; }
+	
+	#right_bar li#search { margin: 0 0 2.5em 0; }
+	
+	#left_bar li#tagline { width: 180px; margin-bottom: 30px; padding: 16px 0 10px 0; background: #d4d2c3; border-bottom: 1px solid #b6b4a1; }
+	
+		#left_bar li#tagline h1, #left_bar li#tagline p { height: 93px; margin-bottom: 0; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/tagline.png') 54% 0 no-repeat; font: bold 1.333em/1.25em "Helvetica Neue", Helvetica, Arial, sans-serif; letter-spacing: normal; text-align: center; text-indent: -9999px; color: #a90000; }
+	
+	#left_bar li#rss { position: relative; margin-bottom: 25px; }
+	
+		#left_bar li#rss p { margin-bottom: 0; }
+	
+		li#rss span { position: absolute; top: -10px; left: -16px; }
+		
+			li#rss span a { display: block; width: 38px; height: 38px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/icon_rss.png') no-repeat; text-indent: -9999px; outline: none; }
+	
+	/*---:[ email form styles in the left sidebar ]:---*/
+	
+	#left_bar li#email { position: relative; padding: 10px; background: #d4d2c3; border-top: 1px solid #b6b4a1; border-bottom: 1px solid #b6b4a1; font: normal 1em/1.2em Verdana, sans-serif; text-align: center; }
+
+		li#email span { position: absolute; top: 2px; left: -16px; }
+		
+			li#email span a { display: block; width: 47px; height: 32px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/icon_email.png') no-repeat; text-indent: -9999px; outline: none; }
+
+		#more_info { margin: 0 0 1.2em 0; }
+		
+			#more_info a, #more_info a:visited { color: #615f4d; }
+			
+			#more_info a:hover { color: #a90000; text-decoration: none; }
+		
+		#email_subscribe p { margin: 0 0 0.4em 0; }
+		
+		#email_subscribe .email_input { width: 153px; padding: 3px; border-top: 0; border-left: 0; border-right: 1px solid #b8b5a1; border-bottom: 1px solid #b8b5a1; font: bold 1.2em Verdana, sans-serif; color: #a90000; text-align: left; }
+
+		#email_subscribe .email_submit { display: block; width: 81px; height: 24px; margin: 0 auto; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/button_subscribe.gif') 0 0 no-repeat; text-indent: -9999px; outline: none; }
+		
+		#email_subscribe .email_submit:hover { background-position: 0 -24px; }
+		
+	/*---:[ end email styles ]:---*/
+	
+	/*---:[ sponsors area styles ]:---*/
+
+	#right_bar li#sponsors { width: 260px; padding: 0 10px; }
+	
+		li#sponsors li { width: 125px; height: 125px; margin: 0 0 10px 0; padding: 0 10px 0 0; background: none; float: left; }
+	
+		li#sponsors li.premium { width: 260px; height: 125px; }
+	
+		li#sponsors li.right { padding-right: 0; }
+		
+		li#sponsors li.ad_here { width: 260px; height: 24px; padding: 0; }
+		
+			li#sponsors li.ad_here a, li#sponsors li.ad_here a:visited { display: block; width: 260px; height: 24px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/advertise.gif') no-repeat; text-indent: -9999px; outline: none; }
+			
+			li#sponsors li.ad_here a:hover { background-position: 0 -24px; }
+	
+	/*---:[ generic sidebar styles ]:---*/
+
+		li.widget p { margin: 0 0 1em 0; }
+		
+		li.widget ul { list-style: none; }
+		
+		li.widget ol { margin: 0 0 0 20px; }
+		
+			li.widget li { margin: 0 0 0.6em 0; padding: 0 0 0 19px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/bullet_sidebar.gif') 5px 0.3em no-repeat; }
+		
+			#left_bar li.widget li { padding: 0 0 0 14px; background-position: 0 0.3em; }
+			
+			#right_bar li.widget li br { display: none; }
+			
+			li#popular li span { padding: 0 0 0 13px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/icon_comment.gif') 0 50% no-repeat; }
+		
+				li.widget ul li ul { margin: 0.6em 0 0 0; }
+				
+	/*---:[ b5 splogroll styles ]:---*/
+				
+		li#b5_blogroll .channel_desc { display: none; }
+		
+		li#b5_blogroll ul li img { display: none; }
+		
+		
+
+/*---:[ footer styles ]:---*/
+
+#footer a, #footer a:visited, #footer a:hover { color: #aaa; outline: none; }
+
+#footer a#cb { position: absolute; display: block; top: -3px; left: 37px; width: 284px; height: 51px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/copyblogger_footer.png') no-repeat; text-indent: -9999px; }
+
+#footer a#cp { position: absolute; display: block; right: 10px; bottom: 10px; width: 225px; height: 9px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/chris_pearson.gif') no-repeat; text-indent: -9999px; }
+
+#footer p { margin: 0 0 1.5em 0; text-align: right; }
+
+	#footer p a, #footer p a:visited { color: #fff; text-decoration: none; border-bottom: 1px solid #000; }
+
+	#footer p a:hover { color: #fff; text-decoration: none; border-bottom: 1px solid #555; }
+	
+	#footer a img { display: none; }
+
+
+
+/*---:[ comment styles ]:---*/
+
+#comments { width: 468px; margin: 4em 0 1.5em 0; }
+
+	.comments_intro { margin: 0 0 2em 0; padding: 0 0 0.2em 0; font: bold 1.6em "Helvetica Neue", Helvetica, Arial, sans-serif; text-align: center; border-bottom: 1px dotted #bbb; }
+
+	ul#comment_list { list-style: none; }
+		
+		ul#comment_list li.comment { width: 468px; margin: 0 0 3em 0; float: left; }
+				
+			.comment_meta { position: relative; padding: 0 0 33px 0; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/comment_top.gif') 0 100% no-repeat; }
+				
+				.comment_num { display: inline-block; padding: 0 4px 0 0; font: normal 1.1em Verdana, sans-serif; }
+				
+					.comment_num a, .comment_num a:visited { color: #999; text-decoration: none; }
+					
+					.comment_num a:hover { color: #a90000; text-decoration: none; }
+				
+				.comment_meta strong { font-weight: bold; font-size: 1.4em; }
+				
+					.comment_meta strong a, .comment_meta strong a:visited { color: #222; border-bottom: 1px dotted #999; }
+					
+					.comment_meta strong a:hover { color: #a90000; border-bottom: 1px dotted #555; text-decoration: none; }
+					
+				.comment_time { font: normal 1.1em Verdana, sans-serif; color: #999; }
+		
+				.author_comment { position: absolute; display: block; bottom: 9px; right: 11px; width: 138px; height: 21px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/comment_author.png') no-repeat; text-indent: -9999px; }
+		
+			.comment .entry { padding: 0 20px; background: #ececec url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/comment_bottom.gif') 0 100% no-repeat; }
+			
+				.comment .entry p { margin: 0 0 15px 0; }
+			
+			
+
+/*---:[ comment form styles ]:---*/
+
+#respond { margin: 1em 0 0.5em 0; padding: 0 0 0.2em 0; border-bottom: 1px dotted #bbb; font: bold 1.6em "Helvetica Neue", Helvetica, Arial, sans-serif; text-align: center; }
+
+#comment_form { width: 428px; padding: 10px 20px; float: left; }
+
+	#comment_form p { padding: 6px 0; }
+	
+		#comment_form label { padding: 0 0 0 10px; font-size: 1.3em; }
+
+		#comment_form .text_input { width: 191px; padding: 3px; color: #a90000; font: bold 1.3em Verdana, sans-serif; border-top: 2px solid #aaa; border-left: 2px solid #aaa; border-right: 1px solid #eee; border-bottom: 1px solid #eee; }
+		
+		#comment_form .text_area { width: 419px !important; }
+	
+			#comment_form .text_input:focus { border-top: 2px solid #777; border-left: 2px solid #777; border-right: 1px solid #ccc; border-bottom: 1px solid #ccc; }
+	
+		#comment_form .form_submit { display: block; width: 99px; height: 49px; background: url('/web/20080918180523/http://www.copyblogger.com/wp-content/themes/Copyblogger%20Thr33/images/submit.gif') no-repeat; text-indent: -9999px; outline: none; }
+		
+			#comment_form .form_submit:hover { background-position: 0 -49px; }
+		
+		#comment_form p.subscribe-to-comments { font-size: 1.3em; }
+		
+			#comment_form p.subscribe-to-comments label { font-size: 1em; }
+
+
+
+/*---:[ search form styles ]:---*/
+
+#search_form { }
+
+	#search_form .search_input { width: 253px; padding: 3px; color: #777; background: #fff; font: normal 1em Verdana, sans-serif; border-right: 1px solid #b8b5a1; border-bottom: 1px solid #b8b5a1; border-top: none; border-left: none; }
+	
+
+
+/*---:[ self-clearing floats from Dan Cederholm ]:---*/
+
+#content_box:after, #nav_menu:after, .entry .after_post:after, .entry .post_ad:after, #comments:after, .comment .entry:after, ul#comment_list:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }

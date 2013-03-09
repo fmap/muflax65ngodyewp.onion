@@ -343,6 +343,9 @@
 [The Better Angels of Our Nature]: http://www.amazon.com/dp/1455883115
 [Proving History]: http://www.amazon.com/Proving-History-Bayess-Theorem-Historical/dp/1616145595
 
+<!-- local mirror -->
+[Birdmen]: http://muflax.com/stuff/malstrom/Birdmen%20and%20the%20Casual%20Fallacy.html
+
 <!-- internal links -->
 [main]: http://muflax.com
 [blog]: http://blog.muflax.com
