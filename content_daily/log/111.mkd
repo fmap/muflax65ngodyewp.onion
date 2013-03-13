@@ -52,7 +52,7 @@ Book reviews. There might be a theme.
 
       Just don't do that. You're teaching an engineering skill, stick to engineering. Let us worry about philosophy *after* we know how to do something. Physics textbooks don't open with big "why we don't believe in magic" rants. There's a reason for that.
 
-      That said, I liked the description of one of Dennett's books as "A philosopher defends mentalism and attacks Skinner's accounts of behavior in terms of histories and reinforcement. The essay is interesting for its misunderstanding of Skinner and behavior analysis.".
+      That said, I liked their description of one of Dennett's books as "A philosopher defends mentalism and attacks Skinner's accounts of behavior in terms of histories and reinforcement. The essay is interesting for its misunderstanding of Skinner and behavior analysis.".
       <% end %>
 
   But overall, the book is primarily a fanboy's attempt to defend Skinner against his inept critics, and while I'm very sympathetic to this idea (up yours, Chomsky!), it doesn't really do much beyond that. At least it has some promising references.
@@ -73,6 +73,8 @@ Book reviews. There might be a theme.
   If that doesn't turn you on, there's just something objectively wrong with you.
 
   To be honest, I only picked it up because it said "behaviorism" in the title, and I still consider my ban of non-ironic discussions of metaphysics in place, so I won't actually say anything *about* the content of the book, except insofar that I liked it, and think it's a good example of "ok, we have this bunch of fragmented but useful insights, how can we combine them into something coherent and intellectually satisfying without collapsing into abstract nonsense or sacrificing the methodology that gave us those insights?".
+
+  It's refreshing to read a book of competent philosophy, especially one that focuses on stuff that is relatively old (you know, Aristotle, Bacon, anything before the 70s). It reminds me that dead old dudes weren't idiots after all.
 
 - [Impro][]. Quote from the beginning:
 
@@ -297,7 +299,7 @@ This then gives me prompts like this:
 
 <%= image("shaper-demo.png", "Shaper Demo") %>
 
-So now I don't have to concentrate on making ad-hoc prompts "random enough" or track what reinforcement to give, just follow instructions.
+So now I don't have to concentrate on making ad-hoc prompts "random enough" or track what reinforcement to give, just follow instructions. I currently use it for various guitar skills, and will soon use it for steno and maybe some language skills. (More about that then.)
 
 (For guitar practice, I use my feet to press space for the next prompt. Foot switches? Look, I'm a software guy. The only thing I use a soldering iron for is to disconnect LEDs. Buy one and pay 30 bucks for a simple switch? Never!)
 
