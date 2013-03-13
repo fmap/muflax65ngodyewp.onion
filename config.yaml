@@ -1,7 +1,7 @@
 # A list of file extensions that nanoc will consider to be textual rather than
 # binary. If an item with an extension not in this list is found,  the file
 # will be considered as binary.
-text_extensions: [ 'css', 'erb', 'html', 'mkd', 'org', 'scss', 'xml' ]
+text_extensions: ['erb', 'mkd', 'org', 'scss']
 
 # A list of index filenames, i.e. names of files that will be served by a web
 # server when a directory is requested. Usually, index files are named
