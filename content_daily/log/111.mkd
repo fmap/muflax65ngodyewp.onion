@@ -174,7 +174,7 @@ There is one, and only one, way to untrain a rule - the reinforcement pattern ha
     > Many teachers get improvisers to work in conflict because conflict is interesting but we don't actually need to teach competitive behaviour; the students will already be expert at it, and it's important that we don't exploit the *actors'* conflicts. Even in what seems to be a tremendous argument, the actors should still be *co-operating*, and coolly developing the action. The improviser has to understand that his first skill lies in releasing his partner's imagination. That happens in my classes, if the actors stay with me long enough, is that they learn how their "normal" procedures destroy other people's talent. Then, one day they have a flash of *satori* - they suddenly understand that all the weapons they were using against other people they also use inwardly, against themselves.
 
 
-[^lad]: Look, post-Singularity, *anyone* who's age can be stored in a standard 32-bit integer will be considered a child.
+[^lad]: Look, post-Singularity, *anyone* whose age can be stored in a standard 32-bit integer will be considered a child.
 
 [^nt]:
     I'd like to point out the relevance for NT scholarship here. If you read this log, you're probably a member of at least *some* of these slightly-crazy communities, and you know how horrid those summaries of your own views and attitudes are. Consider then that, for instance, *everything* we know about Marcion was written *specifically by his enemies*. Who edited, interpreted and preserved the scripture used as evidence against him. You don't need to assume any fabrication or even malice to see the problem with that. Merely the need to impose a flawed narrative and selective preservation are enough.
