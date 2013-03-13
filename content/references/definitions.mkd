@@ -275,7 +275,6 @@
 [al-Ghazali]: http://en.wikipedia.org/wiki/Al-Ghazali
 [apophatic]: https://en.wikipedia.org/wiki/Apophatic_theology
 [billion-year contract]: https://en.wikipedia.org/wiki/Sea_Org#Billion-year_contract
-[birdmen]: http://web.archive.org/web/20100831084607/http://malstrom.50webs.com/birdman.html
 [conditional baptism]: https://en.wikipedia.org/wiki/Conditional_baptism
 [furigana]: https://en.wikipedia.org/wiki/Furigana
 [lebkuchen]: https://en.wikipedia.org/wiki/Lebkuchen
@@ -309,3 +308,9 @@
 [stenotype]: https://en.wikipedia.org/wiki/Stenotype
 [David Strauß]: https://en.wikipedia.org/wiki/David_Strauss
 [IME]: https://en.wikipedia.org/wiki/Input_method_editor
+[Prophecy of the Popes]: https://en.wikipedia.org/wiki/Prophecy_of_the_Popes
+[Clonk]: https://en.wikipedia.org/wiki/Clonk
+[Gentoo]: https://en.wikipedia.org/wiki/Gentoo_Linux
+[Paul Watzlawick]: https://en.wikipedia.org/wiki/Paul_Watzlawick
+[Ophelia]: https://en.wikipedia.org/wiki/Ophelia
+[kernel design]: https://en.wikipedia.org/wiki/Kernel_%28computing%29#Kernel-wide_design_approaches

@@ -1,7 +1,7 @@
 <!-- personal links -->
 [Antinatalism Tumblr]: http://antinatalism.tumblr.com/
-[Beeminder anki]: https://www.beeminder.com/muflax/goals/anki
 [Beeminder anki new]: https://www.beeminder.com/muflax/goals/anki-new
+[Beeminder anki]: https://www.beeminder.com/muflax/goals/anki
 [Beeminder daily]: https://www.beeminder.com/muflax/goals/dailylog
 [Beeminder fitocracy]: https://www.beeminder.com/muflax/goals/fitocracy
 [Beeminder fume]: https://www.beeminder.com/muflax/goals/fume
@@ -14,10 +14,11 @@
 [Klout]: http://klout.com/#/muflax
 [LibraryThing]: http://www.librarything.com/profile/muflax
 [PredictionBook]: http://predictionbook.com/users/muflax
-[Twitter]: https://twitter.com/#!/muflax
-[whatiswrongwith.me]: http://whatiswrongwith.me/muflax
 [Steam account]: http://steamcommunity.com/id/muflax
 [Steam wishlist]: http://steamcommunity.com/id/muflax/wishlist
+[Twitter]: https://twitter.com/#!/muflax
+[last.fm]: http://www.last.fm/user/muflax
+[whatiswrongwith.me]: http://whatiswrongwith.me/muflax
 
 <!-- tweets -->
 [Twitter pali]: https://twitter.com/#!/muflax/status/66635052242567168
@@ -52,6 +53,7 @@
 [Anki time search]: https://beta.ankiweb.net/shared/info/3262774902
 [Anking]: https://github.com/muflax/anking
 [saneo]: https://github.com/muflax/saneo
+[shaper]: https://github.com/muflax/shaper
 
 <!-- books on Dropbox -->
 [ToI book]: https://www.dropbox.com/s/zn2wuocnf265ll9/theory_of_instruction.pdf

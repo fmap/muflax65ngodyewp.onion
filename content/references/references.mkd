@@ -183,6 +183,11 @@
 [Majestouch-2]: http://www.diatec.co.jp/en/det.php?prod_c=763
 [(Un)gendering the homoerotic body: Imagining subjects in boys' love and yaoi]: http://journal.transformativeworks.org/index.php/twc/article/view/257
 [Transformative Works and Cultures]: http://journal.transformativeworks.org/index.php/twc/index
+[Aryan Atlantis]: https://en.wikipedia.org/wiki/Neo-volkisch_movements#Tempelhofgesellschaft
+[The Human Bible]: http://www.thehumanbible.net/
+[CK2 meme]: http://i226.photobucket.com/albums/dd38/Lord_X_Vamp/bayeux2.jpg
+[Direwolf20]: https://www.youtube.com/user/direwolf20
+[Feed the Beast]: http://www.feed-the-beast.com/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -315,6 +320,7 @@
 [Yvain Worst]: http://squid314.livejournal.com/323694.html
 [Yvain Kol Nidre]: http://squid314.livejournal.com/331223.html
 [Yvain Constance]: http://squid314.livejournal.com/342047.html
+[Yvain Charity]: http://squid314.livejournal.com/307109.html
 
 <!-- reddit -->
 [reddit lain]: http://www.reddit.com/r/AskReddit/comments/t0ynr/throwaway_time_whats_your_secret_that_could/c4inqul
@@ -342,6 +348,19 @@
 [Spent: Sex, Evolution, and Consumer Behavior]: http://www.amazon.com/Spent-Evolution-Consumer-Behavior-ebook/dp/product-description/B0023SDQFI
 [The Better Angels of Our Nature]: http://www.amazon.com/dp/1455883115
 [Proving History]: http://www.amazon.com/Proving-History-Bayess-Theorem-Historical/dp/1616145595
+[Psychology for the Classroom: Behaviourism]: http://www.amazon.com/Psychology-Classroom-Behaviourism-ebook/dp/B003UNL7QA/
+[Applied Behavior Analysis: Principles and Procedures in Behavior Modification]: http://www.amazon.com/Applied-Behavior-Analysis-Principles-Modification/dp/0470571527
+[The Amazing Colossal Apostle]: http://signaturebooks.com/2010/04/the-amazing-colossal-apostle-the-search-for-the-historical-paul/
+[Handbook of Applied Behavior Analysis]: http://www.amazon.com/Handbook-Applied-Behavior-Analysis-ebook/dp/B005ZE5A1K
+[Understanding Behaviorism]: http://www.amazon.com/Understanding-Behaviorism-Behavior-Culture-Evolution/dp/140511262X
+[Verbal Behavior]: https://en.wikipedia.org/wiki/Verbal_Behavior
+[Operant Behavior]: http://psycnet.apa.org/journals/amp/18/8/503/
+[Beyond Freedom and Dignity]: https://en.wikipedia.org/wiki/Beyond_Freedom_and_Dignity
+[Walden Two]: https://en.wikipedia.org/wiki/Walden_Two
+[On the Law of Effect]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1333768/
+[Handbook of Behaviorism]: http://books.google.de/books/about/Handbook_of_Behaviorism.html?id=pp4KIVcq2qEC
+[Impro]: http://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178
+[Don't Shoot The Dog]: http://www.amazon.com/Dont-Shoot-Dog-Teaching-Training/dp/1860542387
 
 <!-- local mirror -->
 [Birdmen]: http://muflax.com/stuff/malstrom/Birdmen%20and%20the%20Casual%20Fallacy.html

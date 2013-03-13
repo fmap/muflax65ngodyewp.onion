@@ -1,0 +1,343 @@
+---
+title: Martian Colonies
+date: 2013-03-12
+techne: :done
+episteme: :log
+---
+
+<% poem do %>
+> auf dem kreuze lieg ich jetzt
+> sie schlagen mir die nägel ein
+> das feuer wäscht die seele rein
+> und übrig bleibt ein mund voll asche
+>
+> ich komm wieder
+> in zehn Tagen
+> als dein schatten
+> und werd dich jagen
+>
+> heimlich werd ich auferstehen
+> und du wirst um gnade flehen
+> dann knie ich mich in dein gesicht
+> und steck den finger in die
+>
+> asche - zu asche
+> und staub - zu staub
+>
+> -- Rammstein's heterodox Christology as primary influence on my reading of the Harrowing of Hell
+<% end %>
+
+Book reviews. There might be a theme.
+
+- [Psychology for the Classroom: Behaviourism][]. Overview of behaviorism as used in (mainstream) teaching. Decent references, reads like an extended Wikipedia article, but unless you're exceptionally smart or already know the foundations of empiricism etc. that make behaviorism possible, you won't be able to use much of that stuff at all. Read [Don't Shoot The Dog][] instead.
+
+- [Applied Behavior Analysis: Principles and Procedures in Behavior Modification][]. A lot more in-depth, but a significant lack of meta. Very readable once you understand ToI, but not nearly as useful before.
+
+  The biggest problem of the book, however, is not it's lack of unifying theory (I'm a crackpot - I *always* think I have the proper theory for something), but that it doesn't spend enough time on teaching the reader the *framework* of behaviorism. It treats "behaviorism" as a box of various (mostly unconnected) skills you can add to your teaching effort, not as a way to *think about* problems. The book does try to explain how to *dissolve* a problem correctly as a behavioral issue (instead of, say, "issues with my childhood" or "diagnosed with cluster-of-random-symptoms-y") and talks about proper behavioral modification, but it doesn't dedicate nearly enough effort to it. I have read texts like it a few years ago, and completely missed almost all insights of behaviorism, both its main points and all the subtle details. Half a chapter on "what is a behavior" is nowhere near enough to disabuse someone of all the cognitivist and psychoanalytical mistakes, and let's not get started on mysterianism. It is far too easy to read the chapters, think you understood them, nod and repeat how reasonable and insightful the ideas are, and utterly fail to integrate or master them at all. Animal training courses are *much* better at this, I suspect because trainers are less likely to attribute weird mental states to (and get fooled by social manipulation attempts of) non-primates.
+
+  Overall, the book is sensible in scope and opinion, average in presentation (that is to say, ineffective but readable), and usable as a primer to mainstream behaviorism *if you know what you're doing*.[^punish]
+
+  [^punish]:
+      <% skip do %>
+      One almost-political side-note. Using punishment to stop a behavior is explained, but comes with a "Cautions and Ethics" section about how to minimize their use and how to obtain consent. The same is *not* provided for general reinforcement. Behaviorist Meta-Ethicist is not impressed.
+      <% end %>
+
+- [Understanding Behaviorism][]. Finally, an overview of the intellectual framework of behaviorism. It's even acceptably meta at times. I'm still hesitant to recommend it because it spends a considerable amount of time on trying to convince you that its critics got it wrong instead of, you know, simply doing a better job and making the critics obsolete.
+
+  [Monolithic kernels][kernel design] didn't win over microkernels because one side was convinced by the better *arguments* but simply because every OS worth interacting with runs a monolithic kernel. The correct response to a defender of microkernel design is not a list of abstract advantages, but simply the challenge, "if this design is so great, go forth and build a better OS". As such, starting a textbook with a long section of philosophical defenses of your position is a sign of profound sickness.[^philo]
+
+  [^philo]:
+      <% skip do %>
+      An additional problem with such a "philosophical" approach is that it invites bad criticisms. I mean, I'm actively trying to learn something from the book and I agree with most of their positions completely, and it still frequently provokes me into a "you're anti-teleological, what is wrong with you?!" rant. If I had even slight skepticism about the merit of the content of the book, I would've quickly rejected it for really bad philosophy. (Of the kind people like Feser write entertaining posts about.)
+
+      Just don't do that. You're teaching an engineering skill, stick to engineering. Let us worry about philosophy *after* we know how to do something. Physics textbooks don't open with big "why we don't believe in magic" rants. There's a reason for that.
+
+      That said, I liked the description of one of Dennett's books as "A philosopher defends mentalism and attacks Skinner's accounts of behavior in terms of histories and reinforcement. The essay is interesting for its misunderstanding of Skinner and behavior analysis.".
+      <% end %>
+
+  But overall, the book is primarily a fanboy's attempt to defend Skinner against his inept critics, and while I'm very sympathetic to this idea (up yours, Chomsky!), it doesn't really do much beyond that. At least it has some promising references.
+  
+- [Handbook of Behaviorism][]. A much more metaphysical book than the rest. I'd just like to quote the second half of the table of contents:
+
+  - Radical Behaviorism: B.F. Skinner's Philosophy of Science
+  - Empirical Behaviorism
+  - Teleological Behaviorism
+  - Theoretical Behaviorism
+  - Biological Behaviorism
+  - Functional Contextualism: A Pragmatic Philosophy for Behavioral Science
+  - Wittgenstein's Behaviorism
+  - Ryle's Behaviorism
+  - Logical Behaviorism
+  - Quine's Behaviorism
+
+  If that doesn't turn you on, there's just something objectively wrong with you.
+
+  To be honest, I only picked it up because it said "behaviorism" in the title, and I still consider my ban of non-ironic discussions of metaphysics in place, so I won't actually say anything *about* the content of the book, except insofar that I liked it, and think it's a good example of "ok, we have this bunch of fragmented but useful insights, how can we combine them into something coherent and intellectually satisfying without collapsing into abstract nonsense or sacrificing the methodology that gave us those insights?".
+
+- [Impro][]. Quote from the beginning:
+
+  > People think of good and bad teachers as engaged in the same activity, as if education was a *substance*, and that bad teachers supply a little of the substance, and good teachers supply a lot. This makes it difficult to understand that education can be a destructive process, and that bad teachers are wrecking talent, and that good and bad teachers are engaged in opposite activities.
+
+  This answers whether the book is *good*, but is it also *useful* for any of the projects I'm currently interested in?
+
+  The early sections seem to start off as "let me demonstrate that I'm not neither evil nor stupid", which is valuable information to have, especially about a teacher, but doesn't feel worth discussing. Then, slowly, it picks up speed and I feel like quoting almost every single paragraph, writing things like, "see?! that's that thing I've been talking about!", and, "that's a clear demonstration of that technique I was trying to communicate!". Alright, so the book is *that good*, but still, let's focus on some things I *haven't* talked about much. (And in the end, it's short, so just read the damn thing already.)
+
+  I won't reproduce the whole section on status (which is of utmost importance, but too long for me to deal with), but one section I found particularly interesting:
+
+  > Status is played to anything, objects as well as people. If you enter an empty waiting-room you can play high or low status to the furniture. A king may play low status to a subject, but not to his palace.
+  >
+  > An actor is waiting on stage for someone to enter and play a scene with him. "What status are you playing?", I ask. He says, "I haven't started yet." "Play low status to the bench", I say.
+  >
+  > He looks around him as if he was in a park that he suspects may be private. Then he "sees" a pigeon, and mimes feeding it, rather unconvincingly. "Play low status to the pigeon", I say, and immediately his mime improves, and the scene is believable. More "pigeons" arrive, and one lands on the bench and starts pecking at the bread he's holding. Another lands on his arm, and then shits on him. He wipes the mess off surreptitiously. And so on. He doesn't need another actor to play status scenes with. He can do it with anything in the environment.
+
+  Years ago when I was enrolled in a niche humanities degree, I had to take classes at many different departments, and none felt like "mine". Most days I had the experience of having to enter a big, imposing building, only to completely freeze up inside, not daring to even look at the walls. Eventually I had panic attacks whenever I thought someone else might've been using the kitchen in my dorm at the same time as me, and the only people I had the semblance of a conversation with were the Mormon missionaries I met once. (Who, had they not opened with Joseph Smith but "we're taking you to a social club where you aren't expected to understand anything", would have had a *much* better chance of recruiting me.)
+
+  At the time I couldn't understand my reaction nor figure out a way to change it. I didn't realize that I had no status calibration whatsoever for this place - a lot of my family and all my friends were either working class, or if educated, then engineers (and my own ideas of how the subjects these departments allegedly dealt with *should* be treated were especially out of place) - so I reverted to the only thing I could do, and played the lowest status possible.
+
+  A different anecdote. I have a moderate but almost purely cosmetic physical deformation, which is a major source of Issues. At age 16, I managed to seek out a doctor who told me, dismissively, that I should not be worried, and that he knew a surgeon with a similar issue. Instead of any treatment, he recommended dance lessons. At that time, I wanted to punch the man; I now realize he was right. (And an asshole.)
+
+This completes the first half of my behaviorism reading list. I'm still digesting some parts of that, but will soon move on to Skinner's books and the various seminal papers.
+
+<% skip do %>
+(I already started [Verbal Behavior][] and so far I like it. I find it interesting how many of Skinner's criticisms still apply today. There seems to be a definite point in the late 60s or so when people stopped making considerable progress in these areas. If I may throw *another* hypothesis into the room, besides the obvious "science is fickle", "psychology is too hard" and "those evil science-hating people with different politics again!", it may just be that we need a big enough *engineering project*, some practical application that requires us not just to speculate about behavior, but actually *change things never changed before*, to make significant progress. <del>Good thing I'm already trying to conquer the world!</del>)
+<% end %>
+
+---
+
+I also bought RMP's [The Amazing Colossal Apostle][]. (Please ignore the sounds of the *squee*ing fangirl that is muflax.)
+
+First impression: just as useful for understanding "Paul" as the [Pre-Nicene New Testament][] was for the gospels, and again most of the value lies in the references and summaries of old ideas, not so much the specific arguments (which are often merely hinted at).
+
+[The Amazing Colossal Apostle][] is the most *continental* of his books I've read, more like a careful dance, an act of sabotage, than a *case*. If you don't pay attention, and remind yourself that some people treat the NT as an *historical account*, you might occasionally think you accidentally picked up one of his Lovecraft books. This isn't a *flaw*, I think, but it assumes a sufficient familiarity with fiction to really understand why he's not just fanfic'ing. If you can't stand continentals, you probably won't get much out of the book.
+
+I'm still worried that Higher Criticism is *too loose*, that it picks up too strongly on the constructed and fictive elements in narratives, and fails to reconstruct any *history*, even when it's there. The social constructivists, of course (and who am I kidding, I learned *everything* from them a long time ago, I won't ever *not* be one) would insist that this is just right because *all* narratives are fictive. That we cannot meaningfully treat "The Dreams in the Witch House", the "Epistle to the Galatians", and "The Guns of August" any different is not *the method's* fault. It doesn't bother me too much because I'm only in it for the fiction anyway - and that is not something that *weakens* the endeavor. One should not let the (attempted) realism of the setting stand in the way of the punchline. But it still worries me how the same methodology would fare with texts I'm pretty sure *weren't* written by trolling Gnostics two millennia ago.
+
+<% skip do %>
+
+A moment of real talk.
+
+When I saw RMP namedrop Derrida, I wondered. My own view of Derrida until fairly recently was one of "obscurantisme terroriste", that as Wiki-same quotes Searle:
+
+> Michel Foucault once characterized Derrida's prose style to me as "obscurantisme terroriste." The text is written so obscurely that you can't figure out exactly what the thesis is (hence "obscurantisme") and then when one criticizes it, the author says, "Vous m'avez mal compris; vous êtes idiot" [roughly, "You misunderstood me; you are an idiot"] (hence "terroriste").
+
+The problem was that I *had never actually read Derrida*, or thought about the *context* in which he wrote his famous works, or anything like that. A second example, from a recent Bible Geek podcast:
+
+> > (A listener asks about a recent newsletter RMP wrote:) I'm a fan of your biblical criticism. I feel as though you're a kindred spirit. The trajectory of my journey aligns in many ways with my own. [...] In particular, I find the current popularity of the philosophy of Ayn Rand and its infestation of conservative Christian circles to be particularly odious. [...] While I'd admit that I haven't read her novels in their entirety (RMP: You and me both.), my question for you is: Why Ayn Rand? How can you, as you say, "love people" [...], yet you seem to embrace her Objectivism, or at least admire it? I honestly wanna know what I'm missing and why someone that I respect in nearly every other domain, would throw in with an ideology and political stance that I find absolutely contrary to everything that's good in the Western tradition as well as in the American experiment. [...]
+>
+> (RMP:) Let me just set your mind somewhat at ease [...]. I have *never* claimed to even have firmly explored Ayn Rand's view. I have a vague idea what Objectivism is, but I have only ever affirmed her opposition to collectivism. I don't know how integral that is to her philosophy in general, or if it is made impossible by any other philosophy than hers (which I doubt), I merely quote her and Nietzsche  - and someone else said, you can't make Nietzsche and Ayn Rand fit together on the same plate, well, I don't try to! - I appeal to them in this column I did on the danger of the collective and its inevitable tendency to snuff out and dilute creativity [...].
+>
+> Beyond that, I don't know enough *about* Ayn Rand to endorse her philosophy and never have to my knowledge. That's all I'm getting at. To me, that's a big hunk of it to chew, but the rest she has to say, I really neither know nor care. [...]
+
+About half my stream[^stream] of people I read, concerned with totally disconnected ideas and communities, is full of "those stupid outsiders horribly misrepresent us, what's up with all the trolling" and "haha, look how crazy these other people are though, how can anyone believe *that*?!" posts. The irony seems lost on them.[^nt]
+
+[^stream]:
+    This is one of the two reasons I don't participate in discussions or chats these days. The other is that they are such immense time sinks, which is why I deleted or closed most of my accounts, just so I could get anything else done. (And live without 24/7 nerdrage.)
+
+Back when Brother S wrote his first [defense of the Principle of Charity][Yvain Charity], I thought he was being somewhat foolish. Maybe it was the automatic paranoia instilled by one cryptography course too many, but I thought how dangerously easy it might be to exploit such an attitude. I was wrong, Brother S had a point. Yes, the Principle of Charity makes you vulnerable, but *not* using it eats your brain.
+
+When I introduced epistemic tags (even though I'm kinda circumventing them these days by writing only logs), I wanted a way to say, without corrupting the text itself, that this - *this* (waves hands around) *all of this site* - is *not to be taken too seriously*, and while it baffles me someone could read it as anything different (even though I see that happen, rarely, like I'm some kind of actual authority on anything), I think I didn't do this properly last time (and might not be able to do anything else, as even self-deprecatingly calling myself a crackpot didn't seem to work), but what I really wanted to say is this:
+
+*This is play*.
+
+But the problem is not that some evil outsiders don't get that (haters gonna hate), but that it upsets me when they don't. Let me rephrase that: it bothers me that it bothers me.[^frust]
+
+I know that what I write, and the references and ideas I use, are *playful* or *local* in scope, that when I mentioned Derrida (before I saw RMP do it), I did so because I thought he was relevant to what I said back then (and funny in context), not because I was endorsing - or even making a *point about* - things like post-structuralism, and that this extends to all such references[^ref]. But then when I saw RMP mention ol' Jacques, I worried, "oh noes, what about the credibilities!". If you reference some nutty Frenchman with amazing hair, maybe some of my friends won't listen to what else you have to say, or won't even bother trying to understand why you did so in the first place.
+
+[^ref]: Plug of [Tastefully Understated Nerdrage's recent video][TUN shandy]. Mention of how this relates to all kinds of other things. Egregious use of footnotes.
+
+[^frust]: But nothing bothers me as much as [useless sons][CK2 meme]. And Mongols.
+
+Then I laugh. This is not some kind of weird Planescape universe where other people disagreeing with you puts existence itself at risk. To channel Malstrom ([local mirror][Birdmen] of his famous 2008 essay), who cares that you are being misunderstood by some? That just means you'll have less competition. [Just outperform them.][Matrix Show Me] There's enough culture around for you to function in. Who cares if not everyone is into the same genres as you? Start a new crackpot blog, demand the re-institution of the druidic magocracy. Let them laugh about the "Hebrew Indians" all they want - when the apocalypse comes, Mormons will rule the wastelands, and the rest will die.
+
+When I was still a wee lad[^lad] and went through my social constructivist training (who lets a 14-year-old read [Watzlawick][Paul Watzlawick] and Crowley? someone who wants to produce non-boring 15-year-olds, that's who), I often wondered, especially when reading what would now be blog posts but back then were "essays" by non-famous constructivists, why they seemed so *mundane*, so *detached* from their philosophy. It seemed to me, having no experience with anything, that one cannot hold such radical views of reality, and then write an essay about communication scripts involved in telling someone how you liked their new pasta recipe.
+
+That's like meta-eccentric! Shouldn't you have gone insane somewhere along the line? I'm practicing my [Ophelia][] here, and you just deconstruct weather lingo! You can't debate dinner in the same terms you use to debate political manipulation! But here is what I didn't get: social construction doesn't mean you're in some kind of Matrix-like *cage*, or living in a world of nihilism, clinging to some fake hope just so the demons don't eat you. It just means the whole thing - *everything* you do - is more like improv theater. Intersubjective, as one theology cosplayer I know would say.
+
+And the first rule of improv is that you don't deny someone's narrative.[^narra] You just go along with it. *Wanting* to impose structure for its own sake ignores that you aren't playing *for* the narrative - you're playing for the audience. (Who are, ideally, also the actors.) That's *why* this bothers me: feeling embarrassed or annoyed by some move means I think the person unskillfully lowered their own status, or rather in the case of RMP, *appears* to do so due to the rather narrow and territorial genres involved. But if I *accept* the feeling, I also accept that it was *in fact* a status-lowering move, even if only accidental - and that is precisely what I don't want to grant. I deny the rule, not the move.
+
+There is one, and only one, way to untrain a rule - the reinforcement pattern has to be inconsistent with it. The way you treat a certain stimulus implies a specific rule, if you want to or not. So de-correlate. Let me praise Derrida today and refute him tomorrow, so we can't play status through him.
+
+[^narra]:
+    Impro:
+
+    > When [Fred Karno] interviewed aspiring actors he'd poke his pen into an empty inkwell and pretend to flick ink at them. If they mimed being hit in the eye, or whatever, he,d engage them. If they looked baffled, and "blocked" him, then he wouldn't.
+    >
+    > There is a link with status transactions here, since low-status players tend to accept, and high-status players to block. High-status players will block any action unless they feel they can control it. The high-status player is obviously afraid of being humiliated in front of an audience, but to block your partner's ideas is to be like the drowning man who drags down his rescuer. There's no reason why you can't play high status, and yet yield to other people's invention.
+    >
+    > "Is your name Smith?"  
+    > "And what if it is?"  
+    > "You've been making indecent suggestions to my wife."  
+    > "I don't consider them indecent!"  
+    >
+    > Many teachers get improvisers to work in conflict because conflict is interesting but we don't actually need to teach competitive behaviour; the students will already be expert at it, and it's important that we don't exploit the *actors'* conflicts. Even in what seems to be a tremendous argument, the actors should still be *co-operating*, and coolly developing the action. The improviser has to understand that his first skill lies in releasing his partner's imagination. That happens in my classes, if the actors stay with me long enough, is that they learn how their "normal" procedures destroy other people's talent. Then, one day they have a flash of *satori* - they suddenly understand that all the weapons they were using against other people they also use inwardly, against themselves.
+
+
+[^lad]: Look, post-Singularity, *anyone* who's age can be stored in a standard 32-bit integer will be considered a child.
+
+[^nt]:
+    I'd like to point out the relevance for NT scholarship here. If you read this log, you're probably a member of at least *some* of these slightly-crazy communities, and you know how horrid those summaries of your own views and attitudes are. Consider then that, for instance, *everything* we know about Marcion was written *specifically by his enemies*. Who edited, interpreted and preserved the scripture used as evidence against him. You don't need to assume any fabrication or even malice to see the problem with that. Merely the need to impose a flawed narrative and selective preservation are enough.
+
+    That alone should be enough to bury "oh yeah, Luke's pretty much an eyewitness report". Imagine you only had [r/atheism][] as a source of information about Catholicism. You don't have to agree a single bit with the Catholics on anything to recognize you'd have to make a considerable charitable effort to figure out what they themselves actually cared about, and that stuff like "eating the flesh of a zombie Jew" isn't a good description of their beliefs.
+
+    Unless you figure out, in this hypothetical case, *how a Catholic might think*, nothing will make sense. They will sound like incredibly stupid, evil and alien people. Similarly, lacking any unambiguous *original* Marcionite writing whatsoever, you can't just read Tertullian and Acts to figure out what might've motivated Marcion. You have to learn to think like someone who could actually - without being incredible stupid, evil or an alien - want to write the things people attribute to Marcionites.
+
+    *Why* would Marcionites cherish "Pauline" texts so much? What does their use of the gospel imply about the formation of the canon? You don't have to *convert* to Marcionism (I didn't), but you have to be able to put on your Marcion hat and *think like one*, and for this, you have to be able to *be* one.
+
+    (And then remember to extend that same charity *to everyone else*, including Tertullian and Polycarp. *They* weren't some evil conspiracy of lizard-people either. And neither is r/atheism.)
+
+<% end %>
+
+---
+
+<% skip do %>
+A point about reinforcement schedules.
+
+Why does variable reinforcement work?
+
+You want to train an agent to perform a behavior, say getting a rat to pull a lever. The most *effective* reinforcement schedule is to consistently reward every successful response (and only that). If reinforcement and desired behavior are perfectly aligned, the agent will learn quickly and perform well.
+
+That, however, is expensive. You'd prefer if the agent performed the behavior at a lower cost.  If you space the reinforcement out to a reward every N responses, the agent will still learn the behavior. Unfortunately, they also learn that immediately after a reinforcement, they can't get more gratification. This makes the next response predictably unsatisfying.
+
+Eventually, the rat will become hungry again, and the behavior will restart. If, however, you make the reinforcer random by giving a reward after every successful response with a 1/N chance, then there is no predictable unsatisfactoriness because there is no shared sameness between responses. There can't be a learned "I was right, this sucks" experience because you constantly thwart it.
+
+That's why the learned behavior on a variable schedule is more resilient. With a fixed pattern, the agent can adopt two modes: "this will be predictably reinforcing" and "this will suck". With a random pattern, the agent is always in the same mode. What the randomness in variable reinforcement does is scramble the agents response patterns. You make it harder to disengage because you *prevent* the agent from learning when it's safe to disengage.
+
+If you consistently beat the agent's predictions for safe disengagement, you zombify them. If you give an agent a reward box that is consistently too hard to figure out (because it doesn't teach anything coherent), then the only possible action they have is "just pull that damn lever until it works". They give up on understanding the box.
+
+If you set up a class that has only one feedback mechanism, namely an exam at the end, then student behavior will clump just before the deadline. The students learn that it is safe to disengage from the course until the very end. This is true even if the students understand that this is not optimal learning behavior.
+
+There is only one way a student can beat this bad reinforcement schedule: superimpose a different schedule. They can either *blind* themselves to the reward pattern, which in the case of the class is hard to do, or create their own reinforcement that is more spaced out.
+
+Activity by the agent is concentrated just before the expected moment of reinforcement. If that moment is in the future, behavior will be delayed too. If it is predictable, behavior will have predictable phases. If it is random, that is, if all moments during some time span are equally likely, behavior will be consistent over the interval.
+
+This is why variable reinforcement works.
+<% end %>
+
+---
+
+<% skip do %>
+Turned my [last.fm][] account back on. (One of them anyway.) My sync script broke about a year ago and I never got around to fixing it. Behold, my todo shrinketh!
+
+I've been steadily making my way down my todo, either solving or dropping old problems, so this should be a less useless year than 2011. I also revamped my time-tracking tool once again (it's almost a yearly ritual now to do at least a partial rewrite) and I'm working on implementing much better behaviorist principles which I will hopefully talk about in a few weeks when I have some actual data to compare.
+
+Lastly, to retain at least some pseudo-reactionary cred, it turns out I'm actually *fully* Aryan. My grandma recently cleaned up her stuff and found her official "you are an Aryan" documentation. It turns out my great-grandparents only *lived* in Poland, but That One Government Which Cared About Aryans concluded, after some investigation, that they weren't Slavs. Well, I'm still gonna hold off on celebrating my [Atlantean heritage][Aryan Atlantis] until I get an actual DNA analysis[^dna], but I decided to at least *look* the part and dye my hair blond again. Ok, it's always *technically* blond, but it started to get pretty dark, or rather gray-ish, probably due to a severe lack of sunlight. Now you have to look at my sickly skin color and the rings under my eyes to know that I run [Gentoo][].
+
+[^dna]: Stupid 23andme is *still* not cheap enough for me to play "hah, great-grandma was a bit more of a Bohemian than we thought!".
+<% end %>
+
+---
+
+<% skip do %>
+Fellow Modrons! [Watch this machine melt holes into metal!][drill hole]
+
+Complexity of human value my ass. If there were a Kickstarter for a big Melt Holes Into Metal Robot that just traveled from planet to planet, completely disassembled them to extract all metal, cut it into small pieces and melted holes into them, only to then throw away these pieces and move on to the next planet, *I would give my life for it*.
+
+This is the best thing in the world.
+<% end %>
+
+---
+
+> Practice not until you get it right. Practice until you can't do it wrong.
+
+Wrote a shaping tool called [shaper][]. It's pretty minimal[^minimal] and unfinished (isn't everything?), but I'm doing an increasing amount of shaping practice these days, so I went meta and wrote a general solution. Lemme use this opportunity to explain shaping a bit, and how I use the tool.
+
+[^minimal]:
+    <% skip do %>
+    But seriously, after too many hours working on this I decided I wouldn't waste more time on "perfecting the design" or implementing some nice-to-have functionality, and just wrote the simplest thing that would do the job so I could get some actual experience and figure out what features I actually *need*.
+
+    Which is why it currently basically only generates (semi-)random prompts and tracks the 3-6-9 rule.
+    <% end %>
+
+Shaping is one of the core behaviorist techniques. We use it whenever we want to teach skill that the learner can't do *except in approximation*. For example, if you want to teach "what is 2+2?", you would *not* use shaping, but if the learner *can* answer "4", but it takes them a few minutes to do so and you want to reduce that time, *then* you would shape.
+
+So whenever you have a skill where correct responses fall within some *range*, and you can't (right away) jump into the correct range, you have to work with approximations. The goal of shaping is now to use reinforcement to minimize the error (i.e. how much the approximation sucks) until the learner is "good enough".
+
+We start with a baseline. A good window of last attempts to consider is 10. So to get your current level, make 10 attempts and record your performance. I then use the 3-6-9 rule:
+
+- If you do better than the worst 3 attempts, use a reinforcer.
+- If you do better than the worst 6 attempts, use a *stronger* reinforcer.
+- If 9 of your last 10 attempts have been reinforced (i.e. did better than the original 3 worst tries), start over, using those last 10 attempts as your new benchmark, or stop if you are good enough.
+
+(Note: a "stronger reinforcer" just means anything more reinforcing than the normal one. Might be twice the food, might be a stronger compliment.)
+
+Note also that, like always, you should go *from the simplest to the most complex task*, and obey the "n+1" rule, meaning you only introduce one new piece of information or skill at any time. (Start retardedly simple. No, even simpler. No, *even simpler than that*.) If a skill is *too simple*, you'll instantly know - the learner will just blaze through the shaping criteria. As a rule of thumb, if the reinforcement rate drops below 50%, *you're doing it wrong*.
+
+So for example, let's say I want to increase the speed at which I can move my finger from one guitar fret to another. I try it 10 times, recording my time for each attempt. If I screw up, I repeat and take the *total* time it took me to get it right. (Because you always *first* get accuracy right, *then* speed, and never sacrifice the first for the latter.)
+
+Let's say my times are (1.1s, 1.4s, 1.3s, 1.7s, 1.6s, 1.2s, 1.3s, 1.1s, 1.8s, 1.4s). The 3 worst times are (1.6s, 1.7s, 1.8s), so now every time I switch faster than 1.6s seconds, I make a mental note of "Good job!". (Because it's a fast reinforcer and I know I ain't lyin' to myself.) If I switch faster than 1.3s seconds, I make a stronger, more euphoric note of "Excellent!". Anything slower than 1.6s seconds I just ignore. Once I've done at least 10 attempts with 9 or more better than 1.6s seconds, I'm done. If the new time isn't good enough yet, I just repeat (until I get tired, typically after about 10 minutes), otherwise I'm done. (When speed practice becomes fast enough to transition into flow, I tend to just ignore individual reinforcements as long as I make clear progress.)
+
+I wrote [shaper][] to automate this as much as possible. So I define a semi-readable prompt file that has definitions like this:
+
+~~~
+#!ruby
+speed_lessons :speed => 60.per_m do 
+  lesson "finger -> string" do
+    (1..4).each do |finger|
+      fret = rand(1..4)
+      prompt {"Place finger #{finger} on s#{rand(1..6)}/f#{fret}."}
+    end
+  end
+
+  lesson "finger -> fret" do
+    (1..4).each do |finger|
+      string = rand(1..6)
+      prompt {"Place finger #{finger} on s#{string}/f#{rand(1..4)}."}
+    end
+  end
+
+  lesson "finger -> place" do
+    (1..4).each do |finger|
+      prompt {"Place finger #{finger} on s#{rand(1..6)}/f#{rand(1..4)}."}
+    end
+  end
+end
+~~~
+
+This then gives me prompts like this:
+
+<%= image("shaper-demo.png", "Shaper Demo") %>
+
+So now I don't have to concentrate on making ad-hoc prompts "random enough" or track what reinforcement to give, just follow instructions.
+
+(For guitar practice, I use my feet to press space for the next prompt. Foot switches? Look, I'm a software guy. The only thing I use a soldering iron for is to disconnect LEDs. Buy one and pay 30 bucks for a simple switch? Never!)
+
+---
+
+<% skip do %>
+I'm beginning to think the only reason I don't spend vastly more time playing games is that there's too much content coming out. I've tried to get back into Minecraft this week after over a year of absence, and it seems to have the same problem that [Crusader Kings II][] has. The devs release a new update that breaks all mods, it takes a month or two for the community to adapt, then a new patch comes out, forever repeating the cycle. No matter when I try to jump in, I'm either waiting for the next great update "due next week" and it's not worth starting *right now*, or I'm stuck in the month-long abyss of broken mods.
+
+I think I've either finally become an old man, or a social conservative, or both, but I've just assembled my own mod collection[^mods] and now intend to *never ever look at any updates ever again*. I just want to re-create my [Clonk][] nuclear-powered mining operations in Minecraft.[^arabia] I don't care about cats[^reddit] and lighting engines. Rolling release models are great for operating systems. They are horrible for games.
+
+Gaming communities need official Popes that can call down God's Own Feature Freeze and ban all non-bug-fixing activity forever under pain of perma-kickban, world file without end, amen.
+
+[^reddit]: You have been banned from r/aww.
+
+[^arabia]:
+    <% poem do %>
+    > temples were made
+    > built by thousand hands
+    > and evil did create
+    > gold from the desert sands
+    > gem on gold
+    > stone on bone
+    > and all did pray
+    > to great Cthulhu
+    <% end %>
+
+    ...is [a surprisingly good description][curse of arabia] of my long-term landscaping goals.
+
+[^mods]: Based on [Direwolf20][]'s [mod pack][Feed the Beast], just added a few minor things. Also, generating a non-sucky world took me *way* longer than I'm willing to admit.
+<% end %>
+
+---
+
+<% skip do %>
+Speaking of Popes, it seems now that Peter has denied the cross once more, for a few days we're all sedevacantists.
+
+Let us hope the Papacy [goes out with a bang][Prophecy of the Popes].[^papacy]
+
+[^papacy]:
+    I feel a minor obligation as a hipster pre-Catholic (as in, the kind of person Tertullian wrote against) to at least record my own predictions and hopes for the new Pope. But I'm mostly ignorant of internal Catholic politics, so I don't have much to say.
+
+    Benedict XIV is a competent theologian and survived the "heresy of modernism", as Wiki-sama calls it, surprisingly well despite being a central figure in it. I hope VatII will in hindsight turn out to be a brilliant renewal, a concession that stopped the revolution and made people understand tradition again. My only wish is that his successor will still be a Catholic. Maybe, somewhere outside Europe, they can still find such a man.
+<% end %>
