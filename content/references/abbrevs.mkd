@@ -32,3 +32,4 @@
 *[TotalUtil]: Total Utilitarianism
 *[WM]: Window Manager
 *[uFAI]: unFriendly AI, i.e. with human-unfriendly goals
+*[RMS]: Richard M. Stallman, father of GNU

@@ -315,3 +315,4 @@
 [Ophelia]: https://en.wikipedia.org/wiki/Ophelia
 [kernel design]: https://en.wikipedia.org/wiki/Kernel_%28computing%29#Kernel-wide_design_approaches
 [Goenka]: http://www.dhamma.org/
+[fursona]: http://en.wikifur.com/wiki/Fursona

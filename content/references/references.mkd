@@ -188,6 +188,10 @@
 [CK2 meme]: http://i226.photobucket.com/albums/dd38/Lord_X_Vamp/bayeux2.jpg
 [Direwolf20]: https://www.youtube.com/user/direwolf20
 [Feed the Beast]: http://www.feed-the-beast.com/
+[Google Reader closed]: http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html
+[NewsBlur]: https://www.newsblur.com/
+[The Old Reader]: http://theoldreader.com/
+[git-annex]: http://git-annex.branchable.com/
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -247,6 +251,7 @@
 [LW verbal]: http://www.webcitation.org/6BuQl0lm3
 [LW survey 2012]: http://www.webcitation.org/6BuQm6Q98
 [LW westergaard]: http://www.webcitation.org/6Ciqffazt
+
 <!-- Hanson -->
 [Hanson smile]: http://www.overcomingbias.com/2009/09/poor-folks-do-smile.html
 [Hanson exist]: http://www.overcomingbias.com/2012/04/morality-should-exist.html
@@ -313,7 +318,7 @@
 [xixidu utilitarian]: http://kruel.co/2011/07/24/open-problems-in-ethics-and-rationality/
 [xixidu blah]: http://www.webcitation.org/6BOZyNWpe
 
-<!-- Yvain Disease -->
+<!-- Yvain -->
 [Yvain Disease]: http://www.webcitation.org/6BONCwgkl
 [Yvain Creepiness]: http://squid314.livejournal.com/328267.html
 [Yvain social]: http://squid314.livejournal.com/322213.html
@@ -321,6 +326,9 @@
 [Yvain Kol Nidre]: http://squid314.livejournal.com/331223.html
 [Yvain Constance]: http://squid314.livejournal.com/342047.html
 [Yvain Charity]: http://squid314.livejournal.com/307109.html
+
+<!-- horse_ebooks -->
+[horse stars]: https://twitter.com/Horse_ebooks/status/312056528498720768
 
 <!-- reddit -->
 [reddit lain]: http://www.reddit.com/r/AskReddit/comments/t0ynr/throwaway_time_whats_your_secret_that_could/c4inqul

@@ -5,9 +5,11 @@ non_cognitive: true
 no_comments: true
 ---
 
-Because death doesn't conquer itself, you know.
+> These specifications cannot be followed to the letter, as we have seen, but collateral results may not be inappropriate. 
+>
+> -- B.F. Skinner in [Verbal Behavior][]
 
-Daily practice, 100 words, on average. [More details what this is about.][about dlog] See the [blog][] for real content. There's also an [RSS feed][RSS].
+Practice logs and random musings, 150 useful words per day, on average. [More details on what this is about.][about dlog] See the [blog][] for completed content. There's also an [RSS feed][RSS].
 
 Latest entry:
 

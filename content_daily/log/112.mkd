@@ -1,8 +1,185 @@
 ---
 title: Sky Anchor
-date: 2013-03-13
+date: 2013-03-17
 techne: :done
 episteme: :log
 ---
 
+> A number of massive ancient red supergiant stars that are inexorably moving
+>
+> -- [the prophet][horse stars]
 
+<% skip do %>
+A Jesuit Pope! And they tell me the interpretation of Molinism as being about hacking God is far-fetched. Who's laughing now?!
+
+(Side-note: In reading contrarian politics and Christian bloggers, I've gotten addicted to playing "spot the schizotypal" by checking who the chain-smokers are. Psychoanalyze your friends for fun and privilege!)
+<% end %>
+
+---
+
+By now this is almost old news, but for all you peeps who also can't stand social media[^media] for subscriptions and who thought RSS was a perfectly fine solution, thankyouverymuch: [Google is closing Google Reader][Google Reader closed]. What in the actual fuck. I can't internet without my synced RSS feeds!
+
+(Is RSS dying? Should I offer alternatives? Why is everyone changing everything for the worse all the time?! And what in the name of Nurgle's Pestilent Skull is the deal with people using custom fonts for buttons that don't work because I enforce sane fonts? ARE THESE THE TRIBULATIONS [THE PROPHECY][Prophecy of the Popes] TALKED ABOUT?!)
+
+I expect to move my stuff over to [The Old Reader][] or [NewsBlur][] once the slashdotting is over, or maybe host my own stuff again.
+
+I'm still bitter about what they did to Groups and Usenet, so this is just the insane dick move that finally makes me pack up my toys and leave. I've started to pull all my stuff out of Google and hope that by next month or so, I'm no longer depending on any of their products.[^migration]
+
+Somewhere, a reactionary is nodding: no voice, all exit.
+
+[^media]:
+    <% skip do %>
+    I occasionally consider turning some of these accounts back on so I can talk to some people I like, but then I remember that the only two options are Google Plus, which was designed by Venusian Slugs and is run by the company that just pantsed me, or Facebook, which thanks to its aggressive data-mining policy would instantly connect me with a girl who shall remain unnamed and who got married last year, and then I would spend too much time crying instead of sharing crackpot theories.
+
+    So I remain cut-off.
+    <% end %>
+
+[^migration]:
+    <% skip do %>
+    So I have to move:
+
+    - Gmail, which is at least *mostly* under my @muflax.com domain, so that should be relatively painless once I found a non-insane webhost.
+    - Youtube, which I expect to still *use*, but I've been mirroring all videos I actually link to for some time now, and will expand my mirroring strategy. I'm already in the process of moving some of my media archives into redundant backup via [git-annex][] (HT to the folks who recommended it to me, I've finally come to see its merit), so that's something I should do anyway.
+    - Talk, which I just migrated *to* from a friend's Jabber server. I might leave that running for now as I don't rely on it much and can easily switch later when they inevitably shut it down.
+    - Search, but some dudes have been making propaganda for DuckDuckGo already, so it's time to check that out.
+    - Analytics, which I don't use much anyway except to figure out where the rare traffic spike's coming from.
+    - And while I'm at it, I should really look again into an open alternative to Disqus.
+    - Maps and a few minor Google Apps on my phone.
+    - Hey did I mention that I still haven't moved from XMonad to Awesome even though I've been meaning to for 2 years now? And this one server box that's been "dying" for even longer, but I have backups and it responds to SSH, so who cares, right?
+
+    13/3/13, never forget. Save your logs, make your backups, never trust anyone with data you don't mind losing in an instant.
+
+    Why does RMS have to be right all the time?
+    <% end %>
+
+---
+
+Restored an old post, [Why You Don't Want Vipassana][], and cleaned it up a bit (and updated some infos based on my current opinions). I might want it in a later retrospective on 2011 (aka "the year I was a constant ball of anxiety because of path progressions, and then I was surprised that a technique that was supposed to fuck me up did indeed fuck me up, but hey at least it got me into a really cool place now, so thanks I guess?"). The post holds up reasonably well on its own, too. (I didn't restore the comments because ugh lazy.)
+
+While I'm at it, my Beeminder "write more logs" goal has become a useful "time until next post" graph, so I inserted it into the navigation bar. (The upper number is the number of days, the lower the current pledge.)
+
+---
+
+Finally, a book review of [Verbal Behavior][] by B.F. Skinner, one of his more philosophical works. (This concludes the "theoretical" behaviorist texts. The rest is Stuff That You Can Actually Apply, not How To Think About Stuff You Can Actually Apply.)
+
+First, an early declaration of the kind of program Skinner has in mind (and my favorite passage):
+
+> It has generally been assumed that to explain behavior, or any aspect of it, one must attribute it to events inside the organism. In the field of verbal behavior this practice was once represented by the doctrine of the expression of ideas. An utterance was felt to be explained by setting forth the ideas which it expressed. If the speaker had had a different idea, he would have uttered different words or words in a different arrangement. If his utterance was unusual, it was because of the novelty or originality of his ideas. If it seemed empty, he must have lacked ideas or have been unable to put them into words. If he could not keep silent, it was because of the force of his ideas. If he spoke hastingly, it was because his ideas came slowly or were badly organized. And so on. All properties of verbal behavior seem to be thus accounted for.
+>
+> Such a practice obviously has the same goal as a causal analysis, but it has by no means the same results. The difficulty is that the ideas for which sounds are said to stand as signs cannot be independently observed. If we ask for evidence of their existence, we are likely to be given a restatement in other words; but a restatement is no closer to the idea than the original utterance. Restatement merely shows that the idea is not identified with a single expression. It is, in fact, often defined as something common to two or more expressions. But we shall not arrive at this "something" even though we express an idea in every conceivable way.
+>
+> Another common answer is to appeal to images. The idea is said to be what passes through the speaker's mind, what the speaker sees and hears and feels when he is "having" the idea.[^imagination] Explorations of the thought processes underlying verbal behavior have been attempted by asking thinkers to describe experiences of this nature. But although selected examples are sometimes convincing, only a small part of the ideas said to be expressed in words can be identified with the kind of sensory event upon which the notion of images rests. A book on physics is much more than a description of the images in the minds of physicists.
+>
+> There is obviously something suspicious in the ease with which we discover in a set of ideas precisely those properties needed to account for the behavior which expresses them. We evidently construct the ideas at will from the behavior explained. There is, of course, no real explanation. When we say that a remark is confusing because the idea is unclear, we seem to be talking about two levels of observation although is, in fact, only one. It is the *remark* which is unclear. The practice may have been defensible when inquiries into verbal processes were philosophical rather than scientific, and when a science of ideas could be imagined which would some day put the matter in better order; but it stands in a different light today. It is the function of an explanatory fiction to allay curiosity and to bring inquiry to an end. The doctrine of ideas has had this effect by appearing to assign important problems of verbal behavior to a psychology of ideas. The problems have then seemed to pass beyond the range of the techniques of the student of language, or to have become too obscure to make further study profitable.
+>
+> Perhaps no one today is deceived by an "idea" as an explanatory fiction. Idioms and expressions which seem to explain verbal behavior in term of ideas are so common in our language that it is impossible to avoid them, but they may be little more than moribund figures of speech. The basic formulation, however, has been preserved. The immediate successor to "idea" was "meaning", and the place of the latter is in danger of being usurped by a newcomer, "information".[^meme] These terms all have the same effect of discouraging a functional analysis and of supporting, instead, some of the practices first associated with the doctrine of ideas.
+> 
+> One unfortunate consequence is the belief that speech has an independent existence apart from the behavior of the speaker. Words are regarded as tools or instruments, analogous to the tokens, counters, or signal flags sometimes employed for verbal purposes. It is true that verbal behavior usually produces objective entities. The sound-stream of vocal speech, the words on a page, the signals transmitted on a telephone or telegraph wire - these are records left by verbal behavior. As objective facts, they may all be studied, as they have been from time to time in linguistics, communication engineering, literary criticism, and so on.  But although the formal properties of the records of utterances are interesting, we must  preserve the distinction between an activity and its traces. In particular we must avoid the unnatural formulation of verbal behavior as the "use of words". We have no more reason to say that a man "uses the word *water*" in asking for a drink than to that he "uses a reach" in taking the offered glass. In the arts, crafts, and sports, especially where instruction is verbal, acts are sometimes named.  We say that a tennis player uses a stroke, or a swimmer a crawl. No one is likely to be misled when drop strokes or crawls are referred to as things, but words are a different matter. Misunderstanding has been common, and often disastrous.
+>
+> [...]
+>
+> But can we identify the meaning of an utterance in an objective way? A fair argument may be made in the case of proper nouns, and some common nouns, verbs, adjectives, and adverbs - roughly the words with respect to which the doctrine of ideas could be supported by the appeal to images. But what about words like *atom* or *gene* or *minus one* or *the spirit of the times* where corresponding nonverbal entities are not easily discovered? And for words like *nevertheless*, *although*, and *ouch!* it has seemed necessary to look inside the organism for the speaker's intention, attitude, sentiment, or some other psychological condition.
+>
+> Even the words which seem to fit an externalized semantic framework are not without their problems. It may be true that proper nouns stand in a one-to-one correspondence with things, provided everything has its own proper name, but what about common nouns? What is the meaning of *cat*? Is it some one cat, or the physical totality of all cats, or the class of all cats?[^platon] Or must we fall back upon the idea of cat? Even in the case of the proper noun, a difficulty remains. Assuming that there is only one man named Doe, is Doe himself the meaning of *Doe*? Certainly *he* is not conveyed or communicated when the word is used.
+>
+> [...]
+>
+> The impulse to explicate a meaning is easily understood. We ask, "What do you mean?" because the answer is frequently helpful. Clarifications of meaning in this sense have an important place in every sort of intellectual endeavor. For the purposes of effective discourse the method of paraphrase usually suffices; we may not need extraverbal referents. But the explication of verbal behavior should not be allowed to generate a sense of scientific achievement. One has not *accounted for* a remark by paraphrasing "what it means".
+>
+> We could no doubt define ideas, meanings, and so on, so that they would be scientifically acceptable and even useful in describing verbal behavior. But such an effort to retain traditional terms would be costly. It is the general formulation which is wrong. We seek "causes" of behavior which have an acceptable scientific status and which, with luck, will be susceptible to measurement and manipulation. To say that these are "all that is meant by" ideas or meanings is to misrepresent the traditional *practice*. We must find the functional relations which govern the verbal behavior to be explained; to call such relations "expression" or "communication" is to run the danger of introducing extraneous and misleading properties and events. The only solution is to reject the traditional formulation of verbal behavior in terms of meaning.
+
+<3
+
+[^imagination]:
+    I've long wanted to write an angry manifesto called "Against Imagination". This section is a good summary of one of my main problems with it. 
+
+    The other main point would be a criticism of artists, broadly construed, saying things like: "the goal of music theory is to give you tools to transcribe the music you hear inside your head", and how amazingly retarded and limiting I find this. Who do you think is composing the music inside your head? The Symphony Fairy?
+
+    Throw into the fire all theories that do not grant you causal control.
+
+[^meme]: I would add "meme".
+
+[^platon]: A Platonist recoils as if hit by a ray of sunlight and crosses themselves, hissing.
+
+Skinner then attempts a fairly comprehensive sketch of how reinforcement and causal control can account for language, which I find in many ways convincing, or at least promising. While I'm not sure it's specific *enough* in many parts for me to later conclude, "this book completely changed the way I think about language", it does provide a good default "or something like that" conception, an immunization against toxic forms of idealism.
+
+One cute passage:
+
+> There are mands [i.e. prompts that directly influence you to action, like com*mands*, but generalized] which cannot be accounted for by showing that they have ever had the effect specified or any similar effect upon similar occasion. The speaker appears to create new mands on the analogy of old ones. Having effectively manded bread and butter, he goes on to mand the jam, even though he has never obtained jam before in this way. The poet exclaims *Milton, thou shouldst be living in this hour!*, although he has never successfully addressed Milton before nor brought anyone to life with a similar response. [...]
+>
+> This sort of extended operant may be called a magical mand. It does not exhaust the field of verbal magic, but it is the commonest example. Flushed with our success under favorable reinforcing circumstances, we set out to change the world without benefit of listener. Unable to imagine how the universe could have been created out of nothing, we conjecture that it was done with a verbal response. It was only necessary to say, with sufficient authority, *Let there be light!* The form *Let* is taken from situations in which it has been effective (*Let me go*, *Let him have it*), but we do not specify the listener who will make this instance effective.
+
+I think this is, at least for some class of such instances, the correct interpretation. But it has a certain aspie charm, doesn't it?[^charm] 
+
+[^charm]:
+    <% skip do %>
+    The Taoist tells me, "Beware the fool who thinks they're manding without listener, only to make things happen!". I like this troll.
+    <% end %>
+
+Speaking of which:
+
+> The poet mands the listener to see someone sitting upon a grassy green and to hark, not only to his words, but to the lark. He also mands him to speak up (*Tell me, where is fancy bred?*), to be quiet (*Oh, never say that I was false of heart*), and to co-operate in various practical affairs related to the poet's deprivations: *Come, let us kiss*, *Come live with me and be my love, Take, O take those lips away*, or *Drink to me only with thine eyes*. These are not always *magical* mands - though an appropriate reinforcement would possibly come as a surprise - but other examples seem to be necessarily so (*Go and catch a falling star*). When the reader is manded to alter or control his emotions (*Then hate me when thou wilt, Weep with me, Love me no more*), these specifications cannot be followed to the letter, as we have seen, but collateral results may not be inappropriate.
+
+Who said behaviorists don't have a sense of beauty? (I've made the last phrase this site's new tagline.)
+
+> The richness of these examples from literature exemplifies a general principle which will be confirmed again in later chapters. "Poetic license" is not an empty term. Literature is the product of a special verbal practice which brings out behavior which would otherwise remain latent in the repertoires of most speakers. Among other things the tradition and practice of lyric poetry encourage the emission of behavior under the control of strong deprivations - in other words, responses in the form of mands. Evidently the lyric poet needs many things and needs them badly. He needs a reader and a reader's attention and participation. After that he needs to have someone or something brought to him or taken away. Verbal behavior strengthened as the result of these various deprivations is emitted, in spite of its manifest ineffectiveness or weakness, because of the poetic practice. The lyric form warrants or permits "unreasonable" behavior, and in so doing it supplies the student of verbal behavior with especially useful material.
+
+Ain't that the truth.
+
+But I have major issue with the general account Skinner provides us here (and that also extends to Pearlian causality, to some degree): pure *probability* is a bad measure of *causes*. Probability is a great way to express our knowledge about a black box, but it can't be the fundamental thing *inside* the box. Any time your causal graph still has stochastic nodes of the "sometimes it follows this path, sometimes that path" sort, you still have unexplained phenomena around. This might be inevitable (or even irrelevant, as long as you understand a system well enough to extract some value), but your model of reality can't have "here be probabilities" at the *actual* ground level, but merely to say, "ok, we haven't had reason or means to look closer yet". 
+
+I'm unsure how strongly Skinner would disagree with this, but in sections like this, I get the impression he doesn't seem quite as committed to a "determinism or STFU" approach as I would like:
+
+> The three-term contingency in this type of operant is exemplified when, in the presence of a doll, a child frequently achieves some sort of generalized reinforcement by saying *doll*; or when a teleost fish, or picture thereof, is the occasion upon which the student of zoology is reinforced when he says *teleost fish*. There is no suitable term for this type of operant. "Sign", "symbol", and more technical terms from logic and semantics commit us to special schemes of reference and stress the verbal response itself rather than the controlling relationship. The invented term "tact" will be used here. The term carries a mnemonic suggestion of behavior which "makes contact with" the physical world. A tact may be defined as a verbal operant in which a response of given form is evoked (or at least strengthened) by a particular object or event or property of an object or event. We account for the strength of showing that in the presence of the object or event a response of that form is characteristically reinforced in a given verbal community.
+>
+> It may be tempting to say that in a tact the response "refers to", "mentions", "announces", "talks about", "names", "denotes", or "describes" its stimulus. But the essential relation between response and controlling stimulus is precisely the same as in echoic, textual and intraverbal behavior. We are not likely to say that the intraverbal stimulus is "referred to" by all the responses it evokes, or that an echoic or textual response "mentions" or "describes" its controlling variable. The only useful functional relation is expressed in the statement that the presence of a given stimulus raises the probability of occurrence of a given form of response. This is also the essence of the tact.
+
+(Note that this is dangerously close to the careless dismissal of "meaning" that's responsible for positivism's bad reputation. Skinner isn't *that* stupid, and "the causal relation encapsulates everything that can be called 'meaning'" is an answer I would *like* to be able to endorse, but it's fiendishly difficult to make this coherent at sufficiently high levels of meta, and I won't attempt it. I'm also really miffed by his use of "physical world" as if some aspect of the tact *isn't* part of it. Drop the dualism, bro.)
+
+While many kinds of verbal stimuli have shifting and unstable meanings, this still sounds like, to caricature it a bit, "Well, how do we figure out what 'cat' means? Let's find some subjects and probe them in a variety of environments with the relevant stimulus. The resulting stochastic list of responses is the meaning!", to which the correct reply is thus:
+
+<%= image("derrida_bored.jpg", "Derrida") %>
+
+Skinner's construction has the advantage of being an account of meaning you can actually *use* (unlike all other accounts I know), but it doesn't seem comprehensive *enough* yet, there's still fundamental stuff missing. Putting on my continental hat[^hat], it seems to me that maybe not literary *theory* but at least its *praxis* seems capable of ways of building and extracting meaning from texts that a Skinnerian system wouldn't be capable of. 
+
+[^hat]: 
+    <% skip do %>
+    It's actually a pair of cat ears.
+    <% end %>
+
+This is unfortunately a very muddled and brief criticism, and I'm not sure I have the time or mental clarity to do a better job in the near future (and I'm not particularly tempted to - solving "meaning" is a cute side-project, not something pressing (even for Skinner, I believe)), but for now I merely want to state this sense of "not enough, not enough". This framework seems to commit you to call things you can clearly *do* mere unintelligible noises, and that ain't right. Maybe, if one could plug some sufficiently powerful theory of induction into his framework, it would work. But I don't see how.
+
+Skinner acknowledges this:
+
+> Metaphorical extension is most useful when no other response is available. In a novel situation to which no generic term can be extended, the only effective behavior may be metaphorical. The widespread use of metaphor in literature demonstrates this advantage. Literature is prescientific in the sense that it talks about things or events before science steps in - and is less inclined to talk about them afterward. It builds its vocabularies, no though explicit definiton or generic extension, but through metaphor.
+>
+> Nowhere is this better illustrated than in the field of psychology itself. Human behavior is an extremely difficult subject matter. The methods of science have come to be applied to it very late in the history of science, and the account is still far from complete. But it is the field in which literature is most competent, secure, and effective. A Dostoyevsky, a Jane Austen, a Stendahl, a Melville, a Tolstoy, a Proust, or a Joyce seem to show a grasp of human behavior which is beyond the methods of science. Insofar as literature simply describes human behavior in narrative form, it cannot be said to show understanding at all; but the writer often seems to "say something" about human behavior, to interpret and analyze it. A person is not only described in taking part in various episodes, it is *characterized*. This is a significant expression, for it suggests where metaphor, as a prescientific vocabulary, finds its place. Among other techniques in literature, personality is described and analyzed with certain typologies. In early literary forms, animals tend to be used as such a classificatory scheme. Professor Wells has compiled a useful list of these theriotypes[^fursona]. A man may be an ass, an owl, a snake, or a rat. The comparable adjective - stupid, wise, treacherous, or mean - lack the full effect of the metaphorical extension in the theriotype.
+>
+> The familiar animals are, of course, rather quickly exhausted, but literature builds its own terms. The writer can deal effectively with, as Thomas Carew put it, "those heroic virtues for which antiquity / Hath left no name but patterns only, / Such as Hercules, Achilles, Theseus". When we say that a man performs a Herculean task, we do not say simply that the task required great strength or was undertaken industriously or was possibly odious; we say all this and more in a single word. Fable, myth, allegory - in short, literature in general - create their own vocabularies by connecting verbal forms with descriptions of particular events or occasions from which they may then be metaphorically extended. A complex interpersonal relation may be succinctly described as "crying 'Wolf'", while a complex emotional adjustment may be summed up as "sour grapes". It would take a long sentence, or more likely a paragraph or even chapter, to deal with either of these in nonmetaphorical fashion. When the literary expression is reinforced in its own right, it becomes useful in straight description. This takes the metaphorical force out of the heroic virtue and gives us no clue as to what is happening when the term is used metaphorically. It leads, however, to a more and more complex and effective nonmetaphorical terminology descriptive of human personality. The scientific effectiveness of such a vocabulary will derive from the actual contingencies of reinforcement in the scientific community, not from its metaphorical origin. Any survival of the latter would interfere with scientific use.
+
+That's as close as Skinner ever gets to declaring allegiance to the analytic side in the War on Metaphor. He irritatingly alternates between *understanding* that there is a problem, and then handwaving it away, or at least saying that science can exist without *using* these unaccounted methods, which may well be true, but then you can't claim to have *explained* them.
+
+Nonetheless, I find it delightful how the social constructivist practice of "communication scripts" maps quite easily to Skinner's stimulus-response system, and how both seem to answer, "What do you mean, 'objective' reality outside the script? The causal script is all there is.". In addition, Skinner sketches (although not *quite* explicitly) a way that communities develop their own technical lingo due to their function as reinforcing audience and need for unambiguous communication:
+
+> The logical and scientific community also sharpens and restricts verbal behavior in response to *verbal* stimuli. Assuring the accuracy of echoic and textual behavior is an obvious example; it is important to know what was actually said, in either vocal or written form. In general, however, practices are designed to clarify the relation between a verbal response made to a verbal stimulus and the *nonverbal* circumstances responsible for it. The community is concerned with getting back to the original state of affairs and with avoiding any distortion due to the intervening verbal For example, if a speaker emits a tact which in the practices of the community is controlled by either of two very different stimuli (for example, if he says *light*, which may be a response to an object of little weight or to visible radiation), and if a second speaker responds to this echoically (or textually if the first response was written), his listener may take action with respect to the wrong state of affairs. [...]
+> 
+> The logical and scientific community eliminates intraverbal responses which interfere with a "logical train of thought". [...] The community guards against confusing or misleading collateral responses to verbal stimuli in several ways. A special scientific vocabulary (used within a given "universe of discourse") is relatively free of responses under other sorts of stimulus control - that is, of superfluous intraverbal relations. The symbols which appear so often in logical and scientific behavior (often as replacement for terms in the lay vocabulary) are especially important in eliminating unwanted echoic, textual, and intraverbal responses.
+
+This is severely excerpted, but may be enough to get across the idea how you'd end up with "tribal language" without *wanting* to form a tribe, or having to resort to signaling explanations. Next time someone attacks the use of specialized vocabulary or argues that specialists are too prone to harmful in-group signaling, I might refer them to this section.
+
+[^fursona]: 
+    It seems obvious to me how a [fursona][] is an extension of this to develop one's own character, lacking better role models. In Jaynes' words, "poems are rafts clutched at by men drowning in inadequate minds".
+
+    Footnote to the footnote (really need to implement those some time): Having read Skinner's detailed analysis of listener vs. speaker, and his (self-admitted) increasingly diminished role of the speaker, and the reduction of thinking as a speaking-listening feedback loop, it now seems very natural to consider a Jaynesian "bicameral mind" hypothesis as an obvious precursor of currently existing thinking behavior.
+
+I've skipped most of Skinner's actual framework entirely or just barely hinted at it, including a detailed defense of puns (<3), but I think at least for now, I've said all I can about it. How influential it will turn out, time will have to tell. To close with Skinner's own epilogue:
+
+> [...] what effect may I presume to have had on the reader? I have not tried to induce autonomic behavior and shall not be disappointed if the reader has not salivated or wept or blushed at anything I have said. I have not tried to arouse immediate overt action and am quite content that he will not have shouted *Down with Aristotle!* or have tried to burn a library. The effects which I have hoped to achieve fall in other categories of the behavior of the listener.
+>
+> I have not described much new material. The reader has not, I am afraid, learned many new facts, and I could easily have limited myself to material with which all intelligent people could be assumed to be familiar. It has not been my purpose to present the facts of verbal behavior as such, and that is why I have not been greatly concerned with experimental or statistical proof. [...] I have, as it were, put the reader through a set of exercises for the express purpose of strengthening a particular verbal repertoire. Stating the matter in the most selfish light, I have been trying to get the reader to behave verbally as I behave. What teacher, writer, or friend does not? [...]
+>
+> But repertoire is not enough. The responses which I have tried to get the reader to make function by singling out events or aspects of verbal behavior which should make his subsequent behaviors more expedient. I have emphasized certain facts and ignored others. The justification for this has been that the facts emphasized seemed to belong together and that in talking about them to the exclusion of other facts, greater progress is made toward a unified account. Perhaps I have wanted the reader to pay attention to this field and to talk about it in a special way mainly because I myself have done so with pleasure and profit. I have assumed a common interest in the field of verbal behavior. It is my belief that something like the present analysis reduces the total vocabulary needed for a scientific account. It eliminates far more terms than it creates, and the terms created are derived from a few prior technical terms common to the whole field of human behavior. As one who has applied the analysis to fields not covered in these lectures, I believe I can say that it works. It has reached the stage where it does more work for me than I for it. It swallows new material avidly yet gracefully, and good digestion seems to wait on appetite. Hundreds of puzzling questions and obscure propositions about verbal behavior may be dismissed, while the new questions and propositions which arise to take their place are susceptible to experimental check as part of a more unified pattern.
+>
+> In many ways, then, this seems to me to be a better way of talking about verbal behavior, and that is why I have tried to get the reader to talk about it in this way too. But have I told him the truth? Who can say? A science of verbal behavior probably makes no provision for truth or certainty (but we cannot even be certain of the truth of that).
+
+Overall, muflax really liked the book and will likely revisit it later.
