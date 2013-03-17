@@ -81,6 +81,14 @@ module ::Nanoc
       self["disqus_site"]
     end
 
+    def beeminder_goal
+      self["beeminder"]
+    end
+
+    def beeminded?
+      !!beeminder_goal
+    end
+
     def url
       "http://#{main_site? ? "" : "#{@name}."}muflax.com"
     end

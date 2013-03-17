@@ -8,5 +8,6 @@ sites:
   daily:
     title: muflax becomes a saint
     disqus_site: dailymuflax
+    beeminder: dailylog
   gospel:
     title: The Unchanging Gospel
