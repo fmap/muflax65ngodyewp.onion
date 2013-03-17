@@ -21,7 +21,11 @@
     <!-- navigation sidebar -->
     <div id="nav">
 
-    <h1 class="title">Navigation</h1>
+      <% if @site.beeminded? %>
+        <%= render 'beeminder-eta', :goal => @site.beeminder_goal %>
+      <% end %>
+
+      <h1 class="title">Navigation</h1>
 
       <% if @search %>
         <%= google_search %>
