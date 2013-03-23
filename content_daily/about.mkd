@@ -1,21 +1,22 @@
 ---
 title: about the daily log
 alt_titles: [about dlog]
-date: 2012-04-12
+date: 2013-03-18
 techne: :done
 episteme: :believed
 non_cognitive: true
 ---
 
-I like talking about ideas. I like logging stuff. Writing the [blog][] has vastly increased my thinking output. (Which is good, and unexpected.) I see people use daily logs of what they did and these people kick my ass when it comes to achievements, even though for each individual day, they don't do more than I can. It's just the pure raw consistency. They still do the same shit 6 months from now and by then, they utterly outperform me.
+Why do I write these posts? I need to understand things. The only way to understand most things for me involves writing (and iteratively editing) notes that are 90% on the way to being blog post. Some people like to read them, and I think some of the topics are fun and should be talked about. So I just put in a little bit more effort, clean up the notes and publish them. 
+
+I see other people use daily logs of what they did and these people kick my ass when it comes to achievements, even though for each individual day, they don't do more than I can. It's just the pure raw consistency. They still do the same shit 6 months from now and by then, they utterly outperform me.
 
 Time for some algorithmic magic! I'm now retrocausally turning myself into someone more like [such a person][Wolfire], so I have decided - rippling back *from the distant future*! - to keep a daily log. (Good thing I don't have a sense of privacy.)
 
 Some rules:
 
-- I already track [time investments][Beeminder fume]. That's fine, but I also need to track content. I can't easily quantify "5 interesting things" per day. But interestingness correlates with word counts, and I can track *that*. So each log entry must have a minimum amount of 300 words per day. (I might still experiment with the exact number. I want it small enough to not be an additional chore, but large enough to force me to do stuff. I also want to make it *possible* to catch up when I miss a day, but not easy. This ain't kindergarten, yo.)
-- Only ever talk about something I did this day. No "building up a buffer". No "talking about that weird idea I got 3 weeks ago" or some philosophical implication I noticed. Only what happened on that day. Only what I did. (And rant-y remarks when I can't help myself.) Ideas go to the [blog][], not the [dlog][].
-- Absolutely daily. Not weekdays. Not "significant improvements". Not deadlines. Daily, ruthless, brutal practice. (The mindset I'm currently in makes "brutal" awesomely fun. Fun is crucial, not protestant work-ethics. *Fuck* protestant work-ethics.)
+- I already track [time investments][Beeminder fume]. That's fine, but I also need to track content. I can't easily quantify "5 interesting things" per day. But interestingness correlates with word counts, and I can track *that*. So each log entry must have a minimum amount of useful words per day. 
+- Absolute, merciless deadlines. Not "some days". Not "significant improvements". Daily, ruthless, brutal practice. (The mindset I'm currently in makes "brutal" awesomely fun. Fun is crucial, not protestant work-ethics. *Fuck* protestant work-ethics.)
 - Only actual improvements. No "I played games all day to relax" bullshit. I know me, I know I would totally write this if I didn't include this rule.
 - No copy pasta. If I get bored of writing the same entry again, I must do something different.
 - Time goes midnight to midnight, not waking to waking. Sleep? [Practice don't care.][honeybadger]
