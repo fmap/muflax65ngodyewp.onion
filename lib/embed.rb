@@ -23,9 +23,10 @@ def image(name, title="", link=nil)
 end
 
 def youtube(url)
+  embed_url = url.gsub("watch?v=", "embed/")
   <<EOL
 <div align="center">
-  <iframe width="560" height="315" src="#{url}" frameborder="0" allowfullscreen>
+  <iframe width="560" height="315" src="#{embed_url}" frameborder="0" allowfullscreen>
   </iframe>
   <a href="#{url}">(watch on Youtube)</a>
 </div>
