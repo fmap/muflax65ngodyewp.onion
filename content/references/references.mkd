@@ -192,6 +192,18 @@
 [NewsBlur]: https://www.newsblur.com/
 [The Old Reader]: http://theoldreader.com/
 [git-annex]: http://git-annex.branchable.com/
+[IFTTT]: https://ifttt.com/
+[Pocket]: http://getpocket.com/
+[essentially]: http://home.ccil.org/~cowan/essential.html
+[Tae Kim]: http://www.guidetojapanese.org/learn/complete
+[Dictionary of Japanese Grammar]: http://www.amazon.com/Dictionary-Basic-Japanese-Grammar/dp/4789004546
+[Supermemo's 20 Rules]: http://www.supermemo.com/articles/20rules.htm
+[Konkvistador]: https://twitter.com/SamoBurja
+[Koanic Soul]: http://www.koanicsoul.com/blog/
+[KS faces]: http://www.koanicsoul.com/blog/reading-faces-the-eyes-are-the-windows-to-the-soul/
+[Sir-Tech thread]: http://www.rpgcodex.net/forums/index.php?threads/why-did-sir-tech-go-bankrupt-ebay-auction.53695/page-39#post-2357849
+[SNES emulation]: http://arstechnica.com/gaming/2011/08/accuracy-takes-power-one-mans-3ghz-quest-to-build-a-perfect-snes-emulator/
+[Luther Genesis]: http://archive.org/stream/LutherOnTheCreationACriticalAndDevotionalCommentaryOnGenesis1-3/LutherGenesis1-3#page/n17/mode/1up
 
 <!-- onion -->
 [onion horoscope]: http://www.theonion.com/articles/your-horoscopes-week-of-january-10-2012,27001/
@@ -326,6 +338,8 @@
 [Yvain Kol Nidre]: http://squid314.livejournal.com/331223.html
 [Yvain Constance]: http://squid314.livejournal.com/342047.html
 [Yvain Charity]: http://squid314.livejournal.com/307109.html
+[Yvain objectification]: http://slatestarcodex.com/2013/03/17/my-objections-to-objectification/
+[Yvain reaction]: http://slatestarcodex.com/2013/03/03/reactionary-philosophy-in-an-enormous-planet-sized-nutshell/
 
 <!-- horse_ebooks -->
 [horse stars]: https://twitter.com/Horse_ebooks/status/312056528498720768

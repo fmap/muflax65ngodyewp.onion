@@ -316,3 +316,10 @@
 [kernel design]: https://en.wikipedia.org/wiki/Kernel_%28computing%29#Kernel-wide_design_approaches
 [Goenka]: http://www.dhamma.org/
 [fursona]: http://en.wikifur.com/wiki/Fursona
+[Pun Pun]: http://www.dandwiki.com/wiki/Pun-Pun_%283.5e_Optimized_Character_Build%29
+[John Paul I]: https://en.wikipedia.org/wiki/Pope_John_Paul_I
+[Death of God]: https://en.wikipedia.org/wiki/God_is_dead#Death_of_God_theological_movement
+[Walter Benjamin]: https://en.wikipedia.org/wiki/Walter_Benjamin
+[Concept of History]: http://www.marxists.org/reference/archive/benjamin/1940/history.htm
+[Economic determinism]: https://en.wikipedia.org/wiki/Economic_determinism
+[Thälmann]: https://en.wikipedia.org/wiki/Ernst_Th%C3%A4lmann

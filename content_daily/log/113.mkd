@@ -1,0 +1,197 @@
+---
+title: Dashsnatcher
+date: 2013-03-29
+techne: :done
+episteme: :log
+---
+
+Signed up with [IFTTT][] ("if this, then that"). It now saves all sites I star/like in Reader (peace be upon it), [Pocket][] and on Reddit in Evernote. Neat. Now someone only needs to invent an Evernote that doesn't suck. No, not you, Google.
+
+---
+
+<% skip do %>
+A point about Aristotelian essences. (I promise this isn't about metaphysics.)
+
+So according to Aristotle, things have *essential* properties - what makes them the things they are - and *accidental* properties, everything else. So a chair is necessarily something you can sit on (that's part of its essence), but it may be made out of wood or metal (those are its accidents). Fine, makes sense.
+
+Until you try to think about it a little bit too hard. How do you *determine* what something's essence is? Are there things that don't have any accidents? (Yes, exactly one thing, says Aquinas: God.) Can something have multiple essences? Can you change something's essence? How? How exactly does all of this stuff work, really?
+
+The Aristotelians just shrug and say, dunno, but everything else is absurd. The two popular responses to this view are to just throw out one of these concepts. The (Radical) Platonist has no accidents (they wish), the Materialist has no essence. Materialism (in this limited sense) is intelligible, but is pretty counter-intuitive, if you think about it. What, there is no "triangularity", only stuff arranged triangle-wise? How's this not just playing word games? This might make your thinking easier on one level of abstraction, but it totally screws with you on others.
+
+I've put on my Aristotelian hat and want to defend "essences" from a pragmatic perspective.
+
+[Scott complained][Yvain objectification] how "objectification" makes no sense and just causes trouble. He's right. My first thought, not even half-way through the post, was: "everyone stop being Aristotelians plskthx". In other words, people are only the sum of their features[^features], he says, and (Scott being a Materialist) all those features are of the same nature, so it's really weird to say it's fine to love someone for being kind, but not for having boobs.
+
+I'm not interested in defending "objectification". But how do you learn a concept? Like, generally?
+
+ToI says, it's simple. Concepts are collections of features, or properties, as the philosophers say. The only way to learn a concept is by abstraction from examples, or through combination of concepts you already know. Actual examples have all kinds of features. When I show you an apple and say it's "glerp", you don't know what glerp is, but you *do* know that the apple has some features that constitute glerpness. Maybe it's got to do with its color, or shape, or weight, or being edible, or whatever.
+
+So how do you find out? By comparison. If I show you a pear next and say it's also glerp, you just learned a great deal. You know *all features that this apple and pear don't share, aren't glerp*. This is the principle of sameness: if two examples are treated the same, then *only* features they have in common are part of the concept that makes us treat them this way.
+
+I can exploit this to build effective communication. How? I pick examples that have *as many features as possible* in common, but differ in the concept. That way, I can exclude a huge chunk of interpretations. Or the other way around, I can select examples that are *as different as possible*, but are the same with regards to the concept. Either way, I single out the "essential core" very easily. If "glerp" just means red, I could show you the same apple but in green and say it's not glerp. If "glerp" means edible, I could show you the same apple but rotten and say it's "not glerp", and then maybe similarly a pear (glerp), frozen steak (not glerp), normal steak (glerp), piece of metal (not glerp) and so on. You'd quickly get what I'm on about.
+
+So what's that got to do with essences? Aristotelians say, things have features. But there are also concepts, and those concepts are combinations of features. But things aren't pure representations of concepts - they have *additional* features. Those features don't interfere with the concept. Whether a triangle is tiny or huge doesn't change how many angles it has. When we point at an essence, we point *only* at these relevant features, *not* the rest. That doesn't make the features special *in the object*, but only in relation to the concept. If my concept is "hugeness", then the feature of tininess sure does matter. That hasn't philosophically transmogrified "tininess" in this specific triangle, though.[^trans]
+
+[^trans]:
+    The following derivations are left as an exercise to the reader: transubstantiation, angels (forms without material properties), why your resurrection must also restore your intestines.
+
+    (Hints: a) A set of features in some logical relation, perceived by some mind, defines a concept. If none of the features in the bread change, what else must? b) Can an algorithm that has never been implemented still influence people? What about one that is in principle uncomputable? c) [Code is data, data is code.][SNES emulation])
+
+I'm a person. I have plenty of features. But if you told me you love "me" for my magnificent legs, I'd be kinda irritated. Because you're clearly pointing at a different concept of "muflax" than what I have in mind. Sure, in this concrete instance, I do happen to have magnificent legs. (I don't. Bear with me.) But that's not part of the induction I'd like you to perform, and you pointing them out, implies that you're trying to get to a different concept.
+
+As Scott proposes, <del>someone sex-positive interested in casual sex</del> a slut, for example. Buddy, keep your unwanted implied inferences in your pants. But how do you communicate this? I may love you for your exquisite Emacs configuration, but it so happens you also got a truly astounding beard, and heck, I love it too, even though I would also love you without it? So can't I say, "I love your beard"?
+
+Here's what I would do. I'd find some people who're exactly like you *except* in those features I love *you* for. Then I line you all up, and say, "I love you, but I don't love those guys". Then I'd find some people who're like you in all the relevant features, and tell you, "hey I love them too". Then I'd date whoever has the biggest beard.
+
+But what if I were to say, "I love you *and only you*"? That implies *none* of your features is accidental. I'd have to be the loyalest shit there is because who could I run *to*? No one else embodies the concept of love for me. Awww. But I shouldn't go up to you and tell you I love your beard. Because that implies, even though it's true, that having a beard is a typical feature of a typical instance of the class of things I love. Which isn't true, and you'd correctly assume that I'm not interested in Emacs users after all!
+
+And all that because I unintentionally implied the wrong concept. Therefore, always say a sufficient amount of things that are specific enough to pick out only the concept you want.
+
+So even though "you are all your characteristics" is of course *technically* correct, one might still want to disagree with that. Concepts are (proper[^proper]) subsets of these characteristics. Not all features are equal.
+
+Which is all Aristotle wanted to say.
+
+[^features]:
+    This is the reason I don't like to separate "points about" from logs. There are no "quotable essences". If it were up to me, every quote would always include its entire context. By implication, there would be only one word, and it would mean the totality of all things (and this is what everyone calls God).
+
+[^proper]:
+    Are there concepts which are the entirety of the features of a thing? Something without accidental features? As I mentioned, Aquinas argued there's only one such thing - God. But why? Can't there be a squirrel that is pure squirrelness and nothing else?
+
+    Here's a reason: because then the squirrel would be Goodness Itself. Virtue is the process of shedding those accidental features, and especially conflicting features, and embodying only one form. You become a better person if you stop doing (or *being*) things that non-person-y things do (or have). This is a really meta view of Goodness, but hey, Aristotelians are really into meta.
+
+    But if we said, "this squirrel is so squirrelly, I can't find a single feature of it that isn't essential to its squirrelness", there'd be no room for improvement. Any change to the squirrel would make it less of a squirrel. So it would be Goodness Itself.
+
+    But a concept is always unique. There are no *two* concepts of triangularity, somewhere. There's just triangularity. So this would mean, by the law of identity, that squirrelness would be just a synonym for Goodness. And that's a contradiction, since we can find squirrels that have accidental features, but Goodness is by definition something that doesn't have accidental features. So [no squirrel is God][Pun Pun].
+
+    That's why Aquinas believed there are no other "pure essence" things.
+    
+<% end %>
+
+---
+
+Let's talk a frustratingly insufficient amount about cognitive routines and why I used to be totally wrong about language-learning.
+
+So what's a routine? A routine is just a sequence of things you do, with some control flow (aka "if this, then that"). "Brushing your teeth" is a routine, as is "conquering the world". Some of these routines involve mental activities - we call those *cognitive* routines (e.g. "adding two numbers", "debugging code", "wishing you were here"). The alternative are *physical* routines. Most routines are, of course, mixed, and made up of sub-routines. So "conquering the world" has at least one cognitive sub-routine ("making a plan") and one physical sub-routine ("shooting those bastards"). 
+
+The main point behind this distinction is that cognitive routines are *covert* - we can't *see* what's going on. If you move your toothbrush wrong, I can check and stop you right away. In fact, the physical environment will let you know. If you suck at holding a toothbrush, then it will just fall out of your hand. But if you're *thinking* wrong, well that's tricky. No big alarm goes off that lets you know.[^air] This can be a real issue if the routine involves new skills, like the first time you teach someone to read. For cognitive routines, our job is to make the skills as *overt* as possible so that we can actually diagnose what's going wrong, and to make it explicit to the learner what we expect them to do.
+
+But before I get into how to teach routines, let's establish a use case.
+
+So language-learning. Languages are, [essentially][], a whole bunch of cognitive routines and nouns. "Nouns", and we're using the term a little bit looser than linguists, are labels for concepts[^label]. "cat" is a noun, as is "greedy" or "running". But "that greedy cat ran off with my food again" is the result of applying a bunch of cognitive routines ("English") to a bunch of nouns. In other words, concepts are the vocabulary, and cognitive routines are the grammar.[^pron]
+
+Learning nouns is easy, especially if you're an adult and know all the underlying concepts already.[^conc] SRS solves this trivially, although generating sentences that *use* all nouns and ordering them so that no sentence teaches more than one new noun at a time is a bit tricky. I talked about some options in the [Reading Latin][Reading Latin (Part 1)] series, but I'm still working on the implementation of a proper solution.[^iter]
+
+In these posts, I acted as if grammar didn't exist. That's because I didn't believe it matters much. I was wrong. Learning grammar merely through accidental, unorganized exposure might work *eventually*, but it's certainly not efficient or rewarding.
+
+So let's get this right. How *do* you teach grammar? We need more details first. A cognitive routine is itself composed of other stuff. Most importantly, it uses *transformations*.[^correlation]
+
+
+
+I'm currently in the process of "converting" grammar references (like [this][Tae Kim] or [this][Dictionary of Japanese Grammar]) into a proper cognitive routine format, and then learning them. I'll talk more about it once I figure out the exact process (including adjustments for lazy autodidacts) and can show you some results.
+
+[^air]:
+    <% skip do %>
+    Does not apply in Airstrip One.
+    <% end %>
+
+[^pron]:
+    I'm totally ignoring pronunciation here. That's not because I believe it's unimportant, but fundamentally speaking, it's just a bunch of physical routines, simple transformations and some shaping. Again, another post, mostly because I'm a "read texts" person, not a "talk to people" person and so accents are always last on my list of things to master.
+
+    There are also non-grammar routines involved in speaking a language, like "composing a paragraph", "rhyming", "making a point" or "deconstructing a subtext". Those skills generalize (roughly) beyond any one particular language, and in the case of polyglottery, we expect the learner to already have those (to an acceptable degree). But you'd approach them just the same way, as daunting as teaching "post-structuralism" might at first look.
+
+    An important difference is that people don't routinely write reference works or communication scripts for thinks like "writing a contrarian political manifesto", so these skills are necessarily much harder to teach because the teacher has to do this work first. But lots of <del>pedants and prescriptivist scum</del> grammarians write comprehensive and immensely useful grammar reference books for all kinds of languages, so the autodidact can use these works to derive their own teaching script despite not speaking the language in question. Much of language use is sink-or-swim territory, but grammar is a notable exception.
+
+[^label]:
+    Technical point. In ToI, a *basic form* is a simple concept with only one defining feature, like "red". It's something you can't reduce any further. That's not a philosophical point and makes us non-reductionists; it's pure pragmatism.
+
+    When we say that concepts such as "red" and "heavy" are basic, we don't mean that *in principle* there is no way to further reduce them, but merely that *in practice* we don't have such an option or don't need it. "Heavy", for example, we might be able to express in terms of gravitational equations of some form, and "red" as some process related to the wavelength of light. However, when we talk to actual human beings, "red" is simply something directly perceived, not something constructed out of multiple perceptional parts, and so our teaching reflects that.
+
+    As a general rule, if we try to communicate a certain quality and have to resort to phrases like "it's like this, except that..." or "it's what you get when you do this, and this, and this...", i.e. descriptions that are clearly composed of other concepts, then we're not dealing with a basic concepts. But if we can simply point at one example and say "it's this part", then for the purpose of instruction, it's basic.
+
+    A form that has multiple relevant features, like "cat", is called a *noun*. It's still basic, in a sense (showing you a cat is much easier than building it up from "simpler" concepts), but it's got multiple dimensions, like a certain size, shape, fluffiness and so on. I use "noun" to mean labels for *generic* concepts, regardless of the number of relevant features, which is largely compatible with ToI usage and more in line with how linguists tend to use the term, but FYI.
+
+[^iter]:
+    New iteration immanent, for muflax-y values of "immanent". muflax still believes the Eschaton is immanent, for example, so how good are her time estimates, really?
+
+[^conc]:
+    If you *don't* know the concept, you have to teach what ToI calls "distinctions". The method I used in the Aristotelian example is one way of teaching a certain kind of distinctions, and I already talked about them in past logs. (I didn't talk about Comparatives yet, though, or some complications.) But when learning a second language, genuinely new concepts are rare and most new distinctions just cut up some messy clusters a little bit differently. (Like, German doesn't distinguish between "apes" and "monkeys" (both are "Affen"), although it has a category "Menschenaffen" for the "great apes". (Don't know what's so great about bonobos, if you ask me...))
+
+    Teaching children (or just generally uneducated folk), on the other hand, is quite a different matter. As Zig and his crew have shown repeatedly, under-performing children often don't suck because they're "stupid" or "genetically disadvantaged" or some such thing, but because they simply haven't properly learned some basic concepts yet (like "if" - yes, seriously), and then can't benefit from more advanced education.
+
+    (Note: this doesn't assume that genetic etc. differences in intelligence don't exist, merely that good instruction can easily *overcome* them for virtually everything normal school covers. In other words, intelligence is the ability to learn quickly *despite* bad instruction. To put this in crass terms, no one expects dogs to master quantum physics, but if you fail to teach them to "sit", we realize it's most likely not the *dog's* fault. And of course, even though >2SD people might already be able to learn certain things, doing it right would allow them to learn it faster, with less frustration, and to a consistently deep level of mastery.)
+
+[^correlation]:
+    Besides transformations, we also have *correlated features*. The difference is that transformations depend on some logical relation, but correlated features are mere empirical clusters. For example, "German Shepherds are smart dogs" is a correlated feature. There's nothing inherently in the concept of German Shepherds or smartness that tells you that the two are connected. You have to actually look at the world. If you have a bit of a philosophical bend, that's basically the difference between an analytic and synthetic fact.
+
+    The distinction is a bit blurry, of course, and again just pragmatic. If we merely expect the learner to "memorize" things because they just "happen" to be connected, and there's no particular reason for that (that we care about), then we are dealing with a correlated feature. In language learning, synonyms are an important instance of that class. But if there's a "reason", some specific rule that makes the correlation happen, then it's a transformation. That's what (most) grammar's like.
+
+    I'll talk about correlated features in later posts, but [Supermemo's 20 Rules][] are a good primer about how to deal with them.
+
+---
+
+<% skip do %>
+If you haven't read fellow crazy-person [Koanic Soul][], I recommend you check him out because he might serve as a hint of what *my* writing would look like if I wouldn't take great care to balance my ambiguity, enforce pragmatism and instead trusted my intuition. And didn't try hard to keep my douchiness in line. (You *really* don't want me running on my instincts. But see also the last section of this log for how I always *want* to write.)
+
+In addition, Koanic has face-read me and typed me as Amud Neanderthal front of the head, Melonhead back, asymmetrical face (notably the eyes, which are a bit o_O), narrow spacing of (somewhat big) eyes with deep sockets, medium testosterone levels, high IQ (due to brain volume). For those not up to speed with the latest phrenology, see [Koanic's site][KS faces] as to what "Amud" and "Melonhead" mean. (I pre-recorded my own prediction how he'd read me, and completely agree, although I was unsure if he'd go with low or ok testosterone. So even if the psychological correlation (or racial causation) isn't *true*, it's at least a *consistent distinction* of faces (for this tiny and very biased sample).)
+
+Based on the current interpretation, this would make me strongly introverted, trustworthy, ideological, ambitious in a "die for a cause" but not "rule with an iron fist" way, prone to dissociations, inconsistent in my preference over strict hierarchies and small egalitarian tribes, and sometimes a dick. This is clearly absurd.[^absurd]
+
+[^absurd]:
+    Ok, a bit more seriously. I used to do "belief dumps" for crazier stuff, so let's at least *record* my current gut-feel of the Neanderthal thing.
+
+    - that autistic / high-IQ introverted traits go back to Neanderthal origins: Totally plausible, but I have no skills in evolutionary biology or anthropology, so I remain agnostic by default.
+    - that facial features correlate strongly with psychological traits: Duh.
+    - that they correlate *in the specific way* that Koanic / Cleve talk about: Dunno. It *feels* right, mostly, but I've not thrown any serious thought at it, so I can't tell which specific correlations are real and which aren't.
+    - that "melonheads" are a thing, i.e. a genetic cluster like autism: More likely than not, yes.
+    - that Cleve's origin story (or anything remotely like it) of melonheads is true: Hell naw. But see below.
+    - that Cleve's inferences about *Neanderthal* lifestyle are true: Generally yes. Dude's a crazy genius. If anyone figured it out, it's him. Seriously.
+    - that ancient melonheads had huge freaky skulls and used to run everything: Listen. Years ago, way before the whole Reaction and Manosphere even *existed*, I already read some of Cleve's stuff about all kinds of topics. I found him very entertaining, but didn't believe a word. Then [this thread][Sir-Tech thread] happened and it turns out that *everything* Cleve said was true. Even the really crazy shit. Since then, I have a lot of respect for his crackpottery, and shit, ancient history is *hard* and the mainstream is crap. So for all I know, he's completely right. If there's one crackpot who'll look utterly ridiculous at first only to be completely vindicated, you know, like RMS and McCarthy, it's Cleve. Ok, maybe more like Tesla and Newton, but still, don't underestimate the crazies. (... ok, he's almost certainly wrong, but he might've picked up on an interesting pattern. Dude's insane, but he's not stupid. Sometimes.)
+    - any of the Christian or supernatural stuff: Not allowed to talk about it.
+
+(And apparently I don't yet ooze heresy. Fools.)
+<% end %>
+
+---
+
+<% skip do %>
+Brethren of Nurgle! Papa helped me through a pernicious circle of self-doubt and I want to share this lesson in his cancerous faith.
+
+Over the last few days, I began reading some political texts[^texts], and fell into deep despair[^despair]. The world seemed hopeless, unwinnable, and all good in it was just waiting for some Ruinous Power or other to devour it, enduring only for a little while longer, faint shadows of their former - and potential - glory. When I saw Reddit praise the Pope, I knew all was lost. With the last corpse-emperor dethroned, all else will die soon enough.
+
+[^despair]:
+    To be fair though, I'm never not full of despair and doubt. For example, it took me over two weeks to even send a status report to my advisor, let alone *do* anything, and despite actually putting some work into useful projects (more than I used to last year, anyway), I'm merely alternating between "I'm a complete and utter failure and it's just a matter of time until everyone gets fed up with me and abandons me" and "yeah that's it, schizophrenia (or whatever it is) is getting much worse, I'm about to be a rambling hobo, I just know it".
+
+    I wish I was exaggerating for comedic effect. Only take life advice from a Nurgelian after you're a hopeless case anyway.
+
+I was happy, but also despairing, and this I thought was Nurgle's bargain. He takes away your suffering, forever, and gives you life instead. (More life than anyone can want. He is generous this way.) But - and I thought I *had* accepted this trade - why was I *still* despairing? I didn't suffer, maybe, but a Plague Bearer *doesn't* keep on hoping. They are just fruitful, multiply, and decay. So I wondered, did His Pestilence abandon or betray me?
+
+No, that is impossible. But why do I still despair, rightfully or not? Because, I found, I *didn't* agree to that offer. I hadn't served *Nurgle*, as I had thought. What poor skills of discernment I have!
+
+What a strange attractor I had stumbled into. Hopeless, and still hoping. Futile, but not surrendering. Every time it sees a glimmer of possibility, it increases the challenge, *wanting* to face an enemy that cannot be defeated. Only to say, yet, here I stood. Like being a Calvinist, and knowing you came out on the wrong side of God. What can you say to an eldritch abomination? What *is* there to say?
+
+How can you live, wordless? Many struggle and turn to [heresy][Death of God], declaring God not *really* dead, merely transformed. The king hanged, yes, but a new king may be found, a better king! And the Tzeentchian voice keeps whispering, subverting Nurgle's single-minded - *only* - commandment: live!, and keeps trying to convince me that despair will cash out at some point, will produce *something*, if only I despair even more, and skillfully feigns that it tries to manipulate me into believing that justification is superfluous, that Nurgelian bliss awaits if only I could just *live*, could stop asking *whence*.
+
+And it knows well that I will see through this, and come to regard Nurgle as the subjectivist disease I feared the most, standing in a field of corpses, declaring, "Good enough!", as if he would not be *judged*. And so I despair about despair, and the voice asks, carefully, who can you trust? The old sack of rot, it tricks me to believe, must have a reason, some transformative goal, that guides him. But it can't be that crude. If it just had me suspect that, as some falsely believe, the Plague Bearer is happy because they have embraced the inevitability of death - after all, if all paths lead to the same outcome, why worry about performance reports? - then I would've seen through it in a moment.
+
+But the voice seeds a deeper doubt by suggesting a causal role between despair and the end of suffering at all. Nurgle, yes now we're getting somewhere!, Nurgle is the abandonment of justification, that is why he's happy! And for a moment I believe it, and predictably I find it unsatisfying, and so even turn away from His Stench.
+
+And I wish to confront Papa. Why do I have to puzzle these things out, engage the Changer of Ways, why is the only answer I receive to this spiral of ever-greater dissatisfaction and confusion - a buzzing of flies?
+
+..
+
+Two cultists walk through a battlefield, gathering corpses to feed the plague. They find a man, not yet dead. A Tzeentchian silhouette towers over him, extending a hand as if saying, I can help you if only you will let me. One cultists asks the other, why does the Raven God spread its lies unhindered, but we collect only corpses? I see the flies laying eggs into the man's leg, the maggots waiting for his guts to burst, the ants tearing off his skin. They recruit the man's body, but why don't we recruit his mind? Aren't we more convincing than a fly?
+
+The other cultists responds, the plague has no volunteers. The rot needed no convincing, why should the man's mind? What is it to be convinced of? Should it sprout wings and turn into a fly? It is already a better mind of a dying man than any fungus could be, so why should we disturb it? It is only when it has ceased to be a mind that we collect its pieces and put it to a new use. Nurgle is with the living always. The only ones in need of recruiting are the dead.
+
+<%= youtube("https://www.youtube.com/watch?v=R1CD6gNmhr0#t=17s") %>
+
+[^texts]:
+    I'm not going to name names because I don't want to get sucked into *actual* politics, not fantasy wargaming ones. I also stand by my judgment that without establishing a reasonably trustworthy and pragmatic framework of thinking *about* politics first, you shouldn't be asking questions like "if Communism sucked so bad, why did the USSR have typical GDP growth?", because you're just gonna pull whatever importance of GDP you want out of your ass, depending on whether you like Stalin's mustache or not.
+
+    I originally wrote a pretty long series of (sometimes very angry) criticisms of the internet Reaction and Social Liberalism, but fuck 'em, I'm not posting it. Neither deserves the attention. Instead, and this might be more constructive, but it will certainly be very *different* because it's an experiment in communicating value dissonance, I've re-started a little draft I once attempted: using ToI to properly teach some of my values.
+
+    
+    
+    It might take a few more angry nights to finish anything worth showing, but at the current rate, something pisses me off on a nearly daily basis, so that shouldn't be too long.
+    
+<% end %>
