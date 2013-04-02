@@ -1,5 +1,6 @@
 <!-- videos, podcasts, etc. -->
-[5 Stages]: https://www.youtube.com/watch?v=uWTHP8zT28Q
+[4 chords]: https://www.youtube.com/watch?v=oOlDewpCfZQ
+[5 Stages]: https://www.youtube.com/watch?v=G_Z3lmidmrY
 [99 hearts]: http://www.youtube.com/watch?v=dKm_7eOoGFc
 [99injections]: https://www.youtube.com/watch?v=oSGZAUH08Ig
 [Arguelles Assimil]: http://www.youtube.com/watch?v=XLvTEqXqlsI
@@ -7,25 +8,32 @@
 [Batmobile]: https://www.youtube.com/watch?v=BmjFni_WLrA
 [Befindlichkeit]: http://www.youtube.com/watch?v=i3dzy-y1xI8
 [Berryz工房 - Dschinghis Khan]: http://www.youtube.com/watch?v=b7pui9Q6Vbo
+[Bill Bailey Bollywood]: https://www.youtube.com/watch?v=AU1NvBlQ-z4
+[Briain Catholic]: https://www.youtube.com/watch?v=LHqOG8p0Lkc
 [Carlin Sanctity]: http://www.youtube.com/watch?feature=player_embedded&v=AvF1Q3UidWM
 [Ching Chong]: http://www.youtube.com/watch?v=zulEMWj3sVA
 [Cookie Monster Nom]: https://www.youtube.com/watch?v=Cqz9ZXUoUcE
+[Craig vs. Rosenberg]: https://www.youtube.com/watch?v=bhfkhq-CM84
+[Die Interimsliebenden]: http://vimeo.com/36592271
 [Doesn't Have To Be This Way]: http://www.youtube.com/watch?v=PPnIt6SiIjI
 [Eduardo Sousa]: http://www.ted.com/talks/dan_barber_s_surprising_foie_gras_parable.html
 [Engel der Geschichte]: https://www.youtube.com/watch?v=fTfbQcnn7hU
-[Englandlied]: http://www.youtube.com/watch?v=RxtaT9jDWF0
+[Englandlied]: https://www.youtube.com/watch?v=xALz_YxKTPI
 [Enlightenment, Self and the Brain]: http://video.google.com/videoplay?docid=5474604744218568426
 [Eva Eat]: https://www.youtube.com/watch?v=rlobzMvkm4w
 [Everything Thing]: http://www.youtube.com/watch?v=Y0B0h4L2eEU
 [Exorcist]: https://www.youtube.com/watch?v=Jvhl4At6AX8
 [Final Destination]: https://www.youtube.com/watch?v=O-7gmds2njg
-[Fry God]: https://www.youtube.com/watch?feature=player_detailpage&v=Lu0YxtPb4uY#t=52s
+[Fry God]: https://www.youtube.com/watch?feature=player_detailpage&v=ZiNei3c1DUQ#t=40s
+[Ghost Division]: https://www.youtube.com/watch?v=y5V6sxZ8-eg
 [Gilbert TED]: http://www.ted.com/talks/dan_gilbert_asks_why_are_we_happy.html
 [God talks back]: http://vimeo.com/20204758
 [Good Job]: http://www.youtube.com/watch?v=-yNhl8wT3Pc
+[Half God]: https://www.youtube.com/watch?v=znIXyFh6dsI
 [Harris Free Will]: https://www.youtube.com/watch?v=pCofmZlC72g
 [Headcleaner]: http://www.youtube.com/watch?v=uzEsimSWjNA
-[Henry Darger]: http://www.youtube.com/watch?v=9DL_AoAyhv0
+[Heidegger xtra]: https://www.youtube.com/watch?v=uSdHoNJu5fU
+[Henry Darger]: https://www.youtube.com/watch?v=Mbyc3aaw8ps
 [I Can't Decide]: https://7chan.org/fl/src/Cant_Decide.swf
 [IT Crowd Football]: http://www.youtube.com/watch?v=f27IqVo5-Oc
 [Internationale]: http://www.youtube.com/watch?v=uHeQeHstrsc
@@ -33,6 +41,7 @@
 [Irenicus]: https://www.youtube.com/watch?v=Wdy-k_qLdQg
 [Jack nimble]: http://www.youtube.com/watch?v=e9XKVTNs1g4
 [Kerghan Speech]: http://www.youtube.com/watch?v=IkBrIrQikWY
+[Komm Süßer Tod]: https://www.youtube.com/watch?v=vEq8wa1Oydc
 [Königgrätzer]: http://www.youtube.com/watch?v=b4PwSVW5Aak
 [Lacrimosa Herz]: http://www.youtube.com/watch?v=JWkkwVA0eEg
 [Lacrimosa Straße der Zeit]: http://www.youtube.com/watch?v=qdzI88X4YZk
@@ -42,11 +51,14 @@
 [Louis CK why]: http://www.youtube.com/watch?v=BJlV49RDlLE
 [Lucius Vorenus Concord]: https://www.youtube.com/watch?v=ysWRb9bqB-Y
 [MP comfy]: https://www.youtube.com/watch?v=CSe38dzJYkY
+[Matrix Show Me]: https://www.youtube.com/watch?v=EmEPXXJ4sKw
 [Mitch payments]: http://www.youtube.com/watch?v=e30kiVY_ja4
 [Mitchell job interview]: http://www.youtube.com/watch?feature=player_detailpage&v=sMmfJWITrR0#t=363s
 [Monty Python Romans]: http://www.youtube.com/watch?v=ExWfh6sGyso
 [Mooncake]: http://www.youtube.com/watch?v=d-MBhe5Wac8
 [My Last Sunrise]: http://www.youtube.com/watch?v=B7vPuNCMBNw
+[My Poor Old Heart]: https://www.youtube.com/watch?v=NfCrME_1JmE
+[Neun Welten]: https://www.youtube.com/watch?v=QaJgDaYWvaM
 [Noah]: http://www.youtube.com/watch?v=j_BzWUuZN5w
 [Nose Snail]: http://www.youtube.com/watch?v=vk_eljpPGMM
 [Paint It Black]: https://www.youtube.com/watch?v=fPVUa29kHu8
@@ -54,7 +66,7 @@
 [Rama's Great]: https://www.youtube.com/watch?v=-HugqxcODjQ
 [Rational Addiction]: http://www.xtranormal.com/watch/7873033/
 [SMBC death]: https://www.youtube.com/watch?v=ARlTV1ZGJk8
-[Sailor Moon Live Action]: https://www.youtube.com/watch?v=SNJO-wASTok
+[Sailor Moon Live Action]: http://www.dailymotion.com/video/xswujg_pretty-guardian-sailor-moon-live-action-act-1_shortfilms#.UVtT6-MvDRY
 [Samsara Talk]: http://arobuddhism.org/audio-teachings/samsara-suffering-and-suspicion-the-path-to-endless-enjoyment.html
 [Schmidhuber Creativity]: http://vimeo.com/7441291
 [Schopenhauer Lecture]: http://www.youtube.com/watch?feature=player_detailpage&v=aK4pR1Uatqw#t=1084s
@@ -62,30 +74,34 @@
 [Scooby pushup]: http://www.youtube.com/watch?v=cW0lK3b7zhA
 [Shinzen Young]: http://www.youtube.com/user/expandcontract
 [Sniper Feelings]: http://www.youtube.com/watch?v=9NZDwZbyDus
-[Somuncu]: http://www.youtube.com/watch?v=FfeCNh2eI58
 [Sonata Arctica 8th]: http://www.youtube.com/watch?v=M3E1fZUi3cA
 [Stanford Metaethics]: http://www.youtube.com/watch?v=kBdfcR-8hEY
 [Stanhope Cock]: https://www.youtube.com/watch?v=iokreoASjOY
 [Steve Kaufmann]: http://www.youtube.com/watch?v=eZuMx2neEPA
 [Stuka song]: http://www.youtube.com/watch?v=FQIyny7o6r0
+[TUN shandy]: https://www.youtube.com/watch?v=wvwlt4FqmS0#!
 [The Ark]: http://www.dailymotion.com/video/xcu1m0_the-ark-joy-surrender_music
 [The Humans Are Dead]: http://www.youtube.com/watch?v=WGoi1MSGu64
 [Unicorn Magic]: https://www.youtube.com/watch?v=qqvRrKcEhD4
 [Uploads Economics 101]: http://www.youtube.com/watch?v=s2GIirg43sU
-[Using Neuroscience for Spiritual Practice]: http://video.google.com/videoplay?docid=1030598948823323439
 [Wasting The Dawn]: http://www.youtube.com/watch?v=K7PhrPbyIsE
 [Wolfire]: http://www.youtube.com/playlist?list=PLA17B3FAA1DA374F3&amp;feature=plcp
 [Yü-Gung]: https://www.youtube.com/watch?v=EpYo4GAj0ys
+[big hands]: https://www.youtube.com/watch?v=ifKKlhYF53w
 [cat videos]: http://www.youtube.com/watch?v=qpl5mOAXNl4
 [chase that happy]: http://www.youtube.com/watch?v=nTQWtJVlJhk
 [checklist ted]: http://www.ted.com/talks/atul_gawande_how_do_we_heal_medicine.html
+[curse of arabia]: https://www.youtube.com/watch?v=9W9PfWrcSns
+[drill hole]: https://www.youtube.com/watch?v=NhkWINPRK3A
 [dumbass]: http://www.youtube.com/watch?feature=player_detailpage&v=Iubog28_KBI#t=50s
+[greatest story ever told resurrection]: https://www.youtube.com/watch?v=OYW4lsb5AtY
 [he loved big brother]: http://www.youtube.com/watch?v=rV3jgYHvTmk
 [honeybadger]: http://www.youtube.com/watch?v=4r7wHMg5Yjg
 [maggots head]: http://www.liveleak.com/view?i=8d5_1219029078
 [múm]: http://www.youtube.com/watch?v=oHTFmJk7fH0
+[r/atheism]: https://www.youtube.com/watch?v=slKULc8W7lM
 [reblog]: http://www.youtube.com/watch?feature=player_detailpage&v=roTrYCUhOu0#t=86s
-[stop being sad]: http://www.youtube.com/watch?v=7gqYAuFvtXM
+[stop being sad]: https://www.youtube.com/watch?v=jnHLMazQTt0
 [synchronization]: http://www.youtube.com/watch?v=W1TMZASCR-I
 [tacoma]: http://www.youtube.com/watch?feature=player_detailpage&v=j-zczJXSxnw#t=183s
 [trolololo]: http://trololololololololololo.com/
@@ -93,21 +109,3 @@
 [viðrar vel til loftárása]: http://www.youtube.com/watch?v=akYuy2FMQk4
 [w40k librarian]: https://www.youtube.com/watch?v=rf_3ZTp4eG4
 [外山恒一]: http://www.youtube.com/watch?v=df7jOd6HcIY
-[My Poor Old Heart]: https://www.youtube.com/watch?v=NfCrME_1JmE
-[Komm Süßer Tod]: https://www.youtube.com/watch?v=vEq8wa1Oydc
-[Die Interimsliebenden]: http://vimeo.com/36592271
-[Heidegger xtra]: https://www.youtube.com/watch?v=uSdHoNJu5fU
-[Briain Catholic]: https://www.youtube.com/watch?v=LHqOG8p0Lkc
-[Half God]: https://www.youtube.com/watch?v=znIXyFh6dsI
-[Bill Bailey Bollywood]: https://www.youtube.com/watch?v=AU1NvBlQ-z4
-[4 chords]: https://www.youtube.com/watch?v=oOlDewpCfZQ
-[big hands]: https://www.youtube.com/watch?v=ifKKlhYF53w
-[Neun Welten]: https://www.youtube.com/watch?v=QaJgDaYWvaM
-[greatest story ever told resurrection]: https://www.youtube.com/watch?v=OYW4lsb5AtY
-[Craig vs. Rosenberg]: https://www.youtube.com/watch?v=bhfkhq-CM84
-[r/atheism]: https://www.youtube.com/watch?v=slKULc8W7lM
-[Matrix Show Me]: https://www.youtube.com/watch?v=EmEPXXJ4sKw
-[TUN shandy]: https://www.youtube.com/watch?v=wvwlt4FqmS0#!
-[drill hole]: https://www.youtube.com/watch?v=NhkWINPRK3A
-[curse of arabia]: https://www.youtube.com/watch?v=9W9PfWrcSns
-[Ghost Division]: https://www.youtube.com/watch?v=y5V6sxZ8-eg

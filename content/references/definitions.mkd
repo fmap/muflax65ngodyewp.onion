@@ -323,3 +323,4 @@
 [Concept of History]: http://www.marxists.org/reference/archive/benjamin/1940/history.htm
 [Economic determinism]: https://en.wikipedia.org/wiki/Economic_determinism
 [Thälmann]: https://en.wikipedia.org/wiki/Ernst_Th%C3%A4lmann
+[Somuncu]: https://de.wikipedia.org/wiki/Serdar_Somuncu
