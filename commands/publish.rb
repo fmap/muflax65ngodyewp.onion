@@ -15,7 +15,7 @@ module Nanoc::CLI::Commands
       end
       
       # push changes to github
-      cmd "git push origin"
+      cmd "git push --all origin"
 
       # regenerate site links
       cmd "nanoc references"
