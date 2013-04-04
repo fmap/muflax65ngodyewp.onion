@@ -1,6 +1,6 @@
 ---
 title: Dashsnatcher
-date: 2013-03-29
+date: 2013-04-03
 techne: :done
 episteme: :log
 ---
@@ -188,10 +188,6 @@ The other cultists responds, the plague has no volunteers. The rot needed no con
 [^texts]:
     I'm not going to name names because I don't want to get sucked into *actual* politics, not fantasy wargaming ones. I also stand by my judgment that without establishing a reasonably trustworthy and pragmatic framework of thinking *about* politics first, you shouldn't be asking questions like "if Communism sucked so bad, why did the USSR have typical GDP growth?", because you're just gonna pull whatever importance of GDP you want out of your ass, depending on whether you like Stalin's mustache or not.
 
-    I originally wrote a pretty long series of (sometimes very angry) criticisms of the internet Reaction and Social Liberalism, but fuck 'em, I'm not posting it. Neither deserves the attention. Instead, and this might be more constructive, but it will certainly be very *different* because it's an experiment in communicating value dissonance, I've re-started a little draft I once attempted: using ToI to properly teach some of my values.
+    I originally wrote a pretty long series of (sometimes very angry) criticisms of the internet Reaction and Social Liberalism, but fuck 'em, I'm not posting it, neither deserves the attention.
 
-    
-    
-    It might take a few more angry nights to finish anything worth showing, but at the current rate, something pisses me off on a nearly daily basis, so that shouldn't be too long.
-    
 <% end %>
