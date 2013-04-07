@@ -204,5 +204,5 @@ The other cultists responds, the plague has no volunteers. The rot needed no con
 
     - Everything is going according to the Emperor's plan. There is a certain tension in how the Imperial Cult thinks about the Emperor. On the one hand, he is the supreme architect of the Imperium and has been guiding humanity's path for millennia, but on the other hand, he failed to prepare it for internal strife, nearly falling to the forces of Chaos.
 
-      But what *is* humanity? What sets the faithful apart from the mutant, the heretic, the alien? It's never-ending and fanatical devotion, of course. But this Unbreakable Will can only be discovered in struggle! This is why, in the future of the mankind, there can be only war.
+      But what *is* humanity? What sets the faithful apart from the mutant, the heretic, the alien? It's never-ending and fanatical devotion, of course. But this Unbreakable Will can only be discovered in struggle! This is why, in the future of mankind, there can be only war.
     <% end %>
