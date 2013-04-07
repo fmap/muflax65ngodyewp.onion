@@ -176,7 +176,6 @@
 [Musimathics]: http://www.musimathics.com/
 [Anscombe Moral]: http://www.philosophy.uncc.edu/mleldrid/cmt/mmp.html
 [Open English Bible]: http://openenglishbible.org/
-[Koanic Soul]: http://www.koanicsoul.com/blog/
 [Neo layout]: http://neo-layout.org/index_en.html
 [Plover]: http://stenoknight.com/wiki/Main_Page
 [plover benefits]: http://plover.stenoknight.com/2010/04/writing-and-coding-with-steno.html
