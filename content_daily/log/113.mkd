@@ -1,6 +1,6 @@
 ---
 title: Dashsnatcher
-date: 2013-04-03
+date: 2013-04-07
 techne: :done
 episteme: :log
 ---
@@ -9,7 +9,6 @@ Signed up with [IFTTT][] ("if this, then that"). It now saves all sites I star/l
 
 ---
 
-<% skip do %>
 A point about Aristotelian essences. (I promise this isn't about metaphysics.)
 
 So according to Aristotle, things have *essential* properties - what makes them the things they are - and *accidental* properties, everything else. So a chair is necessarily something you can sit on (that's part of its essence), but it may be made out of wood or metal (those are its accidents). Fine, makes sense.
@@ -33,9 +32,11 @@ I can exploit this to build effective communication. How? I pick examples that h
 So what's that got to do with essences? Aristotelians say, things have features. But there are also concepts, and those concepts are combinations of features. But things aren't pure representations of concepts - they have *additional* features. Those features don't interfere with the concept. Whether a triangle is tiny or huge doesn't change how many angles it has. When we point at an essence, we point *only* at these relevant features, *not* the rest. That doesn't make the features special *in the object*, but only in relation to the concept. If my concept is "hugeness", then the feature of tininess sure does matter. That hasn't philosophically transmogrified "tininess" in this specific triangle, though.[^trans]
 
 [^trans]:
+    <% skip do %>
     The following derivations are left as an exercise to the reader: transubstantiation, angels (forms without material properties), why your resurrection must also restore your intestines.
 
     (Hints: a) A set of features in some logical relation, perceived by some mind, defines a concept. If none of the features in the bread change, what else must? b) Can an algorithm that has never been implemented still influence people? What about one that is in principle uncomputable? c) [Code is data, data is code.][SNES emulation])
+    <% end %>
 
 I'm a person. I have plenty of features. But if you told me you love "me" for my magnificent legs, I'd be kinda irritated. Because you're clearly pointing at a different concept of "muflax" than what I have in mind. Sure, in this concrete instance, I do happen to have magnificent legs. (I don't. Bear with me.) But that's not part of the induction I'd like you to perform, and you pointing them out, implies that you're trying to get to a different concept.
 
@@ -65,67 +66,70 @@ Which is all Aristotle wanted to say.
 
     That's why Aquinas believed there are no other "pure essence" things.
     
+---
+
+<% skip do %>
+(I had a rather lengthy language section here, but then developed second thoughts about it, and so postponed it. So to fulfill my word quote, you're getting some random notes and a sermon instead.)
+<% end %>
+
+<% skip do %>
+I had a neat idea for my [Paranoia][]-inspired RPG I've been working on over the years. (I don't think I'll ever have a chance to actually run it, but whatevs.) So basically, the setting is vaguely camp dystopian sci-fi and the players are a squad of (comically ill-equipped) augmented soldiers who run through semi-functional bunkers and solve problems by blowing stuff up. Unlike Paranoia, I want it to be more long-term, with players surviving for long campaigns and having to face increasing attrition and bureaucratic failure, and so it's also somewhat more serious. The trolling is more subtle, with weapons that have serious trade-offs that can still be overcome by creative players, like a tank suit with malfunctioning sensors whenever it fires, instead of "lol it's a black hole grenade, you all die".
+
+One thing I want to change is how health works. Most RPGs have hit points - you have 20HP, someone shoots you, you lose 5. If you go down to 0HP, you're dead, otherwise you're basically fine forever. After combat, you regenerate these points through healing spells, resting or similar things. As you level up, you typically gain more HP and become more resilient. That's completely not how it works in real life, of course. IRL, you die instantly by failing a save, and as you survive things, your ability to make the save goes down until you often die of stuff you wouldn't even have noticed when you were younger.
+
+So here's how my idea works. Every character starts with 100 Health Points (which conveniently abbreviates to HP too) and they never regenerate. Not even the most advanced nano-tech available to the Health Officer of the squad can do anything about that. Whenever something bad happens to you - mutant shoots you in the face, you fall down some stairs, turns out you're allergic to that new stimulant - you get a wound. Wounds have a severity level from 1 to 10, where 10 is instantly fatal. If you ever get a level 10 wound, you're dead.
+
+You regularly have to roll a Health Check on the wound to see how it develops, typically whenever you rest. Your Health Check is rolled on a d100 against your remaining HP. If you succeed (i.e. roll equal or less than your HP), the wound goes down one level. (Once it hits level 0, it's completely healed and disappears.) But if you fail, the wound may get more serious.
+
+If the wound is currently treated (e.g. bandaged), it stays at its level, but you'll have to roll again the next time you rest. But if it's untreated, then it will get worse and increase by one level. Again, if it hits level 10, you're dead. Wounds of level 4 or less are always considered treated, so you can't bleed to death from a paper cut, but anything above that requires medical attention. Finally, any time you roll against your Health - *regardless* of whether you succeed or not - you lose one HP. Permanently.
+
+Early in the campaign, someone shoots you and you get a level 6 wound, but it's no big deal. Your Health Officer patches you up and treats your wound, and even uses one of them fancy Metabolistic Accelerators that speeds up the healing process (but doesn't improve it - nothing can do that) by allowing you to do your Health Checks instantly instead of having to sleep over it. You make all of your 6 rolls and the wound is completely healed. But now you only have 94HP left. Some missions later, you only have 40HP left and again you are shot. Now you only have a 40% chance of making the Health Check - do you want to risk it? It might get pretty serious and the current mission ain't over yet. Instead you decide to opt for an infusion of Cryonic Blood Gel that slows all wounds down and suspends the mandatory Health Check as long as you have enough Gel. Unfortunately, it also lowers your reflexes...
+
+As you advance, you will have to resort to more and more treatments just to avoid doing Health Checks and many minor wounds (limp, constant headache, occasional coughing fit, ...) never really go away. In addition, wounds have persistent negative effects that only go away when the wound is healed and that depend on what kind of wound it is, like -2 Dexterity for getting shot in the leg.
+
+Ultimately the main goal of the system is to make the Health Officer much more interesting by giving them a complex set of interacting drugs and treatments that can temporarily counter some of the negative effects or suspend the Health Checks, but will also cause addictions and trade-offs. Do you want to take the chance of healing a level 8 leg wound, or just amputate the leg and turn it into a level 2 stump? The Heavy Weapon Officer might benefit from advanced pain killers that make it possible to shrug off even bullets, but that also means they can't *notice* any wounds and so might bleed to death without knowing it. Last mission, R&D gave you a tank suit to try out, and as impractical as it often turned out to be, maybe it's a good idea to just seal it up and fill it with CryoGel so that you can put the engineer with the untreatable virus inside and preserve them indefinitely, as long as you don't run out of fuel. And who needs reflexes when you have rocket launchers?
+
+In addition, it avoids escalating damage like in many other games where suddenly a low-level thug with a pistol is no longer any kind of threat just because you shot some of their friends earlier. Damage is always measured in the level (and quantity) of wounds it causes. A standard issue laser rifle might have 2d6 damage, and so will likely cause serious level 7+ wounds most of the time, but is outright fatal only on 1 out of 6 shots. Of course, bleeding wounds have the bad property of requiring a Health Check every round until they're treated, but an enemy can still fire back before that happens. You should try to get your hands on Reflective Armor that gives you -4 damage against all laser weapons, but I hear it's weak against bullets.
+
+Inexperienced characters are better at recovering from wounds and can take more of a beating overall, but over time they will have to compensate with better equipment and caution, or they will die miserable deaths. It might be much safer to intimidate an enemy than to get into a fight, even if you're sure to win. Who knows how long it will take you this time to heal those bruises? You're getting too old for this shit.
 <% end %>
 
 ---
 
-Let's talk a frustratingly insufficient amount about cognitive routines and why I used to be totally wrong about language-learning.
+A minor book review of Kahneman's [Thinking Fast And Slow][].
 
-So what's a routine? A routine is just a sequence of things you do, with some control flow (aka "if this, then that"). "Brushing your teeth" is a routine, as is "conquering the world". Some of these routines involve mental activities - we call those *cognitive* routines (e.g. "adding two numbers", "debugging code", "wishing you were here"). The alternative are *physical* routines. Most routines are, of course, mixed, and made up of sub-routines. So "conquering the world" has at least one cognitive sub-routine ("making a plan") and one physical sub-routine ("shooting those bastards"). 
+I skimmed through the book shortly after its release and never really got around to do a thorough read, mostly because I was at least vaguely familiar with its content and so was pretty bored, but hey, everyone loves it, and I had been thinking about priming lately (due to Skinner's discussion of it), so I thought, let's try reading the priming chapters in TF&S!
 
-The main point behind this distinction is that cognitive routines are *covert* - we can't *see* what's going on. If you move your toothbrush wrong, I can check and stop you right away. In fact, the physical environment will let you know. If you suck at holding a toothbrush, then it will just fall out of your hand. But if you're *thinking* wrong, well that's tricky. No big alarm goes off that lets you know.[^air] This can be a real issue if the routine involves new skills, like the first time you teach someone to read. For cognitive routines, our job is to make the skills as *overt* as possible so that we can actually diagnose what's going wrong, and to make it explicit to the learner what we expect them to do.
+> Another major advance in our understanding of memory was the discovery that priming is not restricted to concepts and words. You cannot know this from conscious experience, of course, but you must accept the alien idea that your actions and your emotions can be primed by events of which you are not even aware.
 
-But before I get into how to teach routines, let's establish a use case.
+Oh? ToI has given me a lot of respect for the difficulty of communicating concepts and behaviors directly, i.e. when you can control most of the environment and communication, and have a cooperative learner. While modest priming effects strike me as prima facie plausible ("activating" one concept will also "activate" parts it is strongly associated with through reinforcement - that's after all the point of reinforcement!), how subtle can you go, and how big of an effect are we talking about?
 
-So language-learning. Languages are, [essentially][], a whole bunch of cognitive routines and nouns. "Nouns", and we're using the term a little bit looser than linguists, are labels for concepts[^label]. "cat" is a noun, as is "greedy" or "running". But "that greedy cat ran off with my food again" is the result of applying a bunch of cognitive routines ("English") to a bunch of nouns. In other words, concepts are the vocabulary, and cognitive routines are the grammar.[^pron]
+> In an experiment that became an instant classic, the psychologist John Bargh and his collaborators asked students at New York University - most aged eighteen to twenty-two - to assemble four-word sentences from a set of five words (for example, "finds he it yellow instantly"). For one group of students, half the scrambled sentences contained words associated with the elderly, such as *Florida*, *forgetful*, *bald*, *gray*, or *wrinkle*. When they had completed that task, the young participants were sent out to do another experiment in an office down the hall. That short walk was what the experiment was about. The researchers unobtrusively measured the time it took people to get from one end of the corridor to the other. As Bargh had predicted, the young people who had fashioned a sentence from words with an elderly theme walked down the hallway significantly more slowly than the others.
 
-Learning nouns is easy, especially if you're an adult and know all the underlying concepts already.[^conc] SRS solves this trivially, although generating sentences that *use* all nouns and ordering them so that no sentence teaches more than one new noun at a time is a bit tricky. I talked about some options in the [Reading Latin][Reading Latin (Part 1)] series, but I'm still working on the implementation of a proper solution.[^iter]
+Wait what? *How much* slower? Kahneman doesn't tell us, so I looked up [the paper][Bargh Florida]. Primed students took an average of 8.28s, un-primed students 7.30s. (It is no surprise that the paper [failed to reproduce][Bargh Reproduction].) This is pretty weaksauce, and the original effect was only just barely plausible to begin with. Got some real meat?
 
-In these posts, I acted as if grammar didn't exist. That's because I didn't believe it matters much. I was wrong. Learning grammar merely through accidental, unorganized exposure might work *eventually*, but it's certainly not efficient or rewarding.
+> Reciprocal links are common in the associative network. For example, being amused tends to make you smile, and smiling tends to make you feel amused. Go ahead and take a pencil, and hold it between your teeth for a few seconds with the eraser pointing to your right and the point to your left. Now hold the pencil so the point is aimed straight in front of you, by pursing your lips around the eraser end. You were probably unaware that one of these actions forced your face into a frown and the other into a smile. College students were asked to rate the humor of cartoons from Gary Larson's The Far Side while holding a pencil in their mouth. Those who were "smiling" (without any awareness of doing so) found the cartoons funnier than did those who were "frowning".
 
-So let's get this right. How *do* you teach grammar? We need more details first. A cognitive routine is itself composed of other stuff. Most importantly, it uses *transformations*.[^correlation]
+Sure, but what does that have to do with unconscious priming? You're modeling one aspect of the behavior of being happy, so of course the subject "is" happy. That's just what being happy *is*, or is Kahneman suggesting something like property dualism here? What does that have to do with *priming*?
 
+(That's the kind of confusion I mean when I say that psychology is deranged by thinking about "feelings" instead of doing a straightforward[^easy] response-locus analysis, i.e. noticing that the learner can give the desired response "smile", "be calm" etc. just fine in *some* contexts, and we just have to teach (or shape) a new context. When we say "the subject is not happy", we mean they don't give the response "happy" (which is unpacked as smiling etc.) in reaction to the right stimulus. Treat it like a dog that doesn't sit when you tell it to.)
 
+[^easy]:
+    "Straightforward" does not mean "easy" or "simple", but that's for another log. I just mean that it is yet another normal teaching problem without any further complications.
 
-I'm currently in the process of "converting" grammar references (like [this][Tae Kim] or [this][Dictionary of Japanese Grammar]) into a proper cognitive routine format, and then learning them. I'll talk more about it once I figure out the exact process (including adjustments for lazy autodidacts) and can show you some results.
+> Studies of priming effects have yielded discoveries that threaten our self-image as conscious and autonomous authors of our judgments and our choices. For instance, most of us think of voting as a deliberate act that reflects our values and our assessments of policies and is not influenced by irrelevancies.
 
-[^air]:
-    <% skip do %>
-    Does not apply in Airstrip One.
-    <% end %>
+(This is news? Behaviorists have successfully removed the "conscious" part as ridiculous confusion for over a century, and Molinists have similarly shown how "deliberate" and "highly context-sensitive" are in no way mutually exclusive. This Behaviorist Molinist is unimpressed.)
 
-[^pron]:
-    I'm totally ignoring pronunciation here. That's not because I believe it's unimportant, but fundamentally speaking, it's just a bunch of physical routines, simple transformations and some shaping. Again, another post, mostly because I'm a "read texts" person, not a "talk to people" person and so accents are always last on my list of things to master.
+The chapter then continues with a combination of subtle, then utterly ridiculous examples which, if taken at face value, would make running perfect dictatorships outright *trivial*. Notable:
 
-    There are also non-grammar routines involved in speaking a language, like "composing a paragraph", "rhyming", "making a point" or "deconstructing a subtext". Those skills generalize (roughly) beyond any one particular language, and in the case of polyglottery, we expect the learner to already have those (to an acceptable degree). But you'd approach them just the same way, as daunting as teaching "post-structuralism" might at first look.
+> Furthermore, merely thinking about stabbing a coworker in the back leaves people more inclined to buy soap, disinfectant, or detergent than batteries, juice, or candy bars. Feeling that one's soul is stained appears to trigger a desire to cleanse one's body, an impulse that has been dubbed the "Lady Macbeth effect".
+>
+> The cleansing is highly specific to the body parts involved in a sin. Participants in an experiment were induced to "lie" to an imaginary person, either on the phone or in e-mail. In a subsequent test of the desirability of various products, people who had lied on the phone preferred mouthwash over soap, and those who had lied in e-mail preferred soap to mouthwash. 
 
-    An important difference is that people don't routinely write reference works or communication scripts for thinks like "writing a contrarian political manifesto", so these skills are necessarily much harder to teach because the teacher has to do this work first. But lots of <del>pedants and prescriptivist scum</del> grammarians write comprehensive and immensely useful grammar reference books for all kinds of languages, so the autodidact can use these works to derive their own teaching script despite not speaking the language in question. Much of language use is sink-or-swim territory, but grammar is a notable exception.
+And people complain about *psi* research being bullshit?! Fuck, *Derrida* makes more straightforward priming suggestions in his discussion of *pharmakon*. If half of the effects Kahneman describes were real in the way he imagines, how could he possibly write his book and *believe* it? It would make biases so massive and undetectable, even Plantinga wouldn't have the patience to show him how his epistemology is self-refuting. And how the fuck would anyone ever identify the *objects* of a priming this circuitous? Freudian Analysis is more codified than this!
 
-[^label]:
-    Technical point. In ToI, a *basic form* is a simple concept with only one defining feature, like "red". It's something you can't reduce any further. That's not a philosophical point and makes us non-reductionists; it's pure pragmatism.
-
-    When we say that concepts such as "red" and "heavy" are basic, we don't mean that *in principle* there is no way to further reduce them, but merely that *in practice* we don't have such an option or don't need it. "Heavy", for example, we might be able to express in terms of gravitational equations of some form, and "red" as some process related to the wavelength of light. However, when we talk to actual human beings, "red" is simply something directly perceived, not something constructed out of multiple perceptional parts, and so our teaching reflects that.
-
-    As a general rule, if we try to communicate a certain quality and have to resort to phrases like "it's like this, except that..." or "it's what you get when you do this, and this, and this...", i.e. descriptions that are clearly composed of other concepts, then we're not dealing with a basic concepts. But if we can simply point at one example and say "it's this part", then for the purpose of instruction, it's basic.
-
-    A form that has multiple relevant features, like "cat", is called a *noun*. It's still basic, in a sense (showing you a cat is much easier than building it up from "simpler" concepts), but it's got multiple dimensions, like a certain size, shape, fluffiness and so on. I use "noun" to mean labels for *generic* concepts, regardless of the number of relevant features, which is largely compatible with ToI usage and more in line with how linguists tend to use the term, but FYI.
-
-[^iter]:
-    New iteration immanent, for muflax-y values of "immanent". muflax still believes the Eschaton is immanent, for example, so how good are her time estimates, really?
-
-[^conc]:
-    If you *don't* know the concept, you have to teach what ToI calls "distinctions". The method I used in the Aristotelian example is one way of teaching a certain kind of distinctions, and I already talked about them in past logs. (I didn't talk about Comparatives yet, though, or some complications.) But when learning a second language, genuinely new concepts are rare and most new distinctions just cut up some messy clusters a little bit differently. (Like, German doesn't distinguish between "apes" and "monkeys" (both are "Affen"), although it has a category "Menschenaffen" for the "great apes". (Don't know what's so great about bonobos, if you ask me...))
-
-    Teaching children (or just generally uneducated folk), on the other hand, is quite a different matter. As Zig and his crew have shown repeatedly, under-performing children often don't suck because they're "stupid" or "genetically disadvantaged" or some such thing, but because they simply haven't properly learned some basic concepts yet (like "if" - yes, seriously), and then can't benefit from more advanced education.
-
-    (Note: this doesn't assume that genetic etc. differences in intelligence don't exist, merely that good instruction can easily *overcome* them for virtually everything normal school covers. In other words, intelligence is the ability to learn quickly *despite* bad instruction. To put this in crass terms, no one expects dogs to master quantum physics, but if you fail to teach them to "sit", we realize it's most likely not the *dog's* fault. And of course, even though >2SD people might already be able to learn certain things, doing it right would allow them to learn it faster, with less frustration, and to a consistently deep level of mastery.)
-
-[^correlation]:
-    Besides transformations, we also have *correlated features*. The difference is that transformations depend on some logical relation, but correlated features are mere empirical clusters. For example, "German Shepherds are smart dogs" is a correlated feature. There's nothing inherently in the concept of German Shepherds or smartness that tells you that the two are connected. You have to actually look at the world. If you have a bit of a philosophical bend, that's basically the difference between an analytic and synthetic fact.
-
-    The distinction is a bit blurry, of course, and again just pragmatic. If we merely expect the learner to "memorize" things because they just "happen" to be connected, and there's no particular reason for that (that we care about), then we are dealing with a correlated feature. In language learning, synonyms are an important instance of that class. But if there's a "reason", some specific rule that makes the correlation happen, then it's a transformation. That's what (most) grammar's like.
-
-    I'll talk about correlated features in later posts, but [Supermemo's 20 Rules][] are a good primer about how to deal with them.
+Note to self: once my statistics-fu is half-way decent, do a re-read of the main heuristics and bias literature. If Kahneman gets away with crap *this bad*, there's a good chance the whole field is bullshit.
 
 ---
 
@@ -153,15 +157,16 @@ Based on the current interpretation, this would make me strongly introverted, tr
 
 ---
 
-<% skip do %>
-Brethren of Nurgle! Papa helped me through a pernicious circle of self-doubt and I want to share this lesson in his cancerous faith.
+Brethren of Nurgle! I want to share a lesson in Papa's cancerous faith.
 
 Over the last few days, I began reading some political texts[^texts], and fell into deep despair[^despair]. The world seemed hopeless, unwinnable, and all good in it was just waiting for some Ruinous Power or other to devour it, enduring only for a little while longer, faint shadows of their former - and potential - glory. When I saw Reddit praise the Pope, I knew all was lost. With the last corpse-emperor dethroned, all else will die soon enough.
 
 [^despair]:
+    <% skip do %>
     To be fair though, I'm never not full of despair and doubt. For example, it took me over two weeks to even send a status report to my advisor, let alone *do* anything, and despite actually putting some work into useful projects (more than I used to last year, anyway), I'm merely alternating between "I'm a complete and utter failure and it's just a matter of time until everyone gets fed up with me and abandons me" and "yeah that's it, schizophrenia (or whatever it is) is getting much worse, I'm about to be a rambling hobo, I just know it".
 
     I wish I was exaggerating for comedic effect. Only take life advice from a Nurgelian after you're a hopeless case anyway.
+    <% end %>
 
 I was happy, but also despairing, and this I thought was Nurgle's bargain. He takes away your suffering, forever, and gives you life instead. (More life than anyone can want. He is generous this way.) But - and I thought I *had* accepted this trade - why was I *still* despairing? I didn't suffer, maybe, but a Plague Bearer *doesn't* keep on hoping. They are just fruitful, multiply, and decay. So I wondered, did His Pestilence abandon or betray me?
 
@@ -173,7 +178,7 @@ How can you live, wordless? Many struggle and turn to [heresy][Death of God], de
 
 And it knows well that I will see through this, and come to regard Nurgle as the subjectivist disease I feared the most, standing in a field of corpses, declaring, "Good enough!", as if he would not be *judged*. And so I despair about despair, and the voice asks, carefully, who can you trust? The old sack of rot, it tricks me to believe, must have a reason, some transformative goal, that guides him. But it can't be that crude. If it just had me suspect that, as some falsely believe, the Plague Bearer is happy because they have embraced the inevitability of death - after all, if all paths lead to the same outcome, why worry about performance reports? - then I would've seen through it in a moment.
 
-But the voice seeds a deeper doubt by suggesting a causal role between despair and the end of suffering at all. Nurgle, yes now we're getting somewhere!, Nurgle is the abandonment of justification, that is why he's happy! And for a moment I believe it, and predictably I find it unsatisfying, and so even turn away from His Stench.
+But the voice seeds a deeper doubt by suggesting a causal role between despair and the end of suffering. Nurgle, yes now we're getting somewhere!, Nurgle is the abandonment of justification, that is why he's happy! And for a moment I believe it, and predictably I find it unsatisfying, and so even turn away from His Stench.
 
 And I wish to confront Papa. Why do I have to puzzle these things out, engage the Changer of Ways, why is the only answer I receive to this spiral of ever-greater dissatisfaction and confusion - a buzzing of flies?
 
@@ -186,8 +191,18 @@ The other cultists responds, the plague has no volunteers. The rot needed no con
 <%= youtube("https://www.youtube.com/watch?v=R1CD6gNmhr0#t=17s") %>
 
 [^texts]:
+    <% skip do %>
     I'm not going to name names because I don't want to get sucked into *actual* politics, not fantasy wargaming ones. I also stand by my judgment that without establishing a reasonably trustworthy and pragmatic framework of thinking *about* politics first, you shouldn't be asking questions like "if Communism sucked so bad, why did the USSR have typical GDP growth?", because you're just gonna pull whatever importance of GDP you want out of your ass, depending on whether you like Stalin's mustache or not.
 
-    I originally wrote a pretty long series of (sometimes very angry) criticisms of the internet Reaction and Social Liberalism, but fuck 'em, I'm not posting it, neither deserves the attention.
+    I originally wrote a pretty long series of (sometimes very angry) criticisms of the Internet Reaction and of Social Liberalism, but fuck 'em, I'm not posting it, neither deserves the attention.
 
-<% end %>
+    So instead you'll get W40K crackpot theories:
+
+    - Isha isn't the Goddess of Healing, but Nurgle in a dress. He's the God of Neckbeards. Search your feelings, you know it to be true.
+    
+    - The Imperium is a straight-up utopia by total utilitarian standards. The 13th Black Crusade, probably the most devastating attack of Chaos ever, killed on the order of 10^10 people in the Imperium. Based on conservative fluff estimates, the Imperium has a total population of at least 10^16 people. With a comparable mortality rate of 0.1 per 100,000, Failbaddon is beaten every year by breast cancer *in men*. The choice between becoming an Imperial Guardsman or Federation Redshirt is an easy one.
+
+    - Everything is going according to the Emperor's plan. There is a certain tension in how the Imperial Cult thinks about the Emperor. On the one hand, he is the supreme architect of the Imperium and has been guiding humanity's path for millennia, but on the other hand, he failed to prepare it for internal strife, nearly falling to the forces of Chaos.
+
+      But what *is* humanity? What sets the faithful apart from the mutant, the heretic, the alien? It's never-ending and fanatical devotion, of course. But this Unbreakable Will can only be discovered in struggle! This is why, in the future of the mankind, there can be only war.
+    <% end %>

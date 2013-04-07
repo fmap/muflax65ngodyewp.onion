@@ -383,6 +383,9 @@
 [Handbook of Behaviorism]: http://books.google.de/books/about/Handbook_of_Behaviorism.html?id=pp4KIVcq2qEC
 [Impro]: http://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178
 [Don't Shoot The Dog]: http://www.amazon.com/Dont-Shoot-Dog-Teaching-Training/dp/1860542387
+[Thinking Fast And Slow]: http://www.amazon.com/Thinking-Fast-and-Slow-ebook/dp/B005MJFA2W/
+[Bargh Florida]: http://www.cuclasses.com/stat1001/homeworks/studies/socialbehavior.pdf
+[Bargh Reproduction]: http://marginalrevolution.com/marginalrevolution/2012/03/walking-fast-and-slow.html
 
 <!-- local mirror -->
 [Birdmen]: http://muflax.com/stuff/malstrom/Birdmen%20and%20the%20Casual%20Fallacy.html
