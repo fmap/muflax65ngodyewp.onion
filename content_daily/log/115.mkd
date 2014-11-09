@@ -1,0 +1,176 @@
+---
+title: Walpurgiskater
+date: 2013-05-01
+techne: :done
+episteme: :log
+---
+
+> but it’s too late, my friend\
+>  too late\
+>  but never mind
+>
+> all my trials, lord\
+>  will soon be over
+>
+> – all my trials (excerpt)
+
+As a simple safety precaution, and even though I don’t have a history of
+escalating addictions[^addict], I’m set up a [Beeminder
+goal](https://www.beeminder.com/muflax/goals/smoking) to limit my
+cigarette use. I mean, the financial budget already keeps it at a
+manageable level, but that’s what they all say, isn’t it?
+
+Nonetheless, I did a simple cost comparisons[^patch] for a
+certain (fairly representative) Rich European Nation with its
+enlightened “heavily tax those who cost you less and who need the stuff
+to self-regulate” drug policy:
+
+-   decent cigarettes: \~0.25 Euro / 1mg nicotine
+-   roll your own cigarettes: \~0.10 Euro / 1mg nicotine (all other
+    tobacco products are somewhere between those two)
+-   lozenges: \~0.06 Euro / 1mg nicotine (that’s for 4mg lozenges, which
+    are easy to split in half, but if you want to actually dose 1mg,
+    you’ll probably have to pay double)
+-   e-cigarette: well… ok, I’m confused by how much usable nicotine they
+    really contain, and what realistic costs are (including hardware),
+    but my best estimate is something like \~0.10 Euro /
+    1mg[^source] (especially as prices are expected to go up
+    thanks to upcoming regulations), which surprises me as I thought
+    they were a lot cheaper. Am I missing something?
+
+I currently don’t have any reasonable way to circumvent those taxes
+(Eastern European border, I miss ya), so it seems like I’m not actually
+spending a whole lot of premium on cigarettes. Assuming a 4mg/day
+maximum (which is a pretty hig upper bound of my current use), I’d have
+to pay up to \~7 Eurons/month for the cognitive benefits through
+lozenges (which also ignores that I skip days irregularly because I
+forget about the stuff, which at least helps keep tolerance down).
+
+If I add, say, 10 cigarettes/week (which is a similarly high long-term
+estimate of my current use) and use lozenges otherwise for the same
+4mg/day, I’d pay \~9 Eurons/months, not a lot more. (And I love tobacco
+smoke and discolorations anyway, so this is a reasonable cost just for
+the pleasant experience, but I’m weird that way. Always loved having
+smoker friends for their smell, even though I only got interested in the
+stuff itself a few years ago.) So once my current supplies run out,
+that’s exactly what I intend to switch to.
+
+But why stick with 4mg? Maybe that’s too much, maybe not enough? I need
+a better way to quantify what benefits I get from nicotine (in terms of
+cognitive enhancement, reduction of *ugh*, regulation of schizotypal
+symptoms). So I thought about existing options to get data from:
+
+-   I can’t use sleep data because my sleep patterns are very irregular
+    and my Zeo data is basically worthless. Back when I tracked it
+    regularly for a few months, I virtually *never* dropped below a ZQ
+    of 90 and saw many anomalies (catastrophic night with a ZQ \> 120
+    etc.), and now Zeo’s dead anyway (pbut).
+
+-   Comparing “time spent on useful projects” is tricky because there’s
+    a lot of noise, but it might be workable if I do it for a
+    sufficiently long period of time and I’m tracking this anyway.
+
+-   Anki seems too noisy to evaluate. What would I even measure? Answer
+    time? Correctness percentage is (on average) held constant by the
+    scheduling algorithm and it’s tricky to control for difficulty.
+
+None of those sound too promising, so I’ve looked into useful short
+tests I can run once every day. I want the total test suite to be short
+(\<10min) so I don’t get bored, so I’ll stick with these 3 tests for 2
+minutes each:
+
+1.  [n-back](http://www.gwern.net/DNB%20FAQ) accuracy score
+
+    I remember vaguely from gwern-sensei’s FAQ that it’s currently
+    unknown if there’s a significant difference between single and dual
+    n-back, and because I’m lazy I’ll start with single n-back. I’ll add
+    sound when I get a [round tuit](http://blog.beeminder.com/tuit/).
+
+2.  Answer time on simple arithmetic problems (“3+2=?”)
+
+    This is [Seth Roberts](http://blog.sethroberts.net/)’ favorite. Many
+    data points per day, plausible mechanism, useful skill. What’s not
+    to like?
+
+3.  [Stroop task](https://en.wikipedia.org/wiki/Stroop_effect) answer
+    time
+
+    There have been several studies that have shown that schizophrenics
+    have significantly increased Stroop latencies, so it seems like a
+    useful proxy test for schizotypy. The traditional positive/negative
+    symptom tests (besides applying to most people in a philosophy
+    department) are way too imprecise, so this will have to do.
+
+I’ve [hacked together a quick
+script](https://github.com/muflax/cogatrice) that takes care of the
+assignments and tests, added a [simple Beeminder
+goal](https://www.beeminder.com/muflax/goals/cogtest) to ensure daily
+measurements and I’ll figure out how to analyze the data once I have
+some. (It’ll take a bit for them to plateau anyway, so I can still work
+out problems in the protocol as they come up.)
+
+There’s of course still the issue of randomization and blinding.
+E-cigarettes are relatively easy to blind, but everything else seems
+hard (use herbal / low-nicotine tobacco that tastes similar?) to
+impossible (find similar mint lozenges?). So I can’t properly control
+for placebo, but I can still learn some information about dosage. Next
+time I buy new lozenges, I’ll also buy weaker ones because they all look
+and taste the same and so I can blind *strength*. Until then and in
+addition, I can randomize *scheduling* - I simply randomly do the tests
+first and then take the nicotine or the other way around. That still
+provides a baseline to compare the intervention with. Lastly, I’ve also
+re-instituted my detailed drug log (which I only needed to avoid some
+nasty interactions, mostly with MAOIs, which I haven’t taken in some
+time) so I can spot potential patterns.
+
+Empiricism!
+
+---
+
+So it seems I’m getting back into statistics and how to read scientific
+papers, and hey, I have some old notes but how much can I’ve really
+forgotten? Let’s review some simple stuff. What was a p-value again,
+Wiki-sama?
+
+> In statistical significance testing the p-value is the probability of
+> obtaining a test statistic at least as extreme as the one that was
+> actually observed, assuming that the null hypothesis is true. One
+> often “rejects the null hypothesis” when the p-value is less than the
+> predetermined significance level which is often 0.05 or 0.01,
+> indicating that the observed result would be highly unlikely under the
+> null hypothesis. Many common statistical tests, such as chi-squared
+> tests or Student’s t-test, produce test statistics which can be
+> interpreted using p-values.
+
+Oh for fuck’s sake.
+
+[^addict]:
+    I mean, look at that graph. If being very inconsistent in everything
+    I do is a superpower, drug use is probably the only area where it
+    pays off.
+
+[^patch]:
+    Ignoring patches, which I found really hard to dose, and gum, which
+    everyone I know who tried to use it had issues with. I also find it
+    difficult to take absorption rates into account, but the “1mg”
+    number is my best guess of effective nicotine, taking the numbers on
+    cigarette boxes at face-value.
+
+    It’s also funny how the nicotine content for each product does *not*
+    generally affect it’s price much (if at all).
+
+[^source]:
+    Raw nicotine content in the liquid isn’t informative as such because
+    it ignores the absorption rate (for which I couldn’t find a good
+    source), other components besides nicotine, and so on. I ultimately
+    went with the quantity of liquid former smokers typically end up
+    using, which seems like a more useful proxy. However, even there
+    good correlations are rarely present and estimates vary a lot. My
+    (not particularly informed) best guess, based on that one study with
+    self-medicating schizophrenics and various forums with smokers, is
+    that one medium-to-high-strength cartridge equals \~6-10 cigarettes.
+
+    I did find decent estimates for lozenges (and they fit my personal
+    experience), so those costs are more reliable.
+
+

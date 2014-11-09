@@ -1,0 +1,308 @@
+---
+title: Bel-Marduk
+date: 2013-06-04
+techne: :done
+episteme: :log
+---
+
+(Wait what? words? I need to write about stuff we did? *Again*? Didn’t I
+just… oh well. Fetch me the logs, I’ll docum.. wait, it says there I
+mostly did Japanese grammar practice, which I can’t meaningfully talk
+about yet, loads of boring-to-talk-about [deliberate
+practice](https://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice),
+and work, which I bet I’m not even allowed to talk about because we
+pretend we’re relevant to the industry? Ok, so can I post a manifesto
+then? I have a draft and need to get some of this anger out of… no? What
+about metaphys.. also no?
+
+Listen, Mister. I know you had the best of intentions with this “write
+about stuff you did because you like explaining stuff, which helps you
+actually do stuff”, but we have some better tools now, if you haven’t
+noticed, and while this works well for conceptual stuff, most skills are
+actually pretty hard to talk about in a meaningful way and learning them
+doesn’t really leave neat piles of notes that can be trivially converted
+into posts, so now you’re making me do *extra* work here. Can’t we go
+back to “deconstruct texts” and stuff? That’s at least
+fun.[^back]
+
+Yes I know the rules, I *wrote* them, but even Kant would agree that
+some rules can be broken somet.. ok yes he wouldn’t, but you know what I
+mean! Look, your paranoia isn’t helping me either! You’re so worried
+about distant effects of your actions, you’re not letting me talk about
+topics before you’re sure they’re fully under your control, but you’re
+still making me adhere to rules that were written under the assumptions
+that just documenting whatever happens is way awesome, so don’t you see
+the problem here? A lesson? What lesson could you possibly try to teach
+me here?
+
+“Sources of validation”?
+
+I see. Yeah that’s really clever of you. So if I don’t break the rule,
+I’ll have to find *something* to write about even though I don’t have
+anything ready yet. Yeah, I get how this extra work is great for your
+complicated plans. But if I just break it? What th.. whoa, that’s a big
+graph. That’s *all* conn.. even th.. whoa. Sheesh man, you’re quite the
+magician, you know that? Yes I know I joked about how I’m doing acausal
+magic when I wrote the rules. I didn’t expect you *meant* that bit! So
+if I don’t follow the rules, all.. *that*.. collapses? Well, that’s a
+pretty [double bind](https://en.wikipedia.org/wiki/Double_bind) you set
+up there. Listen,
+[Watzlawick](https://en.wikipedia.org/wiki/Paul_Watzlawick)’s books
+weren’t *instructions* how to mess people up. I don’t care that it
+works! Don’t
+[melon](http://www.koanicsoul.com/blog/2012/06/27/how-to-manifest-whatever-you-want/)
+me! There are nicer ways to get what you want. I hate when you cloud
+your incentives with magic talk and convoluted narratives. What do you
+mean that’s the point?
+
+So it’s actually a triple bind? For all three possible modes of response
+- [loser, clueless,
+sociopath](http://www.ribbonfarm.com/the-gervais-principle/) - you’ve
+set up a demand that transparently subverts it, and is in conflict with
+the other two modes. The loser narrative is unbelievable because I can
+see the strings, the clueless reward is nonsense because I see you
+printing that toy money, the sociopath power doesn’t work because I’m
+afraid what using it will do to me. If I use any option anyway, you
+still win, and if I transcend their limitations, you also win.
+
+You’re quite the evil fuck, you know that?
+
+…
+
+…so what now?)
+
+---
+
+What’s the saying? If you don’t know what to do, go meta. So I’ll just
+document one of my recent Beeminding changes.
+
+Starting on 2013-02-28, I redesigned several things: I’ve started to
+switch from open-ended time-based goals to finite task-based goals,
+broken my big “do useful stuff” goal into smaller sub-goals, and begun
+to add percentile feedback.
+
+I explained some of the goal organization [over on
+Reddit](http://www.reddit.com/r/beeminder/comments/1e2duf/muflaxs_beeminder/c9wcevw),
+relevant quote:
+
+> I used to just track “productive hours / day” so I don’t sit on my ass
+> too much, but I started to substitute more fun projects for everything
+> else, so I recently broke that up into various independent groups of
+> goals: “science”, “guitar”, “code”, “polyglottery” and “job” (ugh). I
+> still track the total too, but that’s more of a nuclear option (with
+> the big 90\$ pledge) and I haven’t settled on a good daily goal yet.
+> If I’m too harsh on any one goal, it’s more likely I just decide it’s
+> not worth it and fail even though I still have plenty of time to meet
+> it.
+
+I’ve toned down some of the time-based goals because I found “do stuff
+for 20 minutes” not very motivating. There’s no sense of progress and “4
+hours” looks so large, I often didn’t even try to tackle it even when I
+had plenty of time left. Instead, I’ve begun to convert everything into
+a TODO list using org-mode. So for example, I’ve just turned every
+chapter / unit of a textbook into one todo item, which feels much more
+actionable and is done. (Also wrote [a simple
+script](https://github.com/muflax/scripts/blob/master/beeminder/beeminder_org_todo.rb)
+that updates Beeminder goals accordingly.[^org])
+
+So far this seems to be more productive, but I’ve not been doing it for
+very long. I tried a simple Bayesian comparison of a before/after
+dataset, mostly to figure out how R work. I just wanted to use
+[BEST](http://www.indiana.edu/~kruschke/BEST/), but the normality of
+“useful hours/day” turned out very low, meaning the data doesn’t seem to
+fit a normal distribution very well. After looking at a basic histogram:
+
+<%= image("fume_histogram.png", "Fume Histogram") %>
+
+I saw why. While this looks reasonably Poisson-y, I still don’t
+understand the underlying assumptions and methods very well, so even
+though I could hack together a simple version of “I put numbers into
+this magic box and look at these funny graphs it gave me!”, that
+wouldn’t be particularly useful.
+
+However, I just plugged my “total useful hours / day” into a simple
+Beeminder “weight gain” graph (so that I can track (and then raise) my
+fluctuating average), and you can still see two improvements (the first
+time I broke stuff down at the end of March, and the second slope when I
+transitioned to tasks):
+
+<%= image("fumeavg_graph.png", "Fume Average Graph") %>
+
+(Note that this is zoomed in and cuts off some \>6h outliers. The points
+are “total useful time” for each day as logged with my time-tracking
+tool, the thin line is a (slightly lagging) average.)
+
+I’m also trying to use this graph and a simple percentile number in
+[fume](https://github.com/muflax/fume) to implement [Seth’s percentile
+feedback](http://blog.sethroberts.net/2011/05/01/percentile-feedback-and-productivity/),
+so instead of just seeing “I did 1.2 hours of useful stuff today”, I
+also see how good that is compared to the last week.
+
+I’m not sure yet if it actually works in terms of increasing my
+productive time (not enough data), but at least it’s more motivating and
+I’ve made significant progress on several projects due to the tiny todos
+that feel more like “one more turn” instead of “fix ALL the things!”.
+
+---
+
+I got annoyed with Dropbox mangling my data and so thought, hey my
+`~/spoiler` directory (i.e. all my notes, todo lists and drafts) is
+already a (huge) git repository with auto-commit, so I could just use
+some git solution to sync that between machines. Then all the stuff in
+Dropbox is either read-only (public shares) or written by only one
+machine ever (phone -\> desktop) and I won’t have sync issues anymore.
+Shouldn’t be hard, right?
+
+What I considered:
+
+1.  Use git-annex. Long-term that’s fine, but currently the assistant
+    ignores the `.gitignore` (wtf?!) and I’m beginning to develop a
+    deep-seated hatred against all Haskell
+    programmers.[^haskell]
+
+2.  Sparkleshare is, quote, “an Open Source collaboration and sharing
+    tool that is designed to keep things simple and to stay out of your
+    way”. It’s also written in C\#. Good joke. Is funny. I laugh.
+
+3.  dvcs-autosync is similar, but “takes a more minimalistic approach”.
+    Which includes no documentation, limited directory awareness and,
+    best of all, *requires a central repository*. It has *“distributed”
+    in its fucking name*. Who’d be so dement.. oh, guy uses Arch Linux.
+    I’m now convinced every Archer is clinically insane.[^arch]
+
+So there isn’t any good tool yet. Well, I could turn one of those
+(probably dvcs-autosync) into something usable, but ain’t nobody got
+time for that. So it’s back to my cronjob’d commit-and-pull-everything
+solution until git-annex’ assistant stops sucking. (Nonetheless, I still
+put “use dvcs-autosync to auto-commit based on inotify and insta-push
+via git hook” on my todo, in case I *do* got time for that.)
+
+Sigh.
+
+---
+
+You know what’s really annoying? Hair feedback time.
+
+So I wanna do this totally awesome undercut thingie[^hipster],
+but it will take me months, if not a full year until some parts have
+grown enough that I can pull it off, and until then I can’t do
+*shit*.[^drunk] I just practice a bit by doing regular
+maintenance, but how am I supposed to level up my self-sustaining
+fabulousness if I can make maybe 1-2 big decisions *per year* and
+mistakes might require rollbacks so large, you gonna have to wait months
+just to *repeat* them?
+
+On the plus side, while I was going through
+[http://fuckyeahundercuts.tumblr.com](http://fuckyeahundercuts.tumblr.com),
+I felt - for the first time in my life - a sense of fear of being
+outdated, that by the time this “just long enough to poke me in the eye”
+mess has grown into something that can unambiguously blow in the wind
+and has enough surface area for a dozen Hello Kitty hair bows, that by
+then fashion will have moved on and I’ll look so wannabe 90’s, I might
+as well buy a fedora.
+
+Then I remember no one cares and I go back to Pinterest.
+
+---
+
+A mini-review of the newest [Crusader Kings
+II](http://www.crusaderkings.com/) DLC, [The Old
+Gods](http://www.paradoxplaza.com/games/crusader-kings-ii-the-old-gods).
+It adds a new start in 867, the year Rurik decided that Russian brides
+are just the best and he’s gonna grab himself some in
+Novgorod[^rape], and more importantly, before the spread of
+Christianity into the East. I’ve always wanted to play before the
+*Ostsiedlung*, so I just jumped right into Lusatia and decided that
+minority status isn’t good enough for us
+[Sorbs](https://en.wikipedia.org/wiki/Sorbs), we’re gonna carve
+ourselves a kingdom in the midst of Vikings, Poles, invading nomads, and
+worst of all, Bavarians.
+
+The new raid mechanics are a beautiful addition. At first, I was just
+assembling little hunting parties from time to time because I thought
+that it was my duty as a Pagan to pillage, but by picking vulnerable
+Christian provinces too busy with bigger assholes than me, I had quickly
+transformed my fiscal policy into “whatever the Christians can’t
+defend”. Greater Poland acting up because it thinks it should own
+Silesia? Better “borrow” some money from the cities to the south.
+Vikings landed again? Let’s make it Nürnberg’s problem and buy some
+mercenaries with their gold. Once I realized I can finance the majority
+of my armies with ransom money, I couldn’t help but start blasting Death
+Metal and cheer the burning of churches. The Christians might worship a
+pathetic god, but at least their coffers come back from the dead year
+after year, ready for another harvest.
+
+The fascinating thing is how this high lasted for some time until some
+even bigger Pagan decided I would make a nice addition to their
+ever-growing list of vassals, and I realized I ain’t got no Divine Right
+of Kings, I just got a big axe, and after the last succession crisis of
+6 sons (did I mention those concubines?), I was exhausted and without
+friends, and maybe all those saints I gladly turned into martyrs
+might’ve been on to something and I should’ve taken up the Axe of the
+Apostles instead. But even though the March of Progress might be against
+me, and even though stability and order win in the long run and I got
+neither, at least for a few decades I was feared by all and when death
+inevitably comes, I won’t have any regrets.
+
+My sons, though, are fucked.
+
+<%= image("yolo.jpg", "#yolo") %>
+
+[^back]:
+    But seriously, I don’t always like to shoe-horn fragments, cool
+    links and “omg they didn’t just write that” parts into logs. I know
+    people use their FB or G+ for that, but I don’t like either site
+    (because at least one of them is probably run by actual soul-eating
+    vampires).
+
+    I wonder if I should start a tumblr. While I don’t have angry
+    opinions about gender yet, I am confused about my personal identity,
+    sexuality, hair style and species. I would like to regularly reblog
+    [sassy
+    pugs](https://gs1.wac.edgecastcdn.net/8019B6/data.tumblr.com/390eb27ac775f1db1a416ca9172c28aa/tumblr_mnqtmuomAa1r8hf8lo1_400.gif)
+    and summarize complex arguments with a reaction.gif, but I’m not
+    sure if I’m ready to become a 15-year-old girl full-time.
+
+    There needs to be a place that is kinda in-between FB and tumblr. A
+    fumblr, if you will.
+
+[^org]:
+    Beeminder has native Trello integration, which is probably a good
+    alternative if you’re not already familiar with org-mode. Still,
+    Trello doesn’t have nested items and can’t be used offline, so
+    that’s somewhat annoying.
+
+[^haskell]:
+    Seriously, Haskell has a worse dependency hell than the ARM code I
+    maintain *which still uses gcc 2.95*. Oh, I need to update a minor
+    library from `x.y.3` to `x.y.4`? *Every single Haskell program ever*
+    on my machine is now broken. I hate academics.
+
+[^arch]:
+    Sometimes I feel like ranting about Arch, but then I remember
+    *pacman doesn’t even have versioned packages* and I don’t think any
+    more needs to be said about it. At least the
+    [suckless](http://suckless.org/) guys make great trolls and
+    occasionally write cool projects. Arch just seems to rot the mind
+    with cargo cult minimalism.
+
+[^hipster]:
+    Look, I have strong opinions about the metaphysics and epistemology
+    of 19th century Dutch theologians. It’s pretty much mandatory that I
+    either look like Skrillex or an 80’s bum. Which isn’t mutually
+    exclusive, fortunately.
+
+[^drunk]:
+    I expect to get drunk sometime this week, do it anyway, freak out,
+    complain on Twitter, then love my decisiveness and use the
+    experience as yet another guilt token later, admonishing myself why
+    I can’t be as awesome as I used to be. That’s how I usually get
+    stuff done I have issues about.
+
+[^rape]:
+    As [mrout on
+    Reddit](http://www.reddit.com/r/CrusaderKings/comments/1f9519/the_concubine_system_is_awesome/ca7zp8l)
+    said, “Hey Japan! This is how you do a rape game without being weird
+    about it.”.
+
+

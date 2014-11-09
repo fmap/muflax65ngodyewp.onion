@@ -1,0 +1,303 @@
+---
+title: Payload
+date: 2013-04-21
+techne: :done
+episteme: :log
+---
+
+Let’s see…
+
+I did a bunch of stuff I don’t properly understand enough yet to talk
+about without making an ass of myself, and even though that hasn’t ever
+stopped me before, I don’t wanna contribute too much to People Being
+Wrong On The Internet if I can help it…
+
+And all other projects won’t have anything meaningful to show off or
+talk about for some time to come, and “I read these books; they don’t
+suck” posts aren’t very interesting (unless I can at least say something
+about them)…
+
+And this situation isn’t gonna change anytime soon, and this is still
+primarily a practice log (maybe we should call an ironic purpose a
+“telol”?), so even though I have a bunch of drafts, I don’t wanna just
+dump my `crazy.txt`[^crazy] here without at least occasionally
+balancing it with `not_actually_crazy.txt`.
+
+So, uh, what am I gonna talk about the next few months? Guess I’ll have
+to become ultra-productive and cram in some more minor projects.
+
+しい〜〜〜ん
+
+Yeah ok, volume will probably just go down and I’ll try to mention [cool
+shit](https://www.youtube.com/watch?v=z_trSIBCgF0) and minor projects
+until stuff gets interesting again. (Lowered the road dial again for a
+while.)
+
+---
+
+Hint: someone scanned Westergaard’s Introduction to Tonal Theory and I
+hear it will also appear on the usual sites in a few days. Just fyi.
+
+On a totally unrelated note, I’ve started reading Westergaard’s book and
+I’m genuinely impressed. It looks like a proper textbook about a sane
+theory with lots of examples and a clear, logical structure throughout.
+Haven’t had much time to work on it yet, but it looks very promising.
+
+---
+
+Some drug updates.
+
+-   Modafinil: useless as a normal upper, mediocre as a sleep
+    substitute, great for “fuck deadline can’t afford to sleep fuck
+    fuck”. The effect during waking hours is not noticeably better than
+    caffeine for me. If it weren’t so expensive, I’d run a double-blind
+    test to compare side-effects and get a more precise idea, but so
+    it’s just not worth it. Will likely keep a small emergency supply on
+    hand, but otherwise I’ll stick to nicotine and caffeine.
+
+-   Nicotine: started to smoke cigarettes again. Not a lot (i.e.
+    \<40/month), and it’s not really about the nicotine either, which is
+    almost anti-addictive for me. Despite clear benefits and wanting to
+    use it regularly, I keep forgetting I have large supplies of
+    lozenges and go days (and sometimes weeks) without any for no good
+    reason, and even when I use them, it’s never more than
+    4mg/day.[^nicotine]
+
+    So why smoke? Because I want something destructive - a tiny,
+    controlled source of it, yes, but to deliberately do something of no
+    use - no, not enough! - to take an action fully aware that it brings
+    nothing but harm to myself, is to say, no, I cannot be satisfied; to
+    say to optimization itself, nothing you can do will ever make me
+    happy; this is my vote of discord, my dissatisfaction with order -
+    this one is for decay.
+
+---
+
+I made a [Twitter account for drunken
+confessions](https://twitter.com/#!/drunkflax). If I can’t say them to
+the person I mean them for, I can at least say them in general just to
+have them said, to lower the barrier - a practice round instead of just
+sadness. Maybe it’s gone tomorrow, maybe not. Don’t read them. ~~I made
+it for you.~~ Take with a grain of salt, placed on the back of your hand
+and a slice of lemon; count your shots.
+
+---
+
+I feel like many arguments could be more easily resolved if people more
+routinely asked themselves the First Rule of Debugging, i.e. “What are
+you trying to do with that?”.
+
+I’ve failed to state that enough in the past (and I’ve added “state what
+this is trying to accomplish” to my list of rules to observe in future
+writing), so here’s an example for practice.
+
+In Scott’s [wrestling with virtue
+ethics](http://slatestarcodex.com/2013/04/10/book-review-after-virtue-or-somebody-here-is-really-confused-and-i-just-hope-its-not-me/)
+[^pad], I was reminded how I had always assumed (if not
+explicitly, then implicitly in how I write) that my specific problems
+with ethics generalize and then how I was somewhat upset how someone
+could have the nerve to develop ideas that might work for their
+problems, maybe, but not mine!, what sacrilege.
+
+In particular, I have no clue what I want (I feel like I may have some
+preferences in forced decisions (i.e. almost all of them), but that’s
+far from wanting things for their own sake), so theories about “getting
+what I want” are of no use to me (regardless of their validity), but I
+know “the kind of person” I don’t want to be
+(“[apophatic](https://en.wikipedia.org/wiki/Apophatic_theology) virtue
+ethics”, you say?), but at the same time (and for good reasons I won’t
+elaborate on), I don’t trust my own ideas of what “good” is and that
+many common heuristics - trust your instincts, use empathy, follow your
+heart - are *horrible* advice for me because I’m at least potentially a
+Bad Person(tm) and *I will fuck people over* if you’re so stupid to make
+me run on instinct, so I don’t just need (meta-)ethics to resolve
+conflicts for me, but to even provide (some of?) my values in the first
+place.
+
+So any theory that requires me to load it with my values first is
+utterly useless to me because [it doesn’t solve any of my actual
+problems](http://www.viruscomix.com/page535.html). For example, my
+motivation for making locality a requirement for any meta-ethical theory
+is that I don’t want to be held responsible - including by abstract
+principles - for things I have no possible way of doing right. Or as
+Kant is commonly (and uncharacteristically) summarized, “ought implies
+can”. I don’t know what “the Good” is, in terms of a specific outcome or
+kind of world. There are narratives that shape what I think of as a
+“good world”, but these are clearly contingent and very non-mainstream
+(currently, anyway[^pol]). A defining feature of any concept is
+that there are some things it *isn’t*, some negative examples. But if
+“the Good” is just whatever these narratives have led me to think of as
+“Good”, then there is no way for me to be *wrong* about
+it.[^wrong] The label “Good” is then just an arbitrary
+placeholder. I don’t know if “Good” outside this usage has any meaning
+either, but *if* so, I want to at least cover my ass. Thus, Moral
+Realism That Doesn’t Do Anything.
+
+Interestingly, I *don’t* seem to apply this same thinking to the past.
+Even though Bad Shit happened[^close], I’m completely unwilling
+to let it go and still consider Things I Literally Have No Longer Any
+Causal Control Over[^mol] just as relevant and so a single
+negative example can devastate me and *keep on* devastating
+me.[^baum] I wonder if I should stop doing that…
+
+[^crazy]:
+    Actual content of `~/drafts`, my `crazy.txt`:
+
+    -   start of a manifesto “Against Compassion”
+    -   “I didn’t choose to be a wolf”, a meditation on fursonae
+    -   sketches about “could zombies have saved the Nazi war effort?”
+        until I got bored doing calculations (includes mostly worked-out
+        Nazi Zombie campaign setting, incl. sketch of a metaphysics to
+        make it reasonably coherent)
+    -   a love poem to cheesecake
+    -   “why everything sucks and will never ever get better”, a reading
+        of some of Luther’s more obscure writing (on hold until I figure
+        out if everything sucks and will never ever get better or not)
+    -   an incomplete sketch of “Against Imagination”, which keeps on
+        metastasizing as I add more and more anger to it, but it never
+        really goes anywhere constructive and I wonder if I’m not just
+        rewriting the Futurist Manifesto anyway
+    -   “I’m the worst person to talk about politics, but I’m drunk and
+        I have a pile of manifestos, try stoppin’ me”, an
+        interdisciplinary attempt of political exploration
+    -   several sketches and attempts of a new critical method I call
+        Passive-Aggressive Deconstruction
+
+    I think it’s obvious why those drafts never go anywhere.
+
+[^nicotine]:
+    I’m deliberately ignoring e-cigarettes even though they’re cheaper
+    because I don’t want to accidentally establish a “suck on
+    cigarettes” habit that might transfer to real cigarettes so I can
+    always maintain a behavioral separation between “nicotine so my
+    brain works” and “smoking for emotional reasons”, despite them
+    sharing some drug effects. The nicotine in cigarettes is still
+    welcome and I substitute accordingly, but it’s a bit of a pity I
+    have to smoke strong brands just to remind me of her smell.
+
+    <%= image("wishyouwerehere.jpg", "hot ashes for trees") %>
+
+[^pad]:
+    In particular [this
+    post](http://slatestarcodex.com/2013/04/11/virtue-ethics-not-practically-useful-either/)
+    how virtue ethics is not useful in practice, and this (highly
+    excerpted) exchange with Vladimir:
+
+    > [Vladimir:] If this abstract theory [e.g. utilitarianism] provides
+    > answers for the extreme and controversial cases, then it should
+    > provide answers for everyday common cases as well. But here we see
+    > that these abstract theories are of little use, often providing no
+    > useful answer or plainly absurd answers, and requiring tortured
+    > rationalizations and special pleading just to get them to clear
+    > the bar of ordinary common sense.
+    >
+    > […]
+    >
+    > If we actually do start from scratch in our study of ethics and
+    > make sure to stick to the reality of what human beings are, not to
+    > metaphysical pies in the sky and sophistries useful only for
+    > signaling and lawyering, we will end up — or at least have to
+    > start with — something resembling virtue ethics.
+    >
+    > [Scott:] Aside from the things I addressed in my new post, we seem
+    > to disagree a lot on how bad utilitarian and deontological ethics
+    > work. As far as I can tell they work about as well as Newtonian
+    > physics – they get the right result in the overwhelming majority
+    > of cases, but break down in certain weird edge cases where in fact
+    > they might still be salvageable.
+
+    was the thing that made me throw up my hands and say in a moment of
+    amused desperation, *surely* you can’t be asserting this! I don’t
+    have an issue with saying that virtue ethics isn’t really a *theory*
+    of anything but more a label of a kind of discourse, a way of
+    *doing* morality instead of thinking *about* morality, and that it
+    is, to use Skinner’s terminology, still mostly prescientific. Fair
+    enough.
+
+    But to say that utilitarianism (or even better, deontology! The
+    *simplest*, most straightforward example of deontological reasoning
+    - don’t deceive - is highly controversial and virtually *nobody*
+    agrees with it!) works most of the time is.. well, Scott is, to use
+    Moldbug’s amusing phrase, “[not a blithering
+    idiot](http://unqualified-reservations.blogspot.com/2013/03/sam-altman-is-not-blithering-idiot.html)”,
+    so I can’t just say, “clearly he just doesn’t know what he’s talking
+    about”. There must a disagreement not about results (because Scott
+    is neither ignorant nor in denial), but about *the problem*. With a
+    disparity this huge, we can’t be looking [at the same
+    thing](http://blog.regehr.org/archives/861).
+
+    One might be tempted to say, “this just proves that some people
+    think inherently like virtue ethicists and some like utilitarians”,
+    but that’s just throwing away all possibility of rational discourse
+    forever, and most importantly, *this isn’t even the case*. (Even if
+    this were the case, “get out of your weird bubble” would likely be a
+    more appropriate response, but I’m not convinced this even applies
+    to Scott, unlike say Kant.)
+
+    If I were more the person I want to be, I would now be able to write
+    an eloquent reply, but alas, the only answer I *am* capable of is a
+    stare of incredulity (which I hate) or an incoherent angry rant
+    (which I love). Wanting not to be abusive, I thus experimented with
+    alternatives and came up with Passive-Aggressive Deconstruction,
+    which is probably still trollish, but maybe not hostile. (Or at
+    least amusingly so.)
+
+    Essentially, and this is why I haven’t written more than sketches
+    yet because this is still a lot of work, I just wanted to highlight
+    by mere quotation how *Scott himself* uses virtue-ethical reasoning
+    frequently *on his own blog*, and how then, tumblr-style, I could
+    just add his comment pasted on a fitting `useless_utilitarian.jpg`
+    after each quote and ask, “Why don’t I see a calculation here?” or
+    “Why do you think this is a valid form of argument?”, so that after
+    a sufficiently large number of instances of this, it would at least
+    be more than an *assertion* of “I can’t believe you’re saying what I
+    think you’re saying, but I don’t see what else you possible could
+    mean to say”.
+
+    But eh, now that I’ve outlined the general approach, I can’t be
+    bothered to do it concretely. (\<3)
+
+[^pol]:
+    I don’t know of any way to discuss these things without either
+    moving to a very different audience (which I have no interest in) or
+    attempting an act of bridging a moral divide that is akin to making
+    a lion speak. Regardless - and I don’t know if that is intentional
+    or not - I might eventually have to get there if I ever want to go
+    meta and discuss important figures in [Higher
+    Criticism](https://en.wikipedia.org/wiki/Historical_criticism)
+    directly and not just their ideas how to read the NT. But I’ve
+    failed to tell Lutherans that they don’t understand Luther, so I’m
+    not optimistic about that ever succeeding.
+
+[^wrong]:
+    To be a bit more accurate, the problem is how the concept is learned
+    and it basically separates moral subjectivists from moral
+    relativists. In the subjectivist view, “Good” is the extension of
+    whatever collection of preferences I happen to hold, while moral
+    relativists conceive of some distributed concept shared by a
+    community, like a language.
+
+    So for example and by analogy, there is a wrong way to speak French
+    (even though there is no Standard Written Into The World Itself that
+    tells us a priori what French “is” and even though boundaries might
+    be fuzzy) and so it makes sense to say someone can learn French
+    (because we can provide positive and negative examples). But under
+    the subjectivist view, that is not the case because only *I* - or
+    rather, the preferences in my skull - define the concept. As such, I
+    can *teach* what “Good” means (i.e. *others* can be wrong about it),
+    but I can’t *learn* it because I already, by construction, embody
+    it. (This ethical egoism may, as a matter of fact, include the value
+    of “altruism”, of course - values aren’t justifications.)
+
+[^close]:
+    Look, Internet, I’m sorry but we aren’t *that* close.
+
+[^mol]:
+    Well yes, Molinists can change the past, but then they have to
+    negotiate with God and that doesn’t sound any easier, if you ask me…
+
+[^baum]:
+    As Baumeister famously argues, “[bad is stronger than
+    good](http://www.csom.umn.edu/Assets/71516.pdf)”.
+
+
