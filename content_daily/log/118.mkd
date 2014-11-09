@@ -1,0 +1,422 @@
+---
+title: Hamiltonian
+date: 2013-08-21
+techne: :done
+episteme: :log
+---
+
+<%= youtube("https://www.youtube.com/watch?v=PI2GauQ1eiU") %>
+
+Hey, internet! So a lot of stuff’s been happening. As I alluded to in
+some off-hand comments here and there, I’ve been busy transitioning into
+adulthood, or whatever passes as that for me anyway. (I’ve internally
+just begun to call it Chapter 1, and everything before now Prologue,
+because I’m stupid like that.[^stupid])
+
+This process is still ongoing, but instead of waiting for another 2
+months or so and then recapping, I thought I could just get back to
+writing now, while stuff’s still happening. Crazy idea, I know!
+
+I am, in a certain sense, done with my CS degree, and as you can tell by
+that weaselly phrase, I mean that I’ve dropped out instead of continuing
+that torturous phase of my past for yet another year. The only real
+reason I even started the degree was because I didn’t have any other
+idea what else to do, and was using it to cheaply buy time. That worked
+out reasonably well - in total, I got half a decade out of it, and grew
+enough in the process (and met the right people, and ideas) that I now
+think it was absolutely the right decision. Maybe there would’ve been
+better alternatives (if so, I still don’t know what they would’ve been,
+beyond a “don’t take so long to stop being lame” reminder that’s
+probably only applicable with hindsight), but regardless, well done,
+past-me, It wasn’t fancy or heroic, but it worked just fine.
+
+Still, it took me probably a good year to actually make the decision to
+drop out after I knew I wasn’t gonna continue this path and had begun to
+see an alternative. Sometimes more legible options appear stronger just
+because they are legible. A degree is of fairly straightforward value -
+you can easily look up income statistics and job requirements, compare
+it to the time investment of college, there ya go - and any part that
+isn’t easy to quantify gets thrown out of the evaluation. Like for
+example, despising virtually all options it opens up, not having much
+use for it on the paths I *do* like, and continuing now that I have
+actually found said real options would just be a waste of time.
+
+You are now allowed to shun me based on my lack of academic credentials.
+I don’t mind - destroying academia is on my todo list, and regular
+reminders why it has to go probably help.
+
+---
+
+So did I mention I actually [started a tumblr](http://muflax.tumblr.com)
+for random snippets and stuff? I’m still not sure if I’m gonna use it or
+anything, but nice pictures keep popping up, and maybe I end up writing
+a few short thingies over there. So far I’ve mostly been reblogging
+[Homestuck](http://www.mspaintadventures.com/?s=6) ships.
+
+Like I said over there, I’d like to eventually talk more coherently (and
+not just meta, but also directly) about ships, and art, and related
+things (, and the Oxford Comma), but I’m still not quite feeling it, so
+maybe it’s just not the right time, or I don’t have enough interesting
+things to say, or whatever. We’ll see. Anyway, it exists now.
+
+Look, a pug!
+
+---
+
+So instead of being a productive member of society, I was mostly busy
+with <del>building additional pylons</del> figuring out how to money, keeping
+Mother Bureaucracy updated and working on moving in together with my
+[moirail](http://mspaintadventures.wikia.com/wiki/Quadrants)
+[^moirail][^otp][^language][^footnotes]
+somewhere in the UK, which will happen in about 2 months when my
+contract at the university runs out and I can leave the country.
+
+(This might be a good opportunity to point out how
+[Homestuck](http://www.mspaintadventures.com/?s=6) has one of the saner
+models of romance and gender, and that this is one of countless benefits
+trolls bring to any story they touch.[^trolls] It also
+highlights by analogy some silliness in the conventional human model by
+showing similar silliness in the troll model. While some trolls insist
+that *ideal* relationships divide nicely into the Four Quadrants, it’s
+clear that in most cases this isn’t the case and it’s much fuzzier, even
+though the quadrants still represent some important components, so wiser
+trolls would realize that and take a more reasonable stance and oppose a
+system that tries to enforce restrictive norms (which, for all we know,
+they *do* - troll society and history is… complicated, as it should be).
+But in contrast to that, trolls *already* have a much better position on
+gender than the humans, who do the same essentialist “two ideal
+categories” crap trolls do with the quadrants.
+
+So there.)
+
+On a completely unrelated note, I just want to note how weird it is that
+“yay I’m happy” posts can cause some seriously bad side-effects, and
+that I remember being personally pissed off by them in the past,
+thinking something along the lines of, “well good for YOU that you’re
+happy, I’m still a lonely mess”, and so even though saying (and feeling)
+these things is very important, I still feel uncomfortable talking about
+it, and so will abstain from any more details for now. Compassionate
+community norms are *hard*, and I wanna at least think about them some
+more.[^sharing]
+
+Regardless, actually moving (especially to a different country) means I
+had to adapt some of my setups.
+
+I won’t be able to bring my guitar with me for now, but might be able to
+fly it over next year or so. I’m kinda glad I opted for gear that is
+fairly mobile, so transport should be fairly easy once I don’t also have
+to bring all my *other* stuff with me. I’m still committed to the frugal
+ideal that everything you own should comfortably fit into one car at
+most (or you end up limiting your freedom too much), so it’s mostly the
+amp that’s causing trouble (and it’s still primarily monetary concerns
+that I didn’t pick an even smaller one, which oddly enough cost *more*;
+if things go as they usually do, I’ll eventually just build my own).
+
+I’ve also gotten rid of my old PC setup. I used to have one
+Frankensteinian desktop machine that I cheaply turned into a decent-ish
+gaming rig, but I’ve long intended to retire it. I also had two old-ish
+laptops, and loads of small drives for backups and stuff. The desktop
+was kinda the central machine and everything else synced with it. I now
+switched to one fancy 13-inch MacBook (still running Gentoo, after some
+headaches), kept my
+[keyboard](http://www.diatec.co.jp/en/det.php?prod_c=763) and mouse for
+work that requires them, and put the two large 1.5TB drives from my
+desktop (which mirror each other) into a portable NAS. My total space
+capacity went down a bit that way, and I lost the ability to play some
+high-end games (for now), but meh. (I still kept the old netbook for
+some additional mobility though, but it’s semi-retired.)
+
+That simplifies my synchronization and backup needs somewhat. All
+small-ish things are automatically copied to various online places. Each
+laptop does a daily backup to the NAS, which also stores most of the big
+media via git-annex. The NAS runs a custom Debian, so it’s also a server
+for all kinds of minor things, including Nethack. Every time I get my
+hands on any other drive I copy as much data onto it as I can fit
+(because why not; I just put my old drives in a box at my parents’ - no
+reason to throw them out), but that’s now gonna be a maybe-once-a-year
+event. (Also, git-annex on an SSD is finally fast enough to be fully
+usable.)
+
+I was afraid that losing my two big monitors would hurt the most, but
+because I spend most of my time in a text editor or browser anyway, it’s
+actually not a big deal. Workspaces work just as well as additional
+monitors, and 13 inches is plenty. The only thing that’s a pain is if I
+still had to use Eclipse for Java work, but screw that - I’m finally in
+pure Ruby and Haskell nirvana. (I wouldn’t *reject* more monitors if I
+had them available, but I’m not gonna try to carry any around with me
+either.) And finally, not having a “central” machine I can’t move means
+I can now easily snuggle up next to someone and still code, regardless
+where said person happens to be. That’s *so* much more important than
+screen size.
+
+I still feel kinda sentimental about a “cabin in the woods” setup with
+lots of ancient hardware that runs some custom setup where you wrote
+half the tools (as I used to run for the last few years, and would like
+to have again some time), so having just one main machine (and one
+server-in-a-box) is kinda weird.
+
+Guess I’m a nomad now.
+
+---
+
+Hahaha, oh man. Do you guys remember how over a year ago, I made a List
+Of All My Problems? It was like 260 items long and I thought, yeah,
+that’s probably *it* - some issues might’ve been vague, sure, and others
+irrelevant, but I didn’t think I’d have forgotten anything important.
+Who doesn’t know what their Main Issues are, right?
+
+I recently looked at this list again and it’s *ridiculous*. It’s not
+just incredibly petty sometimes, many things that have deeply bothered
+me for years and are reason enough to plunge me into suicidality
+whenever they seem unfixable aren’t even on there!
+
+It’s liberating when radical agnosticism shifts from not knowing most
+answers to not even being sure about the questions. If I don’t even know
+what my real problems are, how can I possibly be upset about them?
+
+(Also basically everything important on that list has been fixed by
+now.)
+
+---
+
+So what’s next?
+
+Step 1, the prototype: teach a complex skill and make it no longer hard.
+
+After considering various options in detail[^options], we’ve
+decided to start with German for English speakers. Because we’re still
+developing the courses and improving our teaching skills (well, learning
+from scratch based on ancient scrolls, really), we’re gonna spend a few
+months solely on that and in-person testing, and then Disturb The Peace.
+
+So if you wanna learn German For Reals Without All The Tedium And Crap
+(or just wanna meet up with me and talk whatever (I’m totes sociable now
+(when I’m not a paranoid ball of anxiety (but I now have a superweapon
+against that (it’s not nested parentheses (just in case you
+wondered)))))), and you’re somewhere in the UK, just leave a comment or
+[contact me](/contact/) in any way you want, and I’ll put you on The
+List and try to make stuff happen as soon as I’m able. (Once the thing
+has been sufficiently tested, there will be an automated, and more
+importantly, online version, of course. Can’t change the world with just
+one meager town and face-to-face interaction, but direct feedback makes
+early development so much easier, so yeah.)
+
+(Step 2-10 are left unmentioned to maintain the Unspoken Plan Guarantee.
+Things will become clearer eventually.)
+
+---
+
+Regardless, that means the next few months are completely filled up by
+logistics, development and being amazed how I can continue to fall even
+more in love every day. Some of that might eventually get better, some
+might not, but I don’t expect too much writing to happen for a while,
+unless I find a way to harvest the power of smooching to produce some
+wicked posts. (I’ve also lost parts of my writing urges for various
+reasons[^reasons], some likely permanently so, but these things
+come and go. I’ve had quiet years and hypergraphic years before.)
+
+In terms of kinda-planned drafts, I’ve begun to write down my way too
+elaborate Jesus RPG campaign. I’ve given up on ever running it and just
+want it out of my head. I’m about 4k words in, might actually finish the
+thing soon enough, maybe start posting it in small-ish installments once
+I’ve sketched out the whole post structure.
+
+So overall, I think it’s a good idea to just declare Mission
+Accomplished for the daily logs. I’ve done my first crazy miracle and
+I’m busy working on the next. This site is now officially “whenever,
+whatever”, as long as its kinda coherent. The rest goes to the tumblr.
+
+…
+
+Man, [being an adult](https://www.youtube.com/watch?v=gAYL5H46QnQ) is
+*awesome*.
+
+[^stupid]:
+    This is stupid for several reasons:
+
+    -   it smushes everything before now into one Prologue, when really
+        there are multiple clear “everything changed forever” events
+        during that time (e.g. first anime, first time taking Ayahuasca,
+        first website (on a shittier version of Geocities, no less)) and
+        there’s no overarching unified progression during the whole
+        thing (like, Batman loses his parents in his prologue - what one
+        critical thing happened to me, exactly?)
+    -   it places great emotional importance on events that haven’t even
+        unfolded yet, like I have secret insights into God’s Narrative
+        or sumthin’
+    -   it uses linear narratives, not
+        [shandified](https://www.youtube.com/watch?v=wvwlt4FqmS0) ones
+        (who’s to say I won’t *return* to Chapter 1 at some later
+        point?)
+    -   it implicitly assumes one arc has one theme, or at most several
+        exactly parallel ones; in other words, whatever Chapter 1 is
+        about *ends* with Chapter 1, and if some other stuff happens
+        during that time, it either has to end there too, or it must
+        just not be what my life is really about
+    -   it strongly suggest there must chapters after it, thus
+        undermining my ability to Fix Everything Forever Like I’m Made
+        Out Of Pure Fixeverythingium
+    -   and seriously, “1”? you can’t even name it something cool, like
+        The One With The Robot Snake?
+
+[^moirail]:
+    Don’t know what a moirail is? [Read the
+    link](http://mspaintadventures.wikia.com/wiki/Quadrants). While the
+    concept strongly overlaps with “bros” and similar things, these tend
+    to not get the romantic component of it, or imply weird ideas like
+    how this kind of relationship is inherently asexual (fuck no),
+    partially I suspect because just mainstream romance/sexuality
+    discourse is retarded, so I’m declaring a Special Snowflake
+    Exception for “moirail”, as it seems easier to repair these
+    misconceptions in a troll-originated concept, than to get [bros to
+    finally suck
+    cock](http://www.reddit.com/r/explainlikeIAmA/comments/1j3uo9/explain_the_term_bromance_like_you_are_a_deeply/)
+    and not feel guilty about it.
+
+    Incidentally, the pronunciation of “moirail” is delightfully trolly.
+    Personally, I use “meow-rail” for normal use, and “mwah-rail” (with
+    implied kissing) when flirting.
+
+[^otp]:
+    I’d also like to note that even though this establishes a canon (and
+    muflax-endorsed) \<\> and \<3 dual-ship of muflax+Owen (and I’d
+    argue in favor of OTP here), this only expresses my (and Owen’s, and
+    arguably the universe’s author’s) opinion, and is no reason to
+    abandon other ships or your personal headcanon. I oppose any central
+    authority on these matters, even if it might happen to agree with
+    me.
+
+    (I also find it really weird to use two different types of names,
+    but I wanna be consistent about only using “muflax” for now, even
+    though using my first name would allow for an S+O=SO pun, but then I
+    hate the “SO” term, so nevermind…)
+
+    I’ve only dabbled in o8\< (mostly by not-always-intentionally
+    trolling certain people by acting as a proxy for mindfucky ideas by
+    other (crazier) people, and so leading them to write wonderful “the
+    fuck is this stuff even about?! I never knew about X until last
+    week, and now I’ve realized I’ve hated it MY ENTIRE LIFE!” posts; I
+    noticed I’m doing this when friends in 6th grade told me I was the
+    one who introduced them to kink, somehow), and I’m totally lacking
+    in \<3\<. I mean, I kinda hate
+    [Polycarp](https://en.wikipedia.org/wiki/Polycarp) but not quite
+    enough, and if the [alveolar
+    trill](https://en.wikipedia.org/wiki/Alveolar_trill) were a person,
+    I’d wanna have angry hatesex with it so hard, but I’m not sure that
+    counts.
+
+    So the most promising shipping research topic is probably who my
+    arch-nemesis is gonna be. Somehow I mostly get into fights with
+    concepts, not people.
+
+[^language]:
+    Also, I’m *really* unhappy with established terms to talk about
+    “person who I love, like, THIIIIS much”. Like (girl|boy)friend? Fuck
+    that. “partner”? Like, the government gets to call ‘em “partner” if
+    it wants, and I find it kinda adorable what weirdly formal language
+    it comes up with, but it’s not really a very affectionate label, is
+    it? Seriously, all options are either super-formal, horrible or real
+    silly. (I’m *never* gonna use “SO”. This is too stupid even for me.)
+    I’d be ok with “lover” if it didn’t have this connotation that it
+    isn’t a serious thing, or “mate” if Australians hadn’t ruined it. So
+    for now until I find a term (neologic if necessary) I’m happy with,
+    I expect to mood-swing through “partner”, “moirail”, “love” (and I
+    really wanna use “hon”, but then I’m tempted to practice a Southern
+    accent all day and never get anything else done), and whatever else
+    feels slightly less awkward that day.
+
+    Man, /language/, amirite?
+
+[^footnotes]:
+    That’s a lot of footnotes for one word! It’s as if there’s a
+    correlation with how important the topic is to me, or the thing it
+    refers to…
+
+[^trolls]:
+    Seeker, wear the [troll
+    hide](https://en.wikipedia.org/wiki/Guy_Fawkes_mask), learn [the
+    signs of the
+    dakinis](http://buddhism-for-vampires.com/dakinis-karma-mudra) and
+    wander into the [Bohemian
+    forest](http://en.wikipedia.org/wiki/Moulin_Rouge!), where you will
+    find a [four-headed statue](https://en.wikipedia.org/wiki/Perun)
+    proclaiming Beauty, Freedom, Truth and Love, which grants liberation
+    to all who know the magic song. A servant of [Grandma
+    Bonylegs](https://en.wikipedia.org/wiki/Baba_Yaga) once sung it to
+    me, but I can never quite [keep it in my
+    head](https://www.youtube.com/watch?v=MvFpJBJSPRA)…
+
+
+[^sharing]:
+    Part of my writing philosophy has always been “write what I actually
+    wanna read more of”, and so I’m pissed at myself that I *don’t*
+    share a lot more here, cause this is exactly what I’d love to read
+    about, and so not doing it is a concession to lameness itself. But
+    I’m also paranoid about various perverse incentives and
+    substitutions (i.e. writing more about the thing than actually doing
+    the thing, or in this case, person (BOOM FLAWLESS INNUENDO)), and so
+    for now I’m gonna be mostly silent while I think it through.
+
+    The other problem is that *this stuff is hard to write about*. It’s
+    weird how “this is not a *real* medium” is one of those statements
+    that *incredibly* piss me off, like every time someone says “games
+    aren’t art” or “but you can’t trust someone over *text*” (aside from
+    the retarded conceptions of “art” and “trust” that underlie this
+    nonsense), and so *not being able to write about something* because
+    I just wouldn’t know how is a deep moral failure for me, and when I
+    find myself thinking “I can’t write about that, who would want to
+    read that?!, and anyway, I don’t even know how to english it to
+    begin with”, I feel like I’m Failing At Life, and everything that
+    matters *at all* gets betrayed because of some stupid sense of
+    boundaries or expectations.
+
+    So I gotta figure something out, and beat this old narrative machine
+    into a decent enough approximation of half my feels. Just gimme some
+    time to adjust.
+
+[^options]:
+    Also considered, among other things:
+
+    -   different places, most importantly Canada (but their bureaucracy
+        tries to cockblock me as hard as it can while still claiming
+        they want valuable immigration with a straight face), and Berlin
+        (not ideal for the skill set we currently have, but I’d still
+        like to re-visit at some point in the near future, maybe in the
+        form of some grand Europe Tour)
+    -   different language, primarily French (possibly the next one),
+        Japanese (would love to do it next, but I really want either
+        more teaching experience or a fluent speaker to work with first,
+        so it had to wait) and English (not enough resources right now)
+    -   math and physics up to undergraduate level or so (much harder to
+        get a properly incentivized audience, but real high up on the
+        list and long-term mandatory (and I like everything about it,
+        including teaching it), but not the right thing to bootstrap
+        with)
+    -   different timeline / “business model” / major reordering of The
+        Plan (long story, but tl;dr: everything else is predictably
+        stupid-in-retrospect, and so doesn’t make sense)
+
+[^reasons]:
+    Various reasons:
+
+    -   much lower need for outside approval, and actively working on
+        lowering it even more; [Arline’s
+        Mantra](https://en.wikipedia.org/wiki/What_Do_You_Care_What_Other_People_Think%3F)
+        “What Do *You* Care What Other People Think?” helps a lot to
+        clarify and work through these issues, but kills ranty blogs
+        dead
+    -   after some discussions with
+        [David](http://meaningness.com/metablog/how-to-think) and Owen,
+        I’m pretty strongly in the “most philosophy (i.e. the stuff I
+        talked about a lot) has only negative value by removing
+        misconceptions” camp now, so the only interesting stuff for me
+        is foundational stuff that directly leads to engineering stuff,
+        and so I find myself only reading Skinner, Mill and similar
+        folks, if even that
+    -   too sane; I kinda have a tendency to get worked up about stupid
+        shit (in entertaining ways, at least, but still) when I don’t
+        have a calming influence in my life; have that now, feel much
+        less crazy (except in a good way)
+    -   speaking of Feynman and craziness, you gotta *do* crazy shit
+        occasionally so you can later *talk about it*; currently in that
+        phase
