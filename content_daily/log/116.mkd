@@ -1,0 +1,320 @@
+---
+title: Powerdrills and Bonesaws
+date: 2013-05-23
+techne: :done
+episteme: :log
+---
+
+Mostly just practice, which I report for beeminding purposes. Yay?
+
+---
+
+I’ve extended the cognitive tests with a simple questionnaire for some
+daily variables and now also track daily mood split into four variables
+(energy level, comfortableness, “everything makes sense”-ness, [body
+load](https://en.wikipedia.org/wiki/Body_load)) on a scale of
+1-5[^scale]. I don’t expect that to yield useful correlations
+(with better than retrodictive powers), but it’s trivial to do, so
+whatever.
+
+Also, first result: apparently, the more tired I am, the *better* I get
+at the Stroop test. Can’t rule out practice effects yet, of course, but
+I think ‘m getting a better feel for “cognitive functions are down, I’m
+not even bothering to process what this word says”, which makes the
+Stroop test much easier. Might be a useful thing to notice in general.
+
+---
+
+I’ve done some work on the next iteration of my language tools (now
+renamed to “mavothi”), might have some (unusable as-is unless you’re
+muflax, but maybe interesting nonetheless) results soon.
+
+I’ve also done a lot of work on steno, which I’ve now started to
+actually practice. Actual practice, guys! I’m becoming functional.
+
+---
+
+I’ve transitioned some archives to
+[git-annex](http://git-annex.branchable.com/). For my non-neckbearded
+readers, git-annex is basically a system to track archives over multiple
+locations (e.g. external drives, remote servers, different laptops) and
+automate most of the hassle of having those archives in the first place.
+
+It has a Dropbox-y assistant which I found really awkward to use and
+which shredded my configs constantly while I tried to figure out how it
+works, so I’m not using it (yet) and do everything via shell commands,
+like a man. So my current setup looks like this:
+
+1.  There are multiple independent archives, currently `~/books`,
+    `~/games/install` (install files, mods etc. for vidya gaems)
+    `~/テレビ` (TV shows and movies) and `~/音` (podcasts, music, etc.),
+    which contain a lot of big media. I have complete daily
+    backups[^backups] of most of this stuff, but I’d like to a)
+    have more backups and b) be able to swap stuff out that I don’t use
+    much. I regularly re-watch [‘Allo
+    ‘Allo!](https://en.wikipedia.org/wiki/%27Allo_%27Allo!), but there’s
+    no point in having it on my main machine all the
+    time[^waste]. Git-annex has this nice feature where you can
+    `drop` files from one repository and it replaces them with symlinks
+    so it looks like the file’s still there and you can move it around,
+    but when you try to access it, it’ll tell you what other repository
+    (which still has the file) you need to connect so it can get it
+    back.
+
+2.  I have a whole lot of external drives because I tend to update
+    hardware faster than it breaks, and never throw out old drives (plus
+    I have several sources who give me their old stuff too), so I’ve now
+    set them up as “trusted”[^trusted] repositories for the
+    archives and made sure all files have at least on external copy. I
+    update these archives whenever my main machine is full and I want to
+    drop files off it. That way, every file is always in at least two
+    places and can’t be lost due to drive failure or basic stupidity.
+
+1.  My two laptops (see above) used to just sync my whole home directory
+    via [unison](http://www.cis.upenn.edu/~bcpierce/unison/), which is
+    really wasteful and regularly annoys me because their drives are
+    much smaller (and slower), and because unison isn’t too smart.
+    git-annex fixes a lot of these issues because now don’t have to copy
+    *everything*, but can still keep the directory structure synced.
+
+2.  I currently manually sync the laptops with a simple shell script
+    every time I need some data that’s not on the machine, but that
+    should eventually become (semi-)automatic too.
+
+What I’d like to do later:
+
+1.  I’m currently syncing stuff on my phone through Dropbox (mostly
+    images and audio logs), but once the git-annex android client is a
+    bit more solid, I hope to use it there too so I don’t have to trust
+    Dropbox anymore.
+
+2.  Get the git-annex assistant running so I don’t have to manually add
+    and sync files. That’s still rare enough that it doesn’t bother me
+    much, but allegedly this should already be possible. It just
+    constantly broke on my setup or was horribly slow, for some reason.
+
+---
+
+A minor belief update.
+
+Back in December[^oldlogs], I wrote:
+
+> If one were to take a fictionalist approach to the [New Testament],
+> that is to assume that, excluding maybe a few historical allusions
+> here and there, they are works of *fiction* […], then it follows that
+> the original scripture is forever lost to us. We may be able to
+> reconstruct roughly back to Marcion’s work around 130AD, but no
+> further. The evidence has simply been lost to time. One may speculate,
+> as RMP and others frequently do, and all kinds of plausible
+> explanations might be found, but closure is impossible.
+>
+> […]
+>
+> And so I realized, I needed not a new proclamation of the message, but
+> an entirely different work, one capable of reflecting the true author
+> of confusion. I considered merging all traditions into one gospel, or
+> using elaborate annotation (even footnotes to footnotes), but then I
+> thought, ideally the text would be a dialog between all those strands,
+> would give the Marcionite, the Simonian and the Gnostic their first
+> fair hearing, and so we really need more gospels written from these
+> perspectives, including the Devil’s own version that they read down in
+> Hell, but even that would not be sufficient, not even to replicate the
+> delightful state of interwoven connections I see in the text, for
+> nothing short of all of the tradition would be capable of representing
+> the tradition.
+>
+> […]
+>
+> But can the text be made *simpler*, without breaking it? After all,
+> the canonical NT is already reduced, lacking several gospels, epistles
+> and so on. Yet, it seems to me that these reductions don’t necessarily
+> simplify the *content* of the text. All ideas are still present, they
+> just aren’t as close to the surface. And this does not have to
+> interfere with the interpretation of scripture. After all, the 19th
+> century Dutch and German radicals managed to reconstruct many aspects
+> before most of these alternative text had been found! They predicted
+> the Gnostic texts in great detail and were entirely right.
+
+I still expected that there wasn’t a single source of origin (or linear
+sequence of origins) for the core NT, that like modern mediums, the
+authors were telling stories of their own invention with no real
+connections between them, until decades (and sometimes, centuries) later
+various churches would try to integrate them into one tradition (with
+the well-known result that for every assertion in the NT, there is also
+a counter-assertion that contradicts it). This would make a successful
+reconstruction essentially impossible because there simple isn’t a
+coherent shared thread.
+
+I no longer think that’s necessarily true. I’m not sure that there *is*
+a single source of origin (and if so, that it is knowable) either, but
+due to a lot of recent reading I’ve done, particularly on the Gospel of
+John and its possible (more-or-less) Marcionite origin, there now is a
+budding live hypothesis in my head that would make sense of all the
+texts and their origin, that answers virtually all important questions
+about the NT, and that postulates just such a single origin (of Simon
+-\> Marcionite hermeneutics -\> Catholic hijacking). Funnily enough,
+that is still in line with my judgment that whatever scripture may have
+existed before Marcion is lost to us; I just didn’t expect Marcionites
+to be *that* influential for our canon.
+
+I will discuss all of that in detail in due time, but I’m only about 20%
+done with all the necessary skills I’ll have to learn (including several
+languages) and books I’ll have to read (thankfully all in languages I
+know), so this is obviously speculative play still, but the mere
+*possibility* of a such a hypothesis and the fact that it can be
+directly verified with the evidence we do have, is dazzling.
+
+There are two vectors that I still find deeply puzzling and possibly
+beyond our reach - where did the Buddhists get their ideas from, and
+what’s up with Simon?
+
+Christian Lindtner claims (and unfortunately I don’t have the skills yet
+to even fully comprehend his theory) that the core NT texts are based on
+Buddhist sources (which Christian scribes could easily have had access
+to thanks to Ashoka), but then we have to trace the underlying ideas
+back to India, and there we will likely lose them. Recent research makes
+me increasingly skeptical that *any* of the Jewish texts meaningfully
+predates the Hellenistic Period (and many not even Christianity!). The
+case for Greek priority of the Pentateuch (and a Hebrew translation
+second!) seems stronger every year, and even if we “merely” have to
+declare pre-Septuagint developments as forever unknowable, that should
+equally make us skeptical of Buddhist stories before, say, the
+Visuddhimagga.
+
+It would be much easier for my ideas if instead Buddhism took at least
+its mythological narratives *from* Christianity (and then historicized
+them way in the past), but that’s not a good criterion for truth. :) And
+if it is the other way around (which is certainly plausible), then we
+have to explain, independently, how the Buddhists got started. The
+connection still deeply confuses me, and I follow Lindtner’s suggestion
+that I’ll have to learn Sanskrit to adequately understand this
+eventually.
+
+The other origin, Simon, is equally mysterious because we simply don’t
+have many crucial sources anymore. RMP makes a decent case that at least
+his Great Proclamation has been more-or-less completely preserved, but
+much of it reads like typical Gnostic gibberish. I feel increasingly
+comfortable with various Marcionite writings and their interpretation,
+but what’s the deal with Simon? I currently have no idea.
+
+I feel sorry for anyone who wants to start a Post-Simonian Church.
+Luckily, I’m merely trying to start the Post-Marcionite one, and that
+seems very much doable. Marcion, Appeles, Valentinus, Basilides and
+others will be slandered no longer, and one face of “Paul” will be
+reconstructed once again. But Simon? Who knows. We might have to fall
+back on channeling after all.
+
+Luther, in his [Commentary on
+Genesis](http://archive.org/stream/LutherOnTheCreationACriticalAndDevotionalCommentaryOnGenesis1-3/LutherGenesis1-3#page/n17/mode/1up),
+writes:
+
+> Therefore it is far the safest not to be too curious and inquiring in
+> these subjects [i.e. hermeneutics], because they are placed above our
+> human capacity. For how can we understand that order which God himself
+> establishes and approves? Yes, reason must here be put to shame, for
+> what is order in the eyes of God we judge to be confusion of order.
+> Thus the stars seem to us to be arranged thoughtlessly in wild
+> disorder in that the bright ones are scattered among those more
+> obscure, and the lesser among the greater. Who would judge this to be
+> order? And yet it is the most perfect harmony, so constituted by the
+> all-wise mind itself. In like manner we judge other matters. It seems
+> confusing that our Elbe and all rivers flow to the sea in an irregular
+> winding course. Such disorder there seems to be also among trees, yes,
+> between man and wife, where it appears there is no order. But all this
+> only proves that God is a God of order and that his judgment as to
+> order is quite different than ours.
+
+We might find ourselves one day, discovering Eris legible all along, in
+the setup for Creation’s final pun…
+
+[^scale]:
+    Meaning of the scale for the variables, with 2-4 as the typical
+    range:
+
+    -   energy level:
+        1.  “can’t get up”
+        2.  “ugh”
+        3.  “functional”
+        4.  “movement is light, doing stuff is easy”
+        5.  “mania”
+    -   comfortableness:
+        1.  “paranoia”
+        2.  “anxiety”
+        3.  “people are nice”
+        4.  “feelings are awesome”
+        5.  “[Overly Attached
+            Girlfriend](http://knowyourmeme.com/memes/overly-attached-girlfriend)”
+    -   “everything makes sense”-ness:
+        1.  “nihilism”
+        2.  “knowing stuff is too hard”
+        3.  “the world makes sense”
+        4.  “everything according to plan”
+        5.  “[horse\_ebooks](https://twitter.com/Horse_ebooks/status/326479048945594368)”
+    -   body load:
+        1.  “Nurgle”
+        2.  “nausea”
+        3.  “some stomach cramps”
+        4.  “Ibuprofen”
+        5.  “dissociation”
+
+
+[^backups]:
+    I use a [custom rsync
+    script](https://github.com/muflax/scripts/blob/master/rbs) to copy
+    everything to a RAID-mirrored backup drive. Daily backups go 1 week
+    back, plus there’s an additional monthly version for the last 3
+    months. I used to have significantly more past versions (monthly
+    backups back to 2010, 2 weeks of daily backups). The main idea was
+    that I wanted to have a safeguard against deleting a file and then,
+    a week later, noticing I actually still wanted it (which happened
+    way too often). Nowadays, I have most of these things in git
+    repositories and spread over multiple locations, so restoring
+    arbitrary past versions is no problem, and I’m far less
+    trigger-happy with deletions in general. The old backups used up a
+    lot of space, so I reduced my backup horizon to 1 week (daily) / 3
+    months (monthly), although I still have one offsite drive with all
+    the old versions (because I only update that every few months).
+
+    I might eventually replace some of that with git-annex too, or
+    something like it, but I’m nowhere near comfortable enough with it
+    to trust it with my core backups.
+
+[^waste]:
+    Unfortunately, the `.git` directory itself tends to use up quite a
+    bit of space. For example, my `~/books` directory, which has
+    basically all my read-only documents in it, is \~70GB large and has
+    \~35k files. The `.git` right after adding the files was already
+    \~400M (after doing a `git gc`). However, size tends to depend
+    almost exclusively on the number of files, so I did some
+    restructuring and packed some stuff up, and reduced my number of
+    files to \~8k, and now got only \~160M of `.git` and adding new
+    files is reasonably fast (\<20 seconds on the slowest machine). (And
+    to be fair, part of that is git’s fault, not git-annex’.)
+
+    So my heuristic for now is that git-annex adds \~1% overhead of the
+    total archive size to every repository, which is still worth it most
+    of the time (because you can distribute stuff and space is
+    reasonably cheap), but it sucks a little.
+
+[^trusted]:
+    git-annex has 4 trust levels:
+
+    -   trusted: files are assumed unchanged since the last time we saw
+        the repository
+    -   semitrusted: files count towards required redundancy, but we
+        have to check first if they’re still there
+    -   untrusted: location is tracked, but we never expect data to
+        still exist
+    -   dead: data is gone
+
+    “trusted” makes sense for backup drives that never change on their
+    own and are only updated in one direction, “semitrusted” is the
+    level for my different machines that might have independent changes
+    that need to be merged, and “untrusted” covers drives that are known
+    to be failing and aren’t dead yet.
+
+[^oldlogs]:
+    Old logs are currently unavailable due to some restructuring. Might
+    take some days/weeks/lives.
+
+
