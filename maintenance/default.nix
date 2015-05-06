@@ -164,7 +164,6 @@ in pkgs.stdenv.mkDerivation {
     nanoc images
     for site in blog daily gospel muflax; do
       nanoc compile -s $site
-      nanoc compress -s $site
     done
   '';
   installPhase = ''
