@@ -42,14 +42,14 @@
     ruby    = ruby_2_2;
   } // optionalAttrs (hasAttr ''kramdown'' hotfix) hotfix.kramdown);
   nanoc = buildRubyGem ({
-    name    = ''nanoc-3.7.5'';
-    sha256  = ''00i6h52mmgdgpv3wzb56sk5nn75cl6zvhhapszk12xrykhrhjhsh'';
+    name    = ''nanoc-3.8.0'';
+    sha256  = ''07paijr9w6h72b40q2cky3vzf5m4ggirbsdfgr9rf6pac7brf8rq'';
     gemPath = [cri ];
     ruby    = ruby_2_2;
   } // optionalAttrs (hasAttr ''nanoc'' hotfix) hotfix.nanoc);
   cri = buildRubyGem ({
-    name    = ''cri-2.6.1'';
-    sha256  = ''0zzwvwzrrlmx6c5j7bqc63ib952h37i357xn97m3h8bjd7zyv79l'';
+    name    = ''cri-2.7.0'';
+    sha256  = ''0qpdyfgk7gnqycn8l2dxxh55j825axf6fbwqx8cady5hzry667l6'';
     gemPath = [colored ];
     ruby    = ruby_2_2;
   } // optionalAttrs (hasAttr ''cri'' hotfix) hotfix.cri);
@@ -152,7 +152,7 @@
 in pkgs.stdenv.mkDerivation {
   name = "muflax.com";
   src = ../.;
-  LC_ALL="en_US.utf8";
+  LC_ALL="en_US.UTF-8";
   buildInputs =
     [awesome_print builder erubis image_size kramdown nanoc nokogiri org-ruby pygments.rb sanitize sass tidy_ffi w3c_validators ] ++
     [perlPackages.ImageExifTool pythonPackages.pygments glibcLocales];

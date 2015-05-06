@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
+#! /usr/bin/env nix-shell
+#! nix-shell -i bash -p bash curl gnugrep jq gawk libxml2 nix-prefetch-scripts
 
 IsRubyGem() {
   test 200 = "$(curl -sL -w '%{http_code}' https://rubygems.org/api/v1/gems/$1.json -o /dev/null)";
@@ -126,7 +127,7 @@ cat <<EOF
 in pkgs.stdenv.mkDerivation {
   name = "muflax.com";
   src = ../.;
-  LC_ALL="en_US.utf8";
+  LC_ALL="en_US.UTF-8";
   buildInputs =
     [$(TopLevelDependencies | tr '\n' ' ')] ++
     [perlPackages.ImageExifTool pythonPackages.pygments glibcLocales];
