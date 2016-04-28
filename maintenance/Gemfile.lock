@@ -1,0 +1,60 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    awesome_print (1.6.1)
+    builder (3.2.2)
+    colored (1.2)
+    crass (1.0.2)
+    cri (2.7.0)
+      colored (~> 1.2)
+    erubis (2.7.0)
+    ffi (1.9.10)
+    image_size (1.4.2)
+    json (1.8.3)
+    kramdown (1.10.0)
+    mini_portile2 (2.0.0)
+    nanoc (3.8.0)
+      cri (~> 2.3)
+    nokogiri (1.6.7.2)
+      mini_portile2 (~> 2.0.0.rc2)
+    nokogumbo (1.4.7)
+      nokogiri
+    org-ruby (0.9.12)
+      rubypants (~> 0.2)
+    posix-spawn (0.3.11)
+    pygments.rb (0.6.3)
+      posix-spawn (~> 0.3.6)
+      yajl-ruby (~> 1.2.0)
+    rubypants (0.2.0)
+    sanitize (4.0.1)
+      crass (~> 1.0.2)
+      nokogiri (>= 1.4.4)
+      nokogumbo (~> 1.4.1)
+    sass (3.4.22)
+    tidy_ffi (0.1.6)
+      ffi (~> 1.2)
+    w3c_validators (1.2)
+      json
+      nokogiri
+    yajl-ruby (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  awesome_print
+  builder
+  erubis
+  image_size
+  kramdown
+  nanoc (< 4)
+  nokogiri
+  org-ruby
+  pygments.rb
+  sanitize
+  sass
+  tidy_ffi
+  w3c_validators
+
+BUNDLED WITH
+   1.11.2
