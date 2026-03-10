@@ -41,7 +41,27 @@
         ];
         patchPhase = ''
           sed -i 's/do$/do |_, _|/' commands/backup/*
+          # nanoc 3.x uses YAML.load without permitted_classes, which fails
+          # with Ruby 3.1+ (Psych 4+) safe mode. Monkey-patch it.
+          cat > yaml_compat.rb <<'RUBY'
+          require 'yaml'
+          module YAML
+            class << self
+              alias_method :_original_load, :load
+              def load(yaml, **kwargs)
+                kwargs[:permitted_classes] ||= [Date, Time, DateTime, Symbol, Regexp]
+                _original_load(yaml, **kwargs)
+              end
+              alias_method :_original_load_file, :load_file
+              def load_file(path, **kwargs)
+                kwargs[:permitted_classes] ||= [Date, Time, DateTime, Symbol, Regexp]
+                _original_load_file(path, **kwargs)
+              end
+            end
+          end
+          RUBY
         '';
+        RUBYOPT = "-r./yaml_compat";
         buildPhase = ''
           nanoc references
           nanoc images
