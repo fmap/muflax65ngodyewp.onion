@@ -17,7 +17,7 @@ module Nanoc::CLI::Commands
         Dir["#{img_dir}/*.#{exts}"].select {|f| ImageSize.new(IO.read(f)).width > 400}.map do |img|
           small_img = img.gsub /^(.+)\.(\w+)$/, '\1_small.\2'
 
-          next if File.exists? small_img and File.mtime(small_img) >= File.mtime(img)
+          next if File.exist? small_img and File.mtime(small_img) >= File.mtime(img)
 
           puts "resizing #{img}..."
           system "convert -resize '400' #{img} #{small_img}"
